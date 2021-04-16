@@ -1,0 +1,720 @@
+How might I create a wallet on behalf of newbie's, then handoff securely, to help them get started quickly with Stellar?
+How to sign TransactionEnvelope and post TransactionEnvelope to Horizon Server using Stellar Java SDK
+Problem with bridge-server ERRO[0062] seen every 60 sec
+Should an address be restricted from sending unlimited XLM to itself?
+What does it mean with "surge pricing in effect" at Stellar-Core?
+How to get trust limit of asset?
+Making offer gives error: TypeError: opts.selling.toXDRObject is not a function
+How do I see trustline subentries in an account?
+Order doesn't match in Stellar
+preAuthTx - matching transactions
+Issue with Submit Transaction
+Cannot transfer money on standalone network
+How should federation servers find each other?
+Bonds on Stellar, can we make a use case?
+Core full catchup time to completion
+Can different assets on Stellar be associated with one another programmatically?
+Balance of sender is not updating when send custom assets to receiver
+Info on metrics
+What is the proper way to use federated addresses to send funds?
+Good methods for Stress Test to prevent tx_bad_seq?
+Bifrost not updating events after ether sent to address warning error thrown
+Simple Transaction Issue
+How do I verify an asset that I've created on the Stellar Transaction builder?
+Unable to save data using Horizon on private testnet
+Getting the 'offerId' on a new Offer and any documentation on 'xdr.ManageOfferOp'?
+Can't close server stream
+When issuing a new verified asset is there anything beyond hosting a stellar.toml file I should be sure to do?
+How can I direct stellar laboratory to my own instance of horizon?
+How to use MANUAL_CLOSE in core config?
+Trades stream setup
+How does the Stellar Network prevent an actor with small quorum intersection from halting the network
+How to extract the public address from the private seed in python?
+Stellar Horizon not synchronizing
+Stellar failure safety with UNSAFE_QUORUM false
+java sdk leaking threads; my fault or bug?
+Private Testnet 404 issue
+How to serialize, send over network, deserialize a transaction envelope for multiple signatures?
+How to add a signature using Ledger Nano
+Should Every Node Contain The Same Quorum Set Configuration?
+Python Stellar SDK Test Net
+When do validators know to push the data from the latest ledger to archive nodes?
+Paying with XLM for Stellar tech help
+Browsing Stellar's history archive
+How to remove 2FA from launch.stellar.org login
+Bifrost JS Listener
+How to verify a Transaction?
+How to get a transaction records within a day
+operation bump sequence status
+TX_BAD_AUTH_EXTRA at submiting a transaction
+Adding a custom stellar token to other exchanges
+For 'txBadSeq', when is tx_fee charged?
+What happens to trustline to account that has been merged?
+Where is an accurate source for XLM to USD exchange rate?
+Freezing assets in Stellar
+ELI5: The XDR format
+Is it possible to have several issuers of an Asset?
+Can somebody explain pricing like I'm 5?
+What can cause horizon to have incomplete data?
+How do I retrieve the source account, memo, and amount using python?
+Error trying to use stellar-sdk in the browser
+HTTP end point error while try to run in Testnet port
+Convert XDR to text
+Setting Data with the Go SDK
+How to sign the XDR transaction envelop and and post it through java sdk?
+Horizon import failed (Integer type error?)
+What is HorizonRequestError error 11?
+Testnet vs. Public Net specific Federation Servers
+When A sends a signed transaction to B, is the data operation visible in the transaction ?
+What's networkPassphrase used for?
+Account address string length always 56?
+Are federated Stellar Addresses (username*domain.tld) universally supported?
+Do I need to run Stellar-core and horizon to conduct crowdsale?
+Constant retry to publish queued checkpoints
+How could I distinguish contributors on crowdsale?
+Is it possible to fully sync Stellar node without history archive access?
+How do I construct The Horizon postgresql string to connect to a unix socket
+Stellar Bridge not POSTing callbacks with mac_key configured
+Bifrost gives Internal server error 500
+Where can I find history files structure (transactions and ledger files specifically)?
+Which C# SDK is suitable for development , Quantoz or Elucidsoft?
+Amount in XDR is negative. Why?
+Bifrost Ethereum Addresses
+Which wallets are supporting SEP-0007
+Why are overspending transactions added to the ledger?
+Exit Stellar app on Ledger Nano S
+Stellar port verification still not sure why it’s not verified?
+Horizon gives 504 after firing many transactions
+Messaging over Stellar - Is that right to do?
+How can I create a FIAT credit directly from a bank account?
+How to decode XDR of the result_xdr
+Stellar Bridge doesn't receive transactions with non native assets
+List All Un-authrorized Truslines
+How return a state after sumbit a transaction [JavaScript]
+Master key weight set to 0
+The operation couldn’t be completed. stellarsdk.StellarSDKError error 0
+How can I create a real account using the stellar Horizon API?
+Question about 'extra_memo' field in the Bridge Server for the Compliance Protocol
+What to do about the rate limit exceeded problem?
+Stellar Federation Address "not found or invalid"
+Fill or Kill (FOK) offers on Stellar?
+Setting Expiration Time for Offers on Stellar?
+Streaming API not working?
+Best way to test maximum possible TPS on private network?
+Question on offers on Distributed Exchange
+Could not complete "horizon db init" exec failed: pq: unrecognized configuration parameter "lock_timeout"
+Bifrost is NOT listening to incoming transaction
+stellar core docker address in use
+Internal error on trades API
+Trusting non-native asset distribution
+How multisignature in a transaction can be implemented?
+Questions about SCP and federated voting steps, with a focus on the Internet-Draft
+stellar docker and nginx reverse proxy
+How to get Transaction amount from API?
+Merge account holding custom assets of same issuerer
+Where can i find info on the meaning of each metric of the core?
+Transaction, Operations, and Payments
+Securing Stellar node
+Stream stop get new data when finishing fetch all data and new payment was created
+How was the first stellar account created?
+How to initialize the blockchain?
+FATAL when switching from test network to public network on stellar-core
+Python vs Java(script) for stellar apps. Is it worth learning a new language?
+How to identify unique token in an asset?
+Is there a way to get a list of payments on account along with the transaction memo?
+How should I retrieve a BTC asset from NaoBTC?
+What is asymptotic security and why does Stellar, but not POW exhibit this?
+Why does the high level threshold level for quorum have to be above 66%?
+How to setup time bounds for an escrow account?
+Can the Horizon Server be hacked?
+Bifrost not receiving events when connected to the Ropsten network
+Account information at a given ledger number
+Collect funds from bifrost after an ICO
+Unable to set optional 'Source Account' on 'Manage Data' operation
+Is it possible to delete assets I've just created?
+How to use stellar define a ERC721 like asset
+How to query transaction history of a special kind of asset
+Horizon waiting for Stellar-core to sync
+How a new created token to be listed on Stellarterm directory?
+Is the Stellar Consensus Protocol paper peer reviewed?
+How to move assets from one account to another account?
+How can I encode transaction specific information on the ledger, after it has been made?
+Error in transaction creation
+TX_BAD_AUTH, no idea why
+How to check if a custom currency cannot longer be issued
+Stellar: How to pay the account using custom asset?
+How can I validate a Stellar address?
+How to check Trustline Authorized Flag?
+Smart contract Signing agent
+Who hosts and maintains Stellar Horizon server?
+Is there a minimal implementation of Stellar Consensus Protocol besides stellar-core?
+How does node discovery work?
+Do I recover my .5 lumens when changing trust to delete a trustline?
+Java SDK: Transaction object from envelope
+Freezing unauthorized tokens
+Why does the first ledgers xdr file contains only 63 ledgers?
+Do sequential secret seeds create a security risk?
+How do I generate an xPub using stellar SDK?
+Nominate --> Prepare --> Commit --> Externalize question
+Can you create an account with a non-native asset
+How do you join the Stellar Slack channel
+Creating an intermediate token on Stellar
+Can't see the history of an account that paid me
+Compliance Server Request
+How does Java parse XDR information?
+Can I do a multi recipient transaction for a custom token?
+Submitting many transactions in Node.js Error 400
+Stellar logs are getting bigger and bigger
+Ledger Blue and Ledger Live
+Is it possible to retrieve last N transactions or all transactions since a given timestamp?
+Stellar Validators, Transaction fees, Inflation fees.
+(Dup for different SDK) How can I build a transaction with a dynamic list of mutators or operations using the JS SDK?
+Why is the memo hash different from the one I specify during tx building?
+using stellar-sdk in angular
+Secured ways to check if a node is up working?
+(SCP) When does a node get its higher-layer software's input?
+Trading error 400, what's the problem?
+How to get status of historical ledgers synced after setting CATCHUP_COMPLETE=true
+How do I locally manage sequence no of an account?
+Why do stellar transactions require a sequence number?
+Expected behavior of omitting path attribute in Path Payment
+Difference between Stellar Ledger and Blocks
+Effects of a stellar-core node running on too slow hardware?
+Bifrost for altcoins?
+How to compute for fees in multi currency transaction
+Get the operation record of a payment
+Error when including 2 deps that both have stellar-base as a subdependency
+How to find cursor of a specific timestamp?
+Help - why can’t I synch stellar core?
+Check wallet balance via API
+How does a node discover the quorums that it is in?
+MEMO N/A after submitting to bridge endpoint /builder
+Federation server installer
+How do I get the public keys from a transaction javascript
+How to sign transaction offline with go sdk?
+Notify every new ledger
+SCP. Does non-intersecting quorums have different ledgers?
+How many Lumens would I have to get in order to create a custom token?
+Testnet vs Livenet addresses
+How Do I "distribute" multiple times?
+Muliti Signature with hash(x) in goLang SDK
+Testing Stellar for high volume of operations per second
+Asset not verified
+Order of trade executions inside the last closed ledger
+Federation Database Setup
+Is there a library for stellar equivalent to web3js for Ethereum?
+Pruning and keeping disk usage low
+minTime must be >= maxTime ? Java SDK
+How do you use the stellar quickstart without docker?
+Error when trying to install stellar-sdk from npm, "LINK : fatal error LNK1181: cannot open input file 'C:\OpenSSL-Win64\lib\libe ay32.lib'"
+Is it possible to make a request to an account other than "Friendbot" to receive Lumens?
+Federation Server Error 1054: Unknown column 'domain' in 'where clause'
+create a stellar application without installing stellar core in local system
+Why is XLM considered to be the most liquid asset on the stellar network?
+Problems creating a payment
+How the transaction history of an account including the amounts sent/received in the transaction be viewed using horizon?
+TimeBounds won't execute?
+How to use the Stellar SDK API Reference?
+KELP cannot find package...build failed
+How a new node trusts another node in the network
+Lost ledger data: what is the proper way to shutdown and restart a node?
+How does the Stellar protocol ensure a network doesn't have disjoint quorums?
+How should the changeTrust Operation be used?
+Compliance Setup Configuration
+Asset with limited inflation
+Is a payment returned through horizon api call: "Payments for Account" always "confirmed"?
+How can I set the value of the ID parameter in Compliance API POST :internal_port/send?
+Is it possible to submit transactions to Stellar Core directly without Horizon?
+Looking for Stellar Bifrost developers for setting up BiFrost properly
+Upgrading core protocol version (docker quickstart, standalone)
+Is Horizon semi-centralized?
+A complete catchup of the testnet keeps failing on verifying ledger
+How to let users decide between transactions
+tx_too_early / Timebounds use
+Can we encrypt stellar memo text with receiver's public key and sender's private key?
+Horizon Error 6
+Can we add more fields on stellar?
+Dynamic amount of operation
+What is the syntax of the 'tx' (transaction) command, to execute a transaction?
+Catching up stellar-core ledger can't be synched
+Distinction between signers.key and signers.public_key in Account response
+Need a federation sever if the business is using a single deposit address?
+Stellar TimeLock for Birthday Gift
+Where is the '.well-known' folder located?
+What is an easy way to create a transaction on multiple wallets at once?
+What's the business model for being an anchor?
+How can I take money from a customer's account?
+aws architecture recommendations for stellar
+Random crash upon calling KeyPair.random() on android
+get Transaction object from xdr base64 string
+Why does this SSE stream go stale?
+How to Build transaction XDR before sign it
+Is Stellar platform a blockchain?
+How to implement OTC trading of Stellar assets?
+How does stellar get the information from a stellar.toml?
+Verifying a transaction
+How do you access horizon on a web browser?
+How to resolve 500 Internal Server Error on /transactions/<hash>/operations?
+Retrieving operations for a transaction unexpectedly slow?
+compliance server error when trying to access stellar.toml file
+paymentsRequest.stream
+Legal Question before going live
+Difference Between Horizon Commands
+Key pairs don't match?
+Backfilling nodes that have ledger gaps
+Error while transaction submission in the private network
+Do Stellarterm and Stellarport recognise some or none of the federated addresses?
+Core breaks after upgrade to 10.0.0
+Where should the stellar-core root account seed be stored?
+Encrypting message gives error : throw new TypeError('unexpected type ' + t + ', use Uint8Array');
+How to derive a number of open Offers for a transaction set that hasn't been fully submitted to the network yet
+What are the http status codes for unsupported federation query
+Using Stellar for a non-financial private network
+Horizon Database Size / Are there very large indexes (yet)?
+Is it possible to set up a virtual machine(like evm for smart contracts ) using stellar consensus protocol?
+Stellar address prefix bitwise operator rationale
+Is there a way to watch for balance?
+How can I actually use the js-stellar-sdk?
+Stellar-core performance and resource usage
+Enable https for horizon in the docker-stellar-core-horizon quickstart template
+Updating `stellar.toml` contents
+How can cyclic quorum ever come to a consensus?
+Does stellar takes fee for resolving a federated address?
+Who creates the ballot?
+Problem installing bitbucket.org/ww/goautoneg for Stellar go using dep ensure -v
+ManageOfferOperation - Not taking the price I set
+Does each node maintain a global ledger?
+Stellar Java SDK: Retrieve Account Data
+Can't continue stellar-core sync. Stuck in Joining SCP
+Docker image installation private network detailed instructions
+Is there any way of knowing total transactions count (pagination)?
+Channel concept in stellar
+hash(x) signer in lightning network
+What does this mean: "Ledger N (hash) closed and could NOT be fully validated by validator"
+Horizon returns 404 when trying to query accounts/{ID}/payments
+Stellar Core node is typically behind SDF by 20 to 100 ledgers
+Dropping peer, but peer seems to be fine
+Are federations servers connected with each other directly?
+Stellar standalone and network fees
+How to create and fund a stellar account on live network?
+History buckets not found in history.stellar.org
+How can I do asymmetric encryption and decryption?
+What is a trigger ledger?
+How to access AssetResponse properties of a newly created asset? C# or Java
+Seeing and using multiple order books on an asset?
+Best practices for Stellar core settings KNOWN_PEERS, PREFERRED_PEERS and PREFERRED_PEER_KEYS
+EventStream api only return new transactions
+Geting signer of a signature
+Create an account on a private stellar network
+How does account creation work?
+How does network passphrase work?
+How to cash out a currency?
+How to properly set `baseReserve` & `baseFee` to 0
+How to be a Stellar Anchor?
+Stellar Core from Source vs. Stellar Core from Container
+How to expose a Horizon URL
+Stellar all address has no data
+Could consensus period be changed?
+error accessing path: buckets/tmp
+Difference between full & basic validators
+White paper hashing clarification
+Creating an account, adding a trust line and transferring the asset in a single transaction
+Minimum account balance Changed?
+When a lower tier quorum comes to its own consensus
+How to changing port on stellarterm?
+How did the Stellar Blockchain Network start?
+Why do request with the SDK work without starting a local Node?
+Dynamic collection of signatures
+Which architecture to use for utility tokens?
+How to filter only the most recent n number of operations of an account for only a specific Asset?
+Why does the Horizon testnet API not display all of the operations of an account when queried?
+What is the minimum balance required to create a trustline between accounts?
+What happens when transaction fails to be applied?
+Do anchors need to hold lumens for converting to assets or its direct credit trusting the anchor?
+MultiSignature doubts
+How can I fund my Stellar wallet on the Test Network
+Using Stellar for Proof of Existence
+Error while submitting change trust transaction
+Kelp error placing sell orders
+How to create my own operations
+Why doesn't Stellar match the other order?
+Bridge server receive POST request does not include `request.user` when using client authentication
+What are the differences between Ripple and Stellar addresses
+What are the message size limitations of stellar consensus protocol?
+Stellar Payments: Routing Algorithm
+How can I create an account in a private network?
+Non-fungible tokens?
+How does a typical Stellar end-user distinguish between assets with same 4 or 12 digit code?
+How does the trade id relate to the effect id?
+Stellar-core failing to initialize history archives to S3
+How to add nodes to my private network?
+Fully uninstall Stellar from Ledger S
+What is done to create a stellar AccountID aside from the generated raw secret and derived pub/priv key?
+How do I add a custom PriceFeed from the SDEX exchange
+How do the AMOUNT_SPREAD parameters for the kelp balanced strategy result in profit?
+`LEDGER_MAX_TX_SIZE` and `5` seconds `EXP_LEDGER_TIMESPAN_SECONDS` gives only `20` tx per second?
+What is the difference between FAILURE_SAFETY and QUORUM_THRESHOLD?
+How to issue a dividend in Stellar?
+Why is my node not validating?
+Kelp - managing spread
+how to trace the state of a transaction after submit?
+How to check total supply of a trust-line based asset on the Stellar network?
+Using Escrow with Stellar
+How much does it cost to exchange 100 USD for EURs on Stellar Network?
+How does Kelp's balanced strategy react to the account receiving funds?
+Did Stellar's public Horizon Server Changes its rate limit?
+Steps for Horizon to Ingest Stellar-Core from ledger 1, after `horizon db clear`?
+Transaction created_at and ledger close time
+horizon not syncing
+SSL error setting up tables in stellar_bridge database
+How do I see my native asset in the stellar explorer?
+Cannot sync data from network after stop node for long time
+Encrypt some string with several Public Keys and decrypt with any of Private key?
+Convert transaction XDR to object?
+How to get account historical balances?
+What's the maximum number of signers for a given account?
+Why is amount an integer in manage_offer operation?
+How can I determine if a transaction is confirmed, pending or successful after submitting to the Stellar network?
+How Do I Get Token Rate For Accepting Payment?
+Time-based wallet in Laboratory
+How to check if a transaction went through?
+How to burn tokens with unlimited supply in Stellar?
+Encrypt with Public Key and decrypt with Private Key using elliptic-curve cryptography
+Where is the secret key for the standalone network?
+Why stellar required XLM to activate account
+Trustline for account purchasing an asset on an exchange
+How to do make the minimum XLM deposit upon account creation
+stellar-core can be controlled via the commands (No config file FILE found)
+Can "Bump Sequence" potentially lock an account?
+Best practice for issuing a new asset and locking an account
+How to decode stellar XDR
+Sharing transaction to more than one co- signers to get sign
+Why Stellar has totalCoins in every ledger header?
+How do I keep track of payments to multiple address
+Is the Horizon Testnet Currently down?
+Why are some operations missing when I query operations by account?
+Retrieving order book from Stellar Network has been blocked by Cloudflare
+What is "Account ID" in Stellar terms?
+I found ID of account merge and the lumens are missing
+How do I verify the sender balance is not more than sending amount (Stellar Compliance)
+How to remove Stellar local node setup completely?
+How to carry out compliance for transactions between customers using single compliance server?
+transaction is not submitting on stellar network!
+Subscribing to incoming transaction does not work
+Perpetual preemption attack
+How to keep account balance up to date in wallet app
+Getting error on direct http tx call to stellar core
+How to create Mintable tokens on Stellar network?
+Is it possible to change the asset issuer?
+How much does it cost to issue my own custom token on Stellar?
+How do I install Stellar-core?
+Is it possible to create a set of wallets with mutual trustlines for an asset that I issue?
+Managing stellar customer accounts via federation and memo field, good practices?
+Using S3 as Archive for Standalone Node
+horizon orderbook calls using py-stellar-base
+is it possible to perform multiple payment operation in single transaction?
+Canceling the transaction
+How to do Multiple ICO for an Asset with KYC support?
+Path payment accounting
+Transaction Stream parameter and method not recognized
+Multi-sign transaction is not working
+Why do we receive an undefined Event error when streaming payments via the node.js sdk?
+Is the seed stored inside the database associated with the core?
+How to prevent users from burning custom tokens?
+Not able to sign the transaction
+Can a transaction be successful in a 2-node private Stellar Network?
+Multi-Sign Withdraw payment
+Payment operation listener firing off multiple times for single operation
+What are the good configurations for having a running cluster of 3 nodes?
+How can i decode and get relevant data from envelope_xdr
+monitoring stellar
+From where is the transaction fee for a custom token (build on Stellar) that is charged by Stellar Network?
+Send Lumens and receive custom tokens in a single transaction?
+Horizon API not showing history of ledger
+Why do transactions sent by a channel account do not appear in the operations history for the source account?
+Testing custom asset with trustlines that must be allowed - can't send tokens from distribution account
+Error "missing path" while running 'gulp test' in js-stellar-base
+Token units in whole number
+Extra 0 byte at end of MemoText String
+How can i get the base reserve for stellar?
+XLM historical price API
+How can I fund a wallet on dev.stellarx?
+How do you explain variation in ledger close times?
+Can you view transactions that are queued up for the next ledger?
+What is the maximum tps achievable by Stellar?
+Getting error "XDR Write Error: undefined is not a Hyper" when trying to create XDR for custom operation
+Own stellar horizon is not showing data prior to own instance launch date
+Who can become an anchor and how are compliance fields validated?
+How to extract transaction hash out of XDR using Java Script?
+How much should I pay nodes?
+Getting transactions history for account
+Using QR code on my stellar account with memo
+Issuing new token in an ICO, is there any option to transfer some percentage of tokens to some other stellar account?
+What is the default inflation destination of my account?
+Stellar Java Sdk key validation?
+Does Stellar Laboratory query the DB, when it tries to get the Sequence Number?
+What are "LedgerEntry objects" and "Asset pairs" in relation to Stellar Core Configuration?
+How does Stellar manage to cut the cost of remittances?
+How should one decide how many and which nodes to select in the quorum set when configuring a Stellar Core Node
+Stellar-Core won't sync anymore: "Replay failed: mismatched ledger hash"
+Change stellar quickstart docker from ephemeral to persistent without shutting it down
+Role of Anchors and real peer-to-peer
+Limiting the size of local buckets on the core
+Chaining transactions
+How to tell if sequence number has been incremented from transaction post response
+Timeout after 6000ms after submitting a transaction
+Main account for our exchange
+Force transaction to be with memo ID
+Receiving ETIMEOUT 104.20.58.10:443 error when request to `horizon.stellar.org`
+Stellar Blockexplorer API call for looking up exact amount transferred
+How do I just get specific fields when displaying transactions for a given account?
+Get all accounts and sort by balance
+how to transfer XLM from licensed Exchanges to inactive account?
+If stellar-core maintains the data, how to view the deleted data
+Deprecated Commands in Core 10.1.0?
+How to pass in a different config file when running a stellar quickstart docker container?
+Create Multiple Trustlines Upon Account Creation
+Do transactions store information on when they were created?
+Payment to inactive account
+Understanding the flow of stellar with federation server
+Merging account ACCOUNT_MERGE_DEST_FULL error case
+Setting the network interface for core?
+History configuration? (404s)
+Threshold - Transaction processing meaning?
+Trades end point not working
+(SOLVED) - Error when sending money (C++ QT SDK)
+Testnet vs Livenet differences for ManageData Op
+Issue during Stellar core setup
+Facing issue while syncing nodes when CATCHUP_COMPLETE flag is set to true
+Problem of implementation of Path Payment in a Wallet?
+Send payment issue
+Getting an old build and set up stellar core
+Which uses more server resources, Horizon or Core? And is more CPU or RAM intensive?
+How does a stellar node know that node its communicating with is definitively in or outside its quorum group?
+horizon.stellar.org | 504: Gateway time-out errors are FREQUENT!
+Are there any publicly available horizon servers or do you always have to run your own private servers?
+How is a client determined for rate limiting? Is it some sort of client ID? based on account that pays fees?
+How to set correct hostname in Horizon?
+How stellar prevent DDoS
+Understanding how nodes catch up
+What is cause of the spike in tx_bad_seq ? Presumably overloaded stellar network
+How to correctly generate a transaction sequence number for a private Stellar network?
+Version devel while setting up horizon in local
+core binding to localhost instead of ip address
+Stellar-core not syncing on testnet after restart. Missing Buckets not being retrieved
+postgres PANI[0000] connect failed: pq: role "root" does not exist pid=13863, postgres v 9.5 - Horizon
+How to properly update stellar-xdr and recreate docker image of stellar-horizon?
+How can I close a Stellar Account?
+How do I disable rate limiting on my local Horizon server?
+I'm really confused on the rate limit... Horizon.env has just an hourly rate limit (72000 in docker image). But http headers claim it is 100/sec?
+Sent transaction with incorrect memo. Now won't deliver
+Issue while creating account
+client_name=undefined client_version=undefined in horizon logs
+Creating a stellar account and activating it
+Asset endpoint returns 404 on standalone network
+How to use Stellar to Build International Remittance app
+Are transactions validated by anchors, and how are they rewarded?
+Partial Catch-up on Validator nodes
+Partial vs Complete Catchup: what are the differences in terms of security?
+Recurring payments or subscriptions
+Nomination protocol differences between implementation and specification
+Collecting Core metrics
+How to catch specific error code on JS SDK connecting to horizon
+Is Stellar Laboratory broken? only shows my XLM balance, not my USD balance (logging in with ledger nano)
+Stellar Test Network - periodically purged?
+Anyone else seeing an error with stellar-dotnet-sdk (AccountResponse - accountId cannot be null)?
+How does Stellar-Core handle multiple archives in a secure manner?
+Friendbot url - Horizon
+Check with simple API request if account has received prior transactions
+How does stellar-notifier work?
+How to handle docker container restarts with persistent data and missing buckets
+DEX and settlement
+Should I start with docker quickstart or stellar core? Any difference?
+tx_bad_seq error when funding the account
+Stellar's Quorum Structure
+Unable to create wallet due to issuer issue
+Why can a MultiSig transaction fail on too many signers?
+Example code on Ubuntu+node.js gives error re "await"
+My stellar-core can't run on the Public
+peer's txhistory table is not updating after making payment
+If one operation is wrong then the whole transaction is wrong
+Why transaction operation "op_malformed"?
+Why in the stellar network the price for 1 transaction and 1 operation is not equal to the price for 1 transaction and 100 operation?
+Unable to get sequence number
+How to listening new XLM transaction for multiple accounts
+Framework for a hello world application
+How to interpret the output of the assets endpoint
+How to list all unique contracts on the network?
+Error: XDR Write Error: not an integer while issuing the asset in stellar network
+How to evaluate trustlines?
+How to configure Horizon response _links.href values to use https?
+What tool is used for browser interactivity?
+Preventing knock-off assets
+Is there no notion of on-chain deploy on Stellar?
+Stellar core log: idle timeout and connectHandler error: Operation aborted
+stellar-core on CentOS 7 - systemd issue
+Can an account hold multiple assets?
+Dynamic Quorum set configuration for master node - Add / Remove Validators
+Network maintenance & maintaining archive
+Could not get test funds on stellar laboratory
+Python: Retrieve Offer_id from a manage offer operation?
+Huge temporary bucket files created - and then destroyed on all cores. Is this normal?
+Memo in manageoffer
+Compliance Protocol for B2C
+How to decode Core DB Account.Signers using the stellar js-sdk
+Escrow account releases funds imediately when configuring lock-in period
+Stellar scalability to 4000 tx/s
+Token/Custom Assets Creation Documentation
+Is Operation Id unique?
+Federation servers and address binding
+How do I test out the DEX in a standalone network?
+How is the weekly inflation calculated?
+Are sponsored transactions available?
+What field should I use to get current block number
+What's (number of lumens in existence) in inflation? It needs clarification
+How to set managed data on an account
+How to configure package stellar-horizon-postgres?
+Unable to store archive in s3 bucket
+Can the docker quickstart allow me to test out "becoming an anchor"?
+Using SDF's Horizon server for Production Systems
+Do I Need to fund Stellar with Lumens for custom token based wallets too?
+Custom assets balance of sender is not updating in stellar
+What is the origin of an account's initial sequence number
+Paying with Custom Tokens
+Connecting private set of quorum of 3 nodes on stellar test network
+Can I format the TOML file to include line breaks and website links
+History Archive Configuration for Private Networks
+YAML Configuration Template Issue
+Exception while send Transaction using Java stellar SDK "TimeBounds has to be set or you must call setTimeout(TIMEOUT_INFINITE)"
+How do private network upgrades work?
+"No converter found for return value of type: class org.stellar.sdk.requests.TransactionsRequestBuilder" when getting transaction history
+Stellar_core_commander: Getting an exception trying to run "scc -r base.rb"
+SCC: why are there 2 SQL files?
+Retrieve transaction memo text with Java API
+op_cross_self - while making a new offer
+How to create an account on a private network?
+error when trying to use stellar-hd-wallet (Node.js)
+Select failed: pq: relation "signers" does not exist
+How to generate public key using SDK in salesforce?
+Does AUTO_MAINTENANCE setting clear Horizon DB?
+If stellar bridge goes down, how to retrieve previous transactions?
+How to post multiple transactions to the network without giving back the same `transaction_hash`?
+Error: Signature issues when sending XLM via Ledger Blue
+I forgot the MEMO in a transaction
+How a custom token be transferred to hard wallets?
+Error while installing stellar core
+Transaction failure when using Stellar Go SDK
+How to relaunch a Testnet node to use the new Testnet after a reset while using the Docker quickstart container?
+Submit transaction in Node js Error 400
+How to restore database after Stellar testnet reset?
+Is it possible to have multiple issuer?
+How to update the transaction fees in private network - normally it is 100 stroops
+Received an update from the Ledger team regarding Stellar withdrawl, they are claiming it is an issue with the Stellar network? Can anyone help?
+Cannot send hashed data through ManageDataOperation
+Fork stellar to create a new blockchain
+XLM to USD Path Payment - is 'op_too_few_offers' due to me being on Testnet?
+Publishing history to new history archive results in error of loading history state
+Friendbot request fails with 400 (Bad Request)
+Made few changes in stellar core file. Saved it but cannot see the changes in the new transactions i am performing
+History isnt published during catchup, why?
+Friendbot bad request (400) invalid_field: "addr"
+Technical Consulting
+the history-stale-threshold flag - what exactly happens when history is stale?
+Why doesn't bump sequence affect the sequence number of the transaction it's included in?
+Troubles Setting up Private Stellar Network
+How to configure Full Validator node?
+Trying to increase integer value of total coins for root account
+How to send Lumens to an uninitialised stellar address pragmatically
+Error getting auth data by request ID: get failed: get failed: pq: relation \"auth_data\" does not exist
+Is all the history of ledgers required for consensus?
+Algorithm to find quorum
+Why horizon cursors are so obfuscated?
+Why Does Stellar Support Authorization-Required Assets?
+How to solve "op_cant_change"?
+Bridge Message: Asset not allowed
+Inflation Destination or public address
+Inflation destination address
+I need help I forgot the memo
+When to accept different value than voted
+Why is the /paths endpoint on my custom Horizon deployment abnormally slow?
+How does "accept all assets" federated address in Lobstr work?
+Mutiple opearations in single transaction
+New node is lagging behind the old one
+Full LCL error when running private nodes
+Lumens are Locked
+What is difference between history and bucketlist?
+how to connect aws postgres in bridge.cfg
+PHP Script to return wallet balance
+Trade self-issued coins (no liquidity) on fiat exchange rates
+Why failed transactions are not shown in Horizon in any way?
+pBFT in closed 100 node setup
+Is there any valid reason *not* to set masterWeight=0 on an asset issuing account?
+When total coins will exceed beyond its storage data type
+Get Account Details Data Missing
+Validation of federation server
+Unable to sync testnet node
+Where is fee deduced from balance in the source code?
+Stop Horizon/Stellar node growing disk usage
+Two XLM accounts via Ledger
+Problem in connecting new node to the network
+Some source accounts does not exist when using Stellar laboratory with my private Stellar network
+Encoding data in transaction as only objective
+Peer getting rejected from the private network
+How can I validate a stellar address in Python?
+How to create trustline between issuer's account and receivers accounts dynamically?
+kelp on Arduino/raspberry pi
+Issue assets after certain time
+What is the mechanism of Stellar consensus protocol?
+Can I change the Path of a Stellar history archive?
+Dockerfile for Private stellar network
+Does Stellar allow the equivalent of Ethereum's transferFrom / erc20 token allowance?
+Create or recover archive from Postgres core data
+Issues in docker-bridge-server setup
+How to provide password when running horizon db migrate up command inside docker container?
+Kelp for very beginners
+Inferring operationID from get transactions stream data
+Stellar-core running in Docker container, but not inside supervisorctl. If run in supervisorctl it doesn't use the right config
+Stellar validator node
+Error in starting multiple test node
+How to find inflation allocation date and to which account inflation money got transferred
+Run core with catchup complete
+Build a payments system using Stellar
+Transition from one wallet to another
+Not able to find latest data in local test node
+SCP Safety Guarantee Question
+Getting all offers for a particular Asset (pair)
+How to fix withdrawal / deposits limits for a custom asset?
+Does weighting votes proportionally to lumens held open the door to rent capture?
+Unable to find 5 sec slot timing in code base
+How to use stellar path to send 1 USD worth of XLM from source account to destination account
+Inflation calculation rule
+How to quickstart to pubnet while install SDF package
+What is the right way to verify an off-chain transaction with golang?
+How to issue an asset of arbitary precision?
+Cant find my stellar wallet
+Network passphrase of stellar-core (Public Global Stellar Network ; September 2015) does not match Horizon configuration
+What is the correct way to unmarshal an encoded transaction for signing
+How to setup horizon reverse proxy_pass in nginx in AWS EC2?
+Error importing stellar-sdk into angular 8 project
+Stellar Beta did not transfer XLM yet charged me twice
+Is there any way to send an asset to many wallet addresses at once (batch)?
+Stellar channel implementation is giving an error "this.source.sequenceNumber is not a function"
+I withdrew my stellar 2x and it failed but Stellar wallet was withdrawn How do I get my cryto back
+version information not included when checking ./bin/kelp
+stellar withdrawal -
+Compliance server does not check receiver's sanctions after 2nd call to fetch_info
+Interacting with external apis
+stellar testnet drop my stellar core
+Is there a health status page for testnet?
+Constantly getting timeouts on code almost identical to that in the Stellar Docs
+What is hash signing default setting on Nano Ledger?
+Where to send a suggestion to rate limit testnet?
+GCPVD53G4KMVXSADSANSAW4NEXHN55SYQ5YP7HKKZDP3D43IDHZFLTA7
+How to rehydrate a transaction serialized in XDR to a transaction object that can be signed and submitted, with the JavaScript sdk?
+How to send a custom token to a exchange stellar wallet, Plz help?
+Problems upgrading my old network account to the new network
+Delay while streaming payments with GO sdk
+Stellar a viable long-term solution to use on my site?
+How to clean up PostgreSQL database safely?
+Exchanging fiat tether on SDEX
+Stuck in "Joining SCP" state with info “Lost track of consensus”

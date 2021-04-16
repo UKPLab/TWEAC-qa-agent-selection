@@ -1,0 +1,270 @@
+Can a Turing machine simulate a quantum computer?
+Is it possible for an encryption method to exist which is impossible to crack, even using quantum computers?
+How do the probabilities of each state change after a transformation of a quantum gate?
+Simulating a system inside a system
+How is quantum cryptography different from cryptography used nowadays?
+Does quantum computing have an essential advantage in analyzing/controlling chaotic systems?
+Are there emulators for quantum computers?
+Can we synthesize quantum many body systems with quantum computers quickly in the general case?
+Quantum entanglement for faster-than-light (FTL) network communication?
+Can a quantum computer simulate a normal computer?
+What level of "confidence" of the result from a quantum computer is possible?
+What cryogenic systems are suitable for superconducting qubits?
+How much faster is “D-Wave Two” compared to its predecessor?
+How much memory is required to simulate a 48-qubit circuit?
+Blind quantum computing — generic structure variable selection
+State produced by spontaneous parametric down-conversion (SPDC)
+How to make qubits more stable towards noise?
+How to get started with the Alibaba Cloud Quantum Computing Service?
+When will we know that quantum supremacy has been reached?
+What exactly is meant by "noise" in the following context?
+What is postselection in quantum computing?
+What are the models of quantum computation?
+Which quantum error correction code has the highest threshold (as proven at the time of writing this)?
+How does bra-ket notation work?
+Is error correction necessary?
+Why must quantum computers be kept near absolute zero?
+What is the difference between a qubit and classical bit?
+What protocols have been proposed to implement quantum RAMs?
+Why do optical quantum computers not have to be kept near absolute zero while superconducting quantum computers do?
+Are there any experimental groups currently measuring quantum contextuality?
+Why can't quantum annealing be described by a gate model?
+Level of advantage provided by annealing for traveling salesman
+If quantum gates are reversible how can they possibly perform irreversible classical AND and OR operations?
+How long does quantum annealing take to find the solution to a given problem?
+Are there problems in which quantum computers are known to provide an exponential advantage?
+If all quantum gates must be unitary, what about measurement?
+Are there any encryption suites which can be cracked by classical computers but not quantum computers?
+Advantage of quantum key distribution over post-quantum cryptography
+Purpose of using Fidelity in Randomised Benchmarking
+Building a quantum computer in simulation
+Is there proof that the D-wave (one) is a quantum computer and is effective?
+How is the oracle in Grover's search algorithm implemented?
+How does Fourier sampling actually work (and solve the parity problem)?
+Dependency of architecture on hardware
+How to compactly represent multiple qubit states?
+Why is it important to eliminate the garbage qubits?
+Is the common Computer Science usage of 'ignoring constants' useful when comparing classical computing with quantum computing?
+State of the art in quantum memory
+How does magic state distillation overhead scale compare to quantum advantages?
+How does measurement of one qubit affect the others?
+Is there any potential application of quantum computers in machine learning or AI?
+How does approximating gates via universal gates scale with the length of the computation?
+What makes quantum computations different from randomized classical computations?
+What are the implications of Bremermann's limit for quantum computing?
+New algorithm for faster QC simulation by IBM
+What is the leading edge technology for creating a quantum computer with the fewest errors?
+Is the universe indistinguishable from a giant quantum computer?
+Who invented quantum computing?
+How does evolving a two-qubit state through a CNOT gate entangle them?
+Can quantum computers handle 'big' data?
+There was an error in the circuit!. Error = 'QISkit Time Out'
+How should different quantum computing devices be compared?
+How are quantum gates realised, in terms of the dynamic?
+What are some popular myths or common misconceptions about quantum computing?
+What can we learn from 'quantum bogosort'?
+How to explain in layman’s terms the significance of the difference of qubits of the D-Wave and IBM QX?
+Can quantum computers design quantum computers autonomously better than other methods?
+What is the current state of the art in quantum sorting algorithms?
+How are quantum gates implemented in reality?
+What is the mathematical justification for the "universality" of the universal set of quantum gates (CNOT, H, Z, X and π/8)?
+How does a quantum computer do basic math at the hardware level?
+Who built the first quantum computer using at least two qubits?
+Representation of real numbers in quantum computers
+Symmetry of tensor product w.r.t. Vazirani 2-qubit video
+Quantum Bitcoin Subdivision
+Quantum memory assisting classical memory
+Improving probability of spontaneous parametric down conversion
+Does Barkhausen noise affect the measurement of magnetic particle based qubits?
+Why do classical bits perform calculations at a scale that expands linearly and qubits at exponential scale in the number of (qu)bits?
+Given a decomposition for a unitary $U$, how do you decompose the corresponding controlled unitary gate $C(U)$?
+Can classical algorithms be improved by using quantum simulation as an intermediary step?
+Why do error correction protocols only work when the error rates are already significantly low to begin with?
+Why is a quantum computer in some ways more powerful than a nondeterministic Turing machine?
+Which theoretical models for quantum computing are polynomial-time equivalent?
+Will post quantum crypto come soon enough?
+What's the difference between a pure and mixed quantum state?
+Do real commercial quantum computers exist?
+Programming quantum computers for non-physics majors
+How can quantum decoherence be managed?
+How would Blockchain technologies change to survive a post-quantum world?
+What makes quantum computers so good at computing prime factors?
+Is there a layman's explanation for why Grover's algorithm works?
+What is the physical representation of a qubit?
+Will deep learning neural networks run on quantum computers?
+What is the computational basis?
+How to create an arbitrary state in QISKit for a local_qasm_simulator?
+How do quantum computers prevent "quantum noise"?
+Does the oracle in Grover's algorithm need to contain information about the entirety of the database?
+Scalability of ion trap quantum computers
+Is Google's 72 qubit device better than D-Wave's machines, which feature more than 2000 qubits?
+How does topological quantum computing differ from other models of quantum computing?
+Is it important for a quantum computer to be shielded by the magnetic field?
+Hardware wise, how does D-Wave achieve quantum annealing?
+What would a very simple quantum program look like?
+Rigorous security proof for Wiesner's quantum money
+Are there numerical differences between classical and quantum solutions of problems such as the Born-Jordan quantization?
+How do you write a simple program for a D-Wave device?
+What kinds of ions do trapped ion quantum computers use?
+What is the difference between superpositions and mixed states?
+Are qutrits more robust to decoherence?
+Is quantum computing limited to a superposition of only two states?
+How could Majorana particles be used to improve quantum computers?
+What countries are leading this "Global Quantum Computing Race"?
+What programming languages are available for quantum computers?
+Is there any source which tabulates quantum computing algorithms for simulating physical systems?
+Can quantum computing speed up Bayesian learning?
+How power-efficient are quantum computers?
+What impact would have introducing the quantum switch effect in classical computing?
+How can we reliably know if a key size is still safe to use as new quantum computers are created?
+How does the Curry-Howard correspondence apply to quantum programs?
+Is qsphere an actual term representing 5 qubits?
+Why D-Wave 2000Q requires such a low pressure?
+In a Quantum Turing Machine, how is the decision to move along the memory tape made?
+What is the difference between quantum control and quantum optimal control?
+Does quantum computing provide any speedup in evaluation of transcendental functions?
+Do the latest D-Wave computers use Helium compounds for cooling?
+What is the difference between signaling and non-signaling quantum correlations, and what is a signaling channel?
+Does the Curry-Howard correspondence have a quantum-specific type system?
+How are gates implemented in a continuous-variable quantum computer?
+What do double wires mean in quantum circuits, and how do they relate to if statements?
+What is the difference between transmon and Xmon qubits?
+Does quantum control allow to implement any gate?
+What is the difference between QAOA and Quantum Annealing?
+Processing density capabilities in a quantum processor
+Quantum entanglement and quantum error correction
+Why does the surface (quantum error correction) code have such a high threshold for errors?
+How to store qubits while preserving Heisenberg's uncertainty principle?
+How to compare a quantum algorithm with its classical version?
+Is there any classical analogy for quantum entanglement?
+Assessing speed-up via Quantum-Stochastic correspondence
+Can we use quantum parallelism to calculate many functions at once?
+What is the quantum circuit equivalent of a (delayed choice) quantum eraser?
+What real quantum computers are available for students to use?
+What is the difference between quantum annealing and adiabatic quantum computation models?
+What are the fundamental differences between trapped ion quantum computers and other architectures?
+Why do we use the standard gate set that we do?
+Is there any general statement about what kinds of problems can be solved more efficiently using a quantum computer?
+Do multi-qubit measurements make a difference in quantum circuits?
+What precisely is quantum annealing?
+Is there any general statement about what kinds of problems can be approximated more efficiently using a quantum computer?
+What is the most economical and preferred basis for the qudit?
+Can the analysis or design of quantum algorithms benefit from parameterised algorithmics?
+Empirical Algorithmics for Near-Term Quantum Computing
+How does the Grover diffusion operator work and why is it optimal?
+Explicit Lieb-Robinson Velocity Bounds
+What is the purpose of a quantum RAM in quantum algorithms?
+What is the argument that practical quantum computers cannot be built?
+Alternative to Bloch sphere to represent a single qubit
+What does it mean for two qubits to be entangled?
+Can one interrogate black boxes for quantum coherence?
+How can a D-Wave style Annealing QPU help sampling?
+What set of quantum logical operations can one use to benchmark spin Hamiltonians?
+Is Quantum Biocomputing ahead of us?
+How do I add 1+1 using a quantum computer?
+Significance of The Church of the Higher Hilbert space
+Consequences of SAT ∈ BQP
+How are EPR Pairs used in quantum computing?
+Quantum Algorithm SAT structure
+Compute average value of two-qubit system
+What would be the simplest addition that would make the D-Wave architecture universal?
+Requirements for Achieving a Quantum Speedup
+A sample quantum algorithm, useful for demonstrating languages
+Does quantum computing threaten blockchain?
+Good introductory material on quantum computational complexity classes
+What is the longest time a qubit has survived with 0.9999 fidelity?
+Any few-qubit versions of Lloyd's "weakly-coupled-array" quantum computing?
+Do the 'fundamental circuit elements' have a correspondence in quantum technologies?
+Entanglement transfer of spin-entangled triplet-pair states between flying qubits and stationary qubits
+Decoherence of spin-entangled triplet-pair states in the solid state: local vs delocalized vibrations
+How exactly does Simon's algorithm solve the Simon's problem?
+What is the relation between single photon qubits and squeezed light qubits?
+Can the theory of quantum computation assist in the miniaturization of transistors?
+What are the current solutions to generate entangled qubits in the solid state?
+Bernstein–Vazirani problem in book as exercise
+How do you rotate a Fock state qubit?
+Is Gil Kalai's argument against topological quantum computers sound?
+Which is the highest number factorized by QC in a non-specific experiment?
+What does quantum error correction code notation stand for?
+Simulating Clifford + few-T circuits
+Does Moore's law apply to quantum computing?
+What is quantum gate teleportation?
+How do you apply a CNOT on polarization qubits?
+Shor's algorithm caveats when $a^{r/2} =-1 \mod N$
+What is the minimum integer value to make quantum factorization to be worthwhile?
+Why is the Pauli group used for stabilizers?
+What is the difference between "code space", "code word" and "stabilizer code"?
+Local operations and classical communication (LOCC) on quantum system
+Why is the efficiency of Ekert 91 Protocol 25%?
+Is BQP only about time? Is this meaningful?
+Can quantum computing provide advantages related to Hardware-Neural Networks?
+What is the maximum separation between two entangled qubits that has been achieved experimentally?
+What happens if two separately entangled qubits are passed through a C-NOT gate?
+What is the most optimistic perspective of room-temperature solid-state QC?
+Intuition for Shor code failure probability
+Quantum computing and blockchain technology
+Upper Bounds for QMA Quantum Merlin Arthur, and QMA(k)
+Quantum simulation of environment-assisted quantum walks in photosynthetic energy transfer
+What counts as an "ancilla" qubit?
+Why or how is 'cat' state preparation via a C-not-not operation not fault tolerant?
+What is the difference between a qudit system with d=4 and a two-qubit system?
+Is it true that observing a quantum state will end the superposition of states? How can I not observe?
+In qubit/qudit terms, where is the experimental limit between S=3/2 and 2·S=1/2?
+What can I deduce about $f(x)$ if $f$ is balanced or constant?
+What does "measurement in a certain basis" mean?
+Obtaining gate $e^{-i\Delta t Z}$ from elementary gates
+What do we mean by parity of qubits?
+Passive improving of nanodiamond surfaces for NV centers?
+Use of the term "dimension" in this description of Simon's algorithm?
+What is meant by "Noisy Intermediate-Scale Quantum" (NISQ) technology?
+Can biological quantum processes be used to guide optimized quantum algorithms?
+Are there measuring standards (and units) for the identification of qubits?
+What is the difference between a qubit and a quantum state?
+What does it mean for a result of a measurement to be known/unknown?
+Markov Chain expressed in Density Matrix formalism
+Quantum Chemistry and Quantum Computing
+Quantum chemistry: references
+What exactly is a phase vector?
+Density operators and separable states
+How does using a superposition of 0 and 1 improve the processing capabilities of a quantum computer compared to classical computers?
+Active improving of nanodiamond surfaces for NV centers?
+Does a complete list of open quantum software projects exist?
+What are the real advantages of superdense coding?
+Which temperature has been the highest to achieve a quantum logic operation?
+Does a study guide exist that starts from a "purely CS background" and advances towards "making a new quantum programming language"?
+What do we mean by the notation $\lvert \mathbf{x}, 0\rangle$?
+What does the notation $\lvert \underline{x} \rangle$ mean?
+Why is it crucial that the initial Hamiltonian does not commute with the final Hamiltonian in adiabatic quantum computation?
+In Grover's Algorithm, why does the optimal number of iterations involve a floor?
+Are there results from quantum algorithms or complexity that lead to advances on the P vs NP problem?
+Accessible information of system vs system, apparatus and environment
+What precisely is Reverse Annealing?
+How to keep track of entanglements when emulating quantum computation?
+Are true Projective Measurements possible experimentally?
+Lower bound for Degenerate Codes?
+HHL algorithm, how to decide n qubits to prepare for expressing eigenvalue of A?
+Threshold and practical requirements for initial state preparation?
+How is Grover's algorithm used to estimate the mean and median of a set of numbers?
+Are there any quantum software startups?
+What is the relation between this CGI device and a quantum sorting algorithm?
+Does superdense coding allow to double the information capacity of a set of qubits?
+What is the use of Categorical quantum mechanics?
+Why can the Discrete Fourier Transform be implemented efficiently as a quantum circuit?
+What applications does Grover's Search Algorithm have?
+Is it possible to simulate a quantum computer in Virtual Reality? If yes, how?
+Confusion about random sampling of integers in Shor's algorithm
+Translation of color/toric code to a small network of solid-state spins
+Using a fractional number of classical bits within quantum teleportation
+Are there any estimates on how complexity of quantum engineering scales with size?
+What is the status of quantum computing compared with other (photonic) quantum technologies?
+Is it true to say that one qubit in an entangled state can instantaneously affect all others?
+What exactly are anyons and how are they relevant to topological quantum computing?
+Do avoided crossings / CTs /ZEFOZs optimize quantum fidelity in practice?
+Why are quantum gates unitary and not special unitary?
+Shortest sequence of universal quantum gates that correspond to a given unitary
+Entanglement distillation by local operations and post-selection using one entanglement pair
+Is the Kraus representation of a quantum channel equivalent to a unitary evolution in an enlarged space?
+Degeneracy of Quantum Error Correction Codes
+Why does job.running in QISKit output False, even if the job is still running?
+What is the status of confirming the existence of anyons?
+Devising "structured initial guesses" for random parametrized quantum circuits to avoid getting stuck in a flat plateau

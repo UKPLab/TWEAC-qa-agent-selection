@@ -1,0 +1,364 @@
+What transformations should I apply to a model to produce this 3D effect?
+Is modifying a texture (painting on it) considered a "state change"?
+Performance of vector graphics versus bitmap or raster graphics
+Is a cubic Lagrange interpolation tensor product the same as bicubic interpolation?
+Is it possible to find out how many fragments made it through the stencil test?
+Why does monte carlo ray tracing perform better than distributed ray tracing?
+Is there any way to generate primitives in a geometry shader without any input geometry?
+What is a stencil buffer?
+What subdivision algorithm advances have occurred since Catmull-Clark?
+Does the original Perlin noise ever have any advantage over Simplex noise?
+How can I debug what is being rendered to a Frame Buffer Object in OpenGL?
+Why is thread safety such a huge deal for Graphics APIs?
+When creating a JPEG, how can I minimize the occurence of artifacts?
+Why do Vertex Buffer Objects improve performance?
+What is the cost of changing state?
+Data structures for tile-based (deferred) rendering
+How is Gaussian Blur Implemented?
+What is "Scanline Racing"
+Asset creation for signed distance field rendering?
+How can I generate procedural noise on a sphere?
+When is a compute shader more efficient than a pixel shader for image filtering?
+When to disable perspective correct interpolation ( noperspective )
+How can I concentrate points in areas of higher curvature?
+What are the side effects of biasing brightness in continuous spectrum raytracing?
+What is fwidth and how does it work?
+What is the optimal radius of gaussian distribution for determining pixel colour?
+How is Depth of Field Implemented?
+Could a hexagonal pixel array store an image more efficiently?
+Is gamma still important to take into account?
+Is depth of field incongruous in a 3D still image?
+What is the "dipole approximation" for subsurface scattering?
+Brightness and contrast VS Gamma, is it possible to identify the gamma "correction amount"?
+Algorithms for down sampling an image?
+Can I accelerate rendering an image from a ray cloud using a GPU?
+Polarising reflection and refraction for a wrap around water surface
+Modelling Young's double slit experiment
+Can I use several GPUs for a grid multi screen image?
+Is it possible to alpha blend multiple render targets using a specified alpha?
+Avoiding z-fighting with coincident surfaces
+How can I debug GLSL shaders?
+Is long term continuous use of GPGPU safe for my GPU?
+Sharing code between multiple GLSL shaders
+Do you need to use a lowpass filter before downsizing an image?
+How to do a color separation with more than 3 primary colors
+How does temporal reprojection work?
+What are some methods to render transparency in OpenGL
+How can I detect edges between different colours of the same brightness?
+Rendering fog underneath water
+Can I parallelise the scene for a raytraced image, rather than just the pixels?
+How can I raytrace a scene that does not fit into memory?
+Efficient rendering with many light sources
+Trying to implement Microfacet BRDF but my result images are wrong
+When should quaternions be used to represent rotation and scaling in 3D?
+Volumetric rendering fundamental concepts and terminology
+What is the performance tradeoff between forward and deferred rendering?
+How do I accurately compute coverage of overlapping analytical curves?
+How does state of the art real time hair rendering work?
+How to implement a trackball in OpenGL?
+How can I create a bounding volume hierarchy for constantly moving objects?
+Which effects do I need to take into account for the iris of the eye?
+How can I model distant rain?
+What is Ray Marching? Is Sphere Tracing the same thing?
+Sub-pixel antialiasing rules
+Hardware-accelerated drawing of curved shapes
+Can I determine the pixel geometry programmatically?
+Using extensions in Android OpenGL ES 2.0
+How is an ICC profile embedded or built into an image?
+Real-time translucency effect
+How can I make my ice cubes look real?
+How to render an object that recieves shadows but does not cast them in a variance shadow mapping system?
+How can I model ink dropped into still water?
+How do correlated samples influence the behavior of a Monte Carlo renderer?
+Is there a standard specification for 3D graphic representation?
+Finding a color perceptually similar to an image
+Are there common materials that aren't represented well by RGB?
+Fast antialiased line drawing
+Am I missing something for ambient occlusion?
+Why are inverse transformations applied to rays rather than forward transformations to objects?
+Speeding up convergence: am I reinventing the wheel?
+Multiple Importance Sampling with more than one light
+Overlaying graphics on particle simulation
+Are lookup textures still used for anything?
+What is "tiled" raytracing?
+Ray-based rendering terms
+How are volumetric effects handled in raytracing?
+How do shaped lights work?
+How is a light probe different than an environmental cube map?
+Matching a virtual camera to a physical camera
+Automatic generation of UV maps
+Why is the CMYK space four sided in chromaticity charts
+Different types of Gaussian blur?
+Non Real Time Raytracing
+How to build a decent lens/camera objective model for path tracing?
+Why is it twice as expensive to make a noise function that can be tiled?
+Is doing multiple Gaussian blurs the same as doing one larger blur?
+How does directional Gaussian blurring work?
+Why is this conditional in my fragment shader so slow?
+How is motion blur implemented in modern realtime renderers?
+Why is accessing textures much slower when calculating the texture coordinate in the fragment shader?
+How to reduce the number of draw calls when rendering one object multiple times?
+Why do multiple Gaussian Blurs?
+Is there an established method of approximating dust distribution on surfaces?
+Is a constant condition more costly than switching shaders?
+Is all grid based noise inevitably anisotropic?
+How is texture baking implemented?
+Multiple Lights Shading - One Pass vs Multiple Passes
+How does a 2D Fourier Transform of an image work?
+What factors affect which shader language to learn?
+Does it matter whether I learn OpenGL or Direct3D?
+Is this the correct way to implement Beer's Law?
+Determining level connectivity
+Why not calibrate all display devices to sRGB?
+Do I need to rebind uniforms or attributes when changing shader programs?
+Sharp Corners with Signed Distance Fields Fonts
+Writing to a compressed texture using a compute shader, with no extra copies
+Is there a way to achieve the look of a distant flock or shoal without full simulation?
+Why integrate over a hemisphere (and not a sphere) to solve the rendering equation?
+Code runs differently on different hardware
+How to improve on bilateral upsampling in real time scenarios
+Should JPEG encoding take into account gamma?
+Can I raytrace gravitational lensing using only a single point source of gravity?
+Is this smaller grid for Poisson disc sampling still correct?
+Shader uniform performance
+Is it possible to render red / blue 3d from one image and a depth buffer?
+Is it good practice to use all the available texture units?
+Why is the color in the cube being weirdly swapped?
+Is there a way for me to record every shading sample for a deep texture
+Non-uniform rational B-spline (NURBS) Basics
+Image rotation using FFT
+Radiosity VS Ray tracing
+NURBS curve offset
+NURBS curve drawing
+Splitting of NURBS curves
+Are there specific techniques for generating False Radiosity in surfaces?
+When is it better to upload partial model matrices to the vertex shader?
+Albedo vs Diffuse
+How Texture Prefetch works?
+How does Texture Cache work considering multiple shader units
+How does Texture Cache work in Tile Based Rendering GPU
+Is using many texture maps bad for caching?
+NURBS knot multiplicity
+Is the demoscene a source of advancements in computer graphics?
+Is a Lambertian reflector illuminated by a smaller fraction of the incident radiation when it's tilted?
+Why is work-efficiency desired in GPU programming?
+Why is recursion forbidden in OpenCL?
+How to describe the bi-directional links for the Weiler-Atherton algorithm?
+What is "Object Space Lighting"?
+Shadow Mapping artefacts
+How to raytrace Bezier surfaces?
+What is ambient lighting?
+How is screen space ambient occlusion implemented?
+Shading: Phong vs Gouraud vs Flat
+What is ambient occlusion?
+What is occlusion?
+What are Affine Transformations?
+What is the meaning of words 'stochastic', 'temporal' in computer graphics?
+How to denoise video?
+Synchronizing successive OpenGL Compute Shader invocations
+How to produce simple 2D illustrations to accompany geometry answers?
+Changing image so it would look like through colorful glasses
+Software to compose separate models into an articulated model?
+Are there any gltf example datasets available?
+Ray Tracing with Cones: coverage, overlapping and abutting triangles
+Subpixel Rendering for a Ray Tracer
+Is colorized subpixel rendering possible?
+How is anisotropic filtering typically implemented in modern GPUs?
+How does the view-independence of radiosity increase the calculations involved?
+What is the state of art in geometric LOD in games?
+Can we use anisotropic filtering on 3D textures?
+How does mip-mapping work with non-power-of-2 textures?
+Legendre Polynomial equation in Spherical Harmonics
+How many 3D textures does OpenGL support
+What formula or algorithm can I use to draw a 3D Sphere without using OpenGL?
+What is the practical difference between 3D Graphics Engine, 3D Game Engine, 3D ........?
+Why do T-junctions in meshes result in cracks?
+Physically based rendering and ray tracing
+An introduction to Lane-Riesenfeld algorithms
+Problem with definition of BSDF and radiance
+Texture glitch when using simple pixel shader
+How many Direct/Compute/Copy Queues are meaningful?
+Is it possible to modify a console game graphics (Xbox 360)?
+What is the difference between various space-filling curves?
+Two-dimensional bounded area defined parametrically
+Does UV-mapping generate for some points of the 3D model several points in the 2D projection?
+How to make a 3D model for Unity 5
+Algorithms for scan converting b-spline and nurbs
+Does a sphere projected into 2D space always result in an ellipse?
+How to ignore rain or smaller objects movements in motion detection?
+Is there some kind of Bresenham algorithm or equivalent for scanline rendering a rotated ellipse?
+Why is the transposed inverse of the model view matrix used to transform the normal vectors?
+Why do most photorealistic renderers have similar material test scenes?
+How physically-based is the diffuse and specular distinction?
+What is the accepted method of converting shininess to roughness, and vice versa?
+How can I get a spherical visibility mask map for a point on a concave surface?
+How does hardware texture compression work?
+How could I check the correctness of my result of fluid simulation?
+What algorithm(s) are behind Google Street View's 3d mapping mode?
+GLUT OpenGL - Drawing Shapes using only GL_POINTS
+Convolution of Hemispherical Harmonics
+Why are Homogeneous Coordinates used in Computer Graphics?
+How to extract a BRDF from a shader
+Convert RGB, Hex or any other color format to "Standard Color" Programmatically
+Fundamentally, how are 2D bitmaps rendered?
+What are the best ways to start graphics programming?
+CUDA cuMemcpuHtoD vs cuMemcpy2D
+Fresnel reflectance of gold: red channel greater than 1?
+Realistic rendering: which processes of the human eye and brain do I need to consider?
+How to Calculate Surface Normals for Generated Geometry
+Can the uniform id be changed from run to run on the same machine?
+Help me find out what this texture mapping technique is called
+Does PBR incur a performance penalty by design?
+What is the modern equivalent of display lists?
+How to capture rendered frames from an application and stream over network
+Do the alignement and declaration order of uniforms matter?
+Can raytracing be used to imitate the behavior of light to a higher degree?
+To what degree, if at all, can custom code be embedded in a PNG, GIF, or JPG?
+Actual vs Perceived Brightness of RGB Colour
+Measure how long a rendered frame takes to arrive on a client from the cloud
+Moires patterns despite using mipmaps
+Detect in-focus regions of an image
+Transform a point into another point
+How to combine rotation in 2 axis into one matrix
+Parametric line intersection test
+OpenGL Compute Shader generating triangle indices: How to get correct element count for glDrawElementsIndirect?
+Ray Transformation to Object Space for Motion Blur
+Can't get output from a GLSL code
+Thorough, accessible material about Fourier basis functions and Spherical Harmonics?
+Scaling models for 3D print
+What does it mean by a Constraint-based Graphics System?
+What is the basic difference between Radar Screen, CRT and Oscilloscope displays?
+Energy Conservation for Blinn-Phong BRDF
+Does prerendering actually help performance?
+Storing shadow data
+How to convert a thread ID into Screen Space Coord in an OpenGL Compute Shader?
+Pipeline to create Voronoi Meshes
+Does this type of memory-mapping for a display exist?
+Dx12 Vertex Buffer incorrect
+Screen capture of game video
+glMultiDrawArraysIndirect does not work when specifying an offset
+Is there some book about how to design a 3D math lib?
+Optimal memory access when using lookup tables on GPU?
+Incorrect instanced rendering
+How to render the wireframe of a cube without the diagonals on the faces?
+What is the difference between importance sampling and mutiple importance sampling?
+Why for perfect reflections a surface must have G2 continuity?
+MRF and Textures
+How is smooth animation accomplished?
+First quad being re-used?
+How to design something like this?
+Projected grid water horizon detail
+How does Smith multiple scattering interact with diffuse subsurface scattering?
+Is there any open code to get information about COLLADA or OBJ files?
+How correct is rendering in XYZ / linear RGB space?
+Are draw calls executed in parallel or sequentially or both?
+Does light particle loses energy when it hits something?
+DirectX 12 Constant Buffer Binding
+Earth curvature and horizon in modeling large scenes
+Blit and scroll
+Perturbed image texture implementation from renderman language
+DirectX12 CbvHeap
+How to crop with edge-detection using imagemagick
+What are forms of affine transformations?
+Javascript color extraction library
+What is the simplest way to compute principal curvature for a mesh triangle?
+Why smoothed meshes in 3D studio end up with the same number of vertices/triangles? How then can they be smoothed with the same geometry?
+What's the current state-of-the-art algorithm for ray-tracing height-fields?
+Indexing gl_TessLevelOuter[] with gl_InvocationID on a tessellation control shader
+How does function for mouse in glutMouseFunc(mouse) work in openGL?
+How to calculate matching roundness of two offset rectangles?
+Shadow rays in Raytracing
+VR and frustum culling
+After a deformation operation on polygons, how can I check for and fix inverted polys?
+Ray-triangle intersection algorithm not intersecting (C++)
+How to enhance scans of golden emboss?
+What would be the correct way to calculate saturation in this case?
+With modern fillrates and deferred rendering, is occlussion culling still relevant?
+Function to convert HSV angle to RYB angle
+ImageJ alternative for Ruby on Rails Development
+Materials for research on spherical projection
+What exact algorithm and parameters reproduce L-system plant growth figure in Algorithmic Beauty of Plants
+NURBS topology classification
+Distributed Mesh Processing with Hadoop
+Is my perspective math correct?
+Strategy for connecting 2 points without intersecting previously drawn segments of curves
+Calculate aspect ratio from 2D shape in 3D space
+How to get the transform amount from a screen vector and a direction vector?
+How to use GetViewProjMatrix().TransformVector(LineDirection) in UE4?
+Project quad onto ellipse in 3D
+How can virtual texturing actually be efficient?
+World coordinates, Normalised device coordinates and device coordinates
+How much processing power does stenciling actually save?
+Draw lines angled from 0 to 2 pi in a raster grid
+Why different result when change input order in GL_LINES?
+Always rotate in the direction of mouse movement
+Draw angles lines in raster graphics using bresenham line algorithm
+There are many shading languages built on top of GLSL or HLSL - what problems do they typically solve, and what worthwhile advancements do they make?
+WebGL Omnidirectional Shadow Mapping Issue
+What does "6-separating" and "26-separating" voxelization mean?
+How many polygons in a scene can modern hardware reach while maintaining realtime, and how to get there?
+The meaning of early ray termination and front-to-back traversal in ray tracing
+Compute angles and thereby endpoints in a raster grid?
+BRDF and Spherical coordinate in ray tracing
+Sphere intersection occlusion (for hybrid raytracing)
+OpenGL compatibility, naming conventions and ARB vs EXT
+How to triangulate from a Voronoï diagram?
+Difference between rendering in OpenGL and 3D animation software
+Archimedean spiral in C++
+What is Illustrator's vector rasterization process?
+How to get polygon coordinates in screen space
+Average intensity of an gray image
+Best technique to draw overlapping colored line segments that follow the same route
+Instagram's fade effect
+Drawing a cube a million times
+Angle between two points in Cartesian coordinate system C++
+How to set the GLFW OpenGL target?
+MSI GTX 950 2GD5T triangles per second
+Ray tracing pseudocode shadow
+What is the basis of rendering light caustics?
+Please help me understand what happens as an image is faded to black in order to time-step particle fading
+How is spectral rendering handled?
+Finding the angle of any side of a polygon
+Injecting Virtual point lights into 3D Grid
+Projecting light shapes
+How does a computer upscale 1024x768 resolution to 1920x1080?
+How to map square texture to triangle?
+What are the usages of software rasterization in modern game engines?
+Multiple light pixel Shader in GLSL
+What is the state-of-the-art on using computers to "clean-up" images?
+OpenGL vertex color
+How to implement a realtime 2D light renderer with fog/colored light on the GPU?
+Flat shading for non-planar polygons
+How should I generate the view position for a light at infinity when creating depth maps?
+How to make double working in OpenGL 4.1 on OS X ( Intel HD Graphics 5000 )?
+Selecting pixels within a circle having a decimal (non integer) radius
+Spine. What is the name of the process?
+How should I fill a shape consisting of Bezier curves and straight lines?
+Shader won't work
+Methods for grid traversal in a glsl pixel shader?
+Problems in using cox regression with restricted cubic spline plot with R software
+What does "muted" mean in the context of color?
+Shadow map projection issue
+Outcodes in Cohen-Sutherland Clipping Algorithm
+Per Vertex Computation in OpenGL Tesselation
+Is back-face culling considered a technique/optimization of ray tracing?
+using importance sampling to reduce the error of outscattered radiance
+Reasons of the assumptions for the microfacet distribution function?
+Ray tracing - BRDF using Cornell measured spectral data
+Slide a rectangle along a sphere
+Why is rotating this prism in iOS Metal not rendering correctly?
+Is it possible to create minimal glTF files with vertex and index buffers?
+Low Pass filtering
+Shadow appears to be too dark in my ray tracer
+How enlarge parts of a video like snapchat lens filter
+Optimise drawing contour maps representing gravity
+Ray tracing - tangent space for a point on a sphere
+GPU Architecture: What are the theoretical limits on triangle throughput in modern GPUs?
+Is there a way to script image creation?
+How is Raster and Random Scan Display different?
+How updating a depth buffer works in GPU?
+GDDR5 vs. DDR3 for learning GPU programming on a limited budget?
+What makes a good permutation table?
+Type conversion to GL-types
+How to create a patterned object with variable pattern density in real-time?
+reconstruction drawing sequence from video

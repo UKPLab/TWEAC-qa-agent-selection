@@ -1,0 +1,20 @@
+{
+  "es_url": "localhost:9200",
+  "index_name": "INDEXNAME",
+  "k": [10, 50, 100, 500, 1000],
+  "weighting": ["score", "uniform"],
+  "out_dir": "PATH_TO/results/es_classifier",
+  "base_path": "PATH_TO/data/stackexchange/dev",
+  "agents": {
+    "cooking": "cooking.stackexchange.com.txt",
+    "bicycles": "bicycles.stackexchange.com.txt",
+    "music": "music.stackexchange.com.txt",
+    "math": "math.stackexchange.com.txt",
+    "superuser": "superuser.com.txt",
+    "puzzling": "puzzling.stackexchange.com.txt",
+    "hinduism": "hinduism.stackexchange.com.txt",
+    "movies": "movies.stackexchange.com.txt",
+    "english": "english.stackexchange.com.txt",
+    "travel": "travel.stackexchange.com.txt"
+  }
+}

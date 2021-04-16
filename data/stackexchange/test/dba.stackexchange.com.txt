@@ -1,0 +1,2000 @@
+What are the main differences between InnoDB and MyISAM?
+How can a group track database schema changes?
+What is an effective way of labeling columns in a database?
+What are the differences between NoSQL and a traditional RDBMS?
+What is the difference between PostgreSQL 9.0 Replication and Slony-I?
+When is the right time to use MariaDB instead of MySQL, and Why?
+How can I optimize a mysqldump of a large database?
+Is it possible to use SQLite as a client-server database?
+Where are some useful SQL puzzles to teach SQL in a workplace?
+Is there a good way to run a trigger for each record in a postgres table?
+Fast database for a small microcontroller
+Where can I find the mysql slow log?
+Are there any MySQL Benchmarking tools?
+How to create a conditional index in MySQL?
+What does "index" mean on RDBMSs?
+Downgrading from SQL Server 2008 to 2005
+Traversing tree-like data in a relational database using SQL
+CouchDB vs MongoDB
+What are the performance implications of polymodels versus normal Bigtable models in Google App Engine?
+In Google App Engine, what is the most effective many-to-many join model?
+How to determine if an Index is required or necessary
+When to use NULL and when to use an empty string?
+How to structure a model to properly and efficiently represent tree-like data on relational databases?
+NULL or NOT NULL by default?
+Is there a "best-practices" type process for developers to follow for database changes?
+Biological Sequences of UniProt in PostgreSQL
+How much "Padding" do I put on my indexes?
+Limits of SQLite 
+Normalization Exercise Resources
+How can I query names using regular expressions?
+How to find the latest SQL statements within the database?
+Comfortable sqlplus interface?
+ORDER BY using custom priorities for text columns
+Mnesia: advantages and differences
+Oracle Support Tips & Tricks
+Alternative Database Tools for Web Admin
+MySQL LDAP authentication
+What does the output of a JOIN statement look like?
+Securing DB passwords
+How can I change the default storage engine in phpmyadmin?
+Using CoreData on a client-side application
+How to log data changes in Access at the table level?
+Do higher normalized forms always meet the criteria of lower ones?
+Get and Put performance testing on Google BigTables (and other integrated DBs)
+What are some ways to implement a many-to-many relationship in a data warehouse?
+What's the maximum number of tables that can be referenced in a query in MySQL?
+What are the main causes of deadlocks and can they be prevented?
+Do stored procedures prevent SQL injection?
+How should deletions be handled in the database?
+How can I use an ETL?
+When should I use a unique constraint instead of a unique index?
+Are there tools for SQL-Server helping to add the semicolons?
+How do you test for race conditions in a database?
+Database backups in Oracle - Export the database or use other tools?
+What is the difference between an INNER  JOIN and an OUTER JOIN ?
+What does HSJOIN mean in an Explain Plan?
+Best practices for connecting DBs that are in different geographical regions
+Can Oracle be installed on Windows without being an administrator?
+Is there a way to allow a proxy connection to use passed authentication in a public database link?
+For a MySQL query, how do you determine physical and logical I/O?
+How can I move a database from one server to another?
+Can a Wallet be used with SQL Developer? How?
+Best practices to run time offset delayed replication
+How to connect to another db using stored procedures?
+How to create multiple entries on index based on the fields of one row?
+books for aspiring DBA
+How do you tune MySQL for a heavy InnoDB workload?
+What are the pros and cons of using the Sphinx Storage Engine?
+how did you become a DBA?
+Do I need separate indexes for each type of query, or will one multi-column index work?
+Is there a way to measure replication lag in MySQL with a resolution less than 1 second?
+The Value of Certifications
+Which databases are recommended to be used as embedded databases?
+Must-read Books for DBA
+Character vs Integer primary keys
+Storing vs calculating aggregate values
+Can I activate PITR after the DB has been used
+SQL Server - How are data pages stored when using a clustered index
+Is there a performance gain by handling data with stored procedures versus feeding it into functions after retrieval?
+Which collation should I choose for a muiti-language website?
+Is there a good "rule of thumb" for translating EXPLAIN cost to (wall-clock) runtime?
+Guid vs INT - Which is better as a primary key?
+Task scheduler for SQL Server Express
+What database platform better at scaling?
+Does it make sense to use SQL Server's bracket notation in hand written code?
+How do you version your Oracle database changes?
+version controll application/system for mysql databases
+Is this a new common pattern in Oracle Where exists ( Select NULL FROM...)?
+different login credentials based on user
+Is it better to store calculated values or recalculate them on request?
+Why can't I read Oracles CLOB columns via SQL-SERVER 2008 linked server?
+Online resource for writing Access SQL statements
+Why is OS authentication considered poor security for Oracle databases?
+Where to put a database in case of IP failover?
+Security for Application Developers doing PL/SQL work in Oracle
+Code to simulate deadlock
+Speeding up conversion of MyISAM to InnoDB
+What are some important MySQL status variables to keep an eye on?
+What is the recommended RAID configuration for an Oracle database?
+Dynamic SQL in MySQL stored routines
+What are the drawbacks with using UUID or GUID as a primary key?
+Can I use OpenLDAP to authenticate users in Oracle?
+How to change SQL Server collation
+Can I change the SID of an Oracle database?
+How do I change the instance name in MS SQL 2005 without installing a new instance?
+How do I stop refresh conflicts between Proactive Caching of facts and timed refresh of Dimensions in a SQL Server Analysis Service 2005 OLAP cube?
+How do I shrink all files quickly for all databases?
+What other databases have a feature similar to Oracle's Flashback Query?
+How can a datapump export have its resource usage limited on linux?
+SQL Server 2008 log files have minimum sizes, what gives and how do I make them smaller?
+INT(5) vs SMALLINT(5): numbers in parenthesis after the numeric type
+How to get the Oracle Text Index's underlying Virtual XML Document?
+What is the impact of changing the index creation memory setting in SQL Server?
+What is the meaning of DOP in the context of SQL Server?
+What can I do to find out since which release a given DBMS supports a feature, function, etc?
+Is it common practice to mix InnoDB and MyISAM tables on same server?
+What is the difference between MySQL VARCHAR and TEXT data types?
+How can a datapump export have its resource usage limited on windows?
+Is there anybody using the SQL Server feature to create groups of stored procedures differentiated by number?
+Which database engines will allow me to GRANT/REVOKE on a specific column?
+Are there any database engines which will intuit the join condition based on the existing foreign keys?
+What is SQL Server "Denali"? What's new?
+What is the difference between sys and system accounts in Oracle databases?
+Is Oracle not suited as the database behind websites like Stackoverflow?
+What security threats does the SA account and other known account names pose to security?
+Peculiar Oracle outer join syntax case
+Performance implications of MySQL VARCHAR sizes
+Error creating foreign key from MySQL Workbench
+What is the significance of a semicolon at the end of SQL*Plus commands?
+Why does an Oracle database require both the SYSTEM and the SYSAUX tablespaces?
+How does a database use the SYS schema even when we change the password?
+How does the Oracle DUAL table work?
+How do convert a 66,862,521 row table from MyISAM to InnoDB without going offline for several hours?
+Did anybody use sqlcmd mode in practice?
+What learning resources are there for part-time DBAs?
+Can filtered indexes help improve queries that are based on a time entered or should this be avoided?
+Tool to generate large datasets of test data
+Duplicate column for faster queries?
+MS SQL Server 2008: How to improve performance after deleting transaction log file
+How to change the firing order of Triggers?
+Where should one put indexes in a time dimension table?
+What are some good resources for learning about document oriented databases?
+Information on Oracle MKSTORE utility for creating wallet
+How can I tell WHY an insert on a certain table is slow?
+Are there any professional fulltime PostgreSQL DBA's?
+When using an ORM, what are some things to watch out for in your database design
+Foreign Key violation - not sure why
+How far should you go with normalization?
+How do I list or search all the column names in my database?
+How do you document your databases?
+SQL Profiler tutorials for newbie
+MySQL CREATE statement are really slow (Mac OS X / Macport install)
+How to compare performance of two versions of a function?
+Can you "su -" in MySQL?
+How do you clear out all old query plans from within Microsoft SQL Server?
+What do you call something that's not the primary key?
+MySQL and Solid State Disks on EMC
+How to make iSQL/FreeTDS behave like a normal client?
+Is it unwise to run replication on same physical server?
+Transferring concepts - users/groups/permissions of db objects from mysql to postgresql
+Can I create index on a table in a MySQL database while in use
+Good Resources on Operating/Administering MongoDB
+How do I find out if a procedure or function exists in a mysql database?
+How can I remove locks on an object?
+BLOB on DB2 v9 on z/OS
+SSDs with Oracle
+How to return a CTE as REFCURSOR from an Oracle stored procedure?
+How can I configure PostgreSQL 9.0 to start automatically under Windows XP?
+Is "CREATE INDEX` in MySQL a Linear Operation?
+How can you stop MySQL slave from replicating changes to the 'mysql' database?
+Can't rename columns in PostgreSQL views with CREATE OR REPLACE
+One record, multiple updates in one query (MySQL)
+On a dedicated database server, how much memory to reserve for the OS?
+How do I stop/disable PITR and safely clean WAL segments?
+Unique Constraints on Nullable Columns in SQL Server 2005
+SQL Server Management Studio for a remote database
+What is a Key/Value store database?
+Does SQL Server Compact Edition 4 finally support Views?
+Randomizing table contents and storing them back in the table
+Full Plan Cache Behavior
+Passing array parameters to a stored procedure
+adding an order by to this query returns faster than without, why?
+What kind of hardware/software config should I look at for a MySQL database with 10,000 plus tables
+Where can I find database tuning exercises for learning?
+Emulate REGEXP like behaviour in DB2 SQL
+Calculating percentage of a row over total sum
+How to customize Deploy feature in VS2010 for SQL CLR projects?
+How to get rid of ORA-28002 message the password will expire within 6 days?
+Case Behavior Changed Between 11.2.0.1 and 11.2.0.2
+Building Dynamic Oracle Where Clause
+Audit logins on MySQL database
+Is the SQL Server IsShutdown property useful to determine whether a database is in a good state?
+How does MS SQL Server decide when it can use "Parallelism" when executing queries?
+Is there a reliable way to determine when you should run DBCC CLEANTABLE to reclaim space?
+How do I search to see if a MySQL user exists on the system?
+Replicating a remote MySQL database to MS SQL Server 2008
+SQL Server 2008 - Cross database performance on same physical machine and server instance
+Eliminate duplicates in ListAgg (Oracle)
+Oracle setup required for heavy-ish load
+Confirm that my.cnf file has loaded OK
+Identify which parameters were passed to a procedure (Oracle)
+Remove field from composite key and collate duplicate data
+Best way to delete very large recordset in Oracle
+What is the best query to use to monitor a SQL Server database's status?
+How can I benchmark the performance of UDFs to figure out which one is faster?
+Data transformation implementation
+Is my function nondeterministic one
+Multi-database object-oriented proxy
+What is the best query to use to monitor a SQL Server database's status?
+Is it better to store images in a BLOB or just the URL?
+SQL Server renaming table from another database
+Possible to run two DBCC INDEXDEFRAG commands simultaneously, each on a different table?
+How large is "too large" for SQL 2008 Web Edition?
+Get records between time span
+Find out what queries are causing the biggest amount of network traffic
+Can PostgreSQL tell me what configuration files it's using?
+Is there any benefit of a primary key that comprises all columns of the table?
+Why would someone put `where 1=1` in a query?
+Is there any tangible difference between a unique clustered index and a clustered primary key?
+How do I join two tables on two different instances of DB2?
+Why does this Entity Framework query perform so bad in MySQL?
+Obtaining gratis copy of the SQL specification?
+Inserting and updating and selecting at thousands of times per second
+How to connect external database to AppEngine?
+What database front end do you use?
+Is it a good idea/approach to index a VARCHAR column?
+Building Dynamic SQL-Server Where Clause
+Connection Pooling for PHP based website using Oracle 11g database
+MySQL Replication - Introduce new Slave to replication
+What is the best use of memory in MySQL?
+BLOBs or references in PostgreSQL
+What tools are there for data masking? (MySQL, Linux)
+What are database statistics, and how can I benefit from them?
+Is there any difference between Rem and -- comments for SQL*Plus?
+Is there a way to programmatically script all objects associated with a given table?
+Using SQL Profiler on a database that's in production
+Shouldn't SQL Server Support RANGE?
+What is a good way to store a large number of columns?
+Error Querying MySQL server linked to SQL Server 2008
+Connect a linked server to MS Reporting Service?
+What does TBSCAN GENROW mean in Explain Plan?
+Calling SQL Loader From SQL Plus
+Rebuilding the transaction log
+Why won't some DBMS's allow rollback for certain DDL statements?
+EXP-00085 warnings while doing full backup
+Optimize this SQL query for performance
+What is a Clustered Index?
+MySQL Error 10048 on nested Delphi Queries
+MySQL: Index when joining to tables not being used (Performance optimizing question)
+SQL Server 2005 : How to use pivot instead of a bunch of case statements?
+Detect Index Coalesce
+MySQL Table Crashed Needs Repair, but Doesn't seem to Repair?
+Changed max_allowed_packet and still receiving 'Packet Too Large' error 
+Will this Database design logic work and what should be used?
+What's the best way to track Updated By, Updated On
+What is the corresponding MySQL TimeStamp in MS SQL Server?
+Query Linked Access database on network share via SQL Job Agent
+How to restore database using old full backup and current log file
+MySQL data type for 128 bit integers
+Why do MySQL threads often show "freeing items" status when the query cache is disabled?
+Estimate large database size and speed
+How to execute SQL against all DBs on a Server
+How do I copy a table with SELECT INTO but ignore the IDENTITY property?
+Pros and Cons of SQL Server back up strategies and their appropriate usage scenarios
+What is the best way to filter or otherwise manipulate the results returned by a stored procedure?
+Unexplained InnoDB timeouts
+How to dive into an ugly database?
+Difference between Hash, Merge and Loop join?
+How do I determine if a table exists in a SQL Server database in SQL Server 2008?
+Expired archived logs not deleted from RMAN catalogue
+Storing a large number of small size entries in MySQL
+How can I configure PostgreSQL 9.0 to start automatically under Windows XP, Part II?
+What is the best way to get a random ordering?
+Resolving issue with mysql.proc after upgrading MySQL from 5.0.* to 5.1.*
+Why can't I use newid() in a user-defined table-valued function?
+How can I track database dependencies?
+Oracle Creating ER Diagrams and Data Dictionaries
+Using sys.diana and sys.pidl to parse PL/SQL
+Local package won't compile when remote package recompiles. (Oracle)
+What to do when a field in a table approaches the max signed or unsigned 32 bit integer?
+How to detect any changes to a database (DDL and DML)
+Linked Server Problem
+How do I get back some deleted records?
+How to get the MAX row
+what is the first schema checked?
+SQL Server 2000 : List and Disable all triggers
+What's a good way to add a PRIMARY KEY to a large InnoDB table?
+Using CLR User Defined Functions in SQL Server
+How to migrate data from Google AppEngine Datastore
+How different are the top DB vendor's SQL (DML-) dialects from each other?
+Concurrent INSERTs in XtraDB (InnoDB)
+google database api
+MySQL : DROP TABLE Starting with a Prefix
+How to restore multiple backups
+How can I make the audit system create new audit files if they already exist?
+How do you handle adding nullable columns to each other in a query?
+MySQL MyISAM Table Locking and Delayed Inserts for Webserver Access Logs
+Can't stop replication sp_dropdistpublisher responds "there are subscribers defined"
+Moving tables to another SQL2008 database (including indexes, triggers, etc.)
+Software Engineers and DBAs
+What problems will I get creating a database per customer?
+Impact of Redgate SQL Search on Server
+SQL Server Analysis Services - who uses them?
+Best way to sync a table between two sql server databases with an identity key
+how to implement JPA
+Are there any good database management applications for JDBC/Java databases?
+SAN Storage & Server for Oracle Replication
+Why would i get a duplicate write error of auto-generated primary key?
+Asynch Descriptor Resize explanation
+How can I SELECT an 'entry' that spans adjacent months?
+Embedding vs foreign table in one-to-one relations?
+Easy path to REST on SQL Server?
+LIKE to select the independent existence of the word whereever in the text
+Is it OK to have an entity in an ER diagram without a relationship?
+Multilingual Dictionary Database question
+Having Problems Installing 64-bit MySQL 5.5.8 x86 on OS X 10.6.6
+Fetch first 9 records and make one more record which will be as "Others" in MySQL
+Why are so many MPP solutions based on PostgreSQL instead of MySQL?
+Date alignment and pair matching extraction best done with TSQL or C#?
+What is the difference between these two create table statements?
+What is the difference between ROLE and PRIVILEGE for Oracle?
+TOP X of SQL Server in MySQL Analog
+How to differentiate between SQL and PL/SQL?
+Does separating VARCHAR values based on size have a performance gain?
+Why would  running ALTER TABLE  on a  column cause it to go from NOT NULL to NULL?
+How do I normalize and transform field text algorithmically
+How can i detect whom a person reports to using a self-referencing employee table?
+Is there any trick that allows to use Management Studio's (ver. 2008) IntelliSense feature with earlier versions of SQL Server?
+How do you approach refactoring an ugly procedure/query?
+Alternatives to an INSERT Trigger
+How to find the actual space being consumed by indexes on a table in Oracle?
+cursor: pin S wait on X in 11g
+Any reasons at all *not* to use MySQL in this scenario
+Is it okay to put dots in SQL Server database names?
+I'm performing a post-mortem on an Oracle database that's crashed its' host. Where should I begin?
+Oracle SQL - CASE in a WHERE clause
+a query that listing all rows and sizes of tables in a Database
+Research Database: Access and Ownership Policies
+Implementing a PIVOT query
+Examples of SQL transaction procedures for sales tracking or a financial database
+Question on Design for User + User Groups + User Types + Subscriptions Model
+After I kill my clients, MySQL continues to process queries for hours
+truncate table for all db in sql server 2000
+Why do we need to backup Oracle archive logs along with datafiles
+How can I disable async IO or isolate one session that slows or freezes other sessions?
+How-to implement an entity with an unknown maximum number of attributes?
+Where can I find good literature for beginners?
+Data Warehouse Creation
+Help solving a Clustering Issue: [sqsrvres] ODBC sqldriverconnect failed
+How do I replace this where clause with a join?
+Why can't I call my UDF directly? Why do I need to qualify it 3 levels deep?
+AWR Report - Tuning Database
+How do you calculate mysql max_connections variable?
+How do I rename my local SQL development server?
+Is it possible to install Developer Edition of SQL Server as the primary development server?
+Best method to give two Oracle databases on the same server access to common data
+Is the ADO.NET Entity Framework known for generating poorly performing queries?
+MySQL Database Schema for Volleyball
+What can be done, if anything, to tune a SharePoint database?
+Execute PL/SQL script block in C#
+Keeping "SQL Trace was started" and "SQL Trace stopped" from filling up my SQL logs
+How to safely change MySQL innodb variable 'innodb_log_file_size'?
+Where all can the /*+ PARALLEL */ hint be used?
+Best Setup for Database Cluster
+In Oracle, how to globally enable parallel execution?
+MySQL Config on Mac
+How do I specify that a column should be auto-incremented in pgAdmin?
+How do I get % progress for "type db.sql | mysql"
+Are there any good and free tools for managing a PostgreSQL database?
+How do I list all databases and tables using psql?
+How to take undo datafile offline ,which is in recovery mode?
+BULK INSERT - best usage
+How do I allow users to see grants, view definitions, PL/SQL, etc in a database without granting them access to change those objects
+Migrating from NTEXT to NVARCHAR(MAX)
+What is the difference between Oracle's VARCHAR and VARCHAR2 datatypes?
+What is the difference between terminating an Oracle sql statement with semicolon or with a slash on the next line?
+SQL Server 2005: Integration Services Stored Packages is empty. Why?
+SQL 2005 Full Recovery Mode Point in Time Restore w/out Backup
+Is it safe to change the Recovery Model of SSRS database ReportServer to SIMPLE?
+What is the best way to find out how many records do not have a proper phone number in SQL Server?
+How can I rewrite for SQL Server a trigger that writing for Oracle?
+Why does importing a 12 GB .sql file take more than 36 hours?
+What Mechanism does MySQL use to schedule Backups on Windows Server 2008?
+The SELECT permission was denied on the (View) object after explicit grant select on view to user
+Group data by non-unique keys by distinct time range
+Can I prevent SQL 2008 Server Management Studio's intellisense from autocompleting with the longest word?
+SELECT * WHERE VarCharColumn IN (...) Optimization
+How to design databases?
+How can I catch the output of DBMS_OUTPUT.PUT_LINE when executing a block using [Oracle.DataAccess.Client]?
+A database for digital assets
+Postgresql 8.3: Limit resource consumption per query
+How do I find PostgreSQL's data directory?
+Why do primary keys have names of their own?
+SQL Server: filegroup for system tables only?
+Problem with MySQL subquery
+PostgreSQL: SET-ing from psql arguments
+How do I query this 20 million record view faster?
+databases/tables with nonconventional names
+"Procedure: XXXX has an unresolved reference to object XXXX" errors
+How do I fix a login timout in SQL Server 2005 when using a linked server and a stored procedure called from a SQL Agent Job?
+How to Index a JOIN result of two or more tables in order to improve the performance in SQL server?
+What is the purpose of sqlbulkcopy's useinternaltransaction property?
+MySQL INNODB SELECT query hanging on copying to tmp table
+multi-table mysql query
+Is there a non-DDL way to preserve back-references when staging data into production?
+MySQL Database Schema for Train Timetables
+Powershell-type SQL Agent Job failing intermittently trying to get Disk Space on Server via WMI-query
+Illegal XML character out of the extended event
+Help with Query Tuning
+How do I implement a database/table as a stack
+Establishing Baselines & Benchmarks
+Oracle Advanced Queuing LIFO
+trying to turn XML into heirarchical SQL tables, can anyone provide a good explanation of two parts of this code example?
+Script to Monitor MySQL Replication
+Needing A Database Design Book
+How to get the current date without the time part
+Query between two related tables
+Is where x = 0 or x is null to be replaced by where isnull(x, 0) = 0 resp. where NVL(x, 0) = 0
+Are there opensource hierarchical database management systems
+SQL server 2005 backup statistic
+64-Bit OLEDB Provider for ODBC (MSDASQL) issues
+How to combine date and time to datetime in SQL Server?
+Get a list of databases that have a certain table
+What is your workflow for planning a data migration?
+How to version control PostgreSQL schema with comments?
+How wrong is my web app modeling schema?
+PostgreSQL CREATE TABLE error
+MySQL 5.5.9 Wont Start
+Read XML file in SQL Server 2008
+Net Start OracleXETNSListner
+How can I unload Oracle database tables into a csv files?
+How can I tell what recovery model my SQL database has? 
+whats best practice for Log Truncation in SQL Server?
+Getting the "ORA-00911" error when I am trying to insert more than 1 row
+Is there any tool to convert Oracle commands to MySQL?
+How to insert multiple records using XML in SQL server 2008
+How to improve InnoDB DELETE performance?
+Multiple Oracle Instances --  is this a good practice?
+How to upgrade PostgreSQL minor releases without a dump/restore?
+COUNT(*) on InnoDB whenever phpMyAdmin loads
+Where does the mysqldump command store the backed up databases?
+bcp in of datetime type data results in an "Invalid date / time format"
+SSAS Dimensions Hierarchy causes deployment errors
+Is it possible to specify Active Directory username and password in connection string?
+Is having a 92MB MDF with a 58MB LDF cobo ok? How do I manage the log to keep things running well?
+What does 'nls' in nls_date_format stand for?
+Open Source Business Intelligence/DWH solutions
+How to group a resultset by day?
+What's the most effective way to duplicate an instance on SQL 2008?
+SGA_MAX_SIZE and SGA_TARGET
+Add credentials & set a specific role for a database
+How to implement paging in an effective way?
+What are the best practices for running SQL Server in a Virtual Machine?
+How long is "too long" for MySQL Connections to sleep?
+MySQL client believes they're in a transaction, gets KILLed, wreaks havoc
+How to install SQL Server Express 2005 with Full text search
+Clarification on MySQL innodb_flush_method variable
+Is polling the only way for updating app's data from a database?
+Find Queries that Are Causing Waits
+Is 'Avoid creating a clustered index based on an incrementing key' a myth from SQL Server 2000 days?
+database duplication VS database replication
+Need database of categories for products and services
+Installing default MySQL Tables in Windows (mysql_install_db)
+How to convert primary keys into clustered primary keys for a great number of tables keeping referential identity
+Is there a free software addition to SQLite available for data-replication?
+Dates in openldap acl rules
+In a Trigger, can I determine if a column was explicitly set to a values or not mentioned in update statement?
+Updating rows conditionally with a gapless ascending value
+Is there a way to have MySQL GROUP BY utilize trailing whitespace?
+Searching for a Data Dictionary for SQL or Oracle
+Oracle monitoring db status
+IIS access log to SQL normalization
+Which fillfactor is used by ALTER INDEX REBUILD?
+Permissions Dropped after Package Failed
+Why does SQL*PLUS need a slash after CREATE TYPE?
+How can I assign different random values to each row in a SELECT statement?
+acl to allow nested groups in owner attribute
+Identity Columns or UDF that explicitly generates a unique id?
+Why are Denali sequences supposed to perform better than identity columns?
+What standard should I follow when naming tables and views?
+Optimal value for LOG_BUFFER parameter
+How to manage my own scripts
+Drop Oracle data file with 0 bytes and in offline (needs recovery) state
+Sub queries or joins?
+Best way to identify orphan data?
+How to index a many to many table most effectively
+SQL Server agent Error
+large data movement
+Can I call SMO from pure T-SQL?
+How can can I get object definitions stripped of all comments?
+Whats better: identity columns or generated unique id values?
+Is there any good tool for making Database Design and Prototypes?
+Introduce partitions into an existing non-partitioned table
+How to design a relationship database table to store friendship relationship?
+DBMS_REDEFINITION vs EXCHANGE PARTITION in oracle
+Should we use SQL Server partitions for a multi-tenant database design?
+Storing IP address
+Index vs. partition
+When to use MySQL query_cache?
+DBMS_Resource_Manager.Calibrate_IO Usage
+convert legacy showplan text into graphical format
+Are there other sites forbidding SQL developer to use c style comments?
+SQL Server performance sudden degradation
+Can I determine if a stored procedure uses dynamic sql without parsing the definition?
+How to migrate SQL Server Stored Procedures using temporary tables or table variables to Oracle?
+Are there other sites still using SQL Server with codepage 850 or codepage 437 for their sql scripts?
+Tracing, debugging and fixing Row Lock Contentions
+How to wrap long lines when SELECTing SQL text columns?
+Database model with users, roles and rights
+How do indices impact query performance?
+Determine Reason for Deadlock in MySQL
+How to insert (file) data into a PostgreSQL bytea column?
+Are relations slower than a big, inefficient table?
+Select XML values when attribute involved
+Methods of speeding up a huge DELETE FROM <table> with no clauses
+Multidimensional indices in databases
+Non-unique multicolumn foreign key
+Displaying query plans in Server Management Studio
+How do long columns impact performance and disk usage?
+Which problems arise, declaring the size of all varchar parameters as max in stored proc?
+Matching single column against multiple values without self-joining table in MySQL
+How to find corrupt page in SQL Server 2008
+SQL 2008 R2 3rd Party Peer-to-Peer Replication, Global Site Distribution
+How do I calculate values based on the previous row after skipping the first 12 rows?
+In MySQL, does the order of the columns in a WHERE clause affect query performance?
+Migration from DB2 to MySQL
+Executing same request from C# VS SSMS give different execution time
+What are reasons *not* to use the MEMORY storage engine in MySQL?
+Port number change
+ms sql differential backup size jumps
+nest SELECT in INSERT
+Breaking and Restoring a mirror
+How do you convert IBM DB2's recursive increment to MySQL version?
+Why am I not seeing any benefits of parallel execution when parallel clause is used?
+Oracle query against SQL Server database giving inconsistent results
+How to create a user with a particular user_id?
+MyISAM Performance: Join Decomposition
+Can I use dbms_redefinition with bulk data transformations for better results?
+Rebuild large Oracle 10g index with insufficient TEMP space?
+Database mirroring - Witness only
+Best way to automate running several MySQL commands
+Resources for SQL Server developer migrating to Oracle
+Specify Connection in Management Studio T-SQL Query
+Running a stored procedure across db Link
+When should I use Full-Text Search?
+How does NHibernate handle execution plan?
+An advice to design a fact table with a scd as a dimension
+User Permissions Messed Up following a Backup -> Restore Operation
+Execution Plan Basics -- Hash Match Confusion
+A Non-DBA Asks: How to Painlessly Copy/Move a SQL Server instance to another Server via Backup/Restore?
+Using a Parameter Query to generate Charts in MS Access Reports
+How do I install pgcrypto in PostgreSQL 8.4?
+Oracle materialized view refresh schedule
+Materialized views in oracle
+Can't Login to SQL Server 2008 when running single user mode
+Referencing PL/SQL variables in FOR loop
+Error moving SQL Server 2000 to SQL Server 2005 NOLOCK Error
+Why use an int as a lookup table's primary key?
+When refreshing materialised views does the index automatically refresh
+sp_WhoIsActive and get_plans -- Actual Plan?
+SQL Server DR Plan - Test Documentation
+Impact of an Asynchronous Mirror / Full Recovery Model on Performance
+Why does MySQL say I'm out of memory?
+Nonclustered index column order
+How do I make MySQL auto increment in random order?
+How do I do a complex GROUP BY in MySQL?
+How to use prepared statements within MySQL stored procedures?
+Is REINDEX dangerous?
+How do I switch off SCHEMABINDING for a view without recreating it?
+DMV Queries as Perfmon Counters
+Print Parameters in Dynamic SQL
+One MySQL user from 2 hosts not on same subnet
+Oracle AWR shows missing stats for SQL ID as top elapsed statement
+SQL Server 2008 R2 Ent trial expired move to express?
+How to check that stored procedure is valid
+SQL Server 2008 R2 Express for a single website?
+SQL: SELECT All columns except some
+Comparing two XML query plans
+In a recruiting website, should I force a choice between one table for jobseekers and employers or 2 separate tables?
+MySQL high availability, failover and replication with Latency
+Is tuning the innodb_buffer_pool_size important on Solaris ZFS?
+What is the best practice for mapping from natural keys to integer-based keys? (ETL)
+Database Mirroring Failure Reasons
+How do I Create Tablespace in Oracle 11g?
+How can I fix the Oracle syntax of this update by the result of a select in Oracle 10g?
+Import 2 column CSV files to some sort of DB.... preliminary planning
+How do I horizontally partition an oracle database table, and should I?
+Can I have create an InnoDB table without a PK? If so, would a secondary index be used as the clustered index?
+Select statement to retrieve xml output as below
+When to use XML data type
+How to convert a Top 1 subquery using outer table alias to Oracle?
+Recreate indexes and constraint when redefining table with DBMS_REDEFINITON
+Speed impact of using varchar in SQL Server 2008
+SQL server 2008 Analysis Services DSO properties
+Restore MySQL DB from its folder
+What is the most efficient way to alter a column definition in a table with millions of rows
+Redgate SQL Compare vs Visual Studio 2010 Premium/Ultimate database project
+PostgreSQL relation size does not sum up
+PostgreSQL: Force data into memory
+Database design for a time tracking application
+More table or more database for better performance?
+How can I tell if a SQL Server database is still being used?
+Oracle 10.2.0.1.0 listener process stopped
+Most suitable DB Architecture for real-time high-volume processing API
+Why does this query cause a deadlock?
+How hard would it be to have PostgreSQL run a test to adjust the cost parameters?
+PostgreSQL: COUNT(*) uses a sequential scan, not index
+Any Open Source / free ETL out there?
+SQL Server 2005 Huge DB issue
+How to retrieve granted privileges without access to the database “mysql”?
+SQL Server Deadlock Graph - Table, Page or Row Lock?
+Alerting on Database Mirroring Events
+Priority Inbox Database Design
+How to choose the last recorded added without sorting
+What are the best practices for ETL of data from one OLTP system to another?
+Database Mirroring with TDE
+Is Oracle DB licensing needed for a test environment?
+How to get a user's friends' names?
+How to store 'n' days of web server logs in Sql Server?
+Difference between storing a DBUnit file in version control and using Liquibase for Database Version control?
+Does the target for Double-Take replication require an Oracle license?
+TSQL: Find Queries causing too many SQL Compilations and SQL ReCompilations seperately
+Property PopulationStatus is not available for FullTextCatalog... How to fix?
+Is a “‘Junction’ Table” the same as a Weak Entity?
+what is hitting your db?
+Why is this rollback needed when using sp_addextendedproperty in a stored procedure?
+tsql to find users and database level permissions mapped to a certificate
+Running a database without constraints
+MySQL export/import yields error
+Postgres, MVCC, and Locking
+Use order from another select clause
+Avoiding temporary tables while sorting by a column in a different table
+How can I import/export a MySQL database without redirection?
+How can I extract a lessequal char from SQL_Latin1_General_CP1_CI_AS?
+SQL Server "Suspect" database?
+Dependant T-SQL comparison collation
+Dropping a constraint (index) on a column
+SQL 2008: agent job error in opening excel files using DTS package
+Current isolation level in oracle
+Query to normalize table/combine row text
+How is LIKE implemented?
+How to connect to a remote Oracle server from Windows machine using PL/SQL Developer?
+In Oracle, can we restore a database onto the same instance with a different name?
+Which schools are known for graduation level database research?
+SQL Server Wildcardless LIKE Optimization
+Oracle implicit parameter casting - why doesn't it always work? (ORA-06502 error)
+New SQL instance and migration
+How to monitor deadlocks
+Where does the magic column "name" come from?
+What is a residual predicate?
+Determining sizes for Separated Partitions of programs, data and logs in SQL Server
+SQL Server 2008 and Management Studio - Intellisense is Patchy
+How to set full text catalog location SQL Server 2008/2012
+SQL Server 2000 Enterprise Manager - "Navigation to the webpage was canceled" error when trying to design a table
+Connecting to MySQL database from Analysis Services
+What are the pros/cons of Oracle's Grid Control compared to DB Control?
+Any pointers on reducing my privileges in production but not making my job excessively difficult
+How do I remove backslashes from records in MySQL
+No results for match...against in boolean mode search with fulltext index (MySQL)
+ActiveX script throwing runtime error inside DTS package
+Boolean field in OLAP cube
+Database appearing in one tool but not another
+MySQL gives "Out of Memory" error when inserting a large file. From where is this filesize limitation arising?
+Sql DateDiff Question
+SQL Server IDENTITY column automatic re-seed
+Sizing MySQL Database Servers for Drupal
+What's the best paradigm or design pattern for exception handling in a mission-critical DB driven web application?
+Can Oracle row-level security work with user session credentials?
+Deadlock Error from SQL Server 2000 to SQL Server 2008
+SQL datatype choice for flagging a read/ unread message?
+What is the best method to add error handling in SQL 2005 stored procs?
+MS SQL : Use Computed value to Compute other values
+What is the correct term to describe a "persistent transaction"?
+Tips for Optimizing Oracle Warehouse Builder 11.1 with Oracle DB 10.2
+Recover Oracle database after drive loss Interview Question
+Can I have different publishers and one subscriber in replication?
+What is Atomic Relation in First Normal Form
+Casesensitive vs. Caseinsensitive Collatesequences?
+Is encrypted database possible?
+Huge Data Migration in Oracle and space concerns
+How do I rule out SQL Server as the reason for a slow website
+What are the differences between "Stored Procedures" and "Stored Functions"?
+Encountering exception ORA-01555
+MAX for each subset
+Calling a stored procedure in a stored procedure
+Trigger in MySQL to prevent insertion
+Can I export a MySQL schema to latex?
+How to determine the name of a process that caused a trigger to fire
+Unable to create a tablespace, unusual error
+When to apply normalization in database design
+SQL Server 2005 Index Rebuild/Reorganize
+SQL Server Cannot drop database <dbname> because it is currently in use... but no sessions displayed
+What are the key points to avoid table locks?
+Use different Windows account in pl/sql
+How to best store Google ngrams in a database?
+Postgres 8.4 -- connection refused (remote)
+return scope_identity() question
+How to hide metadata from Postgres users?
+maintenance plan executing by agent
+MySQL queries in SQL-Server?
+"Request to run job dbxxxxx refused" error in merge replication
+SQL Server - RangeX-X and RangeI-N locks
+Sql Server output parameters
+DROP PARTITION strategy using LIST-REF composite partitioning
+How do I properly design a many-to-many (charges/payments) accounting system?
+Query PostgreSQL 9.0 table on foreign key value?
+DBCC CheckDB Consistency error on an empty table
+hierarchical query in oracle
+Creating centralized DBA database
+Should binary files be stored in the database?
+What are the arguments against or for putting application logic in the database layer?
+Which is the most performant way to copy a number of SQL Server tables to a readonly SQLite database?
+Versioning a dataset in an RDBMS using initials and deltas (xpost from SO)
+How do I alter index rebuild an entire database?
+Report model data source
+What does TOAD do, when I terminate script execution?
+How could DBAs be more 'programmer friendly'?
+What are the common reasons for a Subscription to be deactivated in SQL Server 2005?
+cant truncate tables with a pk/ fk relationship?
+What is the best way to monitor long running queries in SQL Server?
+Is there a way to load a sql script with a specified encoding into a running SQL Server Management Studio (SSMS)?
+Make SqlClient default to ARITHABORT ON
+Sp_helptext Error
+master to multi-slave replication
+Tools to migrate from SQLite to PostgreSQL
+What is the difference between select count(*) and select count(any_non_null_column)?
+Duplicate database and keep it up to date - Replication or SSIS?
+How do I find the median value of a column in MySQL?
+How do I use the POSIX character classes upper and lower to search text in MySQL?
+Purpose of IDs in a User Table Database
+How do you restore a particular table in MySQL?
+Trigger: move deleted rows to archive table
+What features of Oracle make it an attractive choice for small projects?
+How to design a schema for a site that accepts logins from multiple sites (e.g. facebook connect, google, flickr, etc..)?
+Entity-Relationship Diagram for a scenario involving Books, Authors and Countries
+Stored procedure parameters using tsql functions?
+Do cross-joins get optimised by the client library?
+Query execution time in Oracle SQL Developer
+DB2 Trigger: only update current row
+Should I create a maintenance plan for my database or use jobs?
+How much will using a varchar(15) PK affect my tables performance?
+Most efficient way to return multiple aggregates in a single stored proc?
+How to effectively query and aggregate a normalized SQL db?
+How do I assign an entire Active Directory group security access in SQL Server 2008?
+What are the benefits of using a different tablespace for a new user schema?
+Group By hour over large dataset
+Maintenance plan delete backup
+Help on writing server-side trace
+access all_mview or user_mviews from app code
+Database replication with ability to revert to previous states
+What is the best practice for backing up a database in Simple mode?
+How bad is a tempdb drive failure (with multiple tempdb files on different drives)?
+What are the best practices for ETL of data from one OLTP system to another, Part 2?
+Pure (My)SQL transformations
+How to ensure that SQL Jobs run in the correct order within a minimal maintenance window?
+create a FTS in sql2005 on multile fields in multiple tables?
+Is there a way to edit the System Database Directory for DB2 to remove a database?
+What are the differences between Oracle UCM and Oracle Content Server?
+Amazon SimpleDB or Amazon RDS?
+Combining retail sales and payment OLAP cubes
+pgAdmin Query Tool throws error when I try to run multiple statements
+SQL: transfer database schema
+How do I store data with a query that's approximated?
+What is the best practice for storing image varbinary(max) data in a database table?
+When should nonclustered indexes be stored on separate filegroups?
+Separate databases for front-end and back-end
+kill all queries - MySQL
+Using integrated security over VPN
+What is the performance impact of using CHAR vs VARCHAR on a fixed-size field?
+What program to use to change settings on db servers?
+From a set of values, how do I find the values not stored in a table's column?
+Location of Maintenance Plan's Back Up Database Tasks information (SQL Server 2005)
+Sql 2000 attach Error 5172
+Oracle Forms 6i on Windows 7
+Can I automate the "on" statement from MySQL queries?
+Troubleshoot DBMail in Sql Server 2005
+When should extended events be used instead of SQL Profiler/perfmon?
+Indexing to improve performance of range queries
+How should I best name my timestamp fields?
+How do I show the binlog_format on a MySQL server?
+I get ORA-13605 when trying to run SQL Tuning Advisor from SQL Developer
+Justify NOT using (nolock) hint in every query
+Sql Server Maintenance Plan - Best Practices on Tasks and Scheduling
+Does MySQL still handle indexes in this way?
+Why doesn't FTS match any records?
+LNNVL Justification
+SQL Server: index creation date
+Alternatives to concatenating strings or going procedural to prevent SQL query code repetition?
+Difference between Flashback Query and Serializable Transaction Mode?
+Finding empty columns of a table in PostgreSQL
+How to reduce the log file size without shrinking it in SQL server
+Should SQL full text search match the value test2 when searching for test?
+What specific tests need to be performed under Database migration from DB2 to Oracle?
+How do you re-sync the Master MySQL DB with Slave DB changes if the Master goes offline?
+Oracle Import problem caused by different character sets
+Can SQL profiles be deployed to other Oracle Databases?
+Inner cursor performance issues
+How can I get a list of column names and types from a resultset?
+In Microsoft SQL Server's linked server configuration, what does the "RPC" setting do?
+MySQL won't start after upgrading to PHP 5.3
+SQL Server service unresponsive
+Granting permission to SQL database
+Relational Design - Multiple tables into one foreign key column?
+How to get the timestamp column in only milliseconds from PostgreSQL?
+Plpgsql seems to be deleting and inserting instead of updating - Why?
+Set "lock wait timeout" in MySQL
+Why can the target of the OUTPUT INTO clause not be a view?
+Are there any good tools for monitoring postgresql databases
+Pass an array or record to a function in PostgreSQL?
+How to get a boolean value into a SELECT operation based on another table?
+sqloledb vs sqlncli - Performance difference or just feature set?
+SSAS: Move tempdb database
+Shared memory connection experiencing network wait type
+Does making a field unique make it indexed?
+Do I need to add a new single column index to a table if a multi-column index on that field already exists?
+How much could sequential scan gain by GPU?
+What is the 'repair code' in MySQL?
+What would I need to do to make sure my DB policies have to pass a security audit?
+How do I get the current unix timestamp from PostgreSQL?
+Mysql constraint problem
+How can I use a default value in a Select query in PostgreSQL?
+How to extract Procedure, Function, etc. Source Code from an Oracle Export
+SQL Server 2008 on Hyper-V Virtual Machine with Multiple instances
+Why does MySQL not have hash indices on MyISAM or InnoDB?
+Why don't my .my.cnf settings work?
+How can you tell if a table in DB2 has a Primary Key?
+Insert to particular location in Oracle DB table?
+How do you change the location of the data files in SQL Server 2000?
+How do I identify tables that have a foreign key to a specific table in Sybase?
+Why is MySQL caching data on our dynamic PHP site?
+Add Oracle Label Security to an existing Oracle installation
+stored proc to handle XML as input param for multiple record inserts
+How can I optimize this MySQL query further?
+I am using the MEMORY storage engine but MySQL still writes to my disk...Why?
+MySQL data modeling help
+PL/SQL + after login seems Not see tnsnames.ora file on my PC
+How do you cope with Database Server Inventory Management
+Are master/slave replication relationship between different versions of SQL Server possible?
+Reconfigure the registry for new Oracle installation
+Should I move to InnoDB during a planned migration?
+In MS SQL how do I find out what tables have not been queried or updated in a long time?
+How can I alter the type of a money-column to decimal in PostgreSQL?
+Setting up a CDBMS server
+SQL Azure Fragmentation / Database Size
+What are negative keys used for?
+What are user connections - when are the created and destroyed?
+Why is Database Administration so hard?
+Are there situations where queries are formed geometrically?
+Can a username and password be hard-coded in a system DSN
+Dealing with temp tables when I have not control over db variables
+About single threaded versus multithreaded databases performance
+What databases or styles of database can use git (or another dvcs architecture) to manage cross-site replication?
+Help with complicated MySQL query
+How can I pass parameters to an "SQL Script" from isql
+Is there a standard language/interface for programmatic ETL in SQL Server?
+update stored proc ony fields that are passed to the proc and leaving others alone
+Derived value not calculating as expected using combination of FK and Triggers (MySQL)
+Table-name.column-name in PostgreSQL?
+Oracle Create Materialized View Script - Takes 12 minutes in DEV Schema, 5+ days in QA Schema
+Is it possible to find the values of MySQL variables if I do not have SELECT privileges on mysql.user?
+MySQL Update: why would rows matched change based on the set clause?
+Badly performing query plan after adding ORDER BY to Full Text CONTAINS search
+Database replication and consistency check
+Forums about getting SQL Server 2000 Administration help?
+How to insert values into a table from a select query in PostgreSQL?
+Concurrency question?
+Database Performance Tuning
+In Oracle how do I save a sequence.nextval in a variable to be reused in multiple inserts?
+Changed stored procedure causes VB runtime error
+How to back up a small database in SQL Server 2008 R2 Express Edition
+Performance tuning OLTP query
+Oracle - Any way to view uncommited changes to a particular table?
+Database design advice
+Mapping SQL Server integer to Oracle Datatype
+How to run psql on Mac OS X?
+What are the sharding heuristics for MySQL - number of records per table & number of tables per instance?
+What could be the reason for disallowing a sub query in the values clause?
+How to mark an item as "Expired" when it's ExpiryDate value is in the past?
+Design of fact table(s) and dimensions tables for data warehouse
+Migrating large database
+Best design for adding a folder/file relationship
+Which NoSQL database(s) should be used for advertising platform?
+Ms-access ODBC calls for linked table behaviour
+Linked tables versus stored procedure performance in MySQL
+Do I need to enumerate the columns used in a materialized view when creating the MV log?
+How to update a table from a another table
+Auto Increment Index Field For Create and Update
+Using totals on aggregates to improve performance
+SELECT statement with an explicit list of columns and then an asterisk (*)
+noexpand hint for non-enterpise edition and performance
+Using desktop computers to manage an SQLite database on a fileserver?
+How to fix discrepancies between publisher and subscription data?
+How to change SQL sever configuration manager settings using TSQL?
+looking for a lighter alternative to cognos express
+Does mysqldump export indices, by default?
+How do you copy a table from MySqlServer_A to MySqlServer_B?
+MySQL connection doesn't work anymore
+How fast should I expect to load data on a high performance computer?
+How many disk seeks does it take to write one row on SQLite?
+SQL Server Backup Process Tuning
+DB2 passwords with special characters
+How to insert an IP-address into an inet column in PostgreSQL?
+Suggestion for Large SQL Server Database Design
+Suggestion required for Large Database Optimization and performance
+Suggestion for Bulk Data Import
+PostgreSQL: Creation date of a table
+Sqlplus parameterized query via file
+What can we do in MySQL 5.0 Replication to address bandwidth concerns?
+SQL 2005: Can we determine how much the rebuild index maintenance job can grow database log files?
+The smallest backup possible ... with SQL Server
+PostgreSQL: Displaying inheritance relationship?
+Oracle concatenation of queries and function index usage
+Am I violating any NF rule on my database design?
+In SQL, is it composite or compound keys?
+How to import a varbinary(max) column with bulk import?
+What are best practices for safely permanently deleting a database?
+create incremental number in oracle sql query
+How can I time SQL-queries using psql?
+Need to migrate SQL Server to MySQL
+What scope(s) is "hasMany" a part of?
+MS Access displays alle columns in SQL Server tables as "deleted"
+Mail alert from MySQL when databases are edited
+What are the consequences of setting varchar(8000)?
+MySQL 5.1 InnoDB Configuration / 24GB RAM - bi-xeon high load
+MySQL Replication not working properly on Ubuntu Lucid Lynx Server
+Trouble deciphering a deadlock in an innodb status log
+PostgreSQL: count datasets / lines containing NULL values
+SQL Server 2005 Row update problem
+Is there a -w equivalent for isql when already connected?
+How to handle multiple Oracle homes?
+How can I get status messages during a large re-indexing operation with MySQL 5.5?
+Duplicating some rows of a data flow in SSIS
+Save postgres database from broken ubuntu 10.04 server
+Checking for dupes on Compact Insert Statement
+How should I Optimize storage for this table?
+How to SELECT from SHOW TABLE STATUS results
+Will these two queries result in a deadlock if executed in sequence?
+What is the best way to automatically create a snapshot of the table at the certain time?
+SQL Server 2008 posibilities of having views from one database in another database?
+Oracle Grid Control Notification for Data Guard failures
+Migrate DTS Jobs to 2008 Server
+select permission was denied on the object 'sysjobs'
+SQL 2008, how does it link Full Text Catalog to a filegroup
+Copy encrypted database views
+Limit redo for materialized view complete refresh or manual equivalent
+SQL Server 2008 Containstable generate negative rank with weighted_term
+Mysql fulltext boolean ignore phrase
+Estimating distribution of row access in mysql
+SQL Return Count of Answers with 0's for Choices from another table
+How to get a column A which has the smaller column B grouping by column C?
+Creating and editing my.cnf by MySQL Workbench?
+How can I tell if my SQL Server DB performance is hardware-limited?
+Temporal database design, with a twist (live vs draft rows)
+How can I specify the position for a new column in PostgreSQL?
+Login problem to SQL Server
+How do I use currval() in PostgreSQL to get the last inserted id?
+SQL Server configuration / specification recommendations and advice!
+How do I install pgcrypto on Windows?
+sqlplus Setting the exit code of a script
+Are there tools to perform data comparison between two different schemas?
+SQL Server Permission Denied Error When I'm DBOwner?
+How to perform the dreaded double hop with linked servers?
+Reasons for occasionally slow queries?
+Emulate a TSQL sequence via a stored procedure
+Indications from obscenely high Operator Costs in Query Plan?
+Can someone explain the magic of Opendatasource/Openrowset?
+Connect to a remote MySQL Server from a dynamic IP address
+Setting up a Redundant Sql Server 2008 Configuration While Retaining High Performance and Minimal Downtime
+Recommended page file size for SQL 2008R2 on Windows 2008R2
+Help with DB2 Procedure
+Need help with ASYNC_NETWORK_IO
+Source several files at once with psql
+How is INFORMATION_SCHEMA implemented in MySQL?
+Speeding SQL queries for a large(?) WordPress database?
+Trimming down a big SQL Server database
+Would it be sensible to create a MySQL user for each user account of a web application?
+How to link Similar-but-distinct Models of Medical Imaging Data?
+Removing Archive Logs after PostgreSQL PITR online-recovery
+Changing SQL Server 2000 usernames
+What is the difference between XtraBackup and rsync?
+Postgresql - Recovery using recovery.conf
+Degrading PostgreSQL 8.4 write performance
+Groups, Users, and Inbox
+What are your use-cases for HandlerSocket?
+"phpMyAdmin" for Cassandra
+How do I properly perform a MySQL bake-off?
+Pgpool-II: sequences advanced by 1 after PITR recovery
+how to generate scripts for database objects specific to an application?
+SQL Server: How to create a table that fills one 8 KB page?
+Problem connecting to the Database
+How does the log reader process bulk updates
+PostgreSQL on Ubuntu - Using conf files for recovery
+Restore encrypted database to another server
+Search on part of a column in a SQL Server cross-database view
+Estimating impact of indexes SQLite database size
+Is it possible to quickly create/restore database snapshots with PostgreSQL?
+Why does DataContext.SubmitChanges() Exist?
+SQL Server: join two tables with "valid-to" dates
+Using MySQL triggers or transactions?
+From where does the MySQL Query Optimizer read index statistics?
+How to query status changes in time series?
+How to debug "IO Error: End of TNS data channel" errors?
+Find material for improvement of my SQL ability
+Is it possible to write an SQL query that automatically reconciles/"transactionalizes" payments and charges
+null check and string concatenation
+Is there a setting to suppress C-Style comments appearing as DOC in Oracle Output?
+"For each group of results fullfilling condition X, select only result with smallest column value A"
+How can I convert from Double Precision to Bigint with PostgreSQL?
+Is it require to fill all tables inside of the database?
+Lost tables in Drupal site database
+Why did my UPDATE statement not complete?
+SQL Server database file fragmentation
+Get data from database and put it back to a new datasheet
+Date Format in Sql Server
+How can I Estimate Table Sizes within Schema (Oracle)
+Cartesian Product SQL / Inserts with multiple Values Clauses
+SQLCLR TVF that calls web service is getting error 401: Unauthorized
+A query submitted from different applications has differing DOP
+MySQL: Why is auto_increment limited to just primary keys?
+Determine Index Compression Candidates Online
+Recovering from: A transport-level error has occurred when sending the request to the server in SSMS
+Performance problem caused by joining with the result of a scalar function?
+store result set in temporary table, variable or separate variables within a trigger
+What is more efficient, a where clause or a join with million plus row tables?
+SQL Agent powershell context reference
+Duplicate record problem
+SQL 2008 R2 Repair: Setup failed to install Windows PowerShell. Error code is -2145124329
+Trying to use MySQL Workbench with TCP/IP over SSH - failed to connect
+PostgreSQL: Disk space not released after TRUNCATE
+Optimizing query using view on EAV structure
+Clone / Copy Oracle 10g & 11g
+What does "slot 80 for LOB data type node does not exist" error in sql server mean?
+Storing arrays of integers in database (for efficient select)
+Best database choice for a highly scalable web ticketing system?
+Why can't we specify group functions in Oracle in the where clause?
+Fact table foreign keys null?
+No "Using locked pages for buffer pool" in SQL Server log
+Is there a standard implementation of a Users Database?
+Unique time range or database schema for a scheduling system
+Is using CRUD stored procedures against a view with NOLOCK bad?
+What are the top 5 design decisions which need to be made when implementing a database?
+Multiple copies (cp) with Oracle ASM asmcmd tool?
+What are some common and useful fields for a users table in a database?
+Oracle 10g dump file push into Oracle 11g database
+Can I losslessly decompose this table?
+SQL Select taking too much time to execute
+Benefits of running the OPTIMIZE TABLE Query in MySQL DB Server
+How do I output MySQL logs to syslog?
+EXCEL sheets batch input to Access
+query regarding combining an update and an insert query into a single query in mysql
+Rankings based on "versus" style matchups?
+CONTAINS function in MS SQL 2008 R2
+How can a raised alert fail to notify an operator via e-mail?
+Storing hex values as strings or integers?
+dm_db_missing_index_details - does the order of equality_columns matter
+Query problem: there can be only one auto column
+InnoDB foreign key and index duplication?
+Backup Scenarios
+Postgresql row-level encryption
+Oracle - Automate Export/Unload of Data
+How can I store function names to be executed on a subset of rows?
+sp_help_jobsteplog fails when run as a @query of sp_send_dbmail
+How can I create and initialize a schema for a embedded MySQL DB?
+Database Design for Airline Reservation System
+Chaining SQL Server Agent Jobs
+How do I calculate working business minutes?
+MySQL Replication: Insert generating VERY huge temporary tables
+Update Schema in SSIS Export Package When Source Schema Changes
+Effective backup and archive strategy for database and linked files
+best db and file system for high volume, high qps
+SQL Server command line usage? Is it possible?
+Can't connect to MySQL DB
+How to make inter-database queries with dynamic SQL Server database name?
+What does WE8DEC mean?
+For Oracle, we mount the instance to the database or mount the database to the instance?
+Teradata learning resources
+How do I declare and use variables in Oracle?
+How to do a bulk load of a database when application are relying on it?
+Database to track employee performance
+LDF and MDF file sizes for a dynamically created Database
+Are there any objective reasons to prefer a prefix over a suffix for an environment-specific login?
+Unknown Db file format - best way to find out?
+Question about 'user process' in the context of Oracle
+Column name naming conventions and best practices
+Filters Joins or Where clauses TSQL
+Importing order information
+Data validity and accuracy according to database integrity
+Ms Access queries equivalent in Sql Server
+Why is a .bak so much smaller than the database it's a backup of?
+Which DBMS are fast enough for an online game (few thousand players)?
+Is it possible to make schema changes on a replicated subscriber database?
+Windows Storage Server, SQL Server, regular files -- means to protect from insider threats?
+What is Utility_DSN?
+On DB2, who updated a record and what did the record look like before the update?
+How to open queries into a selected database in SQL Server Management Studio 2005
+SQLCMD Mode in SSMS and @@variable expansion
+Query optimization
+Query table A for any rows that are like any search term in table B
+SQL Server Schema Security
+More Databases Per Sql Server 2005 Instance
+Suggest a MySQL book for me
+Testing Query Speed
+Distributed Transactions between SQL Server 2000 & MySQL Stopped Working
+How should I represent a latitude and longitude in Postgres without using PostGIS?
+How can I convert a string to a double precision in PostgreSQL?
+ORA-01502: index or partition of such index is in usable state problem
+Change Tracking Retention from a backup?
+Does this computed CHECKSUM() index design make sense?
+ALTER TABLE on a large table with an indexed column
+How do you move a database from one server to the other using SQL Server Management Studio?
+Best practices on common person fields (Name, email, address, gender etc...)
+What is the point of the TABLE_CATALOG column in INFORMATION_SCHEMA.TABLES?
+How much RAM I should assign to SQL Server 2008 running on W2K3
+MySQL very slow query when changing one WHERE field despite no index/key
+SQL 2008 Server agent cant see perfmon counters
+Is there a "standard way" to log network messages (events) into a database?
+SQL Server Logon Trigger causing problems with the Distributed Transaction Coordinator
+How does PostgreSQL handle Checkpoints in the middle of a WAL-enabled backup?
+How does shrinking a SQL Server log file affect performance?
+Using different servers for front-end and back-end?
+Possible Pitfalls of Setting Up Kerberos to Permit Cross-SQL Database Access Via AD Trusted Connection
+Send Email when sql server agent job fails
+Most Effificient Way to Store Ingredients in a Food Database
+How to configure MS SQL log on so that it can be used by another program?
+SQL statement to combine main table and child table as columns?
+Is it possible to get execution call stack in a trigger?
+How to determinate in a trigger direct inserts and inserts via stored procedure
+Query Parallelism
+Best architecture solution for heavy data mining system, that can run on cloud
+How do I open a MySQL Database Dump?
+MySQL Slow Query Log - SELECT /*!N SQL_NO_CACHE */
+Is there a collation to sort the following strings in the following order 1,2,3,6,10,10A,10B,11?
+Where can I find some guidance on index strategies?
+mysql inner join producing more results than it should
+MySQL: Does the order of the fields in a table make a difference in performance?
+Add DEFAULT to existing column
+SQL Server Query against a View failing
+SQL Xml returning empty root tag on empty record set
+Retrieving row count without using Count function
+Is it a good idea to split MySQL DB into two servers
+Save Results as CSV *with* headers in SSMS
+Speed problem with a simple select statement
+What is the JDBC URL for Oracle's Data Guard Fast-Start Failover?
+how to write pl/sql named programme for this
+MySQL user account 'From Host' setting
+Is it possible to install a MS SQL Express Studio, where the studio tool also is included?
+Check Index Fragementation Query
+SQL Server and Perfmon
+Database Agnostic Conditional
+Is it possible to have passwords configured per database or per host in .my.cnf
+SQL Server statements intermittently slow on SQL Server 2008 R2
+Exclude dataset from a query
+Oracle XE Fedora 15 Installation problem
+PostgreSQL exit status when running a file
+MySQL Replication Lag Behaving Erraticly
+MySQL Event does not run
+Managing multiple SQL Server databases
+MySQL and PostgreSQL Licence issue
+Alternative for OPTIMIZER_FEATURES_ENABLE
+MySQL Slave lag in SHOW SLAVE STATUS does not match SHOW PROCESSLIST
+SQL Server 2005, Large Binary Storage
+MySQL - LOAD DATA INFILE - Handling unescaped NULL in INFILE or creating INFILE with escaped NULL
+Determine free space on "nonfixed" drive
+How do I verify the uninstall of Grid Control and WebLogic?
+Different MySQL Datafile Sizes After Restoration
+SQL Server: cold backup, shutting down services?
+Can I implement a 'gapless' identity column in Oracle?
+Guarantee SQL Server Identity Columns that two consecutive values differ by constant increments?
+No Maintenance Plans Folder in SQL Studio 2008 R2
+How do I track the usage of XML indexes?
+What's the difference between a v$ view and its dba_ equivalent?
+Unattended install of SQL Server 2008 R2 cluster fails with error - "Illegal characters in path."
+Send email when certain Data is being inserted in MS SQL Server
+SQL query that concatenates values from duplicate rows in a single table
+how to improve performance by using or not using table variables
+How to find out CPU utilization per Oracle Database on Linux?
+Error Code 1117 Too many columns; MySQL column-limit on table
+Oracle Restore and recover Database on the same host?
+Should I convert empty varchar values to NULL?
+Does adherence to the DRY principle justify dynamic SQL?
+Is it possible to backup and restore part of a database in sql-server?
+Model of database management systems
+What are the alternatives for an ORDER BY clause in a View?
+The use of NOT logic in relation to indexes
+Does anyone have a good recommendation for a book which teaches sharding?
+Error updating a master table of a materialized view
+Oracle Backup and Recovery
+How to migrate from SQL Server 2000 to SQL Server 2008 R2 Express Edition
+psql denies access to file when using COPY FROM
+Complex mysql selection
+Is MySQL Replication appropriate for keeping a laptop in sync?
+Auto-Shrink, Encryption & Recovery Model properties in SQL Server 2008 R2
+Prevent copying to temp table (sql)
+Proper technique for storing users event data
+Can I see Historical Queries run on a SQL Server database?
+How important is the build number on a SQL Cluster
+Creating a new role
+How to list all postgres tables in one particular schema
+ts_rank massively slows my query, how can I improve performance?
+How to export a single huge table from SQL Server?
+Can IMPLICIT_TRANSACTIONS set on database level?
+Is the PostgreSQL 'connection limit' shared across all users in a role?
+How mature is the Firebird database when compared with PostgreSQL and MySQL?
+Can't retrieve data of countries and regions
+Why did the MySQL Storage Engine Change on Restore in one scenario?
+MySQL Data Synchronization
+What are some best practices for using schemas in SQL Server?
+my.cnf values not applying - Optimizing MySQL in CentOS LAMP
+MySQL Deterministic Procedures
+Role db_ddladmin not working properly on SQL Server 2008
+@table_variable or #temp_table
+Dump only the Stored Procedures in MySQL
+Piplelined Result Set over Database Link Alternatives
+DROP PROCEDURE IF EXISTS not included in mysqldump
+Data Truncated for Column
+Table structure for many custom profiles
+Optimizing a four-year-old MySQL database
+How do you ORDER BY a parameter?
+Database Schema with a shared identity Field
+Possible career paths for Oracle Certified Associate (OCA)
+Restoring an old backup to latest MySQL release
+What are the benefits of using MySQL Cluster?
+Does mysql SUPER privilege include ALL?
+How to get query execution time and query result at the same time?
+Creating partitions on a production database
+How to enable all the possible backup options of MySQL
+Modify DEFINER on Many Views
+Proper Database Partitioning
+When creating views, why do users need direct object permissions if they already have the same permissions via a role?
+Is it possible with SQL Server 2008 to have a Partioned Tables with an Identity Column?
+Simplest way to constrain an SSIS Execute Process Task
+Whether or not to create separate tables for different product types?
+Will the transaction log shrink automagically in SQL Server?
+How to configure so the Oracle wallet password can be authenticated with a web based Oracle application?
+'Conversion failed' error with ORDER BY CASE expression
+Why use both TRUNCATE and DROP?
+How to use variables inside a select (SQL Server)?
+SQL 2000 - tsql to find out failed jobs in last 24 hours
+the best place for save binary file
+Find material for improvement in Microsoft BI
+A question on MySQL SELECT Algorithm/Function
+Slow Query logging everything
+What would be the best way to model my simple table?
+MySQL Query Optimization : Indexing and Pagination
+SQL Server 2005 tempdb Time out occurred while waiting for buffer latch type 4 (pagenum)
+Index Generation in Postgres
+How can I find the VLF count for a SQL 2005 database without running dbcc loginfo?
+How does Yelp efficiently calculate distance in the database?
+How to migrate large blob table from mysql to postgresql?
+How to Best Implement nearest neighbour search in mysql?
+Wise to use trigger to update another table?
+SQL Server Version - are hotfixes for previous versions implied?
+Statement could not be prepared
+Character Set Encoding in a Table
+How does max_allowed_packet affect the backup and restore of a database?
+I need help migrating data through databases
+Why in Oracle 11gR2 I can't drop the materialized view with the same user that created it?
+SQL Server Replication Agent Profile -Output Parameter
+Are there any MySQL Triggers or Events that my program can wait for?
+MySQL Query Optimization : Bets and Averages
+Database Hardware and Software to handle million requests per second?
+Do INSERTs get auto-committed?
+How does DBCC SHRINKFILE() affect backups?
+Duplicate UNIQUE KEY error after ROLLBACK in MySQL
+MySQL Database Design Help?
+Hierarchical query from two tables
+MySQL Workbench: Custom fields for Relationships
+How to find out who deleted some data SQL Server
+What does "collation" mean?
+Performance difference for COALESCE versus ISNULL?
+Using IDs from multiple tables in a single column
+SQL Server Configuration Manager not display services
+Empty strings in VARCHAR(MAX) consuming space which cannot be recovered
+When should I rebuild indexes?
+List the database privileges using psql
+Using SQL Server on separate networks
+Why does = NULL not work in Oracle?
+SQL Server 08: Union over while
+Optimizing InnoDB default settings
+sql server concurrency performance
+Problem Reaching VM SQL Server Instance
+Is MySQL Replication Affected by a High-Latency Interconnect?
+MySQL Workbench Loses Saved Connections
+Alternatives to MySQL Workbench
+SQL Server CTE problem
+Change path for binary logs and scheduling
+Track daily view count of youtube videos
+SQL query question
+Shift db data to another column
+Recommendations for MS SQL Server monitoring software or service?
+How to traverse a tree in SQL? Sybase edition
+What storage engines work with Oracle?
+Is it better to delete then insert, or to update then insert in SQL server?
+Should I stop transaction log backups during a full backup?
+Assigning a logical name to a sql instance
+Best way to evenly distribute data over partitioned tables
+How to use transactions with SQL Server DDL?
+Improving slow queries. Slow query log attached
+Please review the My.INI settings of my PC. File Attached
+What is the best way of checking the current user privileges on a particular table from another schema?
+In which form Microsoft SQL password should be given when creating a user?
+Does SentryOne Plan Explorer work?
+Minimum user rights for connecting MS Sql database remotedly
+How to add another table to publisher and subscriber without reinitializing the subscriber?
+OLEDB Wait Type and Functions
+when selecting from multiple tables I get a multiplication of the records
+PostgreSQL: Separate tables vs single table to perserve disk space?
+MySQL : if server_id is not explicitly set, then get error `ERROR 1200 (HY000) at line 1: The server is not configured as slave;`
+MySQL InnoDB data file directly on a disk slice (fixed-size)?
+Which SQL standard is most broadly and completely supported?
+When installing Oracle, what's the quickest way to check rpm packages and install what is  missing?
+Does NULL have a type?
+How can I model this relationship?
+Can I install an additional oracle database on one node of an oracle cluster (RAC)?
+Why a copy of my.ini of other MySQL installation not working on my PC
+Installing MySQL server 4.1 on Ubuntu 11.04
+70-432 : SQL Server 2008 Implementation and Maintenance
+What all are the recoverable points of failure in an Oracle database?
+Using DTA vs. evaluating DMVs?
+SQL Server sp_configure options?
+Why is it a bad practice to allow everyone to use the sa login?
+What are the top 3 performance Issues that you encounter with your SQL Servers?
+Which performance counters can you look at on a SQL Server Instance to determine it's performance and over all health?
+What does a best-practice SQL Server maintenance plan look like?
+Find all ancestor nodes of a HierarchyId using a single SQL statement?
+Pioneers in Database Research
+Are InnoDB Deadlocks exclusive to INSERT/UPDATE/DELETE?
+Estimate average and median efficiently in Postgres?
+How often to backup the master database?
+Is there any point in undersizing VARCHAR columns?
+How do I group results in batches of consecutive rows with the same 'module'
+Is Oracle DB immune to the InnoDB deadlocks found in MySQL?
+Using SSAS for retrieval data instead of using SSRS to make a report?
+sp_repladdcolumn - is it possible to supply a list of Publications to add this column on?
+How to track how many times the data is read?
+Install SQL server 2008 R2 with VS 2010
+Adding columns to production tables
+What does horizontal scaling mean?
+Can I move rows between partitions by updating the partition key?
+What is the reasoning behind the CAP theorem?
+SQL Server database forum design sample
+InnoDB Foreign key updating vs. manual in-application updating
+How to create an index to speed up an aggregate LIKE query on an expression?
+Where to save user data?
+Guidance for using composite keys to identify rows
+Designing a platform: one database or multiple databases?
+Minimum rowcount for filtered index?
+Policies RE database triggers in well-designed applications?
+Difference between EXEC() and sp_executesql with no parameters?
+What are the best practices for triggers to maintain a revision number on records?
+What are the 'free to use' workload generators available for Oracle?
+Transaction and data consistency during a failure
+Which DBMS is good for super-fast reads and a simple data structure?
+how to interpret log files with high transactions
+Why is mysqldump file so large?
+Performance of a Trigger vs Stored Procedure in MySQL
+Getting current date as part of an Stored Procedure
+Get a count of shippable orders
+Table contains multiple names for same company
+Why can't we perform joins in a distributed database like Bigtable?
+What exactly is a database engine?
+When are procedural queries absolutely necessary?
+Cannot drop anonymous user from mysql.user
+Is there a Storage-Engine/DB that logs all changes and allows selective rollback of specific changes?
+Understanding SQL Server permissions
+When should you denormalize?
+Users complain that system runs slow when mysqldump is in progress. 
+Are heaps considered an index structure or are they strictly a table structure without index?
+How do you increase MySQL performance using current server resources?
+Does T-SQL MOVE actually move the database, or just copy?
+how to retrieve data from a table using Foreign Key
+SQL server 2005 SP4 differential backup is failing
+Is it possible to mysqldump a subset of a database required to reproduce a query?
+In SQL Server 2005 how would I determine the minimal permissions a user requires?
+Storing images in MySQL db -- type?
+DTA Recommends to CREATE STATISTICS
+Database Design: Storing Map Locations
+Database Users and Server Logins and the Mapping between them
+Moving Tables Indexes to Separate file / file-groups, What Happens?
+How do you reset the sa password?
+Instant File Initialization | Lock Pages in Memory Issues
+How big of an impact does NUMA really have?
+A question on SARGability
+Why is `SELECT @@IDENTITY` returning a decimal?
+How can I secure my database code?
+Efficency of stored procedures vs raw queries
+sysarticles system view - what does a status of 57 mean?
+Getting error on SQL Server
+SQL Server Embedded Edition vs SQLite
+Too Many Connections
+How check that the Oracle Database is up?
+PostgreSQL: Using schema and table names from other tables?
+Oracle clean up
+How can I have SQL Server email me the error details when a job fails?
+Why is Row Overflow not working on SQL Server 2005
+SQL Server query result transfer time over VPN (WAN)
+Multiple Distinct Columns
+MyISAM table row size is bigger than the sum of all the columns size?
+Database Design Issues
+SQL Server: Has anyone used the large-page allocations tuning option?
+PostgreSQL: Corrupt primary key, inconsistent table
+Generating large strings for test data
+What is blocking and how does it happen?
+With MySQL Replication, what level of resilience is possible?
+Does msmdpump.dll pass the authentication info to SSAS?
+How to get text for default language
+How to solve UTF8 invalid byte sequence copy errors on a restore, when the source database is encoded in UTF8?
+Advice with date column SQL Server 2005
+How do I force one record to have a true value for a boolean column, and all others a false value?
+SQL Profiler - Scripting a trace with HostName filter
+Database placement on abstract storage structure
+SELECT INTO creates a new table?
+Non-deterministic aggregated result
+What tools are there to generate test data for SQL Server?
+How to implement a 'default' flag that can only be set on a single row
+Best Book to Learn MySQL
+Health checking via Database Mail in SQL Server
+Pros and Cons of SQL Server Database Mail
+SQL Server Checklists
+SQL Server: what should be done when a process is blocking another process?
+xp_sendmail: failed with mail error 0x80004005
+Is there a DBMS that allows the "= NULL" syntax?
+Is there any way to efficiently perform the equivalent of DENSE_RANK in MongoDB?
+Where to put glogon.sql in 32-bit ODAC (11.2.0.2.1)?
+Query Performance Tuning
+MySQL High Performance for Lots of SELECTs/INSERTs/UPDATEs/DELETEs
+PostgreSQL: 8.3/8.4 interface chages?
+Does document "depth" affect CouchDB performance?
+What makes an Oracle Applications DBA different from an Oracle DBA?
+Is Oracle more demanding environment for a DBA than SQL Server?
+Normalization: Is it considered compliant to split static, numeric values like a year into their own table?
+What are the possible considerations and drawbacks of storing binary image data directly in a table?
+MySQL tables do not show up in the phpMyAdmin and MySQLWorkbench
+EXISTS clause in SQL
+Restoring a backup to an older version of SQL Server
+Can't create Windows Login's on a case sensitive SQL Server 2005 Instance - MSG 15401
+How implement a cancel attribute in a table?
+Options for dumping Oracle queries to text files with no database server filesystem access
+Tablespace consumed by views
+Which picture does the ORA-01830 error message refer to?
+SQL Server Service Broker and Deadlocks
+How to delay SQL Server startup
+oracle format specifiers: to_number vs to_char
+Terabyte data set
+Extract specific backupfiles from SQL Server 2008 backup
+How do I row count into groups?
+How do I force SQLite to materialize a subquery?
+SQL Server: does ddladmin rights contain datareader and datawriter rights to the database?
+When to use TINYINT over INT?
+SQL Server: what is the reason to favor customized database roles over fixed ones?
+Application Settings in Database
+Clear all tables with one DELETE
+Is SQL Server Replication transactionally 'safe' across all published tables?
+oracle failsafe - how to start instance in nomount
+Amount of data per node in Neo4j
+How to display a number with fixed number of digits before the decimal?
+MySQL Replace -- Query or in Shell?
+Is there any way to temporarily enforce columnar uniqueness on items currently being inserted?
+Cannot reproduce client SQL 2008R2 error: subqueries are not allowed
+SQL Server 2008 R2 reindex job reorganise getting stuck
+View SQL 2008 sp_cursorexecute Underlying Query and Execution Plan
+What risks are there if we enable read committed snapshot in sql-server?
+MySQL 'LOAD DATA INFILE' : Can't replace entry when foreign key exists
+SQL Server: how to avoid sysadmin rights but give adequate rights
+Optimising BCP performance for BLOB data
+How do you tell which host is close to being blocked in MySQL?
+When you select from a table on an indexed column and order by that column in the opposite direction of the index, does the index help
+Locking, deadlocking workaround while process data at the same table
+Issue with SQL Server 2008 replication
+mysqldump with INSERT ... ON DUPLICATE
+Can you trigger an action when a view is created?
+SQL Server Join/where processing order
+Oracle 10g SGA sizing Help
+Oracle 10g Storage Migration
+T-sql: Select most specific match from table
+Can you control what tags are used in an XML column?
+Trusted Constraints and NOT FOR REPLICATION
+MySQL slow query log: huge query time, no lock time, minuscule number of rows scanned
+Shortest Query to Combine Count and Unique (Oracle)
+Oracle Database Block Size
+FBI on function with concatenated string
+Oracle 10g: Properly using ora_rowscn to detect table row changes (ie, inserts, updates, deletes)
+Foreign Key constraint on fixed value field
+Running query against SQL Server with FreeTDS's bsqldb returns blank output
+What are the performance implications of running multiple smaller DBs instead of a single larger DB on a server?
+Replication error on SQL Server 2008
+Full Name search query
+VLDB - SQL SERVER versus VFoxPro
+Want to order on two columns but not the usual way
+What I can do to speed up Key Lookup in my Query
+Dynamic contacts database
+Indexing for group by + SUM query on mysql
+Is there such thing as Custom Data Types?
+MySQL Master/Slave Master/Master setup?
+Notification on long-running query or deadlock in SQL Server 2008 R2?
+Determine when a PostgreSQL database was last changed
+What is "SAP on Oracle"
+Rows missing after online conversion from MyISAM to InnoDB
+Join condition on complex views
+Restore single page of a database - syntax error
+Unattended/silent install of Oracle XE Express fails
+Check if DISTINCT is really necessary
+How to make a duplicate field cheap?
+Sessions, Processes, Object Instances, Sequential and Parallel Processing Theory
+Can the sorting from an ORDER BY statement be saved explicitly with only one UPDATE statement?
+MySQL Replication : 1 Slave / Multiple Masters
+OEM Grid Control Template
+PostgreSQL: Last access time to table
+Are there any tables that I can get all Oracle supported system privileges and object privileges?
+Running an SSIS package without the SSIS service installed
+Preordering the table by a specified column
+Optimising a Database Shrink (in terms of speed and reducing fragmentation)
+What is the meaning of Microsoft Compatibility Level?
+Can I downgrade SSIS packages to run on older version of SQL
+Update Table with Network Client Connection Status, I need help with DB design. SQL 2008 Ex R2
+What is the purpose of SET NULL in Delete/Update Foreign Keys constraints?
+Applying MySQL 5.1 bin log to MySQL 5.5
+Strange behaviour with Computed Columns in SQL-Server
+How do I load just the data from SQL Server 2005 backup into a 2008 R2 database?
+can I resolve a deadlock with the rowlock hint?
+How and what do you backup for a simple Oracle DB?
+Figuring out database timezone
+Updating 700 million rows to same value
+Things to consider with a bigger table
+MySQL duplicate data entry issue
+Changing column width
+Get timing on individual queries in Anonymous code block
+Cleaning Oracle In-Active Sessions
+Why shouldn't we allow NULLs?
+What are the mandatory/required oracle 11g tablespaces?
+MySQL table_cache and Opened_tables
+Is ROLLBACK a fast operation?
+Is there a way to access temporary tables of other sessions in postgres?
+Indexing - Uniqueidentifier Foreign Key or Intermediary mapping table?
+What is the reason of Host 'host_name' is blocked in MySQL?
+MySQL for Administrators course from Oracle: worth it?
+Functioning of Oracle's Server result Cache
+What are the pro's and con's of using PostgreSQL vs MySQL for binary data?
+Where can I find information on shredding xml with .nodes?
+Materialized views use older dbms_job instead of scheduler?
+SQL Server Internal Inconsistency on GROUP BY
+Can Oracle Text query return the terms found?
+Change tables from one user to another
+Row padding to get more performance
+What types of corruption can DBCC CheckDB miss?
+Check constraint only one of three columns is non-null
+sys.database_files / sys.filegroups VS sys.sysfiles / sys.sysfilegroups
+Can this method for unit testing a stored procedure be improved?
+Clustered monotonically increased index insert performance
+MySQL server has gone away obstructing import of large dumps
+Does running a COUNT() statement using NOCOUNT ON; consume much
+Will creating partitions reduce locking and how do we implement this in sql-server?
+Why are my SQL Server 2008R2 databases not mirroring?
+powershell to get sql server memory counters and show value
+Grant access for any logged in user for common database
+Conversion of varchar data to datetime failing
+MySQL : Is there a command similar to FLUSH STATUS to reset GLOBAL STATUS?
+What are some efficient ways in using COUNT(*) with WHERE
+Best way(s) to time ad hoc queries and stored procedures
+How to set addtime(current_timestamp, '15:00:00') as MySQL timestamp column default value?
+Cannot drop nonexistent constraint and cannot create it either
+Logical operators OR AND in condition and order of conditions in WHERE 
+Using the special Dual table to read sequences
+V$SQL table elapsed time
+Why is there still a varchar data type?
+Are database backups specific to the OS on which they are created?
+How? SQL Cluster with multiple active nodes (not failover)
+Reasons against using local indexes
+Are there significant performance differences when linking to a simple data view, rather than a data table, in a simple data view?
+Materialized views master table
+Insert Into MySQL over linked server when a medium text is the last column breaks Int fields
+Why is my database still fragmented after I rebuilt and reindexed everything?
+Sql Server Management Studio for 2008 Express?
+What will be the best data model for membership based websites?
+Should Query Tuning be Proactive or Reactive?
+Is sharding effective for small collections?
+How to see today compiled object in Oracle?
+Oracle returns an error ORA-01031: insufficient privileges
+log shipping to multiple-read servers
+Postgresql Cost-Based Vacuum Delay parameters
+DB2: Error when using NOT EXISTS with SYSIBM.DUAL in a batch query
+In MongoDB, is having lots of small collections better than having one huge collection?
+Corrupt InnoDB tables after every mysql restart. What's wrong?
+Is it possible to query uncommitted data of a different session?
+Usage of SQL Server 2008 R2 Express. Please Advise
+How to start and then stop one cyclic process
+MySQL : Conditional ORDER BY to only one column
+MySQL CPU Usage
+SQL 2005- stored procedure performance troubleshooting
+What are the causes and solutions for mutating table errors?
+PostgreSQL: Change log file location
+MySQL, foreign key, can't create table error 150
+How to find dependencies on a table in mysql 5.0?
+What are hypothetical indexes?
+What is the best way to mirror an ASPState database?
+What is SQL/PSM and how does it differ from other versions of SQL?
+Postgres plpgsql - Using a variable inside of a dynamic create statement
+Why might a table's data space take up 4x the size of the raw data?
+Add parent_id dynamically based on another field
+How Long Would Take to Upgrade an 1T Oracle DB from 10g to 11g?
+Has SELECT an INSERT clause?
+Can I enable SQLCMD mode from inside a script?
+SQLCMDMODE from SSMS. Can I set -b mode when using :r to include files?
+Oracle 11g setup closes without errors on pre-requisite check
+Oracle get sql redo from log_history
+What are all the reasons/possibilities that may fail to release disk space occupied by TEMPORARY table?
+12.0 Access Database Engine OLD DB Provider Not showing up in SQLEXPRESS 2008
+Intermittent Disconnection to DB on SAN. Event ID 17053 and 9001
+How can a key lookup with zero executions and zero actual rows take time?
+SQL Disk Setup Advice - TempDB, Log DB, Data file placement question
+Is nested view a good database design?
+To NULL or not to NULL?
+Is it possible in SQL Server 2008 to have Structures in one file and Rows Data in another file?
+Resource Waits: Mathematical link between Wait Time and Average Waiter Count
+Data Model For Summarizing Student Info
+How do I map an IS-A relationship into a database?
+What to do with those invalid JAVA CLASS object type objects in SYS prior to the upgrade the oracle db from 10g to 11g?
+Is the mapping between PostgreSQL system tables and information_schema views documented?
+How can I backup & restore a single FILEGROUP in Sql Server 2008
+How does table compression affect SQL Server's buffer pool?
+Determine last usage date of a linked server
+Can a database file be brought back online if the file is recovered from a disk backup?
+How to know when/if I have too many indexes?
+How to drop multiple tables with common prefix in one query?
+Rebooting a MySQL Replication Slave
+What is an industry standard method for verifying openquery connection is open prior to running queries?
+Undo DDL statement on View in Oracle
+Unable to kill SPID
+Does an Oracle nvarchar2 take twice as much space as varchar2?
+Minimum requirements to run Sql Server BCP.exe utility
+Changing Domain on SQL Server
+Will transactional replication push a CREATE INDEX immediately? Or do I need a snapshot?
+Mirroring partner timeout - Not working the way advertised?
+Does putting single quotation marks around numeric constants really protect from SQL injection in MySQL?
+Upgrading Instances with Mirroring
+DBA's Scope in datawarehousing Projects
+Replication slows down on massive deletes
+How to measure the number of database writes on SQL Server 2008 R2
+ORA-01113: file # needs media recovery ORA-01110
+Backup Compression in SQL Server 2005
+How can I generate scripts for all functions in pgAdmin?
+What would cause the speed difference between servers?
+ON DUPLICATE KEY UPDATE question
+Should I Avoid Repeated References to Aggregate Columns in a View?
+Indexing of Data Warehouse tables?
+Does a view need its own foreign key constraints?
+Is there a reason to use extremely abbreviated table names?
+InnoDB has a transaction running, but "SHOW PROCESSLIST;" shows nothing
+How can I help SQL Server recognize my indexed view column is NOT NULL-able?
+Writing a simple bank schema: How should I keep my balances in sync with their transaction history?
+What makes an OLTP database an OLTP database?
+what are steps should i do to make my local sql server connects to a remote sql server on my server?
+Is this a normal set of MySQL privileges?
+Is it safe to let application administrators look at v$session, v$process, and v$sql?
+How can I measure the performance hit of tablespace autoextensions?
+Scheduled backup errors
+Database Transfer from PostgreSQL to MySQL
+What is an advantage or disadvantage for not upgrading database server?
+Why is Oracle using the index here?
+Does the SELECT statement count into DML?
+What does "GIN doesn't support full index scans" mean?
+What is difference between Oracle Apps and Oracle Application Server?
+Any disadvantage to using oraToolkit for installing oracle
+Which workarounds exists to missing relative path feature of SQLCMD :r?
+Weird error on simple query in MsAccess
+Grouping stock in 6 month ranges
+Internal reason for killing process taking up long time in mysql
+MySQL Auto_increment going 2 by 2
+How to get the foreign and primary key details for a table in SQL Server 2008
+SQL query to convert columns into rows
+Creating a GroupBy query to include a result for when no results match
+Possible to make MySQL use more than one core?
+Replication : Which subscription changed a row
+Reindexing Partitioned Table Indexes
+How to create a backup schema script including System Tables in Sql Server 2008 R2?
+How to find the fitting version of pgadmin III?
+How do you gain access to embedded MySQL database via localhost command line?
+sql 2000 trace : sp_releaseschemalock
+sql 2005 - trace capturing all events
+How to design a database for storing a sorted list?
+Is there a need to keep refreshing the indexes from time-to-time?
+Do Oracle databases use Java internally?
+Differences between development and live database setups
+Why SQL Server replication related jobs do not show up under the jobs folder in SSMS?
+Depicting permissions to access table via E -R diagram
+What does it mean by '4M blocks' or '4G blocks' in Oracle?
+Why Clustered Index property is enabled on few columns and not on others?
+Determining max database and table size supported and present size
+What's the difference between Linked Server solution and SSIS solution?
+MySQL: Trying to update to 5.5
+When is an application using too many sessions?
+how to turn off delimiters in generated SQL scripts for data types in SQL Server Management Studio
+Adding a new slave slowing down previous replicas?
+Determining maximum table size, type of engine and type of indexes supported
+What is com_set_option?
+Select only neighbour rows who pass a where-test
+Understanding time format of the EXPLAIN command - Postgres
+Equivalent functions in MySQL that exist in SQL Server
+General Question on how to setup db's for a social networking site
+Database backups
+Best Practice for Folder strucure?
+Set permissions on all objects for SQL users
+For every insert statement I see sp_executesql in SQL Server Profiler
+Simple select statement not returning correct data
+When do hash indexes become reasonable?
+How to avoid table crash?
+Workload analysis before migration
+Why is SSMS inserting new rows at the top of a table not the bottom?
+Consequences of changing NLS_TIMESTAMP_FORMAT
+Benefits of table level locking
+How much memory is needed to keep a table cached? (SQL Server 2008)
+Strictly only RAM matters?
+How can I generate an Entity-Relationship Diagram and SQL DDL statements from natural language text?
+How does an OLAP cube database differ from an RDBMS?
+Oracle Application Server 10g Installation Process
+What system information is stored in the primary file in SQL Server?
+How to sync the data between two identical DB
+Testing stored procedure scalability
+Should fields that aren't needed often be kept in separate tables?
+Gathering information to tune oracle row prefetching
+How can I insert if key not exist with PostgreSQL?
+Is it fine to run a public website on the sql express db?
+How to know which website is causing the sql server to stop responding?
+How do I correctly design this database?
+How to design relationships for variant data?
+How do you encrypt data while performing a mysqldump?
+Which areas of a DBA's knowledge should a developer delve into?
+SQL Query Declaration problem
+How do I load them as varbinary(MAX) format into SQL Database?
+Which is quicker: Select of existing row vs Update where no row exists?
+Full Text Search in SQL 2008
+Deleting all duplicates
+Attach Database Trigger
+Using the name of a table contained in a column of another table?
+MySQL Index Questions
+What is the consensus on using NOT NULL constraints on all text-based fields in a table?
+non-clustered unique indexes on sql server partitions
+SQL Server 2005 Easy way to add all users to a database role
+Migrating from one SQL Server 2008 R2 instance to another
+Recent Queries in SQL Server 2005
+Replicate tables to different database name
+getting error installing oracle 11gR2: cannot access node
+How do I copy my SQL Azure database to a local SQL Server instance?
+SQL keyword difference between MySQL and Oracle 10g?
+Why is 'Allow Snapshot Isolation' set to TRUE on the master and msdb databases?
+Oracle Backup and Recovery Issue
+Unable to BackUp Database on SQL2005
+How to restore a database from a newer version of SQL Server
+sql script repository
+How to convert mysql database charset to utf-8
+Attach SQL Server 2008 R2 on SQL Server Express 2008
+Multi cores and MySQL Performance
+Does 'LGWR' writes to online redo log files strictly in circular fashion?
+If archiving is disabled and the last redo log file is full, why LGWR continues by overwriting the first available active file, not inactive file?
+Dynamically changeable database
+How to replace a CLOB column by a varchar2(4000) column?
+MySQL: How does AES_ENCRYPT turn the password into a key?
+Database design for dynamic Meta fields of an entity that shall be queried intensively
+Export data into word documents
+Migrating or Synchronizing SSAS Changes
+Table partitioning
+About "pg_ctl promote" of PostgreSQL9.1
+Is it possible to fetch or update table data by table field type?
+SQL Server 2008 R2 - Error 18456 State 12 - nothing I find helps me
+What are the best Database Analytics Companies for analyzing several 1000s or Mio. of products,sum them together and analyze them for statistics?
+Best of MyISAM and InnoDB
+How to query given grants on Oracle?
+How should I model this data?
+Grouping results to get unique rows after multiple joins
+Is table aliasing a bad practice?
+Learning Oracle, does it matter if I install 10g or 11g?
+Trying to get multiple mysql instances running on Ubuntu dev box
+SQL Server 2008 Mirroring Pauses without warning
+Compare content of databases in Oracle
+Table Variables - Scope Error - Must declare the variable 'X'
+Oracle RAC can you have a cluster that contains one node
+Oracle 11g - Create Database fails?
+Converting CHAR to BIT
+Return int value from boolean field in SQL select
+How do you kick users out of a SQL Server 2008 database?
+Error restoring SQL differential database files
+Single Drive vs Multiple Drives
+Extreme storage beasts
+How can I get the maxium number of concurrent connections to MySQL over a specific time interval?
+Single data type for imprecise date values, as allowed by ISO 8601
+How can I improve my SQL statement with weekly results with week starting on Thursday or any other day of the week?
+why does my pivot give me an error?
+What is the default order of records for a SELECT statement in MySQL?
+Precomputing expensive aggregations
+Where does my.cnf get stored in Linux?
+What is an Effective Way to Count the Number of Pages in Oracle?
+Is this Index checking logic ok?
+Should you ever not assign an unique ID to each row in a table?
+Set permissions on a view
+Is there a way to have SQL Server format a number into ordinal form?
+Does the pgpool-II extension allow for parallel execution of any query?
+Is it possible to compare timestamps between rows?
+Is storing values of a unique field shared between many web forms bad practice?
+PLS-00306 Error: How to find the wrong argument?
+Document Design and Document IDs
+Snapshot Replication Retention
+How to handle "reference tables" in CouchDB?
+Bad Windows Authentication sign on
+How do I backup SQL Server Agent configuration?
+Should every table have a single-field surrogate/artificial primary key?
+Single database schema or multiple schemas?
+MySQL Replication Troubleshooting
+Working of indexes in PostgreSQL
+Backing up SQL DB more frequently
+Postgres planer JOIN removal
+How do I detach all other users from a postgres database?
+MySQL - Changing DB CHARACTER SET
+MySQL - speed up execution of ALTER TABLE
+SSIS flat file manager - skips the last record
+Case-sensitive query - SQL Server 2008
+Fixing MySQL errors recorded in error logs
+How can I create a notification method when someone adds a user/login to have ‘sa’ access?
+Estimating query time
+IntelliSense not working but it is enabled
+What is the safest way to switch the binlog format at runtime?
+SQL Server Data types and operators clarification needed
+MySQL Grant Permission
+Is it feasible to have MySQL in-memory storage engine utilize 512 GB of RAM?
+PostgreSQL 8.3 - issues with autovacuum
+Designing a database tables for the following scenario
+Pulling an Image from a Database vs pulling from a link to a directory
+Stuck outside MySQL / XAMPP
+Invalid default value for DateTime when changing to utf8_general_ci
+DDL contention on TempDB
+How do you identify InnoDB table corruption?
+How do I configure MySQL '5.1.49-1ubuntu8' to show multibyte characters?
+How to test if a column definition allows nulls?
+Can the replicated database be the publisher with SQL Server
+MySQL Performance Planning
+How to change the datatype of a column from integer to money?
+How to check if subscriber replication initialization has timed out
+MySQL-NT is crashing frequently
+Mirroring problems after removing domain
+Convert Oracle query to MySQL
+Add constraint to ensure flag column is <= sum of column in other table
+Design for file based with many events
+sqlcmd to run large SQL file causes high CPU usage
+"Linked server does not contain table" error when using VFPOLEDB provider linked server
+How to send+update on duplicate a big time series to SQL server
+What should I ask at a MySQL DBA interview?
+sql server 2008 r2 mirroring
+Oracle Backup/Recovery architecture
+SQL Server 2008/R2 recovery model
+Should I record ID numbers in a table where I record who look whom profile page
+What network access do I need when I restoring files using RMAN?
+Is this a standard way to design a database?
+MySQL proxy and SHOW PROCESSLIST query time
+How can I alter the output for the sql desc command?
+How to Recover an InnoDB table whose files were moved around
+MySQL Database Poisoning: How to recover to a known state quickly
+Restore dropped mysql database
+How do you submit a List of items to a Stored Procedure to limit results?
+SQL 2000 Maintenance Scripts
+Query data from multiple linked remote databases
+Is there a way to force sp_send_dbmail to use ANSI, or to not include the Unicode prefix?
+How do I configure a MySQL Cluster with a redundant mysqld host?
+Parallelism Best Practices
+Is it possible to restore sql-server bak and shrink the log at the same time?
+Should I use MongoDB or a NoSQL solution at all for this?
+How to show the column names of a table?
+How to compare the database of a backup from another environment
+Using stored procedures
+Login Problem as SYSDBA ORA-01031
+Modifying table structure within a transaction?
+Automated UML2 Class Diagram generation from SQL?
+Merge Replication between two Embedded Databases?
+Same tables with same data, different SQL Server stored procedure performance
+SQL Server 2008 Maintenance Plan Failure
+SQL Server transactional replication - behaviour of a MERGE command on the subscriber(s) vs. publisher
+MySQL Performance Monitoring
+I cannot access local database on terminal (MAC)
+Internals of Windows-to-Windows SQL Server data transfer
+Consistent logical backup of databases that use MyISAM and InnoDB engines
+Can we capture only Slave_IO_Running in SHOW SLAVE STATUS in MySQL
+How to select the first row of each group?
+Running multiple instances on the same host
+Load balancer versus connection pooling -- is there a difference?
+Why "Begin Transaction" before "Insert Query" locks the entire table?
+Where to look for a bottleneck after elimitating CPU, memory, and disk
+Is there any reason not to use Percona 'innodb_fast_checksum'?
+What is a "heterogeneous query"?
+Multi-threaded replay of master activity for load/performance testing
+About "Transaction ID Wraparound"
+Oracle - REPCAT$ Tables
+Tool to monitor database data
+Quick MySQL Backup
+Is there any way to recover  a database after dropping from phpmyadmin?
+Running a sql server Trace of 1 GB using sqlcmd
+File MDF growth SQL Server 2008
+How do I clear a table from SQL Server's cache?
+Can mysqldump dump triggers and procedures?
+Is there some drawback to define SPARSE columns?
+SQL Server Backups - A couple of questions
+Scheduled backup task doesn't always backup all databases despite always saying job successful
+How to get table columns with datatypes (and lengths) using PowerShell?
+CXPACKET Waits performance tune for SQL Server 2008
+An alternative for sp_unbinddefault
+How to get SQL Server Profiler to show amended tables
+What impact do indexes have on the performance of table modifications?
+What's the easiest way to re-format CSV exports from MySQL into Excel/ flat-file fields?
+What are the performance considerations between using a broad PK vs a separate synthetic key and UQ?
+Listing Non-Record
+How to convert MySQL Keyword to normal column
+Hide column if any value is null or zero via proc sql or view
+What's a good (free) client for Informix on Windows?
+How can I select data and the total to cursors?
+Is it possible to change the Access data source to SQL Server?
+Is SQL_CALC_FOUND_ROWS Safe and Accurate for a Single DB User Environment?
+Code creates different plan when ran ad-hoc vs. in a stored procedure
+Trigger shouldn't block insert
+Multiple operations using WITH
+Difference Between Row Level and Page Level Locking and Consequences
+SQL Server 2005 database engine login failed error?
+Two relationships to same table
+How to get dependencies order
+Query runs a long time in some newer MySQL versions
+SQL Server Agent Job Step "Run As" dropdown
+How to know dependency on a table
+Does SQL server optimize or pre-parse stored procedures?
+SQL Server 2005 database engine login failed error?
+How does Oracle handle composite index lookups?
+Error in in sysft_Name while restoring database
+SQL Server Replication causing locks on table
+Can I rename the values in a MySQL ENUM column in one query?
+Mirroring the Distributor
+Medians, Modes, Percentiles and OLAP
+Identical(?) SQL Server 2005 machines; query takes 2sec on one, 15min on the other
+Representing N:N relation as a functional dependency in a database design
+Small Squares or Blocks after string in table field
+SQL Server Express acting strange
+Where are Full-Text indexes in SSMS 2008 R2
+Setting default charset/collation for MySQL database
+What is an "empty query" in information_schema.CLIENT_STATISTICS?
+SQL Server schema intact but every record from every table is gone
+creating buckets in oracle sql
+Improving the performance of a long query
+SSIS Data Flow Error Output runs all the time
+Postgresql 9.0 adding new database to streaming replication
+Why are Stored Procedure schema changes not being replicated when using ”initialize with backup”?
+Simplified/automated datafile free disk space reclaim
+ADDM report dba_hist_snapshot
+InnoDB create table error: "Row size too large"
+String Pooling for MySQL
+Binlog - 'Race-like' Condition on Replication
+How Does Table Partitioning Help?
+Resetting MySQL Password
+Should I use a storage engine other than MyISAM to optimise these tables or should I get better disks?
+SQL Schema for XBRL Document storage
+Can you give me one example of Business Intelligence?
+SQL Server 2000 - Is this table needed?
+How to report on sparse areas of sparse fact table
+SQL Server 2008 collation arabic
+How SQLite index ID (or line number)
+Using Row_Number to find consecutive row count
+Need to Check if a Table Exists Before Deleting a Record
+SQL Server 2008: How do I change the default schema of the dbo?
+How to start Oracle database's listener service after a change in the IP address?
+Any way around unique index 16 column max
+Is changing the SQL Server port really that much safer?
+Database locking issues?
+What's a good client tool to access Oracle RDBMS?
+MySQL - How do you enter a record with only whitespace " "?
+Using multiple PIVOTs JOINs and GROUP BYs for advanced report generation
+Effect of Oracle on MySQL
+Database after restore process still display Restoring
+How do I create a database+tablespace+user in Oracle 11gR2?
+What's the difference between DBA and DA?
+How to restore a SQL Server 2008 R2 database
+SQL Server 2000: Can't DROP VIEW?
+mysqldump vs LOAD DATA INFILE
+Restore Database from Network Drive
+How to free SQL Server memory?
+How can I design a table for quick versioning of textual data?
+SQL large table design
+SQL Server - what isolation level for non-blocking select statements?
+ADMINISTER DATABASE TRIGGER privilege
+Using Sync Orchestrator to Syncronize two SQL CE 3.5 Databases
+Should you design the database before the application code is written?
+Dropping duplicate|redundant Unique Constraint from FILESTREAM table
+Included Column versus Filtered Index
+How to Prevent an Ever-Growing index file (MyISAM engine) From Causing Disk Fragmentation in Windows (NTFS partition)?
+Does the compatibility level for sql server work reliably for scripts?
+What does `x` stand for in this query?
+What are the concepts that need to be gone through for MySQL DBA?
+Flat file manager TextQualifier not working
+SQL Server 2008 R2 DETA Error: Can not get minimal database information in allotted time
+SQL Server 2008 Replication - Fixed Overhead of Replication?
+Within a PL/SQL procedure, wrap a query or refcursor in HTML table
+How do I record SQL transactions with SQL Server Express
+Possible to detach a database from SQL Server while retaining file permissions?
+How to index this table (a_level, b_level, item_id)
+What units is Page Life Expectancy in?
+Is there an easy way to trigger automatic failover of a single mirrored database?
+32-bit versus 64-bit ODP.NET to Oracle connection
+Oracle Enterprise Manager (OEM) locking SYSMAN account

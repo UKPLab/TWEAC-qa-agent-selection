@@ -1,0 +1,2000 @@
+Are these two languages context free?
+Convergence of Simulated Annealing Based Algorithms
+Practical importance of Turing machines?
+What is $R_\min$ in this formulat for optimal buffer size?
+Understanding Dijkstra's notation $f.x.y$
+Is it possible to decide if a given algorithm is asymptotically optimal?
+Which is more computationally efficient: multiplication or 0 padding?
+What mechanisms prevent a process from taking over the processor forever?
+Finding the complexity of a recursive method
+What is the decision version of independent set?
+Subtracting an integer from an ASCII number
+Slow MIS Distributed Algorithm
+Why is push_back in C++ vectors constant amortized?
+Dynamic Knapsack Problem - Algorithms and References
+Can we say DFA is more efficient than NFA?
+How to the examples for using the master theorem in Cormen work?
+How can $ww = www$ hold for any word $w$?
+Pool of photos for term extraction
+How can SML infer types like this?
+Algorithm books on a range of topics
+Give a grammar to show whether a language is regular or context-free
+clarification about Algorithm of page replacement LRU with reference bits
+Choose a "middle" point from a set
+Regular expression for binary words with few zeros
+MinHeap represented by an array - two simple statements
+Distributivity of $\omega$-regular expressions
+Algorithm for building a suffix array in time $O(n \log^2 n)$
+Transform inverse result
+General start rule question for a context free grammar
+Why is binary subtraction referred to as the invert-add-shift-add method?
+Dfs algorithm and cycles question
+Analyzing programs with multiple for-loops
+0 and 1 Queries in tables of N*N cells
+Is matching with mismatches a special(parametrized) case of Closest String problem?
+Unbiasing of sequences
+The amount of ROM needed to implement a 4-bit multiplier?
+Regular expression for $\{a^k b^m c^n \mid k+m+n \text{ is odd} \}$
+Quality LISP/Scheme compilers to compete with C/C++
+Is NAE-HORN-SAT in P or NP-hard?
+Interesting problem on sorting
+Studies of file access patterns in embedded systems
+Path on an edge-colored DAG using exactly $k$ colors
+Simplifying regular expressions
+Can a CFG end have a non-terminal symbol in the middle of it?
+Find the median of a list of sorted arrays
+Are link-cut trees ever used in practice, for max flow computation or other applications?
+Infinite chain of big $O's$
+Congestion Game with Varying Price
+Help understanding an audio processing algorithm
+Does reduction from an NP-complete problem to some problem $X$ imply that $X\in NP$?
+Is O(mn) considered "linear" or "quadratic" growth?
+What is the system's mean time to failure?
+Finding the minimum subset of intervals covering the whole set
+Why is the Shannon entropy 0.94 in this example?
+Finite automaton for the language of words whose second letter is b
+Computer Algebra: Algorithms for solving equations symbolically
+6-coloring of a tree in a distributed manner
+Is there an algorithm for checking if a string is a catenation of palindromes?
+How to convert a context free grammar (could generate regular language) to a right-linear grammar
+Maximizing profit
+Mean time to failure calculation help
+Can someone help me understand cache conscience radix sort? (excerpt from journal article attached)
+λ-Calculus extensions: meaning of extension symbols
+Difference between intended interpretation and extended interpretation in first-order logic
+Computing the longest common substring of two strings using suffix arrays
+What is the definition of $P$, $NP$, $NP$-complete and $NP$-hard?
+Rigorous proof for validity of assumption $n=b^k$ when using the Master theorem
+Independent set on cubic triangle-free graphs
+Show that the Turing Machine domain can be viewed as a classical planning domain
+Can Turing Machines solve non-decision problems?
+Are programming languages becoming more like natural languages?
+P, NP and specialised Turing Machines
+Problems that are Cook-reducible to a problem in NP $\cap$ co-NP
+Difference between Data point, attribute, feature?
+Why does backtracking work the way it does?
+CFG with regular expression terminals on RHS
+Clear, intuitive derivation of the fixed-point combinator (Y combinator)?
+Finding the minimum subset within a cycle
+Look Ahead buffer vs Translation Look aside buffer
+Big O time complexity
+Quick union and heuristic by size
+Creating a logical circuit
+Unique tilings of squares
+Does $\mathsf{NSPACE}( f (n)) = \mathsf{coNSPACE}( f (n))$ hold for $ f(n) < \log (n) $?
+Process scheduling confusion
+Why are there more non-computable functions than computable ones?
+An example where Knuth-Morris-Pratt Algorithm is faster than Boyer-Moore?
+Why doesn't the Floyd-Warshall algorithm work if I put k in the innermost loop
+Star operation in CS theory
+Quadratic residue and integer factoring
+Regular languages - models of computation
+What use are groups, monoids, and rings in database computations?
+anonymous lambda functions (functional programming)
+Difference between Normative annexes and Informative annexes in ADA 95
+Is it necessary for NP problems to be decision problems?
+HamCycle to HamPath reduction
+Is $(aaaaa)^n aa (aaaaa)^n$ a regular language?
+The purpose of grey node in graph depth-first search
+Complexity of GF(2) and applications to cryptography
+Convex optimisation under linear inequality constraints
+Mapping reductions for dummies
+Tiling of squares
+Weak and strong completeness
+Looking for non-entry level implementation of foundational algorithms and data structures in python. where to look?
+Bipartite graph question
+Meaning of the Halting problem
+Intuition about decidability
+Which non-regular languages are in $AC^0$?
+Non-deterministic Turing machine that halts on at least one branches of computation
+Are there real lexers that use NFAs directly instead of first transforming them to DFAs?
+design of self-loops and final states in fsm
+Running time of a nested loop with $\sum i \log i$ term
+What is an example of complex random string, in the Kolmogorov-Chatin sense?
+Can one have a condition like this in semidefinite programming?
+Process graphs and finding infinite processes
+Can every algorithm's running time be expressed as $\Theta(f(n))$?
+Vectorizing and Array Notation?
+Can we make a problem harder than NP and coNP if they are not equal?
+Definition of Strongly Parsimonious Reduction
+Is the ambiguity of a regular tree grammar decidable?
+Experimental Survey on Different Heuristics for Knapsack Problem
+What do time complexity reductions prove?
+How are programming languages and foundations of mathematics related?
+Polynomial time reductions
+Non Turing-Recognizable from symmetric difference
+How does "δ:Q×Σ→Q" read in the definition of a DFA (deterministic finite acceptor)?
+Proof of SAT is randomly reducible to UNIQUE-SAT
+Is a relational database just a $ \geq 2$-dimensional array?
+What is the relation between functors in SML and Category theory?
+Natural RE undecidable problems but not Turing-complete
+Is every language with a finite number of strings regular?
+Regular language properties
+A variant of the busy beaver function
+How to find $L_q = \emptyset$, a state that is not reachable for any given string?
+Simple lower bounds against AC0
+Not able to convert from NFA to DFA
+"Definition of NP via relations and quantifiers; not via NTMs"
+Is the open question NP=co-NP the same as P=NP?
+Are semantic networks ontologies?
+Travelling salesman problem with detours
+Context Free Grammar for language $L=\{a^ib^j \mid i,j \ge 0; i \ne 2j\}$
+How do I explain that a polynomial time reduction is in fact polynomial time?
+Prove that $\{0^n 1^{n\cdot m} : n,m \in \mathbb{N}\}$ is not context-free
+Hardness of approximating 0-1 integer programs
+Are there subexponential-time algorithms for NP-complete problems?
+Streaming Median
+What is meant by Category theory doesn't yet know how to deal with higher-order functions?
+How does the runtime of the Ukkonen's algorithm depend on the alphabet size?
+Time complexity for modular arithmatic
+What learning algorithm is appropriate for predicting one time-series from another?
+Is $A$ regular if $A^{2}$ is regular?
+Context Free Grammar for language L
+Is pumping lemma for regular languages "closed" against Kleene star?
+Regular and context free languages
+Are co-semidecidable languages separated by decidable ones?
+What is the difference between "for infinitely many n" and "for all n"?
+What is the difference between these terms?
+Why is $(\log(n))^{99} = o(n^{\frac{1}{99}})$
+Counting Inversions Using Merge Sort
+Is this a correct decider?
+Showing that minimal vertex deletion to a bipartite graph is NP-complete
+Polynomial Hierarchy and its Relation to Multi-Phase/States Physical Systems
+Minimizing the full adder - where did this XOR come from?
+Substitution by structural recursion
+Computing inverse matrix when an element changes
+Worst case analysis of bucket sort using insertion sort for the buckets
+Finding the number of iterations to a recurrence
+Algorithm to find the mode in a unimodal array
+Tool/app for learning category theory?
+Why does a recurrence of $T(n - 1) + T(n - 2)$ yield something in $\Omega(2^{\frac{n}{2}})$?
+Algorithm for finding optimal branch points
+Formally describing a sensor network language
+The exact relation between complexity classes and algorithm complexities
+What are some problems which are easily solved by human brain but which would take more time computers?
+Finding the height of a d-ary heap
+A Good Resource for Christofides' Heuristic
+Algorithm for graphically spacing items
+Is 2-DNF NP-complete?
+Simple examples of Artificial Intelligence
+Lossless data compression must make some messages longer?
+Formulas vs Circuits
+How is the following ML Curry expression evaluated
+How does interpreting a script work?
+Doron ZEILBERGER's P = NP computer proof
+Is there an efficient test for if an NFA accepts a subset of another NFA?
+Justification for neglecting constants in Big O
+Factorial usage within proof using the pumping lemma
+How to define at least one occurrence of a string between two tokens in bottom up LALR(1) parser grammar
+Why is left recursion bad?
+How to construct this generalized xor without needing an extra vector?
+When can one use a $O(n)$ time sorting algorithm?
+Finding a '1' cell with a '0' to its right in a binary array
+computability - decidability of a prefix language
+Are all possible programming languages a formal system?
+Using tree search
+Anti-symmetry of polynomial time reductions
+Tasks in which recursion is either the fastest or only way to produce a result
+Equivalence of NFA and DFA - proof by construction
+Why do we use persistent data structures in functional programming?
+Optimal partition of a set of pairs
+Complexity of deciding whether there is a winning strategy in the following game
+If $L$ is a subset of $\{0\}^*$, then how can we show that $L^*$ is regular?
+How can I argue that $3\mathsf{SAT}\leq_p \mathsf{IndSet}$ is polynomial in time?
+Prove that 2-Colourability is in L from Undir-Reachability is in L
+Prove that $0$-$1$ $\mathsf{ Ineq}$ is $\mathsf{NL}$-complete
+How to apply the pumping lemma to $\{0^m 1^n \mid 2n \leq m \leq 3n, m,n \geq 0 \}$?
+Modeling timing characterists of an architecture
+DFA Minimization: Finding all equivalence classes of $\mathsf{R_L}$ for language $011(0+1)^*011$
+Proof-sketch on the language accepted by a Turing machine
+Evaluation of reverse Polish notation
+Confusion related to time complexity of fast fourier transform
+Multithreaded access to a persistent linked list data structure
+CPU Cache is managed by which software component?
+What graph data structure works fastest with Dijkstra's algorithm?
+Is Dijkstra's algorithm just BFS with a priority queue?
+Is search a binary heap operation?
+Confusion related to a divide and conquer problem
+Leftist heap - determining time complexity
+Why does bubble sort do $\Theta(n^2)$ comparisons on an $n$ element list?
+first order logic resolution unification
+Data structure and algorithms for a medical diagnosis software
+String of minimum length in $\{a, b\}^*$ not in a regular expression
+How to find a local minimum of a complete binary tree?
+Constructing right-linear grammar
+Finding simpler equivalent regular expressions
+Are there languages generated by linear grammar which aren't regular?
+What is the complexity of this matrix transposition?
+Can P=PSPACE and PSPACE problems be formulated as $\Pi_1$ formula?
+Solving divide & conquer reccurences if the split-ratio depends on $n$
+How center the eyes of human face at specific pixels?
+What are the characteristics of a $\Theta(n \log n)$ time complexity algorithm?
+Proving non-confluency and adding an equation to make it confluent and terminating
+Why is MAX-2SAT not in P?
+applying CTL/LTL model-checking on some system
+Is there a data-structure which is more efficient than both arrays and linked lists?
+Count unhappy numbers in a large interval
+Statistical anomaly detection in time series
+Closure of regular Language - Transition Function : Sipser Proof
+What is Harrison hashing, its applications in web search engines?
+Shift-resolve parsing - questions
+Decidable languages and unrestricted grammars?
+Approximate target subset by intersecting other subsets
+How does 'deforestation' remove 'trees' from a program?
+Why can the state space of the 15 puzzle be divided into two separate parts?
+ML - Type Interface
+Machine Learning vs System Identification?
+2-D peak finding complexity (MIT OCW 6.006)
+Priority in formal grammar
+Is The Following Language Regular?
+Operators in descriptive complexity
+A* optimality of the expanded node
+Origin of theta-joins
+What does "number of gates" mean in circuit complexity?
+Definition of uniform boolean circuit
+How to relate circuit size to the running time of Turing machine
+Problem with Cormen's treatment of the Rabin-Karp algorithm
+How do we find the optimal modulus q in Rabin-Karp algorithm?
+Minimizing Turing machine-like automaton with no final states
+Why isn't there a big HTM machine already?
+Algorithm for generating heat maps
+DFA to regular expression conversion
+Longest path in undirected tree
+Difference between heuristic and approximation algorithm?
+Does the following transformation preserve context-freeness?
+A program that cannot be written in (simply-)typed lambda calculus but only in lambda calculus or Turing-complete language
+Finding the shortest path in a n-dimensional grid
+Increase-key and decrease-key in a binary min-heap
+Are the non-regular languages closed under reverse, union, concatenation, etc?
+Mutable Object Values in a Functional Interpreter
+Time units required for Interrupt Cycle
+Free and Bound in Lambda Calculus
+Speeding up a program solving Icosoku
+Expressing complexity class P using first-order logic with LFP
+Input size of 3-SAT when analyzing complexity
+Solving $T(n)=4T(n/2)+n^2$
+Algorithm for query comparison
+Are probabilistic search data structures useful?
+The "CPS" approach has done great harm to performance in SML/NJ; reasoning desired
+Usage of master theorem for solving recursions
+Fastest mode of data transfer
+Solve a recurrence by drawing the recursion tree?
+Lookahead set: Determining minimum $k$ such that $G$ is a strong $LL(k)$ grammar
+Find the point with minimum max distance to any point in a set
+Finding the size of the smallest subset with GCD = 1
+Test if there are two subsets which cover a set
+Are these two languages regular?
+min-cut with extra condition
+How to show that the complement of a language in $\mathsf P$ is also in $\mathsf P$?
+Time Complexity of Rabin-Karp matching algorithm
+PARITY using depth one TC0 circuit
+Find node that splits tree in half
+Algorithm for query comparison
+Show complement of language in same complexity class?
+Hash table collision probability
+How to find the maximum independent set of a directed graph?
+Context free grammar for $1^k0^{2k}$
+Maximum variance and useful information of dataset
+Practical application of Finite State Machines
+Why is $n \log \log n$ not tightly bounded by $n$?
+Why does PCP theorem imply that NP problems are hard to approximate?
+What is the Meaning of the Notation
+What can be learned from the weights in a neural network?
+How many Turing Machines are there that run in time $t$ or in space $s$ on inputs of length $k$?
+$1+\epsilon$ approximation for inapproximable problems
+Distinguishing probabilistic, deterministic, and fuzzy matching methods
+Which classifier is more accurate for a SVM classification?
+Number of Hamiltonian cycles on a Sierpiński graph
+Subtracting a two's complement value from another two's complement value
+Asymptotics of a function that decreases as n increases
+Witness length independent $\exists$-Operator
+The math behind converting from any base to any base without going through base 10?
+Constructing PDA to accept language { $a^i b^j c^k \mid i,j,k \geq0, i+2k = j$ }
+How to get the expected running time of an algorithm
+Formal Language Syntax
+Dijkstra algorithm: equal number of shortest paths
+What is the exact relation between programming languages and Turing machines?
+$st$-path with fewest leaving edges
+Studying advice
+Is $\{\Theta(f)|f:\mathbb{N}\rightarrow\mathbb{N}\}$ Dedekind-complete?
+Need help about solving a recurrence relation
+How does one deduce small step operational semantics?
+Are functions in O(n) that are nor in o(n) all in Θ(n)?
+Common Algorithms without Asymptotically Tight Bounds
+The use of master theorem appriopriately
+What is the difference between finite automata and finite state machines?
+Not sure if my solution to following recurrence is correct
+Floyd's Cycle detection algorithm | Determining the starting point of cycle
+Upper Bound on Runtime of Memoized DP Algorithms
+TAPL: Explanation and example(s) for satisfied
+CFG using the set $L =\left\{{a,b}\right\}$ for the expression $a^{m}b^{n}$, where $m \neq n$
+Complexity of a while loop that divides by parameter by three each iteration
+Complexity of slightly tricky for loop
+Using the appropriate machine learning algorithm
+What is a "reduction", really?
+Pointwise mutual information vs. Mutual information?
+What are some of the practical applications of CSP process algebra?
+How to compute amoritized cost for a dynamic array?
+Acyclic Tournament Digraphs and Hamiltonian Paths
+How do we know to what community a vertex belongs to in the Girvan-Newman algorithm?
+If xor-ing a one way function with different input, is it still a one way function?
+Constructing PDA for $a^{2n} b^{3n}$
+Select optimal subintervals from array
+Number of cycles in a graph?
+Implement queue with a linked list; why would it be bad to insert at the head and remove at the tail?
+Proving that a specific language is a CFL, and that another language is not a CFL
+What is the maximum number of shortest paths between any pair of vertices in a chordal graph?
+Karp reduction between FACTORING and a variant of it
+Can I use infinite numbers in a reduction?
+amortized analysis accounting method
+How to do amortized analysis for an expanding array?
+Hash function - uniformity / strong universality
+CFG to Chomsky normal form
+Problem Solving in MapReduce Framework
+Can we say anything about the complement of a regular language?
+Interval Scheduling Problem with more than One Resource
+Proving a language is not regular with pumping lemma
+Potential function in amortized analysis
+Is the following language context free?
+The importance of normal forms like Chomsky normal form for CFGs
+Loop Invariants as Tautologies
+How do convolution matrices work?
+What is an Efficient Algorithm?
+The name of "finding the path of a graph that is a variant of hamiltonian path"
+Flaw in my NP = CoNP Proof?
+NP-complete and polynomial time reduction
+Local Search vs Classical Search
+Complexity of computing the first bits of a minimal permuted adjacency matrix
+Stochasticity of Genetic Algorithm
+How to get expected running time of hash table?
+How to get expected running time of hash table?
+iterative lengthening search example
+Height of a full binary tree
+Decidability over finite graphs of small degree
+Methods for Finding Asymptotic Lower Bounds
+Mutual information and moment generating functions
+Does hardness of a special case imply hardness of a general case?
+Is this a divide-and-conquer algorithm?
+An algorithm for fitting a rectangle inside a polygon
+Constraint violation and efficiency in search
+Landau Notation, Definitions: Limits vs. Corman's
+How does this star1 variation work? (star1 is a stochastic (dice) algorithm for artificial intelligence in adversarial games)
+BIT: What is the intuition behind a binary indexed tree and how was it thought about?
+A "natural" decidable problem not in $\mathsf{NP}$?
+What algorithm would compute the maximum choices from two sets?
+Image pattern detection - Finding similarities in same image
+Construct two functions $f$ and $g$ satisfying $f \ne O(g), g \ne O(f)$
+Does any CPU not contain an ALU?
+How to Prove E $\subsetneq$ EXP?
+Division modulo a prime in modular arithmetic
+Hashing algorithm for millions of variable length strings (URLs)
+Show that the Kleene star of any unary language is regular
+Deciding whether a given language is regular
+Grammar for describing boolean expressions with AND, OR and NOT
+Network modem question
+Does the complexity of strongly NP-hard or -complete problems change when their input is unary encoded?
+Counting solutions to system of linear equations modulo prime
+Perfect shuffle in parallel processing
+Prove finding a near clique is NP-complete
+Is induced subgraph isomorphism easy on an infinite subclass?
+Pumping Lemma for regular languages proof doubt - Sipser Book
+Stereo images rectification and disparity: which algorithms?
+Show that a function belongs to grade of incline
+Assignment problem with no cost
+Prove Matrix Correspondence is NP-complete
+Fastest Algo to separate the 0s and 1s
+Lowest common ancestor similar algorithm for a graph
+Finding the language generated by a context-free grammar
+Weighted sum of last N numbers
+Evaluation metric for an ordering algorithm
+How to understand the SR Latch
+Controlled NOT gate a type of measurement?
+Time complexity 2-opt method
+Is there a strictly non-deterministic one-counter language whose complement is one-counter?
+Recurrence relation with sum
+Matching Lemma with infinitely many symbols
+How are data types related to information theory?
+Difference between pattern matching and pattern searching in terms of DFA/Regex
+Is $L= \{ a^ib^j \mid j\neq i \ and \ j\neq2i \ \} $ context free?
+Complexity of transposing matrices represented as list of row or column vectors
+Applying Expectation Maximization to coin toss examples
+Length-preserving one-way functions
+Computer Architecture-3 level RAM hierarchy
+How hard is a variant of Sudoku puzzle?
+Does closure against countable union survive union of classes?
+Is there a "sorting" algorithm which returns a random permutation when using a coin-flip comparator?
+A vector-like data structure with allocation table; O(1) indexing time required
+Asymptotic Properties of Functions in Complexity Analysis
+Why is the subset of palindromes of a regular language context-free?
+Minimal-envy land division
+Is detecting "doubly" arithmetic progressions 3SUM-hard?
+What is the time complexity of generating n-th prime number?
+Union of two automata
+How to prove polynomial time equivalence?
+How do you apply Context-Free Pumping Lemma to these problems, and how do the approaches differ?
+Getting started with Program Analysis
+Complexity of algorithm inserting an element in a circular linked list at the front end
+Proving NP Completeness of a subset-sum problem - how?
+Can a recurrence relation be translated to a composite function of itself?
+Why is the name half-adder used to represent the half-adder?
+Algorithm to return largest subset of non-intersecting intervals
+DFS miniumum spanning tree
+Destination-based vs source-based routing
+A procedure for Topological sort, proof for its correctness
+Why is there no two-bit data type?
+VAR autoincrement with constant space consumption for super large tables
+How many minimal spanning trees are there when all edge costs are distinct?
+How to prove NP-hardness of a longest-path problem?
+Difference between the languages accepted by two DFAs with different initial state/accepting states?
+Minimize the total execution time of jobs executed by 3 processors in sequence
+Unable to understand control flow in KMP algorithm
+How to reduce from subset-sum problem?
+Sampling perfect matching uniformly at random
+Get the running time of forest disjoint sets
+Synchronization using serialization
+Faster Algorithm for Computing Norm
+Why is $\Theta$ notation suitable to insertion sort to describe its worst case running time?
+Relationship between L and PSPACE
+Star free language vs. regular language
+Polynomial time reductions using binary search
+Why is this true: “There are countably many Turing Machines”
+How to find specificity of a regex match?
+Is this NIM game tree correct?
+How to analyze the Steiner tree problem?
+Find a vertex that is equidistant to a set of vertices?
+What is the difference between Multiprogramming and Multitasking
+Non-trivial runs of Prim's algorithm
+Fastest known algorithm for $3$-$\mathrm{Partition}$ problem
+Decreasing runs of inner loop in outer loop
+Why S=1, R=1 Is forbidden in RS-Flip Flop
+While proving optimality of the A* algorithm, why can we change graphs?
+Poker with Bluffing (game theory)
+Linear time labeling algorithm for a tree?
+Random file access in a block based file format
+Why do negative array indices make sense?
+How to write Context Free Grammar with numerical restrictions
+Can a Turing Machine decide if an NFA accepts a string of prime length?
+For regular languages A and B, determine whether B might match early in (A B)
+Does $c^*(b \cup (ac)^*)^*$ define all strings over $\{a,b,c\}$ that don't contain the substring $bc$
+How to write stack programs for arithmetic terms?
+How to enumerate all combinations of $n$ binary variables s.t. their sum is $k$?
+Shannon Entropy to Min-Entropy
+Throughput measure
+Job scheduling with a bottleneck problem
+Pumping lemma for CFG doubt
+CFG to CNF conversion steps
+Fair division of two-dimensional cake
+Can a Turing Machine decide if a regular expression matches all strings of exactly some length $l \geq 1$?
+What's the regex corresponding to this DFA?
+The complexity class FP
+Lower bound for sorting n arrays of size k each
+Existence of bipartite perfect matching
+Can a two-stack PDA accept language $a^nb^mc^nd^m$ which is not context-free?
+How DMA improves I/O operation efficiency?
+Can a Turing machine decide the language $L_\emptyset$ of machines with empty language?
+How to enumerate combinations in parallel
+Decomposition of graphs that uses centers
+Can you complete a basis in polynomial time?
+Undecidability of the language with its elements(TM) having empty language
+Recognizing loops in computation on LBA
+Proof that regular languages are closed against taking the even-length subset
+Context free grammar construction
+Understanding DPLL algorithm
+Proving undecidability of the language composed of LBAs where their language is empty
+Adapting neural network
+A good introductory book on cryptography
+Reconstructing files from binary
+All paths of less than a given length in a directed graph between couple of nodes
+Time complexity based on two variables
+What are two's complement integers?
+Sort array of 5 integers with a max of 7 compares
+Variation of interval scheduling algorithm with several job categories, only one from each can be used
+Is every regular language Turing-decidable, and how can we prove this?
+A pumping lemma for deterministic context-free languages?
+Are genetic algorithms special instances of random search done in an unexpectedly short run-time?
+Finding recurrence when Master Theorem fails
+Given a chordal graph $G$, what is the complexity of computing the reduced clique graph $C_r(G)$?
+Subset Sum: reduce special to general case
+Regular expression for odd binary numbers without leading zeros
+How can I show a linear languages are closed against concatenating with regular ones?
+Colour a binary tree to be a red-black tree
+Complexities of basic operations of searching and sorting algorithms
+Difference between a TM with an empty language and the one accepting empty string
+Algorithms with polynomial time complexity of higher order
+Why are optimization problems always NP-hard and not NP-complete and what does this mean for other levels of the polynomial time hierarchy?
+Give CFG and PDA for the words that start and end with the same symbol
+How to interpret this formal language definition?
+When two siblings in a heap are equal, how do you bubble down?
+Do any decision problems exist outside NP and NP-Hard?
+Do any decision problems exist outside NP and NP-Hard?
+Constructing a binary tree with given traversals
+Regularity of the exact middle of words from a regular language
+Differences between Fuzzy C-Means and EM
+How to generate a pushdown automata for accepting a language?
+Giving a regular grammar for the language
+What is the relation between P vs. NP and Nature's ability to solve NP problems efficiently?
+Why is it best to use a prime number as a mod in a hashing function?
+What is semantic closure?
+complexity of finding the hampath of length $k$ in a graph with $n$ vertexes where $k < n$
+Is there difference between workflow-aware and non-workflow-aware optimal selection of web-service composition?
+Does $O(1) * o(1)$ equal a $o(1)$ function?
+Number of possible search paths when searching in BST
+Two-State Turing Machine for Parenthesis Matching
+Assign unique integer keys to sets
+How do we determine how much time a multi-tape DTM saves over a one-tape DTM?
+WP pseudocode for Dijkstra does not work
+Program synthesis, decidability and the halting problem
+How to detect sunshine on a photo
+Chomsky form for language of single alphabet member
+Prove that if $\mathsf{P^k}=\mathsf{NP}$ then $\mathsf{NP}=\mathsf{co\text{-}NP}$
+Comparing variations of A*
+Prize collecting steiner tree
+Negligible Function in Cryptography
+CFG for $\{a^i b^j : 2 i<j\}$
+Fair cake-cutting when players join late
+Mathmatical way to represent an image kernel?
+Is this graph a hamiltonian graph?
+Free and bound variables in a lambda-calculus term
+Proving correctness of the algorithm for convex polygon minimum cost triangulation
+AVL tree with fixed height and as few elements as possible
+Seeking popular science book on bioinformatics or computational genomics
+What is the exact difference between a latch & a flipflop?
+Find interval sums with minimum number of operation
+Optimized algorithm to compare templates of two websites
+Node-weighted CSP in Prim's algorithm?
+Why isn't the class of Turing-Recognizable languages closed under Complement?
+Why is the following language not context-free?
+How to find max number with a single-tape turing machine?
+Are context-free languages in $a^*b^*$ closed under complement?
+Which data structure to use to solve equations?
+Closure under intersection of context free binary trees
+Difference between cross edges and forward edges in a DFT
+Why does a polynomial-time language have a polynomial-sized circuit?
+Accurate definition of BPP
+Can one show NP-hardness by Turing reductions?
+Initial temperature in simulated annealing algorithm
+How to master Dynamic Programming?
+Independent set where two vertices need to have distance >= c
+Finding hit ratio of a cache
+Decidability of a Turing machine which always halts in at most ten steps
+Given an NFA A and a regular expression B, is the problem of determining L(A) = L(B) decidable?
+Relaxed Bin Packing Problem
+Average length of s-t (simple) paths in a directed graph
+numerical integral vs counting roots
+Tarjan's Strongly Connected Component algorithm
+In a CSP, what is an extensional constraint?
+Can an FSA count?
+Deciding if a Turing machine has made a left move
+Circles covering a rectangular, how to verify it?
+Simple FSM question
+Why is one often requiring space constructibility in Savitch's theorem?
+Syntax of a Pushdown Automata transition function
+What determines valid and invalid turing machines?
+Space complexity for finding the minimum number outside the list of numbers
+How to check whether a graph is connected in polynomial time?
+How to show that a function is not computable?
+Convert CFG to PDA
+How to find the pumping length of a context-free language?
+Difference between Dominant strategy and Winning Strategy
+Why we need EEPROM in this micro-controller
+Size of a context-free grammar
+Does Turing Machine divergence depend on the input?
+Why the name Recursively Enumerable and Recursive?
+Cartesian construction of PDA and DFA
+Parallel merge sort using hypercube connection template
+Given a tree, find a vertex which maximizes the minimum distance to any leaf
+What are common techniques for reducing problems to each other?
+Interval density of time bounded Kolmogorov complexity
+Why is the laplace transform not popular for image processing convolution?
+The physical implementation of quantum annealing algorithm
+Pumping Lemma on CFL Problem
+What is a computer year?
+How is a witness found in a proof of $\mathsf{NP} \subseteq \mathsf{P}/\log \implies \mathsf{P} = \mathsf{NP}$?
+TQBF as interactive game
+Bridge determination in undirected graphs
+Changing from Kernel mode to User mode (and vice versa)
+Correctness of Strongly Connected Components algorithm for a directed graph
+Looking for Rating Functions
+Is the language $\{0^n 1^m \mid n \text{ and } m \text{ are co-prime}\}$ context-free?
+Proving $\{xx^R \mid x\in L_1, x^R\in L_2\}$ is context-free
+Finding a set of maximally different solutions using linear programming or other optimization technique
+Is the 0-1 Knapsack problem where value equals weight NP-complete?
+Minimizing a multivariate polynomial over the hyper-cube is NP-Hard
+Temporal logic for interface invariants
+Computing the inverse of Johnson-Lindenstrauss transform
+Finding no. of leaf nodes for each node in a BST
+Proving calculating Minhash
+Is this protocol suitable for transaction services?
+Longest path in an undirected tree with only one traversal
+Find non-overlapping scheduled jobs with maximum cost
+Finding the element that occurs more often than the other
+Does this loop invariant guarantee that the variable never changes?
+What complexity class decision problems can be solved by only addition, multiplication, division and subtraction?
+Extracting the set of chains from a partial order
+Time Complexity of Universal Turing Machine Simulations and the Time Hierarchy Theorem
+How to find the minimum number of vertices whose removal make the graph disjoint
+Space filling between random 2D lines
+What does it mean to say that there doesn't exist an algorithm from a TM point of view?
+Maximum number of augmenting paths in a network flow
+If A is poly-time reducible to B, is B poly-time reducible to A?
+Finding shortest and longest paths between two vertices in a DAG
+What's harder: Shuffling a sorted deck or sorting a shuffled one?
+Hardware interrupts from keystrokes
+Approximate time for selection operation using index when equality is on nonkey
+Does converting algorithms into elementary recursive form preserve runtime bounds?
+Did I correctly prune this min-max search tree using alpha-beta pruning?
+Finding cache block transfer time in a 3 level memory system
+How to show that L = L(G)?
+Using pumping lemma to show $L = \{a^i b^j a^k \ | \ k > i + j\}$ cannot be accepted by an FA
+Designing a PDA w/o $\epsilon$-moves and $\leq 2$ states to accept an $\epsilon$-free CFL by final state
+The convoy effect in process scheduling
+Proof of Trakhtenbrot's theorem
+Are permutations of context-free languages context-free?
+Is Hidoku NP complete?
+The grammar of the GeoQuery language
+Have I got the right understanding of the mu operator?
+How to evaluate the clock cycle for MIPS single cycle CPU
+calculate lower bound of busy beaver
+Can you convert a positively weighted DAG into a non-weighted DAG in polynomial time?
+What is a compact way to represent a partition of a set?
+Transforming an arbitrary cover into a vertex cover
+Asymptotics of the number of words in a regular language of given length
+The notion of density of distribution
+Complexity of Set Optimization with Sum of Rational Functions Objective
+What is the name of the optimization that removes self eliminating multiplication-division statements?
+Questions about an answer to a pumping lemma question for CFLs
+Size of maximum clique given a fixed amount of edges?
+Assumptions of One Way Functions
+How to sample uniformly from a stream of elements, some of which are unsuited?
+Explaining why FFT is faster than DFT for the general public?
+FFT implementation using Danielson-Lanczos Lemma
+Is a language with only a stack of fixed-size integers Turing-complete?
+Is it possible to discern the quality of web data from networks derived from it?
+From Whence the Randomization in Randomized Quicksort
+Prove that the Language is Recognizable
+Is the intersection of two context free languages recursively enumerable?
+Why isn't set $\{ \langle i, j \rangle \mid W_i = \overline{W_j}\}$ a recursively enumerated set?
+Can the edges of a graph be assigned directions such that all nodes in a given subset have in- or outdegree 0, and every other node indegree > 0?
+Introduction to complexity and computability
+How does the problem of having a coffee-machine close relate to vertex cover?
+Set cover problem and the existence of such cover
+Is the language $L = \{ a^ib^j \mid i\ \nmid\ j \ \} $ context free?
+What is Pointer Jumping ?
+Asymptotic bounds on number of 3SAT formulas with unique solutions
+Proving ALLTM complement not recognizable
+What is the difference between the semantic and syntactic views of function types?
+How to perform bottom-up construction of heaps?
+Are there a lambda-mu expression equivalent to the yin yang puzzle?
+FFT-less $O(n\log n)$ algorithm for pairwise sums
+Time Complexity of a selection problem
+Parallel Computing: Past Vs Present
+Route on a square grid with only (x,y) → (x,x+y) and (x,y) → (x+y,y) moves
+Bellman-Ford parent pointer (?) negative cycle
+Negative lookahead in LR parsing algorithm
+Why does DFS only yield tree and back edges on undirected, connected graphs?
+Converting CFG to PDA
+Pebbling Problem
+Solving system of linear inequalities
+What makes lambda calculus relevant to study?
+NP hardness through Restriction
+Quicksort Partitioning: Hoare vs. Lomuto
+How to distinguish between the different frequency domains?
+Is there a difference between pure binary and binary?
+Prove NP-completeness of deciding whether there is an edge-tour of at most a given length
+LInear time algorithm to find the diameter of a tree
+The difference between a bit and a Qubit
+Are all Integer Linear Programming problems NP-Hard?
+Show the problem of a machine visiting infinitely many tape cells on some input is undecidable
+Algorithm to determine if a number is perfect on a Turing Machine
+Terminology for vertices in graph connecting vertices "in" and "outside of" a given component
+The List functor
+Identifying an object in an image based on color (AI ?)
+Computing number of block reads given relational algebra statement
+Internal and External Fragmentation
+How to distinguish empty cells from cells outside of the input cells?
+How to tell if a language is recognizable, co-recognizable or decidable?
+Shortest path with exactly $k$ edges
+Proving that finding wheel subgraphs is NP-complete
+Showing transitivity of PSPACE?
+Backtracking for listing k elements
+Does our PC work as Turing Machine?
+Finding the largest 3-clique-free induced subgraph
+Null Hypothesis in Analysis and Testing
+Collisions of a compression function
+Prove that context free languages are not closed under swapping prefixes and suffixes
+Predicting energy consumption of households
+How to prove Transitive property of Reducibility with a TM?
+How to practically construct regular expander graphs?
+Reduction from 3-SAT to a graphe problem
+How to construct and write down a Turing machine for a given language?
+Find maximum element in sorted arrays in logarithmic time
+VC dimension of linear separator in 3D
+How hard is it to solve for $P$ in $A = PBP^{-1}$?
+Prove NP-completeness of deciding satisfiability of monotone boolean formula
+Proving that Turing Machine M runs in time $O(2^{dn})$
+Towers of Hanoi but with arbitrary initial and final configuration
+Is there a name for complement of recursively enumerable set?
+Best problems that are prone to parallelization?
+How to reduce INDEPENDENT SET to INDEPENDENT SET SIZE?
+Data Structure for Set Intersection?
+Determining if a TM decidable or not, with limited information
+what is glushkov NFA. What is the difference between Glushkov NFA and Thompson NFA?
+Is this strange language context free?
+How are two layer feed-forward neural networks universal?
+Proving language in Space Complexity
+Decision vs Optimization version for Problems of two Parameters
+Algorithm of Communication with Failures
+2D convolution: Flipping the kernel?
+Prove that $L_1$ is regular if $L_2$, $L_1L_2$, $L_2L_1$ are regular
+prove no DPDA accepts language of even-lengthed palindromes
+Notions of information content and randomness of binary square matrix
+End-Of-The-Line Augmented Problem of PPAD
+Finding a tree that approximates the distances and total weights
+Proving that $\{0^n 1^{n^2} \mid n \in \mathbb{N}\}$ is not context-free
+concurrency and hardware
+Can all permutations of a set or string be generated in O(n log n) time?
+Encoding row types
+How to eliminate for/if/while from algorithms when it's possible
+Is the language $a^{3}b^{+}$ the same as $\{a^{3}b^{n}, n \geq 1\}$ ? and what is the result of pumping this?
+Fractional Knapsack in linear time
+Find a hole while travelling along an infinite wall
+Is {xyx | |x|≥1} context-free?
+What does the posterior probability of a variable mean in the Bayes' rule?
+Particularly Tricky Recurrence Relation (Master's Theorem)
+How is the Liquid State Machine's readout function trained?
+Which nodes do I give the input to in a Liquid State Machine?
+Once taught, should I feed back the network's actual output into itself in an Echo State Network?
+If $L = L(M)$ then $L$ is a subset of $L(M)$ and $L(M)$ is a subset of $L$
+Can a runtime environment detect an infinite loop?
+Show that TQBF $\notin$ SPACE$((\log{n})^4)$?
+performance between the data structures
+Cost at Each Level of a Recursion Tree
+How come the Bernstein operator creates a polynomial of the same degree as its input function?
+Resolving this recurrence equation
+How to represent OOP concepts in algorithms in a standard way?
+Formalisms in concurrent and/or distributed programming?
+What is the difference between a 'page' of memory and a 'frame' of memory?
+Dynamic loading vs. dynamic linking?
+How to take complement of a language?
+Upper bound on register machine contents
+k-path problem - P, NP or NPC?
+Predict binary occupancy vector from history of vectors
+proving $P \subseteq PCP(0,O(log(n))$
+Is linear-time reduction symmetric?
+The length of the smallest co-prime chain between any two integers
+Show that this language is in NP $\cap$ coNP
+Is the problem of evaluating a boolean formula on a given assignment P-complete?
+Finding Hamiltonian cycles in polynomial space
+Big O notation of max?
+What type of formal notation is being used here to represent functional algorithms?
+Simulation BPP by Pseudorandom Generator
+Performance differences between Go-Back-N and Selective Repeat ARQ protocols?
+Generating 3SAT circuit for Integer factorization example
+Given the logical address, how to extract the page number?
+How is sound input and output data converted to use with machine learning networks?
+Sorting Problem
+P is contained in NP ∩ Co-NP?
+Random generator considerations in the design of randomized algorithms
+Determining grammar decidability
+Weak Precedence Grammar and Parsing
+Reduction CVP to CFG problem
+What is a sort in programming language semantics?
+reducing Max3SAT to Max2sat
+Logical conjunction of two binary decision diagrams
+Binary decision diagram for a six-figure Boolean function
+Best case analysis for Shell sort
+Job assignment problem
+Chazelle's discrepancy book: greedy method
+Is there a binary search tree datastructure which can avoid becoming badly weight-balanced?
+Without using pumping lemma, can we determine if $A =\{ww \mid w \in \{0,1\}^* \}$ is non regular?
+NP complete problems that are solvable in polynomial time if the input (e.g. number of variables) is fixed?
+Hardness of approximation of the 3 colorability problem
+Is the language of binary representation of perfect squares regular?
+Is there a binary tree structure with fast access to recently accessed elements and worst $O \left( \log n \right )$ complexity?
+k-basis representation of natural numbers
+Sublinear query time for the $i$th element of an array after some additions?
+NFA to recognize bit strings containing 01111110
+Algorithm analysis question in growth of functions
+Algorithmic analysis using log
+Proving that language is regular or not regular
+Light approximation for shortest path tree
+Regular expression for the strings without a particular substring
+How to distinguish whether a sample is from distribution $\chi_1$ or $\chi_2$?
+Alpha-Beta pruning in chess?
+Optimal upper bound on the number of states in the complement of an NFA
+Complexity of finding a subset of vertices within distance k of each other, given a set of vertices
+Which theoretical parallel model is closest to CUDA?
+Prove that inserting $n$ sorted values in to an AVL using AVL insertion is $\Theta\left (n \log \left ( n \right ) \right )$
+Easiest way to write a grammar?
+Why don't we scale the cost of memory access when analyzing runtime of algorithms?
+Disk scheduling and process scheduling
+Toads and frogs game algorithm
+change the info part of each node in binary tree
+Changing AVL's balance factor to some other $s>2 \in \mathbb{N}$
+How to measure "sortedness"
+Clique in P when the input graph's connected components have at most $3\log|V|$ vertices?
+Classes of NFAs which allow efficient subset testing or unambiguity conversions
+A Problem on Time Complexity of Algorithms
+What Measure of Disorder to use when Analysing Quicksort
+Computability of Kolmogorov Complexity
+Can we understand SVM without knowledge of Machine Learning
+Can we have a general function of any function this way?
+Vertex Cover problem modification
+How to generate uniformly random binary trees?
+PDA for this context-free grammar
+What's the vertex cover of the null graph?
+Finding the lower bounds of an algorithm
+Rearrange a sequence of real numbers to satisfy polynomial inequalities
+Code metric for code redundancy or code cloning
+Solving a problem related to convolution
+How do I compute the luminance of a pixel?
+Amdahl's Law and Computer Science
+Euclidean Steiner Tree Question in Approximation Algorithms
+What is the fastest to find just smallest prime number to a given number N where N can be as large as 10^18?
+Finding largest value for $\frac{\phi(i)}{i}$ for $i \in (2, N)$
+Compare two methods of random permutations
+Can a language have $\Sigma^{*}$ as its syntactic monoid?
+What does 'true concurrency' mean?
+Time complexity in Big O notation for Harmonic series with first k terms missing
+Efficiently finding key sets
+Can the heaviest edge ever be in an MST?
+Reduction from Vertex Cover to an Independent Set problem
+How can Computer Science theories and inquiries be resolved?
+relational algebra and SQL
+Reducing from Hamiltonian Cycle problem to the Graph Wheel problem
+Show that it is undecidable if two Turing Machines accept the same language
+What does it mean to say that a language is "effectively closed" under an operation?
+Find the longest subsequence of two strings
+PDA with 2 stacks
+Sequential hash tree traversal
+Is $L$ always context free?
+Finding cycles in a graph
+1/r attractive force by cellular automaton
+Converting an NFA to regex using GNFA algorithm?
+Is there an always-halting, limited model of computation accepting $R$ but not $RE$?
+What was going on before PAC learning
+Problem regarding Turing Machine notation
+Finding the required value of an algebric expression
+Wheel subgraph problem
+Strategic vertex labeling
+Show that Vertex-Cover is NP-complete, using Stable-Set
+Each of the two sets is recursively enumerable given their cartesian product is
+Parsing a string with LR parsing table
+NEXP = Σ$_2$ ⟹ NEXP = MA?
+Confusion related to time complexity of dynamic programming algorithm for knapsack problem
+Issues with an optimization problem
+Balancing subproblems in resilience testing
+What makes Bayesian Networks decomposable into joint trees?
+Register Machine code for Fibonacci Numbers
+How does a program execute with respect to the operating system?
+What is the purpose of Bayesian networks?
+Complement of halting set is not r.e
+Algorithm for difference of two semi-decidable languages
+Issues with using greedy algorithm (Interval scheduling variant)
+Confusion related to calculating time complexity
+How to convert NFA with null moves to NFA without null moves?
+Definition of “K-fairness” with respect to concurrency?
+Reducing from Hamiltonian Cycle problem to the Graph Wheel problem cannot be proved vice versa
+Pushdown automation where number of letter `a` is at least as twice as letter `b` in the word
+Pushdown automation where number of letter `a` is at least as twice as letter `b` in the word
+Proof that the regular languages are closed under string homomorphism
+Solving a variant of interval scheduling problem
+how to represent Sparse Matrices
+Understanding why the polynomial $p(n) = \sum_{i=0}^{k} a_in^i$ is in $\Theta(n^k)$
+What is an appropriate global optimization technique for a noisy and expensive function?
+In the Hopcroft-Karp algorithm, what is the purpose of the breadth first search?
+MAX 10-SAT Algorithm
+Is “Find the shortest tour from a to z passing each node once in a directed graph” NP-complete?
+Shortest sub-sequence of one string, that's not a sub-sequence of another string
+Is there a faster solution for the Google Code Jam Great Wall Problem
+Example of a non-context free language that nonetheless CAN be pumped?
+Is this simplified consensus problem easier than the original?
+Find longest common subsequence in limited space
+What is the difference between "definition" and "inductive" in Coq?
+Graph Has Two / Three Different Minimal Spanning Trees?
+Partial recursive function and Turing machine
+Are all databases reducible to this ultimate abstract database design?
+Realtime hardware/software versus PC software/hardware, how are these distinct and alike?
+Please explain "decidability" and "verifiability"
+Is there an affordable experiment which shows chips can't get much smaller?
+The choice of programming language and the length of a program
+Proof that fast broadcasts have to target larger cycles first
+Signal-based Search
+Converting (math) problems to SAT instances
+Can this grammar be simplified?
+Using a computer algebra system to optimize mathematical expressions
+The sum of all integers less than n with a zero
+Conditional Probabilities as Tensors?
+Express boolean logic operations in zero-one integer linear programming (ILP)
+Start using SAT Solvers
+Equivalence of logical Formula (Kripke structures)
+Algorithm to find a line that divides the number of points equally
+Are there any problems in $APX - PTAS$ that are not $APX$-complete?
+Randomized Algorithms Probability
+Shortest paths candidate
+Algorithm to solve job assignment problem
+Why does Shellsort work well on Sorted and Reverse ordered lists?
+Trace dependents & precedents of a program in an imperative language
+Finding the path of a negative weight cycle using Bellman-Ford
+Hanoi tower with forbidden direct move from source to destination
+In flow networks, may source/sink have incoming/outgoing edges?
+Modeling the problem of finding all stable sets of an argumentation framework as SAT
+What randomness really is
+Is the language of words containing equal number of 001 and 100 regular?
+Undecidability of whether a given TM halts or only has loops which can be detected by some TM
+Graph estimation in high dimensional data
+Variations of Omega and Omega infinity
+Longest cycle contained in two cycles
+Why do the sequent calculus NOT left and NOT right rules work?
+Shortest path with odd weight
+Principles of Distributed Computing - "processors" and "states"
+Compare speed of two algorithms?
+Load balancing. Why not use priority queues?
+DFA: Can the set of States Q be empty by definition?
+If A many-one reduces to B, does the complement of A many-one reduce to the complement of B?
+Intuitive way to understand the triangle spectrum?
+Correctness-Proof of a greedy-algorithm for minimum vertex cover of a tree
+Grammar that numbers of letters `c` is greater than number of letters `b`
+Bounding rectangle of a line
+Lower-bound complexities for finding common elements between two unsorted arrays
+Is there a program to solve a metric TSP for 80 edges at optimum?
+Grammar that contains letters a,b,c and number of letters $c$ is greater than number of letters $b$
+Are those definitions of universal hash family equivalent?
+Proving that if coNP $\neq$ NP then P $\neq$ NP
+Proving that the largest number of leaves in an $n$-ary tree of height $k$ is $k^n$
+Randomized convex hull
+Design a Turing Machine Checking if Apples and Bananas are Even
+Showing filling a container with rectangles is hard by reducing from SUBSET-SUM
+Why do most books say that a 1 bit branch predictor mispredicts on the first loop iteration?
+"At least one" clause in Relational Algebra
+Overlap Maximization problem
+CNF: Recursion in CFG
+Practical Applications of Radix Sort
+Efficiently map different codes to rotation-different codes
+Complexity of $Ax\geq 0$
+Is the universe problem for one-counter automata with restricted alphabet size undecidable?
+What's the difference between a stream and a queue?
+Longest path in grid like graph
+Finding all vertices on negative cycles
+$\mathsf{2EXP} = \mathsf{EXP}^{\mathsf{EXP}}$?
+Is it possible that the union of two undecidable languages is decidable?
+Parallelization of an iterative function application
+Regular language proving
+Is there a mistake in the expression for clean behavior in Pnueli's article from 81'?
+Hardness of a special case of maximum matching
+Given an n-state TM, can we construct an m-state TM (m>n) to determine if it halts?
+construct a TM from a PDA
+Algorithm to determine whether two regexes are equivalent
+Normal form Lambda calculus expression
+Information of a stream of bits
+Team construction in tri-partite graph
+Proving that $\text{PCP}(O(\log n),1)\subseteq \mathsf{P}$
+Is there an algorithm to find the best strategy for a game?
+Does reachability belong to P?
+Find the weight of the lightest path from u to v
+Can a Boolean circuit be considered an algorithm?
+$\mathsf{RegExpEq_*} \in \mathsf{coNPC}$ but why isn't in $\mathsf{P}$
+Assuming NP $\neq$ P, are there NPI languages only P languages reduce to?
+What is the difference between Transitive Closure and Join?
+Preventing oversell, allocation of limited resources with overlapping properties
+Complexity of an algorithm for bounding a region in 2D
+Can a perceptron forget?
+Infinite languages and undecidable languages
+How approximate are "approximate" nearest neighbor (ANN) search algorithms?
+Using Little's law to find the average N of customers
+Why is the size of the search space 2057 in the 8-queen puzzle?
+When to use SAT vs Constraint Satisfaction?
+Prove that if a problem L can be decided in polynomial time, then L ≤p L' for any other problem L'
+Looking for the English name of algorithm using a precomputed array for interval sum computation
+Nondeterministic finite state machine without any initial state possible
+How to write register machine code for Fibonacci
+Computation of busy beaver function
+Efficient algorithms for finding a region in $\mathbf R^2$
+Is np-complete an equivalence class?
+Is it impossible to truly emulate a system if its actual clock speed is the same?
+$2k$ number assignment
+Multiplying intervals in Two's complement
+Paper with proof that $L=\{ a^n b^n \mid n \geq 0 \} \cup \{ a^n b^{2n} \mid n \geq 0 \}$ is not Deterministic Context Free?
+Is $L = \{a^jb^ia^{j-i}\mid i,j \ge 0\ , j > i\}$ context-free?
+Is constant a variable or subtype?
+Ideal number of participants for evaluation of development approach / software architecture
+Differentiate between humans and robots using their mouse movement patterns
+Elegant approach to finding largest $n$ such that $n\lg(n) \leq 10^6$
+Traveling salesman problem - negative distances allowed
+van Emde Boas tree: why store max recursively?
+Exponential reduction vs Polynomial Reduction
+Who are the legislators of Paxos?
+Convex Hull on a Spherical Surface
+'Stones' game complexity
+Finding least number of line segments with length $L$ that cover $N$ points
+Deterministic Turing Machine with infine tape in both directions
+Show that the equivalence problem for deterministic Turing machines and its complement is not semi-decidable
+Is it legal to use non-terminal twice in Backus-Naur grammar
+What does the R superscript notation mean in regular/formal languages?
+Definability of Truth Assignments
+Name and complexity of a problem concerning metrics
+Insertion sort Proof by Induction
+What is a "wasteful" execution? And a "schedule"?
+In control flow graphs, what is the difference between a path and a branch?
+Is it NP-hard to fill up bins with minimum moves?
+Bloom filter and perfect hashing
+Trouble understanding this dynamic programming solution
+Language independent software libraries
+Complexity of a hash tables with balanced trees in the buckets
+Doubts on Definition of Indistinguishable Encryption in the Textbook
+Nash Equilibrium in Tree of Bounded Degree
+What is a Turing Machine in class coNP
+How to prove formally that grammar isn't LR(1)
+Finding a winning strategy for toads and frogs
+Using software to calculate the complexity of an algorithm
+What is a preterm parser?
+What does $A^B$ mean?
+Evolutionary algorithm for the Physical Travelling Salesman Problem
+Proper terminology in Prolog/logical programming theory?
+Do undecidable languages exist in constructivist logic?
+What are lattices used for?
+What the difference between the Fourier Transform of an image and an image histogram?
+Must a deadlock necessarily occur if the four conditions exist?
+Max-Flow: Detect if a given edge is found in some Min-Cut
+Coordinated Attack Problem On The Arbitrary Graph
+Minimal positive difference of a mulitset of real numbers
+Quasigroups, congruences and recognizable subsets
+Convex polygon formulation
+General question about how CPUs send and receive data/bytes to hardware?
+Are runtime bounds decidable for anything nontrivial?
+What are degenerate polygons?
+Permuting natural numbers
+Multiple-Choice Questions about decidability
+How to design this synchronous circuit?
+Halting problem
+Why NP is not closed under Turing reduction
+Which areas in CS will be (or have been) most affected by fully homomorphic cryptography?
+Closure of Star-Free Languages under Substitution
+PERMUTE-BY-SORTING with similar priorities
+What is the difference between Babbage's analytical and difference engine?
+Proving that CFLs are closed under even-ness using grammars
+Constructing a Divide and Conquer Algorithm
+Hierarchical Paging
+For Djikstra's algorithm, why are we surely done if we update all edges $|V|-1$ times?
+Why is the node with the greatest DFS post-order number not necessarily a sink?
+Use minimum number of swaps so each bin contains balls of the same color
+How can you see which points in the spectrum is from which pixel in the original image?
+Retrieving data from hash table ordered by insertion time
+serial number of combination
+Are these languages RE? How would I determine this?
+Optimal algorithm for signaling for help?
+Given NFA to recognize a language, construct a new NFA for that language without the empty string
+In a DFA, does every state have a transition on every symbol of the alphabet?
+Prove a bisimulation relation
+Where can i find literature about the $\frac{4}{3}$-conjecture for approximation of the Metric TSP?
+What are the drawbacks of using an algorithm that is not backwards stable?
+Name of an Exact Cover by 3 sets variant
+Efficiently checking if two star graphs are disjoint
+What are flops and how are they benchmarked?
+Exact Inference in Bayesian Networks
+Question about the formal proof of the inorder traversing
+Can we minimise regular expressions using known DFA minimisation algorithms?
+Broadcast with Limited Spreading
+Start simplex method from feasible internal point
+Multicommodity shortest path problem on a directed acyclic graph
+Computer Vision - Algorithm for reconstructing tilted image
+Is this formal grammar context-free (CFG) but not context-sensitive (CSG)?
+Contrasting Peterson’s and Dekker’s algorithms
+Proving that a BST with N>=1 nodes will have log(N+1) levels
+Is there a way to test if two NFAs accept the same language?
+Is CFL closed against exchanging complementation and reversal?
+Count number of special onto functions
+Priority queue with ubounded number of elements (i.e., with dynamic storage)
+Proof of Program Correctness - Loop Invariants
+Myhill-Nerode style characterization of CFL?
+Evolutionary algorithm - how to select the parents
+Is there a formal CS definition of VCS and file versions?
+How this expression leads to the given sequence
+A regular expression for strings with at most one triple of adjacent zeroes
+Where am I wrong?: "countability" and "recursive enumerability"
+Worst case scenario in binary search tree retrieval
+Does PETSc really give speedup?
+Quantum computing roadmap
+Correct mapping "update" notation for computer science papers
+Is the following langauge in $P$ or $NPC$
+Cross platform apps and programing languages...how is it done?
+Behavior of different multiplied and added time complexities
+What makes type inference for dependent types undecidable?
+Why is NFA minimization a hard problem when DFA minimization is not?
+how do you define functions with denotational semantics?
+Space(n) not closed under Karp reductions - what about NTime(n)?
+Effect of increasing the capacity of an edge in a flow network with known max flow
+Surprising and basic data structures
+Nash equilibria in 3-player game with symmetry
+Find the number of topological sorts in a tree
+What's better for an algorithm complexity, O(log n) or amortized O(log n)?
+Is it decidable if a language described by number of occurences is regular?
+How to perform alphabetically ordered DFS?
+Contrast Enhancement For An Image Using A Gaussian Function
+Library for Maximum independent set on a sparse bipartite graph (from sparse matrix)
+How to decide the scope of the following lambda expression?
+Time complexity of mutually recursive functions
+Is it possible to write a universal loop program for if-then & loop programs and it is possible to write a universal while program for while progra
+Regarding to the speed of supercomputer
+Removing identical variables in CFG Unit Productions
+Relationship between Undecidable Problems and Recursively Enumerable languages
+$FIRST_k$ set -- is algorithm given by Aho&Ullman correct?
+What kinds of programming pitfalls modern languages are able to express?
+How to cluster nodes based on the number of dependencies
+Get nodes that are participating in any cycle in a graph
+Longest subsequence such that A[i].x < A[i+1].y
+How is a hypergraph different from a bipartite graph?
+Can the Lambda Calculus or Turing Machines model signals, callbacks, sleep/wait, or buses?
+Can we create recursive functions only by using if-else statements?
+Is this problem in P: Finding a common key for a collection of systems of equations?
+Find all items which are subsets of an item
+defining lambda expressions
+How a TM can represent any algorithm?
+I'm lookin for a method to construct a particular grammar?
+Minimum number of vertices to remove to bound the largest connected component of a graph
+Find which vertices to delete from graph to get smallest largest component
+Seeding the Mersenne Twister Random Number Generator
+Is there a name for this kind of graph?
+Difference between an a microcontroller and a system on a chip?
+Why/how does the definition of PCP use randomness?
+Online algorithm for planning
+Understanding an example of coin toss expectation maximization
+How to prove a problem is NOT NP-Complete?
+Should Expectation Maximization take into account the Naive Bayes' independence assumption?
+Is the language $0^n 1^n 0^n$ recursive?
+Why don't we emphasize "length of input string" when considering time complexity of sorting algorithms?
+Largest reported speedup for a parallel computation?
+Can expected "depth" of an element and expected "height" differ significantly?
+Why do Bloom filters work?
+Use complementary slackness to prove the LP formulation of max-flow only need polynomial number of path constraints
+Differences between basic, complex and terminological facts in a Knowledge Base using First-Order Logic
+distance between histograms
+Upper bound on the number of edges relative to the height of a DFS tree
+Heap - Give an $O(n \lg k)$ time algorithm to merge $k$ sorted lists into one sorted list
+Combination with a minimum number of elements in a fixed length subset
+What should I do with a bunch of 16-17 year olds to get them interested in computer science?
+Number of permutation cycles in matrix transposition
+Existence of Hamiltonian cycle in a 3-regular $C_n$-free graph
+How to prove the asymptotic upper bound for $T(n) = 2T(\lfloor n/2\rfloor + 17) + n$ is $O(n \log n)$?
+Are HTML and CSS regular languages?
+Intuitive description for training of LSTM (with forget gate/peephole)?
+Complexity of a particular algorithm
+Equivalence of regular expressions
+How does a race condition work?
+PCP deterministic emulation
+Properties of polynomial time many-one reductions
+Quantum computers, parallel computing and exponential time
+A hard $n$-fold integral
+Analysis of algorithms, 'big O' question
+Significance of parameters in Tiny Mersenne Twister algorithm
+Can a Turing machine decide if a LOOP program stops for the integer input 0
+Binary regular language?
+How hard is finding restricted assignment of 3-SAT satisfying $7/8$ of the clauses?
+What future working opportunities do computer science students have?
+r-regular graph and hamiltonian path
+Is oracle computer capable of doing infinite loops?
+Deduplication: how to implement content-defined chunking?
+Is there a name for the class of operations containing prefix, suffix, etc?
+circle packing algorithm used by Percolator
+Are there repositories of automatically generated (spam) webpages?
+Example of a false proposition when assuming Type : Type
+Complexity of taking mod
+Checking whether a digraph on $n$ vertices contains exactly $10\sqrt{n}$ strongly connected components in NL
+Hierarchy of undecidable languages
+What is a good algorithm for generating random DFAs?
+Connection CSP and 3SAT
+A text-classifier that explains its decisions
+Show that only a few multiples of .01 decimal are powers of 2
+Proving that a language is not in P using diagonalization
+Difference between Computing Architecture and Platform in Computer Science
+What is the proper runtime for visiting all outgoing edges in an adjacency list?
+Multicommodity circulation formulation
+How many words loaded on a cache miss
+How to do pixel array rotation whose angle not a multiple of 90 degree?
+How to show that problems are in NP?
+Find node with key of at least n in a binary search tree
+Can we read N numbers in O(N) time?
+Which are the most effective sorting algorithms for a large dataset?
+Binary Search Tree: Replace $k$ min elements with their average
+Finding an Uncomputable Function
+Semi-local Levenshtein distance
+Minimum path in an undirected graph with 2 kinds of edges
+Where can a student learn image processing?
+How does one efficiently produce all binary sequences with an equal number of 0's and 1's?
+Theta Runtime of Nested for Loops
+Nash Equilibrium of 2-players game
+Proving a string is random
+Sabatier conjectures
+Automaton for substring matching
+Solve modulus with constraints for multiple equations
+Pairwise comparisons with confidence
+Complexity of recursive solution to coin change
+Speaking of "randomness" in computing terms, to what sense can any extant digital processor make "random" results?
+Partition problem with distinct integers
+The language of all borderless words
+Event Prediction through Machine Learning
+Dynamic Programming To calculate the combinations
+Finding the difference between two number in a sorted list using divide-and-conquer
+In the "tall cache assumption" what does $\Omega$ represent?
+Time complexity and space complexity in recursive algorithm
+Empirical studies about benefits of Q&A sites for programming
+maximal subset such as $A[i].X \lt A[j].Y$ for each $j \lt i$?
+Guessing the smallest unique positive integer
+Standard Parameters for Genetic Algorithms
+A variant of job assignment (scheduling) problem with variable time span
+About metric TSP instances
+what does it mean by problem of size $0$?
+Are there peer-reviewed papers studying the pros and cons of functional programming?
+3 Colorability reduction to SAT
+Subset optimization problem
+What are the criticisms regarding the performance of HTM?
+Automaton equivalent of the π calculus?
+Howto formally go about proving that two LTL formulas are equivalent?
+Is lambda calculus suitable for expressing semantics of non-functional languages?
+Why is software emulation of alternative architectures so hard/slow?
+Find out the largest LCM of the partitions of n
+Do I understand pseudo polynomial time correctly?
+Why is selection sort faster than bubble sort?
+How to find polygons overlap reign
+What mathematics can be interesting for these CS areas?
+Why is this sequence of recurrence relevant?
+Contracts for Java Bytecode
+Consensus and Perfect Failure Detector
+Does an abstract syntax tree have to be a tree?
+Deciding between two algorithms with similar runtime in two parameters
+Derivation of the energy function of a hopfield network
+Coordinated Attack Problem Different Requirements
+Is this NP-hard: min-weight n-clique in a complete n-partite graph
+Electrical resistance of expander graphs
+Iterative and/or tail-recursive implementations of merge sort?
+Number of distinct substrings in a string
+Remove divisors from a set of integers
+To what does typing correspond in a Turing Machine?
+3D wireframe algorithm
+Subset product problems (one "easy" one "difficult")
+How to formulate a computational problem rigorously?
+Recurrence for recursive insertion sort
+Different feature sets for training and testing?
+Why every finite set is computable?
+What are the popular approaches to inexact attributed-subgraph matching?
+Reference request: proof that if $L \in DCFL$, then $L \Sigma^* \in DCFL$
+Assigning a formula to an approximate value
+Time complexity of a backtrack algorithm
+Subgraph isomorphisms: does large out-expansion imply large in-expansion?
+$\epsilon$ - Nash Equilibrium exceeds Nash Equilibrium
+Encoding 1-out-of-n constraint for SAT solvers
+Route planning in public transport application
+Counting subarrays that satisfy either of two conditions
+Can the shortest simple cycle between two given nodes be found in polynomial time?
+Is there an algorithm which can compute every algorithm's time complexity?
+Computer science problems related to music?
+Decision problems in $\mathsf{P}$ without fast algorithms
+Selecting a node of a singly-linked list such that the probability of each node being selected is equal
+Are there algorithms to exactly minimize NFAs which are sometimes efficient?
+How can I produce a summation function from this set of production rules for a grammar?
+Recurrence formula for a known sequence?
+Classification of job shop scheduling problems
+Forward Error Correction for streaming data
+Inductive vs. recursive definition
+Does a function distribute over lists or does it commute with them?
+Number of Combinations of Connected Bipartite Graphs
+"Last Come => More Relevant" data structures
+Relation between the size of sub-problems and number of sub-problems in a recurrence
+Does the empty language have a CFG in CNF?
+Find disjoint contiguous sub-arrays in better than $\mathcal O(n^2)$
+Runtime of searching for a number in an array?
+Example for a non-trivial PCP verifier for an NP-complete problem
+Algorithm to shrink a DFA by introducing nondeterminism?
+What constitutes one unit of time in runtime analysis?
+How to solve this Planning Domain Definition Language (PDDL) question?
+Theoretical foundations of robust and distributed services
+Counting number of sums from contiguous subarrays of an array
+Minimum cost closed walk in a graph
+Generate random numbers from an interval with holes
+Finding path with minimum weight
+How a program is copied to RAM from harddisk
+Complement of Non deterministic Finite Automata
+Universes in dependent type theory
+Interactive Proofs for coNP
+Why do we need assembly language?
+Store and sort a large number of 64-bit integers
+BPP upper bound
+Average Time Complexity of Two Nested Loops
+How to do Big 'O' notations
+Do fully optimizing compilers for terminating programs exist?
+Reachability queries on a tree in $O(1)$ time with $O(n+m)$ time preprocessing
+(Slightly) faster simulation of quantum Fourier transform
+IP addresses and Subdomains?
+Context-sensitive grammar for the language of words concatenated with themselves
+Algorithm for estimating function maximizing parameters
+Find similar vector by Locality Sensitive Hashing
+Number of multisets such that each number from 1 to $n$ can be uniquely expressed as a sum of some of the elements of the multiset
+Why do some filesystems have fragmentation and others don't?
+Computing every possible sum of integers taken from different sets
+Laplace's Approximation for graphical models
+A framework to capture common variation of sequence alignments
+How to calculate the number of tag, index and offset bits of different caches?
+Data structure for storing edges of a graph
+How to compute a level set $A=\left\{ \theta:f\left(\theta\right)\geq a\right\} $
+Checking Feasibility of Linear Program in Polynomial Time
+Computing 3SUM problem in $O(n\lg n) + \frac{n^2}{4}$ time
+Closed-form Expression of the Expected value of the Cost of D&C Algorithm?
+State machine with knowledge of prior states?
+Complexity of the V-opt heuristic Traveling Salesman algorithm
+Selection in expected linear time: Why am I getting $O(n)$ bound instead of $\Omega(n \lg n)$?
+Context Free Grammar for $\{A^nB^nC^n | n \in \mathbb{N}\}$
+$\mathbf{NC}$ is closed under logspace reductions
+Are regular and context free languages closed against making them prefix-free?
+If a parser can parse a non-deterministic grammar, is the parser non-deterministic?
+Reference request: Monads, continuations, and other functional CS concepts
+Push Down Automatons "guess" - what does that mean?
+Finding paths from the result of max flow
+Writing a program to find the optimal reward for a 2-armed Bernoulli bandit
+Complexity of a particular integer knapsack version
+Do expressions have much to do with referential transparency?
+Bitarithmetrics to Base X
+Hoare's monitor - what happens after a "signal"
+Tokenizer and complex operators
+Find out whose turn it is to buy the croissants
+How to train a clustering system based on multiple initial clustering results
+How to design a finite state machine to detect 0110 in the input?
+about scheduling in operation system
+Want to understand Big O by graph
+Who needs linearizability?
+Double hashing - probe count probabilities
+Few Big O example
+Number of rounds in interactive proofs - Arora & Barak
+Trying to improve minimax heuristic function for connect four game in JS
+What is the complexity of the emptiness problem for 2-way DFAs?
+Distributed problems in Financial Services?
+Exponential separation between NFAs and DFAs in the presence of unions
+Search for minimum in an array of $k$ monotonic subarrays
+Can the plus operator in regex be replaced by the star operator?
+Worst case running time to search for an element in a balanced BST with $n2^n$ elements
+Making sense of asymptotic notation
+How to implement two stacks in one array?
+Anomaly/outlier detection using fuzzy clustering
+Interpretation of "expected cost" of an algorithm
+Use Rice's theorem to show that the language of optimisable Turing machines is undecidable
+Difference between symbolic execution and reachability analysis
+Where are M-Trees applied in practice?
+Average number of slots needed in slotted-Aloha
+How can a Turing Machine recognize a regular language?
+Transmission (Store and Forward) Delay
+"OOD allows ADTs to be created and used."
+Is developing an OCR considered a research project?
+Finding all marked elements using Grover's algorithm
+Parse Tree building
+Constrainted Optimization Problem in Matrix Entropy
+What is meant by an oracle separation between classes $\mathsf{BPP}$ and $\mathsf{BQP}$?
+A complicated variant of Weighted Median problem
+What does a polynomial time reduction mean?
+Looking for dynamic network data sets
+Relations of some exponential functions -- which is correct?
+Quality of Reduction of finite automata using different congruences
+What is the most power/energy efficient sorting algorithm?
+Algorithm to maximize function of subsets
+Optimal coverage of a $D$-dimensional grid with small blocks
+Reductions among Undecidable Problems
+Filling Rows of a Matrix Subject to Conditions
+Want to understand Big O by graph
+Matching k-partite graphs where all sets may only share edges with one of the sets
+Drawing Zonotopes from an Adjacency Matrix
+Dividing a weighted planar graph into $k$ subgraphs with balanced weight
+Complement of non-deterministic finite automation
+Box and triangle intersection
+Proving greedy choice property of fractional knapsack
+In what ways can we distinguish between a human and bot behavior?
+How does insertion work in an AVL tree?
+How to develop an $O(N)$ algorithm solve the 2-sum problem?
+Neural network diverging instead of converging
+Free description of the Kameda-Weiner algorithm?
+How do the non-∪ variants of NFAs work?
+Something I don't understand about Genetic Algorithms
+Problems unsolvable by an oracle machine?
+No of ways in which n indistinguishable items can be placed in m indistinguishable boxes
+What are efficient data structures for inserting and accessing elements?
+Convert regular expression to DFA
+Problems unsolvable by an oracle machine?
+MST: Prim's algorithm complexity, why not $O(EV \lg V)$?
+What is the impact of synchronisation overhead on parallel speedup?
+Finding maximal factorization of regular languages
+What linked list data structure adjustments would give me fast random lookup?
+What is the size of the Perfect binary tree with n nodes in last level
+What exactly is polynomial time?
+Getting started with Compiler Design
+Measures and probability in formal language theory
+Difference between fully-reduced BDD and quasi-reduced BDD
+Does the time complexity of a problem change with encoding of the problem?
+Polynomial-time algorithm with exponential space is eligible?
+Recursive definition of sum of two numbers in terms of the successor function
+Is the memory-runtime tradeoff an equivalent of Heisenberg's uncertainty principle?
+What is the difference between exhaustive search & combinatorial search?
+Motion planning using second order Bézier curves
+What is the difference between an algorithm, a language and a problem?
+Completeness of formal definition of 'hardness on the average'
+What is the meaning of this pseudo-code function?
+Getting started with Data Mining
+Why are all problems in FPTAS also in FPT?
+Generalizing the linear subset scan algorithm to a wider class of objective functions, maybe by finding a paper
+Constructing Tree (forest) from Ancestor function
+Prove that the syntax is equivalent
+Recommended readings for Probability theory applied to algorithms
+Detecting cycles in undirected graph
+NP-Hardness reduction
+Prove Context Free languages not closed under difference?
+Joining two red-black trees
+Understand the time complexity for this LCS (longest common subsequence) solution
+Little's law and average time on a system with a switch
+Determine if two grammars for the same language are ambiguous
+lambda calculus as a type theory
+Understanding Dinic's algorithm using dynamic trees
+Can xor and xnor for quasi-reduced BDDs be implemented just like union?
+Inversion of BDD
+Find a sequence of integer powers faster than the naive algorithm
+Chaitin's elegant programs
+Data structure for maintaining large space-efficient filtered array
+Representing grammar for list/dictionary with optional end separator as LL(1)
+When does the nearest neighbor heuristic fail for the Traveling Salesperson?
+Relation between Russellian type theory and type systems
+Category theory (not) for Programming?
+Results on the languages recognized by undirected DFAs
+How many recursive calls are made by this gcd function?
+Alternative proof for the undecidability of $A_{TM}$
+Undecidability of a restricted version of the acceptance problem
+Time complexity of finding the largest factor of a number (using a specific oracle)
+How can I define this syntax?
+Definition of deterministic pushdown automaton
+Formal program verification in practice
+When testing n items, how to cover all t-subsets by as few s-subsets as possible?
+Showing a language is in co-NPC
+Mealy machines to model ciphers
+Searching a value in a "piecewise" ordered array
+Bayesian Network - Inference
+Is the language that accepts strings concatenated with their reverse regular?
+Make a tag system simulate a finite automaton?
+What is the reason of inaccuracy of operations on float numbers?
+How good are current AI researchers at simulating complex, first-person emotional states?
+To what factor can I compress information from binary to Quinary
+Document definition in information retrieval
+Worst-case time algorithm?...which one is faster?
+Advantages of knowing foreign languages for natural language processing
+Max cut in cubic graphs
+Are 'zero-one' jigsaw puzzles NP-complete?
+Is there a crossover operator to cross sections of specific phenotype genes?
+Order a list of whole numbers so that no two numbers have the average of them sitting between them
+Is there a formula to state the number of 'sets' of 'ordered sets within ordered groups'?
+Difference between encoding and modulation in transmission
+Reference book for Parallel Computing and Parallel algorithms.
+short text categorization with spelling correction
+Constructing a Context Free Grammar for checking non-equality of strings
+What is the difference between Decision Support System and Machine Learning?
+Seating Chart Optimization
+What data structure would efficiently store integer ranges?
+Complexity classes where $C^C = C$
+Why are weights of Neural Networks initialized with random numbers?
+In general terms, how could the Thompson Hack be implemented in Microcode?
+Complexity of deciding if a formula has exactly 1 satisfying assignment
+Grammar to Language
+static paging vocabulary request
+How do computers create 'randomness'?
+What does it mean when a computer runs 'faster'?
+Functional Unit and Micro-operations Schematics
+What is the name of this combinator?
+Is there any real difference between a compiler and an assembler?
+Trying to understand a token file for lexical analysis
+What's Big O of $\log(n+7)^{\log(n)}$?
+Show that A** subset of A*, where A is a regular language
+Proof of Ramsey's theorem: the number of cliques or anti cliques in a graph
+Formal language without grammar
+Comparing sets of vectors
+Rearrange an array using swap with 0
+Which machine learning algorithms can be used for time series forecasts?
+Classifying infinite languages of encodings of halting Turing machines
+Good way to describe co-RE (co-recursively enumerable)?
+E-R diagram and relationships
+Looking for cheat sheet to J.C. Reynolds symbols
+Why is the difference of two NP-complete languages not in NP?
+Why is this language involving reversal regular?
+Why is this language regular?
+Reference introductory books or articles to Game Semantics
+Access to publicly available project with all the artefacts (files) created during the development
+What would be the over all speed-up achieved?
+Deciding if language is Context-Free
+Can you do an in-place reversal of a string on a vanilla turing machine in time $o(n^2)$?
+How can you shuffle in $O(n)$ time if you need $\Omega(n \log n)$ random bits?
+Calculate the number of elements after multiplying/adding two polynomials
+Complexity of finding a spanning tree that minimizes the maximum interference
+Count the number of integers satisfying two conditions using DP
+Is there a word/name for the node(s) in a graph with the minimal cumulative path length to a set of other nodes?
+Is the DPLL algorithm complexity in terms of # of clauses or # of variables?
+Random sampling in a polygon
+Designing a DFA that accepts strings such that nth character from last satisfies condition
+Algorithm for Graph merge and recompute
+Quantum Algorithms and CT vs Classical counterparts
+Classification of 2d arrays of outlines
+Theoretical foundations of Divide and Conquer
+Approximability of the edge-disjoint shortest paths problem
+Prove correctness of recursive Fibonacci algorithm, using proof by induction
+DFA - Equivalence classes
+Tag system variant
+Minimizing concave function with a linear constraint
+Word classification algorithms
+Difference between free and global variables
+Number of binary trees with given height
+Is changing or appending data an idempotent operation?
+Suggestions for alternative 3D space partition tessellation, different from Voronoi and Delaunay
+DFA drawing for binary string with substrings of minimum length 3 with at least two zeroes in each substring
+Example of existence proof in dependent typing?
+Time complexity of a triple nested for loop for ThreeSum problem
+How to decribe an action with STRIPS?
+Difficulty in understanding an approach to SPOJ $d$-query problem
+The sequence in which every symbol minimizes conditional complexity?
+How does facial recognition work?
+Automated lip-reading: inferring what someone is saying, based upon video of them speaking
+Does a proof using the well-ordering principle need a base case?
+What is the job of Syntax Analyzer in a compiler?
+How do I find if a programming language is infinite or finite?
+Closing shapes at non-endpoints
+What exactly can finite-state machines not do?
+What is the trade off in converting a DFA into a NFA?
+Finding two words of lengths that are relatively prime in a regular language?
+Theory of multi-label classification
+How to compute an optimally cost-effective cache strategy?
+Why does stable matching without Gale-Shapely takes n! steps
+Ordering a list of lists subject to constraints
+Finding asymptotically tight bounds $\Theta$ of two procedures
+Confusing equivalence $\Phi(n,n)\downarrow \Leftrightarrow \text{HALT}(n,n)$
+Measuring time complexity of algorithm
+Show $B= \{z \mid (\exists x)\; P(x,z)\}$ is a recursive enumerable set
+What's wrong with my beta reduction of pred c_0 on Church numerals?
+Solution for a combinatorial minimization problem
+Is CS more like software and CE more like hardware?
+What are these notations O(1)/O(n)/O(log n)?
+Concatenation among different language types
+Complete graph invariant
+Is there a correlation of zip compression ratio and density of information provided by a text?
+How hard is factoring a complex number?
+Determine if this language is regular
+Difference between approximation scheme and approximation algorithm?
+Linear Programming: algorithm to check if ratios can be combined with n bottles to equal a given ratio
+Showing NP-hardness of HALF-SAT
+Origins of the Segment tree data structure
+Multi-level cache for which inclusion holds
+For the langauge L={0^i1^i | i>=0} DFA possible or not?
+want to know concept behing Multilevel paging
+Are there more easy SAT Problems?
+Decide if L is regular or not and argue it. Trying to use Pumping Lemma
+Does Automatic Differentiation handle conditional branches, if yes how?
+Which redexes are there in $\lambda s. \lambda z. (\lambda u. z)(\lambda v. v)$? How to substitute arguments?
+Number of 5-cycles and 6-cycles in a simple graph
+Where are back edges in a DFS tree?
+Is $L_{half} = \{w : \text{for some } z \in L, x \in \Sigma^*, z = wx \wedge |w| = |x| \} $ regular?
+Correct approach to Mapping Reduction from $E_{TM}$
+Sort algorithm input probabilities
+Splay tree with odd number of rotations
+What machine learning method for diabetes prediction SW?
+Learning juntas, with membership queries
+Set combination data structure (And storage complexity)
+Probability that a uniformly random sequence is already sorted
+Queries on Tree
+Machines in P undecidable?
+Time Complexity for Creating a Graph from a File
+Fundamental Boolean Functions
+How to query and update ranges of arrays?
+How do I prove that Context Free languages have more memory than FSM
+Why is compression ratio using bzip2 for a sequence of "a"s so jumpy?
+Pattern bonding problem
+Deriving the Sobel equations from derivatives
+Why do you have to worry about cache coherence if you are using shared memory?
+Does interpreter for language L1 have to be written in lower level language L0?
+What is the significance of negative weight edges in a graph?
+Runtime of various versions of binary search
+Which problems are hard for P^NP?
+Which component sizes do we observe while randomly deconstructing a tree?
+Explanation of Heavy light decomposition
+Implementation of datatypes in Haskell?
+Tight asymptotic bound for recursive algorithm
+Segmentation and paging
+Finding the subset of $S$ that sums up to $k$ using a black box in $O(n)$ time
+What is a regular expression that matches all strings over the alphabet except a particular substring?
+Do different variants of Mergesort have different runtime?
+$\mathsf{co\text{-}NP}$ and Cook reductions
+Name for concept: each pair of sets is either nested or disjoint
+For what kinds of languages is min |NFA| = Ω(min |DFA|)?
+Approximate percentage of the memory's total operating time for refreshes while refreshing DRAM
+High maths for game theory
+finger search on a red black tree
+Which of the common sorting algorithms can be parallelized?
+Why does the map function in MapReduce take two parameters?
+Randomized Median Element Algorithm in Mitzenmacher and Upfal: O(n) sorting step?
+Time Complexity of Algorithm
+Confusion regarding several time complexities including the logarithm
+Does this language have a context-free grammar?
+If someone was designing a computer language, why would they require static members to be defined outside the class?
+Comparison between Aho-Corasick algorithm and Rabin-Karp algorithm
+Find all intervals that overlap with a given interval
+Other greedy choices to solve activity selection problem
+Prove or disprove whether L is regular
+Trouble understanding how to pick constants to prove big theta
+Prove that X/Y/Z is context-free
+Approach to solve SPOJ Cardtrick
+Given languages A,B and C, each with alphabet Σ, define A/B/C as:
+Is $\Theta$ symmetric?
+Asymptotic approximation of a recurrence relation (Akra-Bazzi doesn't seem to apply)
+Big Theta Proof on polynomial function
+Solving recurrences using substitution method
+Rational agent question from Russell and Norvig
+Shortest Minimax Path via Floyd-Warshall
+Simple graph canonization algorithm
+Is it possible to prove thread safety?
+Finding embedded DAG in another DAG based on colors
+Are there problems that are polynomial-time equivalent to factoring composites?
+Pros and cons of representing strings as lists of characters
+Help with recurrence solutions
+Post-selection and complexity theory
+Confused by Floating Point Spacing
+Equivalence of two lambda expressions for NOT
+Count elements of a sorted matrix that fall into a given interval
+Modulo operation in monotone complexity
+What is the optimal solution to prove the reachbility of a node from the root?
+Find a simple path visiting all marked vertices
+Expected depth of modified kind of treap
+Do functions with slower growth than inverse Ackermann appear in runtime bounds?
+What does it mean to multiply or divide polynomials?
+Error accumulation in a numerical integration
+Proving that a derived language is regular
+Bridge theorems for group theory and formal languages
+Compute 'permutation' like problem with modulo
+How to include calls to an $O(n)$ subroutine on finite-sized inputs in an analysis?
+Approximation algorithm for Feedback Arc Set
+Why is it O(1) (and not, say, O(2))?
+Running time and stack depth of a lisp recurrence
+Enumerating all set covers when knowing one set at least
+Finding users covering a set x by x
+Class of a Language
+Sphere, triangle, and other primitive shape intersection
+Recover the path to a goal state in A* search algorithm
+What are some applications of computing the permanent of a matrix?
+How does DNS work if there is no recursive querying?
+How does Grover's Quantum Sorting avoid reading the list?
+Why is discrete mathematics required for data structures?
+Proving the language $L= \{0^n 1^m \space | \space m \equiv 0 \space mod \space n, \space n \geq 2 \}$ is not regular using the pumping lemma
+Factorial algorithm more efficient than naive multiplication
+Converting NFA to DFA
+Is the class of non regular languages is closed under complementation?
+Perfectly Secure Ciphers known other than the OTP
+MapReduce Pseudocode
+NTIME(f) subset of DSPACE(f)
+Fundamental algorithms in formal language-automata theory
+Solving a recurrence with the Master Theorem
+Why do most scientists believe that P≠NP?
+String inputs in Machine Learning
+Regex for all odd length string that contains exactly 2 0's with language {0,1}
+Undecidable among these for turing machine
+Can a method be written if the language is undecidable?
+Good "serializer" ADT implementations for Synchronization
+Is this an example of a type-0 grammar that is not context-sensitive?
+What are some visual tools for the design of concurrent systems?
+FFT for expanded form of equation multiplication
+Equivalence of Context-Free-Grammar and Context-Free-Grammar in CNF
+Are turing machine really countable?
+Why the height of the weight balanced tree is logarithmic
+Use pumping lemma to show L is not context free
+Isn't std::bernoulli_distribution inefficient? Designing a bit-parallel Bernoulli generator
+Determine whether two languages are context free
+What kind of reductions are usually used in order to prove PP-completeness?
+Big O and program calls with varied input sizes
+Prove that $|P(X)| = 2^{|X|}$
+If $M$ recognizes an infinite language, then $M$ has a cycle
+How to solve for recurrence with substitution or other methods?
+Counting modified perfect matchings
+Characterising $(aa)^*$ in first order logic
+Minimal size of contracting a DAG into a new DAG
+Can a loop be expressed by only the sequence of statements and the choice of statements?
+NFA random generator
+Language of balanced parentheses; Biconditional proof about parentheses
+Prove L to not context free using pumping lemma on language L
+Are the following loops $O(n^2)$ complexity
+Constructing regular expressions with given substring requirments
+Hardware protection needed for operating system kernel
+How to prove that the composite strategy is prefix-closed and respects the alternation condition?
+How is non-ambuiguity different from determinism?
+Immediate positions algorithm?
+Problem with storing an existing triangulation in a DCEL
+Abduction in ASP
+TCP delayed duplicate problem
+SAT not reducible to 2SAT
+why not just use a random number generator as a hash function?
+Clarification sought for definition of a cut that respects a set A of edges in Graph Theory
+Saxe's proof of 1-embeddability
+What is "polynomial delay?"
+Class of the language of Turing machines that loop on at least one input
+How to calculate or estimate how long it takes to solve a recurrence relation?
+How to map the tapes of a "k-tape" Turing Machine into the single tape of a "1-tape" Turing Machine
+Static scope and dynamic scope
+Math term for Associative arrays/Maps/Dictionaries
+Two Dimensional Tape of Turing Machine
+Solving a recurrence
+Why Is Alloy not an Answer Set Programming system?
+How to encode date as input in neural network?
+least significant bit,and most significant bit
+NP-COMPLETE:Why say "reduction algorithm computes reduction function"?
+Convert $\sum x_i = y$ to 3-sat
+How to calculate Complexity Time O()?
+A containment result in complexity
+A simple question on #P
+Pumping a Language does not imply regular
+Solving a complicated recurrence relation
+Drawing the Design of an SRAM chip
+Complexity of keeping track of $K$ smallest integers in a stream
+create divide and conquer algorithm
+proving the error bound for a hypothesis
+Intro to Martin-Löf type theory
+Interest in Artificial Intelligence
+Show a TM-recognizable language of TMs can be expressed by TM-description language of equivalent TMs
+Complexity of a recursive bignum multiplication algorithm
+Printing The Longest Path from Root to Leaf in Binary Tree
+Does a Universal Turing Machine have more computational power than a non-universal one?
+Smallest set of features that would make relational algebra Turing complete
+Clear, complete, proof that a language is Turing Compete?
+Proving a Language is Irregular using Myhill-Nerode
+Iterative merge sort
+Maintaining an efficient ordering where you can insert elements "in between" any two other elements in the ordering?
+a jigsaw problem: recreating a subgraph from a limited number of fragments on an original graph
+Algorithm for splitting array into subarrays with sums close to the target value
+N-ary (NOT binary) Gentle Boost algorithm?
+Object recognition - given an image, does it contain a particular 3D object of interest?
+trouble with bijection definition
+How to prove substring is a partial order
+Algorithms to play randomized game
+Complexity of recursive Fibonacci algorithm
+Finding both the longest and shortest path in a convex polygon
+Drawbacks of repeating a single pattern matching procedure for many patterns
+On approximations and reductions
+linklist and memory issues
+Estimating the time until we obtain five-in-a-row?
+Why do compilers produce assembly code?
+What areas in EE overlap closely with CS
+Type inference of pair (product) types
+NFA and DFA storage cost
+Showing that CLIQUE can be verified in polynomial time
+Number of Independent Sets in a tree
+compressed information = randomness?
+Recursive equation for complexity: T(n) = log(n) * T(log(n)) + n
+Counting Deterministic Finite Automata
+Is an Event Counter essentially an integer version of Barrier?
+Is the set of all valid C programs countable?
+Are regular languages closed under inverse homomorphism?
+How do computers compute?
+Reference for an undecidability proof
+An incrementally-condensed transitive-reduction of a DAG, with efficient reachability queries
+does godel's incompleteness theorem shed any light on dynamic vs typed languages?
+Does inserting and immediately removing a node change a red-black tree?
+One $O(n^k)$ algorithm requiring only one $O(2^n)$ computation (for all n instances) is P or NP
+How do you say when a language is Turing-complete only in a trivial way?
+Verify correctness of quantifier elimination, using SAT
+Number of 1 child nodes in a binary tree
+Are QR codes Turing-complete under the rules of Conway's Game of Life?
+Example of an algorithm where a low-order term dominates the runtime for any practical input?
+Performance of row- vs. column-wise matrix traversal
+Can I express 100 as a three-digit 9's complement number?
+What will be minimum no of operation to make whole matrix zero if one is allowed to multiply a row or column by zero?
+Making a regular grammar for this language
+Is there a graph product that is multiplicative in independence number?
+Regular expression for a string not containing a set of substrings
+Running Floyd-Warshall algorithm on graph with negative cost cycle
+Deriving the exact number of execution times
+Finding asymptotic time complexity
+CoNP and NPhard intersection
+Regular Expression as basis for creating this grammar
+Reducing states of a GTG
+Writing a program to find polynomial $f(x)$ from $f(1)$ and $f(f(1))$
+Reductions to SAT
+Proof that probability that hashing with open addressing needs more than $k$ attempts is $2^{-k}$ at most
+Is this $\beta$-reduction well defined?
+Big O Notation of $n^{0.999999}\log(n)$
+Finding Statistical Signifigance for a Classifier
+Ternary Search Recurrence Relation
+Equivalence relation Mathematical base In Computer science
+Peer discovery: What class of network algorithm prioritises low latency above all else?
+What is the asymptotic runtime of this nested loop?
+result after applying on delete cascade
+What kind of NP problem would this be
+integer factoring using Fermat's method
+DFA memory bandwidth
+Given an array of N integers, how can you find M elements to remove so that the array will end up in sorted order?
+Derive a Context Free Grammar from a language
+How to reduce the number of crossing edges in a diagram?
+Is it possible to do Dependent Types in Typed Racket?
+Graphs invariant to permutations of vertices
+Strassen's Algorithm proof
+DFA/NFA/ε-NFA: subsetting each other or different sets?
+Range query for sum of vectors
+Example of execution fragment of multi-process transition system
+Counting in Automata theory
+Maximizing length of subsequence
+Proving a PDA with CFG Transitions recognizes Context Free Languages
+Is the time reversal symmetry of non-deterministic computations important?
+Constructing a PDA for the language $\{a^m b^n : m < 2n < 3m \}$
+Time Complexity of T(xn) + T((1 − x)n) + cn
+Does FNP-complete = NP-complete?
+How can you bound the error of an approximation without knowing the optimal solution?
+Distinguish Decision Procedure vs SMT solver vs Theorem prover vs Constraint solver
+$P$-complete problems and Logspace reductions
+Division by a constant
+practical use of a Boltzmann machine
+Notation for average case complexity of an algorithm
+Would it be possible that the intersection of two non-context-free languages is context-free?
+If A is reducible to its complement, is the converse true as well?
+Context Free Grammar for $\{0^n1^n \mid n \geq 0\}^*$
+How to show that a non-empty $L$ is recognizable iff there exists a total computable function whose range equals $L$
+Shortest path that passes through specific node(s)
+Finding number of numbers dividing n^m exactly p times
+How to prove the structured program theorem?
+Borrowing bioinformatic methods in other fields
+What's the correct definition of the $\Upsilon$ category of schedules?
+Recurrence Equation Question
+A* to find the longest path in a directed cyclic graph
+why does ${a^nb^n}$ fit the pumping lemma for context-free languages?
+Distribution algorithm according to weighted parameters (with a min-max constraint)
+Estimate entropy, based upon observed frequency counts
+SVM optimization objective: why are we maximizing $\frac{1}{\|w\|}$?
+How to prove that context sensitive languages are closed under intersection and complement?
+Reduction examples from the strongly NPC problem 3-PARTITION
+Are algorithms (and efficiency in general) getting less important?
+Is the per-vertex error over a PageRank iteration monotonically decreasing?
+How to find the shattered set size for unknown hypothesis target
+Non context free language that is pumpable?
+Can a unnormalized floating point number be recognized also when exponent is not zero?
+How are the web based compilers designed?
+Relevant subtree and relevant leaf in Machine Learning Decision Trees
+What does "prompt collection" mean in the context of memory management?
+Give a recursive function $r$ on $A$ that reverses a string
+Kripke automaton and observations
+Find equidistant triplets in a tree
+Is $\{s_0 w s_1 : s_0s_1\in L_1, w\in L_2 \}$ context free if $L_1$ and $L_2$ are?
+What do I need to know about algorithms?
+How to analyze/test a binary search algorithm?
+Compiler backend generated from declarative description of the architecture
+Pentary Search Recurrence Relation
+How does an admissible heuristic ensure an optimal solution?
+Is a non-perfect improvement and optimisation?
+Is there a regular tree language in which the average height of a tree of size $n$ is neither $\Theta(n)$ nor $\Theta(\sqrt{n})$?
+Deciding the class of certain languages
+Is there a theory of exception hierarchies?
+Proof that there is unambigous grammar for every regular language
+experimental analysis of running times in extendable table
+Poly-time reduction from ILP to SAT?
+What is the definition of Computer Science, and what is the Science within Computer Science?
+Multivalued, partial evaluation
+What does "deterministic" mean in the context of memory management?
+Where in the Chomsky Hierarchy are Regular Expressions as a language?
+Points-in-a-plane from HackerRank
+Prove that {0^{n^3} | n≥0} is not context free
+Is this pumping lemma proof correct?
+Min/max of hash function (Whirlpool)
+Universal Hashing in Practice
+Removing constant symbols from language to prove irregularity
+How many virtual machines run inside MS Windows?
+sock matching algorithm
+Tree flattening with layout guarantees
+DFA / NFA Regular Languages
+Definition P-Completeness
+In database query theory, why do we not want to use a constant that isn't in the dictionary?
+How to implement GREEDY-SET-COVER in a way that it runs in linear time
+without triangle inequality, finding good approximate tours for TSP in polynomial time is impossible unless P=NP?
+Approximated TSP: weight of minimum spanning tree less than cost of the optimal tour?
+Java, strong typing, covariance and contra-variance
+if I want only one element of the inverse matrix, does there exist a fast algorithm?
+Converting a 2-SAT formula into an implication graph
+How to purge a linked list in $\mathcal{O}(n\log n)$ time?
+Using a proof-of-work system to discourage piracy or encourage donations
+Reasons for decreasing the number of threads in a parallel implementation
+Functional Programming and Parallelism
+Confusion about finite automata construction in Knuth–Morris–Pratt algorithm
+Double, down facing arrow in operational semantics
+What happens when an alphabet is not listed in a Turing Machine?
+need of error control in transport layer
+Is $\log{n}$ bounded from above by $n^{o(1)}$?
+Kernelization trick, for neural networks
+Algorithm to write a dictionary using thousands of words to find all anagrams for a given string with O(1) complexity
+What is the advantage of Greibach Normal Form over Chomsky Normal Form?
+Numbering of unlabelled trees
+How to minimize the sum of difference of element in sub-sequence of array of length k from given sequence of length n
+What is the fastest algorithm for multiplication of two n-digit numbers?
+Applications affected by memory performance
+Removing Null moves from NFA
+Selection of K elements of given ranks
+Snowball Question FFT
+Any path detecting between A to B
+Compile a programming language with itself
+Suffix trees - "smaller half trick"
+Proving $f = \Omega (h)$
+Deterministic Random access machine and polynomial time
+exact matching between two strings - linear edit distance?
+Is the language that consists of machine configurations whose language is a subset of even palindromes semi-decidable?
+Show how to do FFT by hand
+Shortest non intersecting path for a graph embedded in a euclidean plane (2D)
+What would be a not arithmetically definable language that is not Turing reducible to another given not arithmetically definable language?
+Find neighbors of node in euclidean graph
+Counting involving equivalence classes and languages
+The complement of $\{w: w\text{ has equal numbers of $a$'s, $b$s' and $c$'s}\}$ is context-free
+How to prove every context-free language over a unary alphabet is regular?
+What happened to Active Databases?
+Approaches to Solve PDA
+Drawing an implication graph for 2-SAT clauses
+Updating an AVL Tree Based On Balance Factors
+Explaining eye tracking to 9-10 year olds
+Difference between a turing machine and a finite state machine?
+Computer theory/ automata example help
+Proving Equivalence of 1-dimensional Cellular Automaton and Turing Machines
+Courcelle's Theorem: Looking for papers
+Direct reduction from Near-Clique to Clique
+String matching for all suffixes
+Concorde time efficiency
+Concatenation of the intersection of two languages
+Recognizing finite state machines with repetition
+How to discuss coefficients in big-O notation
+Sorting in O(n) time in a finite domain
+Converting graphs to sets of paths
+NFA's number of states
+Undecidability of the PCP problem with bounded width
+Abstract machine that can recognize repetition
+How to show that a languge is not regular
+Why we can't have FPTAS for strong NP complete problems
+Relational algebra statement for a query
+Is there a prefered name for the “effective access time” formula?
+Does coNP-completeness imply NP-hardness?
+NP-hardness and FPTAS
+Best complexity of parity/comparison in the Residue Number System
+Software for testing graph homomorphism
+Algorithm playing modification of "Hey, That's My Fish!" game
+Teaching NP-completeness - Turing reductions vs Karp reductions
+Prove that any directed cycle in the graph of a partial order must only involve one node
+Fast algorithm for finding a minimum cost path through points in the plane
+Solve parity game in polynomial time?
+Maximum number of inversions that can be removed by swapping two elements?
+difference between propagation speed and bandwidth in digital communication
+Is there a name for this infinite language?
+$k$-way merge but without an absolute order
+What does this context-free grammar generate?
+How to analyze the lower bound of the horse racing problem using adversary argument?
+Efficient way to find intersections
+A technical clarification on subgraph isomorhism
+Is the Syntax of C Language completely defined by CFGs?
+Recommendations for machine learning book?
+Encoding algorithms better than or equivalent to Run Length Encoding
+Is there a relationship between graph entropy and node entropy?
+Unranking paths in a graph/lattice
+Undergrad resources for identifying regular languages with Myhill-Nerode matrices
+Calculating the number of non-intersecting routes in an Euclidean graph
+Negative weight cycle vs maximum weight cycle
+Which grammar is this?
+Grammar generating specific language
+Stream processor definition
+Quick Select explanation
+Confused about beta-reduction/shifting in untyped $\lambda$-calculus with de Bruijn terms
+Which priority queue implementations are stable?
+Algorithm to determine if recursion was breadth first or depth first
+Memory complexity?

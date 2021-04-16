@@ -1,0 +1,711 @@
+What is the right approach to write the spin controller for a soccer robot?
+How can I modify a low cost hobby servo to run 'freely'?
+What useful gaits exist for a six legged robot, and what are their pros and cons?
+Good Microcontrollers/SOCs for a Robotics Project
+Nearest-neighbor data structure for non-Euclidean configuration space
+What good robotics software platforms / operating systems are available?
+What software do you use to design your PCB in the robotics field?
+What are good methods for tuning the process noise on Kalman filters?
+Keyboard control map for scalar based movement?
+Ideas for shooting the ball in a soccer robot
+F/OSS Optical Object Avoidance
+How to choose the right propeller/motor combination for a quadcopter?
+Mobile robot localization in a known map
+I'd like to use gesture based input for my robot. What are the pros and cons between the Xtion Live and the Kinect?
+What tyre tread would be best suited to an off road robot expected to deal with frequently muddy conditions?
+What algorithm should I use for balancing a two wheeled robot using a gyroscope?
+Choosing the right dimensions for an underwater glider
+What's the most effective type of rechargeable battery when taking into account size / weight / Ah?
+How can I best protect sensitive components against damage through vibration?
+What's the most accurate way to obtain a locational fix using GPS?
+What algorithm can I use for constructing a map of an explored area using a number of ultrasound sensors?
+Adding external heat sinking to a Dynamixel RX-24F servo?
+How can I detect if a DC motor on a robot is starting to fail?
+Is it possible to both move and stabilize a two wheeled robot with no gyroscopes?
+Calculating the efficiency of Mecanum wheels
+Using an Arduino to control an ON / OFF connection between two pins
+Shape Memory Alloy wire for robot gripper arm actuation: How to vary grip pressure?
+Mechanical design for motorized spherical caster wheels
+What determines the amount of noise an actuator produces?
+What BLDC servo drive takes sinusoidal hall sensor signals?
+Developing for 8-bit AVR-s, what are the current, open and free libraries out there?
+How to manage interrupts on an AVR?
+What connectors are most reliable?
+What is a suitable model for two-wheeled robots?
+How should emergency stops be wired?
+How to model the noise in a range sensor's return?
+What is the difference between 4-point and 8-point connectivity in graph based planning?
+Properly flashing the firmware on a Lego Mindstorms NXT
+Is it better to have weight distributed over the wheels or the center of the robot?
+How mature is real-time programming in robotics?
+Connecting two microcontrollers using I2C
+Mathematical prerequisites for beginning graduate student in robotics
+Technology behind Kiva Systems mobile robots
+How do I calculate the required loop frequency for a servo controller?
+What rail material is best used for linear bearings?
+Detect Nao robot in Kinect
+Preventing leaks in motor shafts for underwater bots
+Fixed point arithmetic on microcontrollers
+How to choose a good IMU for a wheeled robot?
+What are good strategies for tuning PID loops?
+Absolute positioning without GPS
+HMMs vs. CRFs to model time-series force data of robots interacting with environment?
+Suitable control algorithm for Air Muscle based joint?
+Robotics Trends
+Creating a fast, uniform, linear actuator
+How to determine quality of ICP matches?
+How can I automatically adjust PID parameters on the fly?
+How can I integrate a smart phone with my robotics project?
+Starting out advice on making robots and tinkering with microcontrollers
+Floor Segmentation to Determine Navigable Paths
+Red [ERROR] output in python in ROS
+Can ROS run on a Raspberry Pi?
+What frequency does my quadcopter output-sense-calculate-output update loop need to stay stable?
+Is it better to have batteries distributed at the rotors or the center of the multicopter?
+How to calculate serial speed and buffer requirements for PC to microcontroller communications?
+How does a six-axis force/torque sensor work?
+Should I switch my servo system from brushed to brushless motors?
+What UAV kit(s) would be suitable for a beginner roboticist with programming experience?
+Quadcopter Localization Beacon
+What do the commutation waveforms look like for a brushless motor?
+Effectiveness of a Mobile Robot In Relation To Mass
+Why are capacitors added to motors (in parallel); what is their purpose?
+Spatial tracking between two UAVs
+Low-cost servo with digital control interfaces?
+Why do I need a Kalman filter?
+Which type of actuator will be suitable for a very strong robot arm
+Programming Robots with JavaScript
+How can the inverse kinematics problem be solved?
+Which spline function would be best suited for the trajectory of a differential drive
+Correct way to use Subsumption Architecture with Robot C
+How much can working with CNC machines teach you about robotics?
+IPC-Bridge problem
+Learning Algorithms for Walking Quadruped
+Robot Serial Communication Error
+Is there a list of maneuvers related to control of a tracked platform?
+Tendon longevity
+What are some common mistakes that robots make?
+With a 6-axis robot, given end-effector position and range of orientations, how to find optimal joint values
+Is subsumption architecture still an active area of research?
+restricting range of motion with complex constraints
+What kind of performance can I expect when using an Extended Kalman Filter for calibration and localization?
+Programming a line following robot with reinforcement learning
+Are inverse kinematics and reinforcement learning competitive techniques?
+Processor and command interface preference for a robot arm
+How to fuse linear and angular data from sensors
+Can I use IMUs to improve the position/posture measurement of fingers in a "data glove"?
+What is the current state of the Google Self Driving Car Project?
+Selecting an accelerometer for Deduced Reckoning
+Questions about quadcopter and radio controller
+What is the best way to power a large number (27) servos at 5 V?
+How do you implement an INS from an accelerometer and (optionally) gyros and a magnetometer?
+Inverse Kinematics in Java
+Visual Odometry options?
+How do I model a robot?
+How can the dynamic effects of motor current on a digital compass be characterized and compensated for?
+How to obtain dense point clouds from stereo cameras?
+How much torque do I need for a CNC machine?
+How can one determine whether a LiPo battery is going bad?
+In PID control, what do the poles and zeros represent?
+Connecting a 6 pole motor to a motor driver?
+Is there a working implementation of "Navigation Among Movable Obstacles" for a bi-pedal robot?
+Humble beginnings
+USB instead of RS232
+How can I optimise control parameters for a stepper motor?
+Particle filters: How to do resampling?
+Strategies for managing power on electrical systems for mobile robots
+Is it possible to use Matlab "system" function to call ROS commands?
+More powerful alternatives to Lego Mindstorm NXT 2.0?
+Collaborative Behavior: Implementing a Bucket Brigade With Robot Arms
+I don't understand Integral part of PID controller
+Is there a place for posting "look at what I did" videos?
+Choosing motors for 2 wheel drive robot
+Where can I find a tutorial or sample code for the Juniper WiFi Arduino Shield?
+How can I start learning robotics?
+EKF-SLAM Update step, Kalman Gain becomes singular
+Is it practical to 3D print a refractive lens?
+Computing the Jacobian matrix for Inverse Kinematics
+Compatable ESC's with brushless 3 phase motors
+Rainbowduino 3.0 - Arduino IDE fails to upload
+Using an IMU to build an INS
+What was the earliest concept of a robot?
+How computationally powerful is an Arduino Uno board?
+Wheels vs Continuous Tracks (Tank Treads)
+Why are quadcopters more common in robotics than other configurations?
+How To Determine Heading Without Compass
+Quadcopter liPo battery weight/capacity trade off
+Is an accelerometer sufficient to detect displacement, or do I need an INS?
+Why do Mars rovers designers prefer wheels over tracks?
+Kinect - Libfreenect vs OpenNI+SensorKinect
+Decision trees for solving 2D inverse kinematics?
+Is it possible to run a neural network on a microcontroller
+Which programming language should I use with the NXT?
+Inverse kinematics with joint contraints
+King Robota: Does he speak for himself?
+Who coined (or popularized) the term "SLAM"?
+Vex motors and tank treads drained 9-volt battery more quickly than expected
+How to get two continuous tracks (tank treads) to move at the same rate?
+Including a RaspberryPi within a robot... Does this allow for a "universal API"?
+What is stall current and free current of motors?
+Arduino Vin Current Limit
+Programming an ESC to have reverse mode
+When taking VCC power from an arduino to a 12v regulator, then to a 5v, do I need two sets of capacitors?
+Formatting an SD card for Panda Board ES
+What algorithm should I implement to program a room cleaning robot?
+How to charge a LiFePO4 battery?
+Will turning an NXT motor by hand damage it?
+Protecting electronics against voltage/current extremes and bad polarity
+Good book on mechanisms
+MMA7361 Accelerometer Always Displays Same Values
+MEMS accelerometer calibration
+Does RRT* guarantee asymptotic optimality for a minimum clearance cost metric?
+Can I make a simple Bluetooth receiver?
+What are the notable limitations on using Java with Mindstorms NXT 2.0?
+What is the difference between Kinect for Windows and Kinect for XBox?
+Lightweight, commercially available robotic arms
+Raspberry Pi operating system for robotics
+Check if task exists in Not eXactly C
+PID line follow with three sensors in Not eXactly C
+Why are Mars rovers so slow?
+Why does our LM2576 circuit suddenly cut down the power?
+Robotics with Kinect
+Cable routing in theta, x, y motion control system. Better inside or outside?
+Noise in motion and measurement models
+Can I use ROS with a Roomba?
+Are there working instances of Kilobot projects?
+Standalone (or capable of being) Robotics Simulator
+Wifly Shield Not Connecting
+Why are Servo Motors so noisy?
+Quadruped Learning Simulator
+C++ Robust Model Fitting Library
+How can computer vision distinguish one object being contained by another vs being on top of it?
+Least squares map joining
+Guiding a Quadrotor Towards a Target
+Good method for building a pan and tilt controller?
+Comparing maps to groundtruth
+Inter-processor communication for robotic arm
+What are methods for dealing with compass lag (rate dependent hysteresis)?
+How do you determine EKF process noise for pre-recorded data sets?
+How many amps do I want my Switching BEC to provide?
+Confused about the variables in RobotC?
+How can I upgrade an existing robot with a higher torque, sensored motor @ ~100 watts?
+In HRI, how is the "uncanny valley" experienced by people on the autism spectrum?
+Differences between Ackermann steering and standard bi/tricycles concerning kinematics?
+The relationship between point cloud maps and graph maps
+How to balance a flying quadcopter?
+Getting started with robotic arm design
+Building a controllable "knob"
+What are the reasons for not having autonomous robots in our daily activities?
+Would ROS benefit from a multicore processor like Epiphany or XMOS?
+Do "nano bots" (that can fit inside the human body) actually exist?
+Do "toy" robots move technology forwards?
+How can Microhard 920 series modems be made compatible with Microhard 910 series?
+Plans to use Vendor ID to identify EtherCAT devices?
+Simple Neural Network with hardcoded positions for walk optimisation
+How can I control a fast (200Hz) realtime system with a slow (30Hz) system?
+Can ultrasonic and button sensors be run in a VEX analog port?
+How to find out how far a motor has taken a vehicle?
+Arduino Motor control
+Adding Rotary Encoders to an Electronic Wheel Chair
+Can I use digital animation software to define the movements of humanoid robots?
+Which is model is best for feedback control of robotic manipulators: MIMO or parallel SISO?
+How do I interpret this data, received by the I2C controller on an NXT 2 brick?
+CNCing an injection mold
+What microcontroller should be used for QuadCopter flight control and ESC?
+Sonar for obstacle avoidance: how many sensors and where to place them?
+Is there a tool for building and analysing robots (kinematics, control) visually?
+How to Identify Objects in Space
+Why must I loop 127 times for a "7-bit" address in this example?
+Optimal Control for a simple pendulum
+Sensors for differential drive
+Can you seed a Kalman filter with a particle filter?
+How do I simulate an assembly line?
+How to tell a stepper motor's position, or detect slippage
+Building Robotic arm joint
+Do I really need a gyro for an airplane flight stabilization system?
+3D Mapping from a quadcopter with KINECT
+Remote car controlling
+Accurate 3D Printing W/Sketchup
+Force measurement on grab bars
+Measuring speed of movement in Webots
+Using a Sick laser with Matlab in Windows
+Would is be possible to connect a HiTechnic prototype board to an Arduino?
+Arduino Nano + Raspberry Pi = UAV Ground Station?
+Is it possible to achieve arbitrary precision in camera calibration?
+How to select cameras for a stereo vision system?
+High voltage motor control with arduino
+How do I select the best configuration for a known workspace, load and task?
+Calibrate a 2d scanner mounted on a rotary axis
+How does the Makeblock threaded slot work?
+GPS tracking device
+Are power and torque required related in some way?
+Storing Kinect Data on a USB Drive
+How can I send video from my Arduino camera module video to my Android screen?
+How do I design for a target speed?
+TI ARM with stacked RAM
+Will connecting two servo motors double the torque?
+How do I convert link parameters and angles (in kinematics) into transformation matrices in programming logic?
+How can I detect the edge of a table?
+What is the opposite of 'Antagonistic'?
+What's an efficient way to visit every reachable space on a grid with unknown obstacles?
+Dropping PWM on Ardrone Parrot 2.0
+Controlling more than 12 Servos with the Arduino Servo library
+Adhesion for a heavy wall-climbing robot
+Simulated kinect rotation around X [gazebo bug?]
+Extended Kalman Filter using odometry motion model
+Firmata over nRF24
+Do magnets affect IMU values?
+Why do space probes need heating?
+What is a good approach to a Quadruped Gait?
+One BEC for multiple ESC (Quadcopter)
+Does anyone know what might be giving me this error coming from an i2c device
+Which is easier/cheaper: Hbridge vs ESC for controlling a motor?
+problem in serial communication between PC and ATMEGA 8535(AVR)
+Local Localisation with particle filter
+Conventional Land Vehicle Dynamic Models for GPS/INS augmentation
+Chaining Kalman filters
+How do we make our robot work?
+Motors response different with high-frequency PWM
+For servos, can it be implied that `Holding Torque = Operating Torque * 2` like with steppers?
+Controlling the Power of a Solenoid
+Taylor Series expansion for EKF
+Charging multiple LiFePO4 batteries at the same time?
+How would I go about making an art drawing robot like this?
+Connecting multiple different voltage servos to the same controller
+How to make an "invisible line following robot"?
+looking for a miniature joystick, but in reverse
+Servo motor considerations for a quadruped
+Cant see Kinect Data in ROS
+How is PIV control performed?
+What is the actual physical actuated quantity when controlling the position of a servo?
+Web mapping that can be used for autonomous vehicles/robots
+Building a balancing robot with differential drive
+Resetting position of e-puck in Webots using Supervisor node - problem with getting a handle to the robot
+Overview - what skills are needed for sensor fusion?
+Source to learn Kalman Fusion, explanatory code snippets
+Is it possible to interface android mobile as GSM and GPS module with arduino based robotic applications?
+How do space rovers survive at very low temperatures?
+What are human-friendly terms for mobile-robot orientation and relative direction of non-robot objects?
+Perfecting Tripod Gait - Building a R-Hex Robot
+Self learning maze solving robot using 8bit microcontroller?
+Prototyping a device with 25-100 small DC 3.0V motors, is Arduino a good fit?
+How to invert D-H parameters
+Mindsensor Motor Multiplexer jump on run_unlimited
+Is there a way to use a single dc motor output for two different loads?
+Is it possible to make Kite flying robot?
+How to assemble brushless motors and propellers?
+How do I measure the distance that a cord (string) has moved?
+Stabilizing a Robot Arm at a Specified Height
+Assigning Frames and Deriving Link Parameters
+Increasing the rotation range of a servo motor
+How to perform this reference system transformation?
+Python libraries for image processing and feedback control on raspberry pi
+Numpy alternatives for linear algebra and kinematics in python?
+At which stage should filtering be applied to the sensors data?
+Why are industrial machines called robots?
+Robots minimum distance
+Torque in kg/cm?
+How to obtain stereo correspondences and what exactly is a disparity map?
+Has a robot ever taken a complete IQ test?
+Why is this electro motor going slower?
+What is the name of this mechanical linkage?
+How do I interface a TLC5947 with small motors?
+What would be the best way to handle food grains?
+Dynamic programming algorithm aka Bellman equation in Robotics?
+When should FPGAs be used in Robotics?
+Equation to limit rate of change of end-effector in X and Y coordinates
+Can I use the RaspberryPi to receive the GameCube remote's RF signals?
+How to know when a Li-Po battery is discharged?
+Can the rate of peristaltic pump's flow be accurate across changes in fluid viscosity?
+Where does Gazebo set the GAZEBO_MODEL_PATH environment variable?
+PID tuning to make my balancing robot better
+Minimum speed controller refresh rate
+How can I calculate processing speed of microcontroller
+information filter instead of kalman filter approach
+object level sensor fusion for multiobject tracking
+Shedding light on "cyber-physical systems"
+Fastest maze algorithm for robot
+Where can I get A3 poster size of Mars Exploration Rover Spirit/Opportunity?
+Dynamic braille interface
+What is the wire used for hand movement of robot called ? where can I find it online ?
+Problem with vibrations in air bearing
+Plastic shaft supports
+Read Multiple Channels of RX-TX with arduino
+How to stabilize a quadcopter
+What kind of sensor do i need for knowing that something is placed at a position?
+Space elevator: What is still needed, apart from the cable and propulsion?
+How do I adjust objects on a conveyor belt into the proper orientation?
+Drone targeting
+Quadrotor control using ArduIMU
+Connecting More Than Six Analog Input Pins to arduino
+Limits of PWM, Timers and Interrupts?
+How can I use the Arduino PID library to drive a robot in a straight line?
+How does rocker bogie keep the body almost flat?
+Using an Xbox controller to fly a Quadrocopter
+Would the strength and speed of a robot skeleton be a danger to its wearer?
+What is the difference between Task-Level and Joint-Level Control Systems?
+How can I get Windows Kinect working on Angstrom on Beaglebone?
+How to measure and dispense a finite amount of powder or liquid
+What is the easiest way to install ROS on OSX Mountain Lion?
+What reward function results in optimal learning?
+How to detect when a stepper motor has stalled?
+How to connect an infrared remote control to PC or Arduino or Raspberry Pi?
+How can a load be balanced between multiple AC electric drive motors?
+How can I convert RGB colors to CMYK for my airbrush robot?
+How can I create a robot like the EZ-B using a regular Arduino?
+Is there a benefit to using 2 IMU units on a UAV set at different sensitivities?
+Issues upgrading Arduino code for Kinect controlled arm from 2 servos to 4
+What are the mechanics of translational drift?
+Send Arduino sensor data to server with GPRS shield
+What are the signs that a servo might be broken?
+Rotation ratio between left rocker and right rocker in rocker-bogie system
+Controlling Robots Through Serial
+Why are the IRB 1410's servos running even when the joints are not moving?
+Visualizing and debugging an EKF
+Non-Vision Based Target Tracking
+Robotics Location Following and Tracking?
+Problem uploading to Roboduino AtMega328
+Additional Power to DC Motor via Second Power Source
+How do I interpret these specs for a motor and motor driver?
+Battery pack discharged
+Multicopter odd or even
+Arduino Controlled RC Car. What now?
+Association of multiple measurements to multiple objects
+Permission to fly UAVs
+Open source "sci-fi"-like robot projects IRL
+Aluminum vs Carbon Fiber
+Upgrading the motors on a SeaPerch ROV - more torque, or more RPMs?
+Single camera vision and mapping system
+Working of Autonomous Lawn mower(ALM) in an unbounded area without a perimeter wire
+Building a Autonomous pesticide spraying system using swarm robotics based on odor (volatile Organic Compounds) detection
+Can I use Ziegler-Nichols's rules to find PID parameters for a non linear system
+Prop Orientation on a Multirotor
+Instantaneous Center of Rotation for a differential Drive Robot
+Prop orientation for tricopters
+How to tell when an ArduPilot has finished initialising its gyros (without referencing telemetry)?
+Software for robot parts interaction modeling
+programming pan-tilt unit with C
+creating a robot from ez-b or regular arduino
+Why does my LSM303 magnetometer reading not change in a while loop?
+What is the cheapest / easiest way of detecting a person?
+qt ros tutorial issue
+Wearable Accelerometor
+Stream Real-time Video with Environmental Data Overlaid
+Pushing Buttons Remotely over Ethernet
+Is a Raspberry Pi processor powerful enough for a mobile chatbot?
+PID Conundrums for Legged Robots
+Building robots with high reliability, durability, and battery life
+What is the best way to go about building a robot hand that can type on keyboard, move &click mouse, swipe touchscreens?
+How can I improve the map in my Mobile Autonomous Robot using KINECT
+Controlling a quadrotor from a PC
+Pan and tilt bracket for a stepper motor
+laser scanner distance
+Most material efficient quadcopter frame
+trapezoidal vs sinusoidal commutation
+Learning about embedded systems
+How to get data from ArduPilot through Serial Port
+Maze Solving Algorithm For Mazes With Loops
+How are units of noise measurement related to units of a sensor's data measurement?
+How would I go about interfacing the raspberry pi and arduino?
+Motor and Ethernet shields together
+Help with adaptive fill algorithm for Water Color Painting Robot
+Is this a good quadcopter build?
+Does more "Power" (W) means better motor?
+Quadcopter application underwater
+Pros/Cons of common robotics "kits" at the high school level
+Optimal-time trajectory in 2D and 3D with simple constraints
+automatic sorting with barcode identification inside a refrigerator
+Single power source for electronics and actuators
+How to build a liquid filling machine using piston?
+On the ardupilot board, what is the difference between A10 / A11 ground pins and the PWM ground pins?
+lithium thionyl chloride batteries to generate 20A @ 14.4V
+Python3 Modules for motor movement
+Reducing motor speed without jamming up
+Building a non rotating persistence of vision device
+Light pattern is flashing intermittently using RVIZ/OpenNI with two Kinects
+How do visual obstructions impact the ability to localize using LIDAR?
+PX4 Communication
+Line Follower optimization
+How to implement Bounded Angle Vision in Particle Filter?
+How do you dim 12 volt LEDs?
+How to convert vertical motion to horizontal
+Arduino C/C++ progamming tutorials
+How can I simulate a changing environment with non-rigid objects?
+Use of automated tricopters instead of quadcopters?
+Track a moving object
+If you can create pure yaw motion with a quadcoptor then why won't this work with a tricoptor?
+Roslaunch include file remotely
+H-bridges and stall current
+Accelerometer bias removal
+How to raise/drop a spider
+Accelerometer calibration - how to get cross-axis sensitivities
+Choosing motor and battery for a robot
+Interference between 900 MHz video transmitter and 2.4 GHz control radio
+How to deal with sonar crosstalk
+existence probability of an object in fusion
+What is the name for the transfer function, GH
+measuring gears for servo motors
+Making a robotic arm that can draw a circle
+How to design a differential steering mechanism?
+How to implement the Wavefront algorithm
+Do servos stop at their limits automatically?
+How to make a motion sensor circuit, that can communicate with my LAN?
+Motor driver selection
+ArduIMU noisy output in Quadrotor
+Why can Humans single out audio in a crowd? What would it take for a robot to do the same?
+Beaglebone Black power draw
+How do I motorize the elbow socket and other joints in a powered exo-skeleton?
+Why do quadcopters use brushless motors
+Controlling a conveyor belt with a time based motor
+How can I get data from my kinect?
+How to control velocity ratio when turning angle is θ?
+Paper work before I do make my own Line follower Robot
+WHY are there no operating torque specifications on steppers?
+How to speed up robotic arm?
+What is rotor torque?
+How can I manipulate real-time sonar data from my Arducopter in Arduino?
+Calculate position of differential drive robot
+What is the difference between a Robot and a Machine?
+Implementing Slip Compensation into a Half-Size Micromouse
+How to protect the milk in a homemade vending machine?
+classify if two adjacent surfaces belong to same object
+Moldable rubber for "feet"
+funny behaviour or what - dc motor control
+Smooth servo movement for a crawling robot
+Management of asynchronous commands
+Does a vehicle with defferential gear still move straight?
+Wind force impact on torque mechanical arm
+Can GPS modules work inside plastic enclosures?
+Do 6 motors require 6 individually-assigned batteries?
+Help with PID "units" in a quadcopter control system
+MPU-6050 + Arduino nano - Logic converter or not?
+Build an WiFi IP camera with webcam
+Approach to using PID to get a differential robot driving straight
+What is the difference between RC motors for cars and helicopters?
+How to determine the parameter of a Complementary Filter?
+Off-the-shelf micro fluid dispenser
+What is an effective distribution of grayscale sensors on robot
+How do SLAM algorithms handle a changing environment?
+How to correctly compute direct kinematics for a delta robot?
+H-Bridge using atmega8 microcontroller
+AT command in SIM900A GSM/GPRS module to find out originating address of an SMS
+What modelling tools are available to design a robot
+Design Calculations & Mathematical Modeling of Tricopters
+Assigning Serial number and GUID to a microcontroller
+Any globally unique signature in Ardupilot hardware, or Arduino in general?
+Laser / photosensor pair or similar
+Polling or Timer interrupt?
+Place for GPS antenna on autonomous vehicle
+How to model unpredictable noise in Kalman Filter?
+What to do when the control input of the Kalman filter is unknown?
+In SLAM, how does a laser range finder produce pseudo-segments from dynamic objects?
+How to control the position of a pneumatic piston?
+running UWSim commands in ROS
+Tracking with accelerometer and gyro versus multiple accelerometers
+Actuator design. plausible?
+How do I send text to a Torobot USB device?
+Motor Controller with micro USB interface
+How to control a brushless motor?
+Localizing a swarm of robots
+How do I Calibrate Analog Thumb stick?
+Gears modeling in Google SketchUp and SketchyPhisics
+Tiny high torque actuator/sensor design
+Localising a robot swarm non-optically
+Software for designing mechanical systems/robotic parts
+Roller Screw drive - axial movement instead of friction
+Why do 1000 rpm and 10 rpm DC motors cost the same?
+quadcopter parameters calculations for simulink model
+Effective motor type for robotic arm?
+Choosing a platform to start
+How Yaw, Pitch and Roll effect the flight of Quadcopter?
+What frame of reference is used during Visual Servoing?
+Stabilizing a quadcopter with optical flow
+Digital servo shaking
+Need suggestions for object recognition
+Transducer for underwater applications (passive sonar)
+Why do 3-axis accelerometers seemingly have a left-handed coordinate system?
+question about car-like robot localization based on dead-reckoning
+May I have some suggestion on inexpensive robotic arm?
+Razor IMU Arduino interfacing
+Where I can learn algorithms or and find examples of code for controlling a rover?
+Depth map with Raspberry Pi
+Controlling bot using video and image processing
+Should you learn assembly language for robotics?
+Blender a good robotic simulator for quadcopters / swarm simulations?
+Arduino for simple Data-Glove. Should I go with Mega or Due?
+Mechanism for changing gears on a bicycle
+Making a brushless servo using Hall sensors
+Does Monte Carlo Localization need a predefined map?
+Is finished plywood a comparable prototyping substitute for polyoxymethylene?
+Strafing of Mecanum wheels
+Arduino isp bootloader burning
+Use computer to throw a small switch
+How are the optical encoders used in platforms like Rover 5?
+Installing MORSE simulator on Ubuntu 12.04
+How can we manage stepper motor cables?
+Any ideas for a robot?
+Performing the proper coordinate system transformation
+DC motor direct loading
+Is a thrift store a good place to get a servo motor?
+Field oriented control of brushless motors
+How to open a sliding window?
+Arc welder for 3d printing
+What is the most appropriate SLAM algorithm for quadrotors with RGB-D camera?
+I want my stepper motor to switch speed while traveling (not acceleration wise)
+In EKF-SLAM, why do we even need odometry when there is a more reliable sensor?Also, are all SLAM algorithms feature-based?
+Is it possible to use HC-SR04 ultrasonic range sensor to indicate thickness of a material
+Choosing path planning and obstacle avoidance algorithm for 2D space
+Will wiring a unipolar stepper to a bipolar stepper driver decrease the holding torque?
+What is telemetry used for?
+Public training data for vehicle detectors in computer vision?
+Autonomous car steering using IR sensors
+Usage of Multibeam 2D Imaging Sonar for AUVs, testing them in the pool environment
+Accelerometers error (BMA020 and BMA180)
+How to retrieve parameters from mavlink .tlog using pymavlink?
+1 cm accuracy radio rangefinder?
+Can you have a career in robotics if you hate mechanics?
+SLAM without landmarks?
+Are time-of-flight cameras like the swissranger affected by outdoor fog?
+Jacobian of the observation model?
+Pre-built PID motor controller
+Is there a way to determine which degrees of freedom are lost in a robot at a singularity position by looking at the jacobian?
+Maintaining positive-definite property for covariance in an unscented Kalman filter update
+EKF partial state update question
+How to calculate the right and left speed for a tank-like rover?
+Arduino Uno R3 or Roboduino ATMega168 or Arduino Mega 2560 R3 which board is better for small robots
+Telemetry with Ardupilot 2.6
+How will the currently evaluated computer technology influence robotics and embedded systems in the forseeable future?
+Roboticize an old netbook?
+ROS AMCL does not need odometry data?
+Is it possible to run multiple loops at the same time? (Arduino)
+Calculate covariance matrix from x,y,z data
+Rocker bogie suspension stability
+Cheapest 3D printer for gears?
+Making high CAN baud rates work
+quadrotor experimental identification
+Choosing correct power supply for Stepper Motors
+Questions about Irobot Create
+Encoder based speed control for Rover 5
+Odd L293D behavior: Pin 16 seems to act as enable
+Bluetooth module HC-05 giving ERROR :(0)
+Guidance for compensating internal forces on closed loop chain
+Unable to read pushbutton press properly in Arduino
+My Raspberry Pi is losing power in a surge
+Omron G5V-2 relay NO pins not working
+Particle filter implementation in ROS
+Recommendations for system to repeatedly force contact between head and desk
+Soft LED Protection Material
+Arduino Uno getting a type of "HANGED" while runing samll code of switc debounce and Serial print
+Fake localization using bag file in ROS
+Which Kinect to a movement base?
+Powering down servos completely in RobotC+Tetrix
+Compiling Code for EY-80
+Wifi to pass through aluminium
+How to use Arduino for ESC control?
+Using Armatures in Morse Robotic Simulator
+Are there any GPS sensors that provide data at 1Hz or faster?
+Do I need an accurate flight model for a UAV?
+How to calculate probability of particle survival for particle filter?
+360 degree ultrasonic beacon sensor
+What happened to Butler's car?
+POMDPs in robotics
+RC Transmitter Quadcopter with Arduino
+Have bloodstream nanobots been approved in any countries?
+sending and receiving parameters to ardupilot
+Defining frames for 5DOF robotics arm
+Deburring Robot (Plastic Box)
+Resampling attitude states (quaternions, rotation matrix) in a Particle Filter
+Image retrieval through a multibeam imaging sonar
+where can i learn electronics from intro to advance digital
+Transform Image Using Roll-Pitch-Yaw Angles (image rectification)
+Line following robot with EV3 Colour Sensor
+What dependencies do I need for USB programing in python with pyUSB?
+Turning a differential drive robot to a specific angle
+Algebraic and geometric in inverse kinematic
+Move ATRV robot to specific distance using ROS
+Another SDK like OpenNI
+APM Accelerometer Calibration
+How can I interface my CMOS camera module to an Arduino?
+Continuous or Discrete
+Extended Kalman Filter with Laser Scan + Known Map
+What micro controller should I use?
+How to calibrate an industrial Robot?
+Making a tiny robot by using a remote brain
+computer aided RC airplane combat
+SPP Bluetooth profile compatibility with phone
+Quadcopter instability with simple takeoff in autonomous mode
+Visualizing kinect data on rviz
+Lawn mower robot (type of cutter)
+What should I use for speech recognition?
+Understanding Arduino bootloader
+What autopilot to purchase APM 2.6 or PixHawk?
+How can I build a 10cm-200cm IR range sensor?
+Re-Calibration of an articulated industrial robot
+Robots without microcontrolers (beam robots). Are they technologically limited?
+How can i make a boat
+Low speed control of bldc motors
+What are the different types of electric motors?
+How do robotics startups work?
+what method should I use for putting rubber bands on wheels?
+Access denied during PIC Programming in Windows XP
+What is the purpose of electronic braking in motors?
+I am an entrepreneur and I want to start building robots for businesses, where do I start?
+Udoo board + Kinect sensor?
+Quadcopter configuration
+Zero crossing events with brushless DC motors
+Zero crossing events in trapezoidal commutation
+ComputerCraft (Minecraft mod) navigation: Collision avoidance and path planning/finding in 2D/3D space
+How to know the desired orientation of a quadcopter?
+Kalman Filter and the state noise vector?
+Finding inverse kinematics algorithm for a specific manipulator
+Difference between Rao-Blackwellized particle filters and regular ones
+Flipping an old manual switch (physical one)
+How to gyroscopically measure number of rotations on one axis when there is concurrent random motion on another axis
+How to choose WiFi signal strength detecting sensors
+Quadcopter Position Measurement (Accelerometer, GPS or Both)?
+Are Artificial Intelligence and Robotics Different?
+Unwanted Arduino reconnect: Servo + Arduino + Python (Raspberry Pi)
+Workable low-resolution object/target recognition pattern and library?
+Once you understand motors, what's the next step?
+2D path following robot, converting XY axis path to input on wheels
+Emulation of an Orrery
+Dynamics of parallel manipulator
+KK2.0 Quad Stablility
+Power Model for humanoids
+Quadcopter PID tuning
+How much accuracy could I get position tracking with a 3-axis accelerometer and gyro sensor, and compass, and how would I do it?
+Where to start for the software side of Robotics?
+System for determining occupied seats in an auditorium
+Overcorrecting Kalman Filter
+Tracking 2D positioning with IMU Sensor
+What can be the rating and specifications of dc motor used for making a quadcopter?
+Kinematics of a 4 wheeled differential drive robots
+problem with simulated sensor in Matlab?
+Is it possible to achieve fully autonomous route following using PX4FMU module?
+What is the Kalman Filter in the basics of its aspects?
+learning (embedded) electronics
+Monte-Carlo Localization
+How do ultrasonic range finders detect objects at an angle?
+Simple web interface with beaglebone black
+The costs of using existing 6 axis kuka/abb robots and existing vision systems in picking and placing tasks
+What motor to use for reciprocating (reversive) movement
+Electronic noses for detecting dog urine
+Line follower robot program
+Cons and pros of wireless technologies for rescue robot
+Explanation of the Kalman Filter
+Actuator to control steam valve
+Building a mobile camera platform
+covariance matrix in EKF?
+Compensating for Yaw in Lateral Quadcopter Movement
+Using vision for Monte-Carlo localization
+Maximum angle between the camera pose to correctly estimate homography
+Kinect for Xbox: SDK selection
+Water depth arduino sonar sensor
+Motion Model for Holonomic Robot
+How can I start programming proto X quad
+LIDAR solutions
+Generic name for two-motor wheeled/tracked robots?
+How to: Attach wheel encoder to motor?
+Connections on a Baby Orangutang B-328 board
+Robotic part to dispense candy
+Why is analysis required to study robotics?

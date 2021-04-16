@@ -1,0 +1,1533 @@
+What is a good special-case sorting algorithm?
+What are some effective heuristics to find the number of Hamiltonian paths in a rectangular grid?
+What is the following variation on Set Cover known as?
+Generalizing the FFT
+Process modeling with fine-grained notions of location
+space-bounded TMs and oracles
+Is Deolalikar's 2010 proof that $P \ne NP$ correct?
+What is the theoretical basis of imperative programming?
+Correspondence between complexity classes and logic
+What are some career options for someone with a computer scientist master degree?
+To what extent MSO = WS1S, when adding relations?
+Why is it important that the secret is at the end when signing with MD5?
+Complexity of the Fisher-Yates Shuffle Algorithm
+Online transitive closure better than O(N^2) per edge addition
+Are there any known implementations for quantum computing constructs?
+Best resources for string searching or pattern matching exercises
+How hard is unshuffling a string?
+A comparison of extractors in terms of tradeoffs between time, randomness and space ?
+Graph Isomorphism and hidden subgroups
+Succinct circuit representation of graphs
+What are good references to understanding the proof of the PCP theorem?
+Consequences of Complete problems for NP intersects coNP
+Hierarchies in NP (under the assumption that P != NP)
+Simple balanced trees with O(1) concat?
+Minimum spanning tree algorithm.
+What specific evidence is there for P = RP?
+H-free cut problem
+How large a treewidth can a tree plus half the edges have?
+What are the historical roots of Milner's bigraphs?
+Can a nondeterministic finite automata (NDFA) be efficiently converted to a deterministic finite automata (DFA) in subexponential space/time?
+Problems Between P and NPC
+Which results in complexity theory make essential use of uniformity?
+Where and how did computers help prove a theorem?
+What evidence do we have for (and against) Unique Games Conjecture?
+What would it mean to disprove Church-Turing thesis?
+What are the best current lower bounds on 3SAT?
+When designing an explicitly parallel language, what built in functions should be parallelized?
+What is known about solutions to sparse integer linear programming problems?
+What are good references on understanding online learning?
+A more intuitive proof of the Zone theorem ?
+Is there an official name for a notion of "reusably universal"?
+Complexity of testing for a value versus computing a function
+Are recursive forms of Godel's statement possible?
+Lower bounds for constant-depth formulae?
+Using error-correcting codes in theory
+Cliquewidth of Almost Cographs
+Many-one reductions vs. Turing reductions to define NPC
+What is the advantage of red/black trees in comparison with unbalanced trees?
+Can every non-deterministic finite automate be changed into one with only one acceptance state?
+Applications of TCS to classical mathematics?
+DFA intersection in subquadratic space?
+Computational query complexity of SQ-learning
+Finding odd holes in circulant Paley graphs
+Is integer factorization an NP-complete problem?
+Can it be determined if language L lies in NP?
+What are the consequences of factoring being NP-complete?
+How does the Mulmuley-Sohoni geometric approach to producing lower bounds avoid producing natural proofs (in the Razborov-Rudich sense)?
+Major unsolved problems in theoretical computer science?
+What are the consequences of Parity-L = P?
+Approximating the sign rank of a matrix
+Parameterized complexity of Hitting Set in finite VC-dimension
+What's the difference between the Actor Model of Concurrency and Communicating Sequential Processes
+Algorithms from the Book.
+Bounded-cardinality bounded-frequency set cover: hardness of approximation
+Compared growth of the number of syntactic classes and Nerode classes.
+Translating SAT to HornSAT
+Best known joint containments for/by NP and Parity-P?
+Lower bounds on Gaussian complexity
+Can someone suggest a recent survey on product form Markov chains?
+Algorithm for inverting a bijective function.
+Explain Gurvits's tensor-rank interpretation of Deolalikar's paper
+Chernoff bound for weighted sums
+Parallel Dynamic Search
+References for TCS proof techniques
+Extensions of beta-theory of lambda calculus
+Shuffling of tokens on a graph using local swaps
+Property testing in other metrics?
+Finding small sets of integers in which every element is a sum of two others
+How hard is it to reduce termination to partial correctness?
+Are lambda calculus and combinatory logic the same?
+Is there a definitive reference for Turing machines with multiple oracle tapes?
+History of recursion
+Surprising Results in Complexity (Not on the Complexity Blog List)
+Is APX contained in NP?
+Kolmogorov complexity applications in computational complexity
+For which algorithms is there a large gap between the theoretical analysis and reality?
+Evidence that PPAD is hard?
+Internal Regret in Online Convex Optimization
+Two Variants of NP
+Complexity of Localization in Wireless Networks
+Natural problems in $NP \cap coNP$ not in $UP \cap coUP$?
+Online learning: Perceptron updates
+Alternate notion of complexity based on gap between brute-force and the best algorithm?
+Well known classes of boolean formulas that require exponentially long resolution proofs
+"All-different hypergraph coloring" - known problem?
+$NP\cap coAM$ Languages
+What evidence is there that $coRP \neq NP$?
+Proof of a unique homomorphism from an initial object
+Using lambda calculus to derive time complexity?
+Higher-order algorithms
+Complexity Theory conferences?
+The importance of Integrality Gap
+Characterising invisible equivalences by confluent rewrite rules
+Analogs of compressed sensing
+Space alternating hierarchy
+What applications of Cantor space are there?
+Is the convex combination of two potential games a potential game?
+Reducing complexity with parallelism
+Any fast algorithm for minimum cost feedback arc set problem?
+Why have we not been able to develop a unified complexity theory of distributed computing?
+What are some real world applications for genetic algorithms?
+Why is P vs. NP so hard?
+Does $EXP\neq ZPP$ imply sub-exponential simulation of BPP or NP?
+Can words in regular languages be generated by automata in a unique way?
+Has the derandomization of slightly non-uniform classes, e.g BPP/linear, been studied?
+Everyday encounters with NP-complete problems
+Regular expressions aren't
+Is there an equivalent to derandomization for quantum algorithms?
+How does Theoretical Computer Science relate to security?
+Collapsing of exptime and alternation bounded turing machine
+Dual BCH codes of design distance $d$
+What are the most effective algorithms to find random number?
+Unique games conjecture - edge permutations
+What is the quantum computational model?
+Graph families which have polynomial time algorithms for computing the chromatic number
+Are there NP-complete problems with polynomial expected time solutions?
+Difference between theory and practice of security and cryptography?
+Complexity class separation in the presence of relativization barriers
+Choosing subsets of a set such that the subsets satisfy a global constraint
+Are there alternatives to using polynomials in defining the different notions of efficient computation?
+complexity of fitting models to data
+PCP characterization of NP
+Is "Experimental Complexity Theory" being used to solve open problems?
+Does $VP \neq VNP$ imply $P \neq NP$?
+High probable polynomial time algorithm for NP-hard problems?
+what are known bounds on complexity of nontrivial graph automorphism
+More efficient non-uniform derandomization ?
+What bounds can be put on counting reachable nodes in a dag?
+What is schema theory within Genetic Algorithms
+Circuits with oracles vs. Turing Machines with oracles
+What are the different notions of one-way functions?
+How to produce a random graph that does not have a Hamiltonian cycle?
+Best way to determine if a list of bytes are random?
+What is the difference between a second preimage attack and a collision attack?
+Streaming derandomization
+Space efficient "industrial" unbalanced expanders
+Is there a stable heap?
+Reference to lower bound on separator in a grid?
+Efficiently Samplable Distributions
+Examples of the price of abstraction?
+What are the best known upper bounds and lower bounds for computing O(log n)-Clique?
+Is there any natural Karp reduction from Independent Set problem to SAT?
+Why can Lambda Calculus not represent some combinators?
+Relationship between Turing Machine and Lambda calculus?
+Does Pattern Calculus represent a step forward in languages or are we just going back to LISP?
+What is the difference between non-determinism and randomness?
+Dimensionality reduction with slack?
+Bounding the rate of increase of the price of anarchy across equilibrium concepts
+What is the most efficient algorithm to sample graphs with trivial automorphism groups ?
+Sparsity of Horn satisfiability?
+What is the complexity of computing a compatible 3-coloring of a complete graph?
+Major conjectures used to prove complexity lower bounds?
+How are side effects handled in semantics?
+Is there a complexity theory analogue of Rice's theorem in computability theory?
+Best bounds for the longest path optimization problem in cubic Hamiltonian graph?
+Lower bounds for linear satisfiability problem
+Multiplying n polynomials of degree 1
+Bounds on $E[f(x)]$ in terms of $f(E[x])$ other than Jensen's inequality?
+What algorithms are known for computing Craig interpolants?
+Do many-one reductions and Turing reductions define the same class NPC
+Type inference with subtype constraints and polymorphism using Trifonov and Smith's constraint maps
+Shouldn't relativisation contain consistency proof ?
+MIP with efficient provers
+Given the following set of LISP primitives, is it possible to extend the eval function to evaluate defmacro?
+Are there known "completion" operations over languages ?
+Cutting-sticks puzzle
+Quantum computing project ideas
+Computational complexity of the 3-partition problem with distinct numbers
+Definition for MSO2 for arbitrary structures
+Triangulating a Planar Polygon
+Given a weighted dag, is there an O(V+E) algorithm to replace each weight with the sum of its ancestor weights?
+Heuristics for estimating the efficiency of Reduced Ordered Binary Decision Diagrams?
+Data for testing graph algorithms
+Exception handling for flow control ?
+Construction of graphs where every pair of vertices have an unique common neighbor
+Have any generalizations of maximum weight matching been studied?
+Do all complexity classes have a leaf language characterization?
+Sensitivity of Graph Properties
+Rapidly mixing Markov chains on 3-colorings of a cycle
+Complexity of a variant of the Mandelbrot set decision problem?
+Is optimally solving the n×n×n Rubik's Cube NP-hard?
+Handbook of Logic in Computer Science - is it worth it?
+Grid $k$-coloring without monochromatic rectangles
+What good notations for deterministic context-free and visibly pushdown languages exist?
+Reductions from the book.
+Generalized Ladner's Theorem
+Learning quantum CS
+What are the classic papers from the recursion theoretic area of complexity theory?
+Is the lower bound proof in this paper correct?
+Consensus clustering using set union
+A reading list on experimental algorithmics
+Some problems involving polynomials of public and private variables over GF(2).
+Quick encoding of balanced vectors
+Space-time tradeoff lower bounds
+Are there natural separations in the nondeterministic time hierarchy?
+Complexity of Smoothed $\ell_0$ algorithm
+Provable statements about genetic algorithms
+Eliminating cofix in Coq proof
+Ternary (and beyond) computation and quantum computing?
+Is the following language in RE?
+Which $AC^0$ problems are not "truly feasible"?
+$\ell_p$-norm preserving Turing machines
+Does this notation have a special meaning?
+Image processing algorithms
+Is there a logic without induction that captures much of P?
+Relationship between symmetry and computational intractability?
+Does the System F with pairs have the strong normalisation and subject reduction properties?
+H-free partition
+Linear Time Maximum Clearance Computation on a Grid Graph?
+At last P != NP or not
+Other norms for Lattice reduction techniques (LLL, PSLQ)?
+Reference Request: Application of Block Designs to Software Testing
+Other kinds of running time analysis besides worst-case, average-case, etc?
+What are some examples of secret sharing schemes actually being used in real-world applications?
+Maximal subcoalgebras of an $F+1$-coalgebra corresponding to an $F$-coalgebra
+Reference for the shortcomings of Google's PageRank algorithm?
+Is it hard to find optimal addition chains?
+Computable function $f = \Theta(g)$ with $g$ uncomputable
+Which algorithms are used most often in practice?
+Chernoff-type Inequality for pair-wise independent random variables
+In Strongly connected tournament T.Is it NP-hard to find a minimum number of vertices(V1) which make T\V1 as non strongly connected tournament.
+How to solve the recurrence relation
+Solid applications of category theory in TCS?
+How difficult is it to use the Mulmuley-Sohoni GCT approach to show *known* complexity separations?
+Complexity of marriage matching problem?
+Is parametrized maximum independent clauses problem in FPT?
+PCP theorem and proof complexity?
+Computation of max H-free sets
+Where is the error in the following P != NP pseudo-proof ?
+Is $(NP^{NP})^{NP} = NP^{(NP^{NP})}$?
+Automata Theory / Formal Language Thesis Topic
+Can we quantify the "degree of quantumness" in a quantum algorithm ?
+An explicit separation between time-constructibility and space-constructibility?
+Simple reduction to unbounded knapsack?
+Global properties of hereditary classes?
+Continuous Clustering
+Open problems on the frontiers of TCS
+Dynamic programming algorithm for NP-complete problem
+Efficient algorithm for near-optimal edge-colourings of hypergraphs
+Status of Impagliazzo's Worlds?
+What does it mean that there are differing views on how computations are represented on the Turing Machine?
+Subrange of a Red and Black Tree
+Lower bounds on #SAT?
+Where do most REGEX implementations fall on the complexity scale?
+Comparing $\mathbf{NP}$ and $\mathbf{E}$
+A relaxed Steiner Tree Problem
+Best Upper Bounds on SAT
+Time complexity analysis for Reingold's UST-CONN algorithm
+Polynomial Time Algorithm for Graph Isomorphism Testing
+Integer relation detection for Subset Sum or NPP?
+Is it possible to have a 4-coloring for a non-planar graph ?
+NTIME(n^k) ≠ DTIME(n^k) ?
+Using decision version of TSP to solve optimization version
+FNP complexity class
+Constraint Satisfaction Problem: Choosing real numbers with variance in a certain range
+Beginner's Guide to Derandomization
+Constraint Satisfaction Problem: Choosing real numbers with certain characteristics
+Hardness of constrained star system problem?
+Quantum Computation - Postulates of QM
+Fast sparse boolean matrix chain product
+Optimizing multiplication in a partly commutative semigroup
+SAT Solution Space - Definition of Cluster of Solutions
+Realizability theory: difference in power between Lambda calculus and Turing Machines
+Metric graph theory database search algorithms
+On the class of the FNP version of the Hamiltonian Cycle problem
+What does one mean by heuristic statistical physics arguments?
+Are there "small" machines which can efficiently match regular expressions?
+Average distortion embeddings
+Turing Machines and Subroutine Simulation
+Counting complexity of a scheduling problem.
+Is this problem mappable to 3SAT or is it weaker than 3SAT?
+Introduction to spectral graph theory
+How do I formally describe a rooted, directed, acyclic graph?
+How can I model this usage scenario mathematically?
+Projective Plane of Order 12
+Universal Turing Machines in "Computational Complexity" by Papadimitriou
+What papers should everyone read?
+Graph Theory Fun Problem
+What is the k-SAT problem?
+What videos should everybody watch?
+Hardness Guarantees for AES
+NP-complete variants of undecidable problems?
+NP-hard problems on trees
+Optimal greedy algorithms for NP-hard problems
+Semantic vs. Syntactic Complexity Classes
+Using Kolmogorov complexity to establish proof complexity lower bounds?
+Visualizing Unique Games
+Removing all but a few cycles in a graph
+Reducing #SAT to #MONOTONE-2SAT
+Do people look at loop nestness in boolean circuits?
+Properties of Random Directed Graphs with Fixed Out-Degree
+On Defining Probabilistic/Nondeterministic Circuits
+Truly random number generator: Turing computable?
+Polynomial time approximation algorithms for machine scheduling: how many open problems are left?
+polygonal triangulation and 3-colorability
+Complexity of two perfect matchings with minimum shared edges?
+Problems that can be used to show polynomial-time hardness results
+LogDCFL-complete problems
+2D Cutting Stock Problem for Glass - Details mentioned
+"Divide and conquer" data stream algorithms
+#SAT Solver download
+Is BQP equal to BPP with access to an Abelian hidden subgroup oracle?
+Integer Factoring via Lattice Reduction?
+Monotone-2SAT and Vertex Cover
+Approximate counting problem capturing BQP
+Consequences of lower bounds for $\epsilon$-nets on approximation
+Property testing of triangular properties
+Space complexity of Coppersmith–Winograd algorithm
+Problems between NC and P: How many have been resolved from this list?
+Algorithm for 'k'' most frequently occurring numbers
+What are the theoretical limits of the Stratego Programming Language?
+Number of Vertex Covers and Permanent
+Logspace algorithms on graphs with bounded tree width
+Positive topological ordering
+Does the trace norm of the difference of two density matrices being one imply these two density matrices can be simultaneously diagonalizable?
+Use of Lagrangian dual information to prove optimalitiy of a solution : Any example?
+Distributed Elections using Logical Clocks (hints and tips)
+Results showing existence/non-existence of finite graphs with specific computable properties imply certain complexity results
+In System F à la Church, can we automatize type inference for the for-all elimination?
+Optimizing $\epsilon$ in $\epsilon$-kernel
+Shallow versus Deep Embeddings
+Are there any classes of functions which require provably different resources to compute versus computing their inverse?
+Is it possible to model maximization in a petri net without using inhibitor arcs?
+Find a function that combines a set of integers and outputs an integer. This output can be used to deduce the absence of any integer in the set.
+Proofs, Barriers and P vs NP
+Do the proofs that permanent is not in uniform $\mathsf{TC^0}$ relativize?
+Positive topological ordering, take 2
+One-shot quantum hitting times
+PAC learning boolean conjunctions
+Are there intermediate eta theories for the lambda calculus?
+Is embedding a solution feasible for SAT?
+Why is CNF used for SAT and not DNF?
+What are the main sub-areas of theoretical computer science?
+Best sources on data stream algorithms
+Intractability of NP-complete problems as a principle of physics?
+Algorithms and computational complexity of clique and biclique covers
+How can one construct a densest graph with no k-clique?
+Hardness of parameterized CLIQUE?
+Understanding QMA
+Exhausting Simulator of Zero-Knowledge Protocols in the Random Oracle Model
+Why do we need formal semantics for predicate logic?
+Dinner-table description of theoretical computer science?
+Barriers and Monotone Circuit Complexity
+Complexity Classes for Cases Other Than "Worst Case"
+Circuit complexity and statistical tests
+What is known about the complexity of finding minimum circuits for SAT?
+What does "number of inputs to each neuron" mean in Neural Network terms?
+Ehrenfeucht-Fraïssé games (Ajtai-Fagin in fact) for regular languages.
+Origins and applications of Theory A vs Theory B?
+Confidentiality of "partial private keys" in certificateless public key crypto
+What is the correct definition of $k$-tree?
+Complexity of finding vectors with optimal projection?
+Intermediate problems between L and NL
+What's new in purely functional data structures since Okasaki?
+Connected components of k-CNF formulas
+Oracle relative to which BPP = EXP
+Decide if number is negative (in URM machine like language)
+Paths in a weighted line arrangement
+What are the complexities of the following SAT subsets ?
+Hardness of node partitioning under shortest path constraint
+What subjects, topics does a computer science graduate need to learn to apply available machine learning frameworks, esp. SVMs
+Parallel algorithms for directed st-connectivity
+Why go to theoretical computer science/research?
+Sparse Walsh-Hadamard Transform
+What Topics Are Suggested for Ph.D. Research?
+Do you use any article organizers?
+NP-hard problems on expander graphs?
+When is relaxed counting hard?
+What are the outstanding questions in purely functional data structures?
+The simple proof of uniqueness of solution for The tower of Hanoi problem
+Variable profit knapsack
+Machine characterization of $SAC^i$
+What is the Volume of Information?
+Enumeration given a product of primes
+closure properties of IP(2pfa) and AM(2pfa)
+Reference for fundamental theorem on tree rotations
+Complexity of the Hamiltonian Subcycle problem
+Hardness of Vertex Separators
+Church's Theorem and Gödel's Incompleteness Theorems
+Stronger notions of uniformizations?
+Worlds Relative to Which "Invulnerable Generators" Do Not Exist
+Relationship between SPACE(n) and E
+Unique Shapes of Binary Search Trees
+Randomized algorithms using a stack
+Game semantics for coinductive predicates
+Outstanding conjectures and open problems in (algorithmic) game theory?
+Verifying unique solutions of SAT
+NC = P consequences?
+Unary languages in $AC^0$?
+Hamiltonicity of k-regular graphs
+SC^2 algorithms for st-connectivity
+Testing whether a set of n points in the plane form a convex n polygon in o(nlogn) time
+Is there a candidate for a natural problem in $P/poly - P$?
+Is there known any complexity class containing online counterparts of optimization problems?
+Complexity of advice language?
+Relativization with Respect to Non-Recursive Oracles
+What is the recommended software for drawing data structures such as graphs and trees?
+What is the best way to get a close-to-fair coin toss from identical biased coins?
+Separation of limited nondeterminism classes?
+Associative hash mixing
+Is Gap-3SAT NP-complete even for 3CNF formulas where no pair of variables appears in significantly more clauses than the average?
+How is rebalancing of DHTs handled in case of failure or addition of new node?
+Is there any sparse language known to be in NPI under the $P \neq NP$ assumption ?
+Pre-order traversal on a search tree
+Which definition of asymptotic growth-rate should we teach?
+State of the art for SAT solvers
+Type a variable-argument function?
+Further question on hardness of node partitioning under shortest path constraint
+Find the Discrete Pair of {x,y} that Satisfy Inequality Constriants
+Follow-up on Nair/Tetali's Correlation Decay Tree for hypergraphs?
+Simple question about decision problems
+What is/are the lower bounds for finding a something akin to complex residue?
+References on Circuit Lower Bounds
+Lower bound of checking graph connectivity on stream
+Alternative proofs of Schwartz–Zippel lemma
+Separating Logspace from Polynomial time
+Cobham's Result on Efficient Computations
+Definition of a monotone machine.
+Hashing sets of integers for inclusion testing
+Circuit lower bounds over arbitrary sets of gates
+Which algorithms can be expressed using a total functional language with data parallel operators?
+Offline multidimensional RMQ/RSQ in query model
+Extension to the Stable Marriage Problem ?
+How to define a function inductively on two arguments in Coq?
+Complexity of exponential function
+A combinatorial version for the polynomial Hirsch conjecture
+What are the current best known upper and lower bounds on the (un)satisfiability threshold for random k-sat and/or 3-sat?
+Event scheduling.
+Is $AC^0$ with bounded fanout weaker than $AC^0$?
+Is {$a^{i}b^{j}c^{k} ~|~ i \neq j, i \neq k, j \neq k$} non-context-free?
+Complexity Classes - separations and inclusions
+Repeated Quine program
+Positive topological ordering, take 3
+Using SAT for Computer Vision tasks
+Max-clique in line graph of hypergraph
+Maximum number of internally vertex-disjoint odd length s-t paths
+Easy decision problem, hard search problem
+Is finding the minimum regular expression an NP-complete problem?
+Expected Halt Time
+Estimating Average in Polynomial Time
+Strongly weight-balanced deterministic skip lists
+Communication complexity for deciding associativity
+Is Witten's new method of quantization useful for geometric complexity theory?
+What is the oldest open problem in TCS?
+Algorithmic game theory - nonstandard equilibrium concepts?
+What are the applications of scene recognition algorithms?
+How do I referee a paper?
+Is there a natural restriction of VO logic which captures P or NP?
+Completeness and Context-Sensitive Languages.
+The role of symmetry in geometric complexity theory?
+Examples of "Unrelated" Mathematics Playing a Fundamental Role in TCS?
+Which interesting theorems in TCS rely on the Axiom of Choice? (Or alternatively, the Axiom of Determinacy?)
+How is DHT different than regular hash tables in context to data/node lookup?
+What is the computational complexity of the PageRank problem?
+Directed NP-hard problems on DAGs
+Fast sparse boolean matrix product with possible preprocessing
+Finding a maximum acyclic sub-tournament given two acyclic sub-tournaments
+What is the size of a function?
+DAG partitioning to subgraphs
+A Boolean function that is not constant on affine subspaces of large enough dimension
+Books on automata theory for self-study
+What is a really good problem to get your hands dirty in computational-geometry?
+Is it NP-hard to play international draughts correctly?
+Is the problem of finding the "all-terminal connectivity polynomial" polynomially bounded?
+Hard gaps in maximum constraint satisfaction problems?
+Finding the penumbra of a Constraint Satisfaction Problem
+Nested automatization of type inference of forall elimination
+(False?) proof for computability of a function?
+Is $AC^0/poly \cap NP$ contained in $P$?
+Papers on fault handling in distributed systems
+Where do I turn for help with research/publishing?
+Algorithms for Nash equilibrium computation.
+Analysis of variables of varying numbers
+Linked List size in constant time or linear time
+CSPs with unbounded fractional hypertree width
+Complexity of linearized Ising model at 0
+Limits to Parallel Computing
+When is Ising partition function easy to compute?
+Consequences of #P = FP
+Can we decide whether a permanent has a unique term?
+Better approximation for special case of 3-hitting set
+Generating Graphs with Trivial Automorphisms
+A decision problem which is not known to be in PH but will be in P if P=NP
+Interesting functions on graphs that can be efficiently maximized.
+What techniques are used for proving algorithms optimal?
+Are there canonical non-relativizing techniques?
+Finding divisors of an interval of integers
+Approximation Algorithms for MAXSAT
+Is Magic: the Gathering Turing complete?
+Template Metaprogramming and Turing Completeness
+How are real numbers specified in computation?
+Difference between NP-Hard and NP-Complete
+Is "Is a permutation p an automorphism of a graph in my set?" NP-complete?
+Physics results in TCS?
+Bounded-input bijections of infinite sequences
+How to check if a number is a perfect power in polynomial time
+Proving the set of powers of 2 over ternary alphabet to be non regular.
+Why may the right hand sides in Chomsky Hierachy type 1 be larger?
+Algebraic data type - rewrite system
+Reader, Writer monads
+Techniques for proving bounds on integrality gap in LP(SDP)
+Approximating non-trivial graph automorphism?
+Is there a way to solve an optimization problem where a decision variable shows up in an upper bound (or lower bound) of summation?
+Counting solutions of Monotone-2CNF formulas
+What are the reasons that researchers in computational geometry prefer the BSS/real-RAM model?
+Where's the Flaw in Blum-Feldman-Micali's Method
+VC-dimension of Cylinders within a Cylinder
+Finding short and fat paths
+Non-rooted MST of directed graph
+Diameter of a graph with O(|V|) edges
+Split or merge Binary Search Trees in O(log n)
+Is #P contained in PSPACE?
+Has ping based failure detector 'strong completeness' and 'weak accuracy'?
+Rigour leading to insight
+Compactly representing the solution set of a SAT instance
+Alternate proofs of Immerman-Szelepcsenyi theorem
+UGC hardness of the predicate $NAE(x_1, ..., x_\ell)$ for $x_i \in GF(k)$?
+Intermediate/Coding representation for Levenshtein Distance
+Consequences of existence of a strongly polynomial algorithm for linear programming?
+Statistical tests between L and LogCFL
+Fooling arbitrary symmetric functions
+Creating HMAC keys using a fixed prefix and a random string
+Interdisciplinary topics between control theory and theoretical computer science
+Are there families of formal languages known to be truly PAC learnable?
+How many instances of 3-SAT are satisfiable?
+Agnostic learning over arbitrary distributions
+Chernoff-type inequality for random variable with 3 outcomes
+Tool for translating PDAs to CFGs
+Pruning a strongly connected digraph
+Solution Clusters and Monotone-2SAT
+Sorting algorithm with a complexity smaller than $n \log n$?
+Semantic distance between excerpts of text.
+Analysis of the synergy of two algorithms in comparison to their simulation in parallel
+Efficiently getting bits of N! ?
+Bit complexity of integer factorization?
+Simple proof of Ω(n lg n) worst-case bound for uniqueness/distinctness?
+How to get a job
+Heuristics for the minimum-weight $k$-clique problem
+multi-party Communication complexity of "Set Partition problem"
+Finding islands of vertices in a network of roads containing one-way streets
+Randomize or Not?
+Does Nisan's pseudo-random generator relativize?
+Minimal directed circles partition cover of a directed graph
+Reducing P vs. NP to SAT
+Is the Chomsky-hierarchy outdated?
+Why are these two definitions of PPAD equivalent?
+What tools do you use to write papers?
+Network / Social network analysis visualization tools?
+Separation between coarse correlated equilibria and correlated equilibria
+Formal representation of rings in computations
+Is the Witness Size of Membership for Every NP Language Already Known?
+Permanents - Approximation and connection to integer factorization
+Is it possible to convert a Max heap to a Min heap in place?
+Random monotone function
+Reference Request: Submodular Minimization and Monotone Boolean Functions
+Open or Interactive Constraint Satisfaction
+An edge partitioning problem on cubic graphs
+Max-cut with negative weight edges
+Why Ramanujan graphs are named after Ramanujan?
+What are the best possible time/error tradeoffs for approximate solution of linear programs?
+Universities for Quantum Computing / Information?
+Hardness of approximation assuming NP != coNP
+When should you say what you know?
+Any example of an unsatisfiable integer program with non constant Rank Lower bounds for LS+ cuts but with short LS+ refutations?
+Multiplicative version of 3-SUM
+Formalized configuration of Subset sum problem Worst-case ?
+Fast Hamiltonian Cycle finding Algorithm
+A fixed-depth characterization of $TC^0$? $NC^1$?
+True Bit Complexity of matrix multiplication is $O(n^{4})$
+Complexity of hex with random turn order.
+Storage requirements for median selection (two passes algorithms)
+clustering algorithm for non-dimensional data
+Complexity of the simplex algorithm
+Refereed games with uncorrelated semi-private coins
+Are there efficient general Bonferroni-style bounds known?
+what is easy for minor-excluded graphs?
+Inspirational talk for final year high school pupils
+Lower Bound on the difference between uniform and prefix-free complexity
+The Warren Buffett Problem
+Are there local maxima in the number of moves required to solve a Rubik's Cube?
+Counting the number of Hamiltonian cycles in cubic Hamiltonian graphs?
+Writing universal recursive function
+What is the most powerful kind of parser?
+Binary multiplication and parity convolution
+Hardness of approximation - additive error
+Other applications of Karger-Stein branching amplification?
+Tight Lower bounds on Savitch's theorem
+Context Sensitive Grammars and Types
+Is the 3-sphere recognition problem NP-complete?
+Proving skip-lists strongly weight-balanced in expectation
+Difference lists in functional programming
+Why do equalities between complexity classes translate upwards and not downwards?
+What is the running time of taking a limit?
+Hardness jumps in computational complexity?
+Computational power of a 2-PDA
+complexity of randomized gossiping
+Interactive proofs for levels of the polynomial hierarchy
+Energy cost of adiabatic quantum computation
+Non-hamiltonian Graphs with unique hamiltonian path between exactly 4 pair of vertices
+Learning with "taciturn" oracles
+Techniques for showing non-derivability in logics and other formal proof systems
+Quickly finding empty-string producing nonterminals in a CFG
+Are Oracles Associative?
+Reference Request: Oracle applications outside cryptography
+Is $P^{\#P}=(P^{\#P})^{\#P}$ ?
+The structure of pathological instances for simplex algorithms
+Maximal classes for which largest independent set can be found in polynomial time?
+Is the dominating set problem restricted to planar bipartite graphs of maximum degree 3 NP-complete?
+Can a probabilistic Turing machine solve the halting problem?
+Integer multiplication when one integer is fixed
+Algorithm for Minimum Diameter Spanning Tree
+Reference for (odd-hole,antihole)-free graphs?
+Photo of «Introduction to automata…» by Hopcroft and Ullman '79 cover?
+Another edge partitioning problem on cubic graphs
+Generalizing limit-colimit coincidence to Scott-continuous adjunctions: any uses?
+Non-interesting numbers via resource-bounded properties?
+Is there a non Turing-complete model of computation whose halting problem is undecidable?
+How can DES have 6x4 S-Boxes and still be reversible?
+Maximum computational power of a C implementation
+Is there an online-algorithm to keep track of components in a changing undirected graph?
+Is $coNP^{\#P}=NP^{\#P}=P^{\#P}$?
+One Stack, Two Queues
+Finding the set of paths of smallest cumulated length that cover a given set of patterns
+Graph decompositions for combining "local" functions of vertex labelings
+What kind of mathematical background is needed for complexity theory?
+How to know if X and Y have coauthored?
+What algorithms/reading matter would you recommend on resolving transactions / read-write locks?
+Complexity of edge coloring in planar graphs
+Approach to implementing an STM for a student
+Meaning of P=NP? depends on space-time geometry ?
+LP formulation for if-conditions
+Randomized algorithm that "looks" deterministic?
+Complexity of Finding the Eigendecomposition of a Matrix
+Lower bound on independence number in terms of clique number and order of graph
+Question about Mapping Reductions (Clarify Example)
+How does one augment AdaBoost with cross-validation?
+Weighted Hamming distance
+Interesting variation to the subset sum problem
+Does There exist a particular PSPACE Complete Problem which has a FPTAS algorithm?
+upper bound on the size of a DFA for A|B given the DFAs for A and B?
+If P = BQP, does this imply that PSPACE (= IP) = AM?
+Which model of computation is "the best"?
+How many distinct colors are needed to lower-bound the choosability of a graph?
+compressing rarely used space
+How to compute ROOK Polynomials for NxM Matrices
+Information Theory used to prove neat combinatorial statements?
+Examples of hardness phase transitions
+Algorithm for finding similar images
+Relaxing $\ell_0$ constraints in an optimization
+Model-checking for three-variable logics and restricted structures
+Generate a sequence of numbers
+Computational Power of Neural Networks?
+Survey on algorithms/complexity of linear algebra
+DNA-algorithms and NP-completeness
+Justification for the Hungarian method (Kuhn-Munkres)
+complexity of greatest common divisor (gcd)
+Social choice, arrow's theorem and open problems ?
+Can the cost of GC be neglected when analyzing the running time of worst-case data structures specified in a garbage-collected programming language?
+Solving "all-marginals" problem for independent sets on grid
+What is the best exact algorithm to compute the core of a graph?
+Complexity of hidden polygon puzzle on square grids?
+Linear PRAM vs Arithmetic Linear PRAM
+Identifying sub graph in connected digraph
+An explanation of Whirlpool C implementation - or the general algorithm
+Simulating Turing machines (output included) with circuits
+Finite One-Way Permutation with Infinite Domain
+Calculating a fast matrix vector product between vector of reals and a 0-1 matrix
+Maximum ball transform
+How much computational power fits into a cubic centimeter?
+Quantum PCP and hardness of simulating of Hamiltonians
+Measuring the connectedness of a graph, and applying it to NP problems
+Avalanche like stochastic process
+Ensemble of tree decompositions for all-pairs problem
+Polynomial method for complexity results
+Necessary condition for a graph to be Non-Hamiltonian
+PCPs with imperfect completeness
+Is the following problem NP-Hard?
+What is the folk model of linear logic?
+When a process spawns another process
+Does bit commitment yield oblivious transfer in the information-theoretic security model?
+Edge-partitioning cubic graphs into claws and paths
+If P=NP, could we obtain proofs of Goldbach's Conjecture etc.?
+Are there any counterintuitive results in theoretical computer science?
+Why are mod_m gates interesting?
+What do we know about restricted versions of the halting problem
+Is one definition of the word paradox, "something that can be used to prove the halting problem undecidable?"
+Dependent corrections in measurement-based Universal Blind Quantum Computation
+Uniform hierarchy of problems that span complexity and computational hierarchies
+Are there other computer architectures apart fom the von neumann /turing architectures?
+P vs. NP and Pseudorandom Bit Generators
+Hardness of geometric area minimization problem
+Are there any proofs the undecidability of the halting problem that does not depend on self-referencing or diagonalization ?
+Evaluating the multilinearization of an arithmetic circuit?
+System of "stochastic equations"
+Do "One Way Functions" have any applications outside crypto ?
+Can a fully homomorphic encryption be used for oblivious code execution?
+Minimum cut through vertices/nodes - not edges
+Find the right/best track combination for a given distance, using a genetic algorithm or ?.
+Processor failures in distributed computing that are not crash or Byzantine
+Can a Penrose tile cellular automaton be Turing-complete?
+Ranking with errors
+Hardness of approximation assuming the existence of one-way functions
+How does the BosonSampling paper avoid easy classes of complex matrices?
+Can a computer simulate itself as part of a simulated world?
+Applications of topology to computer science
+Degree sets for linear extension graphs
+Cover Time of Directed Graphs
+Is predicting (in the limit) computable sequences as hard as the halting problem?
+Set Cover for Permutation Matrices
+Are shift-chains two-colorable?
+Is this game solvable?
+Choosing a research topic using game theory
+Keyword selection problem in search engine marketing auction
+Version control for collaboration (with word-level diffs)?
+Examples in which the size of the alphabet ($\geq 2$) used for an encoding matters
+Quantum matrix multiplication?
+Advice on good research practices
+What would you advise someone who wants to do research as a hobby?
+What literature exists on Lévy flights for computational search?
+What are the prospects of research in database field?
+straight-line simulatability
+Curriculum: Logical/Formal Methods in Security
+Resources on Jablon's Protocol
+Statistical query model algorithms?
+Applications of Complexity Theory
+Deterministic Parallel algorithm for perfect matching in general graphs?
+Simulator Efficiency versus Algorithm Efficiency
+Research data organization
+Great algorithms, machine learning and no linear algebra
+Using game-based proofs in simulation-based proofs
+When we are using Random Oracle Model
+Upper bounds on the length of longest simple path in non-Hamiltonian graph?
+Clustering formalizations other than K-means for separable data
+Tarjan Strongly Connected Components Question
+Pairwise independent gaussians
+Languages and their operations: determining equivalence
+P vs. NP via psuedo-random number generators
+Where does the information in a fractal come from?
+Gap hardness of Multi-Dimensional Cover
+Sort sorted matrix
+Why isn't Montgomery modular exponentiation considered for use in quantum factoring?
+Computational consequences of Friedman's (unprovable) Upper Shift Fixed Point theorem?
+The complexity of checking whether two CNF have the same number of solutions
+Are there Conservation Laws in Complexity Theory?
+coNP certificate for Graph Isomorphism
+Simple and practical deterministic algorithm, complicated running time
+A category of NP-complete problems?
+Locate "N Gram" substrings that are smallest distance away from a target string N character long
+Problems with mixed unary/binary inputs
+The complexity of Area-lawed Hamiltonians
+Are there known to exist functions with the following direct-sum property?
+Applications of association schemes to complexity theory and other TCS
+Property Testing for Independent Sets
+Does the existence of PH-complete problems relativize?
+Spectral techniques for genus of a graph
+Notation for drawing rooted trees with isomorphic subtrees and recursive parts
+Is there a relationship between computational complexity theory and complex systems theory?
+Is there a common mathematical symbology for collections?
+The complexity of checking whether two DAG have the same number of topological sorts
+Funny TCS-related papers etc?
+Complexity of Finding the Eigendecomposition of a *Symmetric* Matrix
+Is there any other algorithm whose worst-case running time is exponential meanwhile it works very well in practice other than Simplex Algorithm?
+Books on Mu-Calculus
+Approximating convex sets
+Nontrivial separation consequences of P!=NP
+A direct sum theorem for Resolution clause space complexity?
+Parity and $AC^0$
+Can relativization results be used to prove sentences formally independent?
+Oracle relative to which MA does not have a complete problem?
+Is the model in which a protocol is proven secure more important than type of hardness from which the algorithm gains its strength
+A simple NP-hard problem
+Energy considerations on computation
+What is a good Category Theory-Domain Theory dictionary?
+Human intelligence and algorithms
+Conditions for tractability of 3SAT-Satisfiability
+Proofs that expose a deeper structure
+Taxonomy of notable regular expression automata
+What is mathematical difference between "random" and "unique"?
+Complexity of deciding whether a family is a Sperner familiy
+Is there such a thing as control logic complexity classes?
+What's the complexity of this estate-division game?
+Separation of classes with different amounts of advice?
+Are there languages that are not in RE nor CO-RE?
+Superpolynomial Simulator
+Efficient Algorithm for bilinear pairing on ECC
+Proving lower bounds by proving upper bounds
+Is there a direct/natural reduction to count non-bipartite perfect matchings using the permanent?
+In domain theory, what can the extra structure present in metric spaces be used for?
+Is Exact Cover by Equally-Sized Sets reducible to Multi-Dimensional Matching in a certain nice way?
+Is there a list of NPC or harder problems for specific real world problem domains?
+NP vs co-NP and second-order logic
+Nonuniform circuit families - don't have to specify for arbitrarily large, but finite, input lengths?
+Papers to credit for spectral partitioning of graphs
+What Books Should Everyone Read?
+Is $PH \subseteq PP$?
+Subexponential hardness assumption
+Generalizations of Brzozowski's method of derivatives of regular expressions to grammars?
+Kernighan–Lin algorithm and multiple gain functions
+Clifford group quantum operations and classical computation
+NEXP-complete problems
+What is the initialization time of a link-cut tree?
+$BQP$ vs $QMA$?
+Status of Cerny Conjecture?
+What's the difference between an invariant and an "inductive" invariant?
+Counting length-k increasing subsequences in a permutation
+What is the optimal data structure for a tree of maps.
+Tree decomposition for planar graphs
+Number of mincuts of a graph without using Karger's algorithm
+PCP Theorem - Alphabet Reduction Step
+Dominations under oracles which is closed under complement?
+More on PH in PP?
+Fourier coefficients Boolean Functions described by Bounded Depth Circuits with AND OR and XOR gates
+Contained in NP and Turing-reduction from an NP-complete problem $\Rightarrow$ NP-complete under Karp reductions?
+Graph classes in which CLIQUE is known to be NP-hard?
+Is the backup problem NP-complete?
+NP-Complete Hard-on-Average Problems
+An Interactive Proof of God's Number?
+Is the Selflet system used for any active research?
+Is anyone actively researching distributed prediction models?
+Communication lower bounds for partial boolean functions
+Matrix multiplication in $O(n^2 \log n)$
+Field extensions in CS
+np completeness
+Are variables in RHS of Chomsky Normal Form productions distinct?
+Survey Article on the Theory of Recursive Functions?
+Soft decoding of linear block (20,10) codes - what methods are used ?
+SAT in finite model theory without order
+Is Clique completion for intersection models hard?
+Problems that are decidable but cannot be verified in polynomial time
+Is there a hash function for a collection (i.e., multi-set) of integers that has good theoretical guarantees?
+Reference request: a more complete "faster factorization into coprimes"
+Explicit polynomials in 1 variable with superlogarithmic circuit complexity lower bounds?
+What happens if we try to extract a witness but it actually does not exist from a term of existential type?
+An example of a totally computable function that is not definable in system T?
+graphs from real-life problems
+#P-complete problem whose decision version is in P
+Efficient logspace algorithms
+off-policy and offline policy reinforcement learning
+can some one use a polynomial one-to-many reduction for NP-comp problems?
+On 1-dimensional cellular automata
+Why do we consider log-space as a model of efficient computation (instead of polylog-space) ?
+Are there descriptive complexity representations of quantum complexity classes?
+“Overflow” in Extended Euclidean Algorithm
+In-approximability results in severely restricted graph classes
+For a Planar Graph, Find the Algorithm that Constructs A Cycle Basis, with each Edge Shared by At Most 2 Cycles
+Does L have a definition in terms of circuits?
+Feynman and the logarithm
+Most significant bit of integer multiplication and binary decision diagrams
+Complexity of counting all connected subgraphs
+Parameterized complexity from P to NP-hard and back again
+Extracting Independent Information About Sequences
+Exact version of matroid, given the input weight is in unary.
+Parallel programming languages which look deterministic?
+Decomposition based on approximate separators in graph
+sum versus maximum in computer science
+Conditions for NFA universality
+Are there any models of computation currently being studied with the possibility of being more powerful than Turing Machines?
+formal languages: what does R-trivial mean?
+How do you organize your papers?
+Complexity of counting weighted cycles in planar graphs?
+Finding the largest set of points of limited diameter
+Lower bounds for Nondeterministic Multiparty Communication
+What is the best text of computation theory/theory of computation?
+Forcing an honest behavior
+Lower bounds and class separation
+Equivocal primitives in practice
+Any SAT/SMT formulations of the VRP/VRPTW (TSP, Job-Shop-Scheduling)?
+How to prove fooling set problem to be NP-hard
+Books on programming language semantics
+Why is it important to prove that a problem is NP-complete?
+A generalisation of one-wayness
+What are the recent TCS books whose drafts are available online?
+About properties of adjacency matrix when a graph is planar
+Geometric differencing
+Complexity of counting m-cycles in a graph with n nodes
+What's the "smallest" complexity class for which a superlinear circuit bound is known?
+"Caged" complexity classes ?
+Logarithmic advice language in P?
+Complexity of finding a second solution given a correct solution to an NP-complete problem
+What constitutes denotational semantics?
+Time complexity of Held-Karp algorithm for TSP
+Resources on Cryptographic Applications of Expander Graphs
+Can we partition NP-complete problem into finite number of polynomially solvable problems?
+Approximation algorithms for MAX-CUT, when sizes of partition sets are fixed
+Logic Programming: Transforming B:-A C:-A to B,C:-A
+Parity and circuit complexity
+Process on finite points in a line
+What is the complexity of distinguishing a true Fourier spectra from a fake one?
+Stronger Lower Bounds on Nondeterministic Multiparty Communication
+Common false beliefs in theoretical computer science
+Classes of graphs with easy Hamiltonian cycle but NP-hard TSP
+Subexponentially solvable hard graph problems
+Practical consequences of $Parity \notin AC^0$
+Extension of a partial order to a total of partitions of a weak alternating automaton
+Is there an interpretation of the degree of the polynomial computed by the arithmetization of a boolean formula?
+K-NN or matrix factorization for discovering correlated features?
+Sorting array of distances by proximity to each other
+Historical reasons for adoption of Turing Machine as primary model of computation.
+One-Way Permutations without Trapdoor
+What are the problems with the best approximation ratio achieved by algorithm returning uniformly random solution?
+Typical hardness of tree decomposition?
+What relation is between constraint satisfaction problems and constraint programming?
+Time complexity of Bellman-Held-Karp algorithm for TSP, take 2
+Formal Semantics of Programming Languages
+Is there a constant factor approximation algorithm for 2D rectangle coloring problem?
+Hard-on-Average, Quasi-Polynomial-Time Problems
+Weighted cycles in weighted line graphs
+What are "$\mu$-recursive functions" and $\mu$-calculus?
+Max Non-overlapping Path in Weighted Graph
+A Multi-cut Problem
+Dijkstra parallelization
+Resources to learn about the P vs. NP problem
+Algorithm for Longest Path in Undirected Weighted Graph
+Is Degrees Of Separation NP Complete?
+What is the Relationship between QMA and AM?
+Using compression to improve edit distance computation
+Is there any research on the notion of weak isolation?
+Is that particular case of the "minimum weight solution to linear equations" still NP-complete?
+complexity of finding a cycle with total weight k in a graph when you know no hamiltonian cycle in graph satisfies the given weight k
+A simple approximation algorithm for the TSP
+Surveys on pseudo-random number generator design?
+Extracting randomness from Santha-Vazirani sources using a seed of constant length
+Computing Size of Set with Particular Jacobi Symbol in Poly-Time
+Ideas for a project in Mathematica related to (Theoretical) Computer Science
+Reverse Graph Spectra Problem?
+Why don't we use larger classes to study determinism vs non-determinism?
+Resources for complexity results for optimization problems in restricted graph classes
+Complexity of weighted cycle in a hamiltonian graph
+Do "outer-bounded-genus" graphs have constant treewidth?
+Ramsey's theorem for collections of sets
+Is there current research into the implemention of Randomness Extractors?
+How to recognize safe queries in tuple relational calculus?
+Why naturals instead of integers?
+Finding a 5-cycle in a sparse graph efficiently.
+Data set for Degree Constrained MST?
+Are innermost reductions perpetual in untyped λ-calculus?
+Lower bound on the number of "short" paths in a rooted tree with polynomial size
+Approximately sampling from convex polyhedrons with quantum computers
+Extensions of Ramsey's theorem: monochromatic but diverse
+Alphabet Reduction Step in PCP Proof
+Partially Ordered CFG
+Motivating Talk on Foundations of Cryptography
+Is there an alternative proof of the TM Halting Problem other than the "standard" one?
+Explicit balanced matrix
+NP-Hardness of a special case of orthogonal packing problem
+Distributions over circuits and N-to-N vs N-to-1 circuits
+Which 2P1R Games are Potentially Sharp?
+Circuit Complexity Charaterization for DLogTime and NLogTime
+Alternative Turing Machine Proofs
+Phase Transitions in NP Hard Problems
+What's the difference between online and incremental optimization?
+Is MAX CUT approximation resistant?
+About the correspondence of left introduction and elimination of implication in Sequent Calculus and in Natural Deduction resp.
+Encrypting or obfuscating transport stream identifiers in SSL-like connections
+C# Generics Research Papers
+Is Perlin Noise a "fractal"?
+Minimum maximal solutions of LPs
+Are research papers hard to read?
+maintaining a balanced spanning tree of a growing undirected graph
+Is testing two SO-Horn queries for equivalence decidable?
+How do I get started in theoretical CS ?
+Consequences of UP equals NP
+NP-intermediate problems with efficient quantum solutions
+canonical complete problems for $\Delta^P_n$
+Graph transformation according to some utility function
+Precise definition for cryptographic protocol?
+Is the half-filled magic square problem NP-complete?
+What are theoretically sound programming languages for graph problems?
+The Relationship between P^NP and the Permanent
+How can I randomly generate bounded height spanning trees?
+Communication Complexity ...Classes?
+What is the actual time complexity of Gaussian elimination?
+Algorithms for the 2 Dimensional Planar Ising Model over Directed Graphs
+Is clique-width preserved under edge contractions?
+Pseudo-polynomial time algorithms
+What is the algorithmic speed up for Counting Perfect Matchings in Dense Bipartite Graphs (equivalent to Permanent of Dense 0/1 Matrices)?
+Cut-elimination for calculus with nats or other inductive datatype?
+Can the mutual information of a "cell" be negative?
+Restricted read twice BDDs and context free grammars
+Any resources describing an OS assigning process priority via distance to HD head?
+Prove that the problem of rectilinear picture compression is np-complete
+Does LOGLOG = NLOGLOG?
+Generalization of the Hungarian algorithm to general undirected graphs?
+Algorithms for set packing
+Find sentences with similar relative meaning from a list of sentences against an example one
+Regarding Pfaffian Methods in Counting and Combinatorics
+The Complexity of Advice in Computational Indistinguishability
+Is the Balanced Boolean Formula problem solvable in sublogarithmic space if the input has a tree structure?
+Educational Source or Survey on Analysis of Semidefinite Program?
+Separating the QIP hierarchy
+Is JSON a Regular Language?
+Implicit vs explicit subtyping
+Ising Model and Eulerian Subgraphs
+How do I choose a functional dictionary data structure?
+Could a descriptive complexity version of Rice's theorem be used to separate AC0 and PSPACE?
+Is there a sensible notion of an approximation algorithm for an undecidable problem?
+Is there parallel algorithm for 3SAT
+Is there a algorithm for Max Cut on a Planar Directed Graph (MAX DIRECTED CUT ALGORITHM)?
+Coloring Planar Graphs
+Complexity of computing shortest paths in the plane with polygonal obstacles
+What is the Complexity Status of Arbitarily Weighted Planar Max Cut?
+Algorithms Design and Complexity - How to think in that 'way'?
+open problems on $NP$-complete?
+What do we know about provably correct programs?
+Sum-of-square-roots-hard problems?
+Confluently Persistent String Data Structure
+Data-structure for functions of independent sets
+What relations has different bounds for NP?
+Efficient algorithm for updating a parse tree
+Problems or issues with a proposed circuit class?
+What Lecture Notes Should Everyone Read?
+What is the pathwidth of the 3D-grid (mesh or lattice) with sidelength k?
+Finding maximum weight arborescence in an edge-weighted DAG
+Ways for a mathematician to stay informed of current research in complexity theory
+Minimum number of transpositions to sort a list
+Complexity of counting the number of Good-perfect matching in the bipartite graph
+Partitioning a segmented stick
+Is a CS degree for me?
+Geometric / Visual explanation that the average height of a random binary tree of given size $n$ is asymptotically $2\sqrt{\pi n}$
+How can we know that formal methods work?
+How are imperative languages more different from each other than functional languages?
+Why would a TCS researcher need funding?
+Translating HORNSAT to SAT, revisited
+Faster join of treap-like data structures with approximately the same size
+Are there semi-decision procedures for this theory?
+Transitive closure of an affine relation
+Algorithms for Polygon triangulation
+Algorithm for "Swiss teams" (bridge)
+Sampling small separators
+Why is the "free store" memory called the "heap"?
+Computing the Levenshtein distance quickly
+Instance of FPT-reductions that is not a polynomial-time reduction
+TCS online library
+Borel-Cantelli Lemma and Derandomization
+Is there a polynomial-time algorithm to solve graph isomorphism for Delaunay graphs of (finite) hexagonal tessellations?
+Cubic graphs and hamiltonian paths
+Optimal Self Balancing Trees with Canonical Form?
+Why do NP-complete problems not have similar approximation ratios?
+Queueing Theory: How to estimate steady-state queue length for single queue, N servers?
+Formal notion for energy complexity of computational problems
+Finding minimum spanning 1-tree
+Lower bound on maximum simple cycle in connected cubic bridgeless graphs
+The Optimum Strategy to Find the Best Parking Slot Along a Busy Road
+Naming the Boxes
+Comparison of Hashing and Modular Exponentiation
+Searching for matching queries
+Finding twin vertices in graphs
+Help needed on method to use for anomaly detection
+Complexity of finding minimal cover of FDs
+A decomposition theorem for maximum weight matchings
+Classes containing boolean closure of CFLs
+Is any related work to this m-trails problem ?
+Improved lower bound on monotone circuit complexity of perfect matching?
+A special class of languages: “circular” languages. Is it known?
+Number of reachable vertices in DAG for every vertex
+Relating PAC learning results and abstaining classifiers
+The class CFL\cap co-CFL
+Does an infinitely long tape make any difference when proving theorems about Turing Machines?
+What is the parameterized complexity of following model checking problem?
+Computational complexity of learning (classification) algorithms - fitting the parameters
+Computational complexity of clustering algorithms
+Post Correspondence Problem variant
+Kolmogorov complexity of D and D+d
+What are contravariant tensors of type m choose 0
+Protocol partition number and deterministic communication complexity
+Is there a reasonable automated proof system for TCS theorems?
+Is the "Fewest Discriminating Bits" problem NP-complete?
+Special Properties Of DAWGs with Unique Elements
+Stochastic multi-armed bandit problem with transition costs
+Information on k-SAT (Introduction, Bounds, Methods, etc.)
+SUBSET-SUM with binary - unary - "positional" encoding
+Making SAT solvers competitive with specialized algorithms
+Reversing a list using two queues
+Complexity of Max Bisection on cubic planar graphs?
+What does it mean for a language to have "order"?
+Getting Decimal Values From Whole Numbers - Is This Fixed-Point Arithmetic?
+Union/find structure implemented by bitvectors
+Complexity of summing up integral powers
+Searching for name of equivalence property in hamiltonian paths
+Is there a list of known problems?
+Collision Attacks, Message Digests and a Possible solution
+How is proving a context free language to be ambiguous undecidable?
+Covering a set of intervals
+Searching nodes in semi-splay tree
+Practical applications of the Theory of Equality with Uninterpreted Functions (EUF)
+Compact representation of DAG,
+Duration Viterbi Algorithm
+Highest lower bound on NP problems (TSP)
+Which SAT problems are easy?
+Find all nearby points in a set, for each element of the set
+When do coherence spaces have pullbacks and pushouts?
+Graph nodes preserving changes to the overall graph
+Do there exist x such that K(xx)<K(x), where K is Kolmogorov complextity.
+Deciding whether a metric is a tree metric
+Hardness of finding a graph coloring given the optimal number of colors
+Edit-Distance of weighted automata
+Counting Metrics
+What’s the best way to test if a sphere is a polytope? (the Simplicial Steinitz Problem)
+Which Integer Linear Programs are easy?
+Partitioning a connected shape into rectangles
+Is there any way to differentiate between "sort of" Turing-Complete and "really" Turing-Complete?
+Testing/Identifying a Topological Sorting
+Mathematical analysis and computational complexity?
+Are there incompressible strings $S$ such that $K(SS) \lt K(S)$?
+Super Mario Flows in NP?
+Applications of computer science in biology
+Approximating transitive reduction of a transitive closure of a dag
+Hardness of finding a word of length at most $k$ accepted by a nondeterministic pushdown automaton
+One way randomised communication complexity of disjointness
+What can I say about the Parikh map of a CSL?
+Quantum analogues of SPACE complexity classes
+How fast can we solve a totally unimodular integer linear program?
+Presenting work-in-progress (slides now available)
+Is there a Quantum equivalent of the Time hierarchy theorem ?
+The probability by which Bloom filters preserves the order relation given a similarity measure on sets
+Necessary and sufficient conditions for the existence of a combinatorial algorithm for a given problem.
+Techniques for Reversing the Order of Quantiﬁers
+A System for Visualizing Bibliography Information
+Is the problem of finding the chromatic number of a modified interval graph NP-Complete
+Purely Functional Equivalent of B-Tree?
+Should experts in TCS charge money to read proofs that P != NP?
+Powerful Algorithms too complex to implement
+No Fair Merge via Nondeterminstic Data Flow Streams
+What is the name of this partition-indexed key-value data structure?
+Powerful algorithms that are just too hard to implement-- how to be sure they are right?
+MSOL optimization problems on graphs of bounded cliquewidth, with cardinality predicates
+Undecidable problems not Turing-complete?
+Category theory, computational complexity, and combinatorics connections?
+What kind of mathematical background is needed for graph theory?
+Ant colony optimization for traveling salesman problem with changing graph-nodes/vertices
+Book recommendations for CompSci related math
+Abstract machine or algorithm for line solving a Nonogram
+What machine learning classifiers are the most parallelizeable?
+Space-time tradeoff and the best algorithm
+Reference for checking primitive recursiveness
+A PAC-like analogue for 1-class classification?
+What is known about the effectiveness of reliable computing?
+Which problems in computational geometry or graph theory are believed to be $\Omega(n^3)$?
+How are proofs verified probabilistically in interactive proof systems?
+What languages have been successfully cryptographically trapdoored?
+Covering a set of intervals, continued
+Why are linear bounded automata not as popular as other automata?
+Background Required to understand Quantum Monte Carlo techniques?
+Texts on application of randomized algorithms
+Limits on lock-free collections?
+Find subset of configurations which produces maximum result
+What are current open problems in compiler theory?
+Relationship between context-free/decidable languages and NP
+Why differential approximation ratios are not well-studied comparing to standard ones despite of their claimed benefits?
+Well Defined Ordering Relations in Object Oriented Type Systems
+Do 'reflexive' hash algorithms exist?
+Why doesn't computer science follow biology more closely in computer design?
+Complexity lower bound: the gap between decision trees and RAMs
+$\epsilon$-nets with respect to the cut norm
+Cartesian factorization of a finite set of n-tuples
+Are there any natural hard problems where it is required that the number of solutions are always more than one?
+What algorithm is behind akinator or 20q?
+Parallel solution of recurrence equation
+Faster pseudo-polynomial time algorithms for PARTITION
+What is the precise definition of Random K-SAT?
+Find optimal room from which to visit all other rooms in a rectangular floorplan
+Results on universal approximation for learners other than ANNs
+Terminology for sparse cuts in graphs
+Collaborative tools for dummies/professors
+Functional Sparse-Matrix with good performance?
+Is it possible to find if a sequence exists in polynomial time in the following problem?
+Theories which characterize classes of computational complexity
+Which formal language class are XML and JSON with unique keys?
+Measuring the randomness of CNF formulas
+What's the approximation factor of this Max k-Cut approximation?
+Matching algorithm
+Applications and benchmarks for binary quadratic program algorithms
+Discharged hypotheses in ->Introduction
+Upper bound for set cover with respect to m that is better than trivial when $n \ge 3m$
+Toy Examples for Plotkin-Shmoys-Tardos and Arora-Kale solvers
+Automated transformation into spigot algorithm?
+2 partition problem with equal cardinality
+Computing any information about Max-3SAT
+Do runtimes for P require EXP resources to upper-bound? … are concrete examples known? (answer: yes and yes)
+Does there exist a complexity class such that the number of accepting paths is a prime number?
+Assistance in showing computational equivalence between software and hardware computing systems
+Applications of metric structures on posets/lattices in theoryCS
+Getting started with Hashing for Information retrieval
+First order expression for functional dependency
+Is qsort linear when sorting only two values?
+Complexity of a certain leaf language with Prime & Composite number of accepting paths.
+The quad-edge data structure (Delaunay/Voronoi)
+Finding the distance between two polynomials (represented as trees)
+Graph encoding algorithms that you know of ?
+How to calculate this string-dissimilarity function efficiently?
+Any Hypothesis Classes Other than Parity in Noisy PAC but not in SQ?
+Complexity of transforming a balanced bipartite graph into regular graph?
+What's the complexity of Median-SAT?
+P with integer factorization oracle
+An NP-complete variant of factoring.
+NP-hard problems on cographs
+Finding out a set by intersection comparison
+Understanding function controlled NOT gate
+Are there problems without efficient algorithms, where existence theorems have proved such algorithms must exist?
+Compendium of the Best Approximation and Hardness Results for NP optimization problems
+Simple question about pseudorandom generator
+Benefits for syntactic and semantic classes
+Boolean function with specific ОBDD representation
+Beating Nonuniformity by Oracle Access
+Bent and hyper-bent functions
+Problems that are NP-complete under randomized or P/poly reductions.
+On the properties of a family of submatrices
+How do you get a "Physical Intuition" for results in TCS?
+Huffman "terminator" bitstring
+Axioms necessary for theoretical computer science
+Data structures in programming language with linear types
+Route existence between n pairs of nodes
+formalizing a statement about the expressive power of programming languages wrt divergence
+What games best represent well-known computer science problems?
+Learning about EXPTIME and EXPSPACE
+Threshold Fully Homomorphic Cryptosystems
+Exercises of polynomial and turing reductions
+Shortest paths with structured dependence on earlier path
+Structured Graph Generation
+What is First-Order Rewritable (and FO-Query)?
+Embedded dynamic programming (and planar subgraph isomorphism)
+Is it easy to "fit a wrapped chain in a graph"?
+Complexity of converting a boolean circuit to a boolean formula
+What are good books for learning grammar ( BNF )?
+Counting the number of vertex covers: when is it hard?
+Finding a prime greater than a given bound
+Is there any connection between the diamond norm and the distance of the associated states?
+Natural computation based on fundamental forces
+Any references for techniques in FPT reductions?
+Is there a Time Hierarchy theorem for PH?
+Minimum weight subforest of given cardinality
+Where is the proof that Coq + Excluded Middle is consistent
+Hardness of FPT problems
+Application of graph theory in computer science
+Integrality gap and approximation ratio
+ATSP with direction restrictions
+Summer REU question
+Alphabet of single-tape Turing machine
+Bob's Sale (reordering of pairs with constraints to minimize sum of products)
+A fsm with temporal events
+Why does the Fibonacci sequence produce a worst-case Huffman encoding?
+What is the right theoretical model to design algorithms for current and upcoming high performance computers
+quasiP-Natural Property again SIZE($n^e$) for fixed e.
+What are practically computable properties of Labelled Transition Systems?
+Holographic Algorithms - Equivalence of Bases
+What is the Complexity Classification of Portfolio Theory in Financial Economics?
+Do there exists polynomial size CFG that describe this finite language?
+Interactive Proof for HORN-SAT?
+Password checking algorithm
+Generating graph for random walk given hitting time distribution
+Natural notion for computational hardness
+What are the most known database disk storage layout algorithms?
+Are local canonical labellings of a graph ever a subsequence of the global canonical labelling?
+Best alien communication protocol?
+complexity of checking if a subspace is a Euclidean section of L1
+Is this graph transformation unique up to isomorphism? [Answer:NO]
+Are runtime bounds in P decidable? (answer: no)
+Succinct data structures survey?
+Lower bounds on the size of CFGs for specific finite languages
+The origin of the notion of treewidth
+How good is the Huffman code when there are no large probability letters?
+Problem teaching computability
+Good MCMC methods for exploring the space of independent sets
+Computing sum of sparse polynomials squared in O(n log n) time?
+Drawing graphs of bounded crossing number
+Deciding between different PhD programs
+Minimum Weight Disconnected Subgraph and "Opposite" problems
+Is there an example of a non context-sensitive language?
+Lower bounds on the Threshold function
+An image coloring problem
+How to write a negative review for a conference paper?
+Website with TCS Fun Facts
+Complexity of percolation
+Empirical results in CS papers
+Estimating VC-Dimension
+Measures of "correlation" between two orderings
+Problems in NP but not in Average-P/poly
+Insecurity of Schnorr's Signature Scheme
+CPA security for block ciphers?
+Probability of detecting a transmission error
+Consequences of Factoring being in P?
+Proofs obtained only through spectral graph theory
+Efficiently computable function as a counter-example to Sarnak's Mobius conjecture
+Large real-world graphs for teaching use?
+Maximum flow using Ford-Fulkerson and DFS
+How to compute Integer Hash of a string
+Hierarchy theorem for circuit size
+Simple and cache-oblivious tries on fixed-length strings
+Proof assistant for writing mathematics
+Quantized Unbounded Flow
+Programming languages for efficient computation
+Regular expressions: Finding "negation" of regular expression?
+Is PARITY in QAC_0 (if that even makes sense)
+Security of message authentication codes and tag size
+Learning using  decision trees
+Boolean functions with exponential size OBDD representation in all orders except one order?
+Multi-armed bandit problems where more than one arm can be selected?
+Has this online problem been studied before ? 
+What is the complexity of computing optimal prefix free codes, when the frequencies are similar?
+Reconstruction Conjecture and Partial 2-trees
+What is the tradeoff between population size and the number of generations in genetic algorithms
+What are the limits of computation in this universe?
+Prove proof irrelevance in Coq?
+Non-Uniform vs. Uniform Adversaries
+Isolation in Turing-complete reversible cellular automata
+Generation of unlabeled acyclic digraphs
+VC Dimension generalized to discrete, non-binary, unordered domains?
+For median is it optimal to compare in pairs first?
+LP relaxation of independent set
+More elementary proof of coloring theorem for d x d^2 rectangles
+Does an algorithm exist to efficiently maintain connectedness information for a DAG in presence of inserts/deletes?
+Applications of MCTS/UCT
+Explain P = NP problem to 10 year old
+Reference for fast algorithm for bottleneck shortest paths
+Find a largest cube contained in the union of cuboids
+What is an accessible introduction to Percolation Theory?
+Does coNP-complete problem have subexponential size certificate?
+How to prove $k^{n-1}, k^{n-2}, \ldots, k^0$ will result with minimum number of coins?
+Applications of fat shattering dimension in computational geometry
+Relationship between contracts and dependent typing
+Closure under Minkowski sum.
+What is the difference between proofs and programs (or between propositions and types)?
+What is the notion behind proxy re-signatures?
+Curry-Howard and programs from non-constructive proofs
+Average-case tautologies/contradictions, beyond the random k-CNF model
+Geometric problems that are NP-complete in $R^3$ but tractable in $R^2$?
+Lower bound method for ordered binary decision diagrams
+The "multifunction" version of ZPP?
+Time-entanglement phenomenon
+Provably secure block ciphers
+SDP relaxation of independent set
+Determining Graph Hulls
+Combinatorial Independent set Algorithms for sub-classes of perfect graphs
+Natural Language Processing. Where to start?
+Is this language recognizable by a 3 symbols TM in O(n log n)?
+Parameterized complexity of graph intersection number
+Is Escardó's metric semantic for PCF+timeouts fully abstract ?
+graph coloring with 3 colors
+Is a PhD in TCS the best way towards achieving a career in industrial research?
+Justification of log f in DTIME hierarchy theorem
+Is there a normalizing (or perpetual) reduction strategy for untyped combinators?
+How can an R+ tree extend its coverage?
+Circle graph visualisation
+What math courses should I take to prepare for a CS masters or PhD?
+Is it possible to generate a collision free hash function from an equality function?
+Support Vector Machines
+Do buyers bidding for sellers and sellers bidding for buyers produce equivalent outcomes?
+State of research on SHA-1 Collision Attacks
+What is the most efficient way to generate a random permutation from probabilistic pairwise swaps?
+Are $PSPACE$-complete problems inherently less tractable than $NP$-complete problems?
+Construction of graph embeddings with non-intersecting edges
+Software for Graph Analysis
+Evidence that matrix multiplication can be done in quadratic time?
+Turing Machine which generates order on the set of its states
+Bootstrapping a Finger Tree Structure
+Quantum query complexity and certificate complexity
+Code in Academic Papers
+Why does deterministic recognition of DYCK(2) languages in the streaming model take linear space?
+Examples of hard instances for Goemans and Williamson algorithm
+Number of Vertex Covers: when it is polynomial and when it is superpolynomial
+Is there any research on Turing machines with transition relation homomorphic to given algebraic structure?
+What is the complexity class most closely associated with what the human mind can accomplish quickly?
+Sum of products with bounded coefficients
+Does NP-hardness imply P-hardness?
+Why doesn't P=NP imply P=AP (i.e. P=PSPACE)?
+Using a Polynomial Time Algorithm for Upper Bound Recognition to Show Polynomial Time for Evaluation?
+Conditional density of primes
+Graph Connectivity
+On Bipartite planar graph (again)
+What are the differences between logical relations and simulations?
+Path of exact cost in edge labelled DAG?
+Is there any justification to believe that $NL\neq L$?
+Scaling procedures to address false 0's after multiplying probabilities
+Is there a simple argument that shows that  the unique games conjecture implies the PCP theorem
+Effect of different graph operations at algebraic connectivity of graph laplacian?
+Random self-avoiding lattice cycle within a given bounding box
+Finding common label sequences in a directed acyclic graph
+Simple Constructions of Special Graph Families
+Algorithmic distinctions between random and pseudorandom.
+Hardness of Happynet problem
+Minimum path covering problem
+Is there any good and free Introduction to topological graph theory
+Can one amplify P=NP beyond P=PH?
+Euclidean-squared max-cut in low dimensions
+How do you call a subsequence of consecutive elements ?
+Adapted FEM mesh
+Is feedback vertex set problem is solvable in polynomial time for some special graph
+Oracle complexity classes and hardness under different notions of reduction
+Constructions better than a random one.
+Minimum Flip Connectivity Problem
+Another weird $O(N \log{N})$ Turing machine
+NP-hardness of a special case of Number Partitioning
+Understanding the HRU Model (Protection in Operating Systems)
+Suggestions on a matching/scheduling algorithm.
+What is the meaning Partitioned Signatures?
+What are the inclusion relationships if any, between the classes Pspace, PLS, PPP, PPA and PPAD
+Is there a well-known nontrivial subset of NP for which it is known that it is a proper subset?
+Poly-time approximation scheme for problems with pseudo-polynomial time algorithms
+Lower Bounds for Data Structures
+Applications of an access lemma for dynamic forests?
+Algorithm to sort pairs of numbers
+Combining Cost Calculations (TSP, VRP style problems)
+Pattern recognition - book recommendation
+Does coNP-hardness imply NP-hardness
+Busy Beavers: quadratic relation of output size and running time?
+Finding SVD efficiently for $AB^T$
+Packing rectangles into convex polygons but without rotations
+What is the "right" definition of upper and lower bounds?
+DATALOG references
+Trees: complexity of counting the number of vertex covers
+Relation between fixed parameter and approximation algorithm
+Can Merlin convince Arthur about a certain sum?
+constraints placement question
+What are the root difficulties in going from graphs to hypergraphs?
+Is minimax problem NP-Hard when the inner problem is NP-Hard ?
+Closure of unambiguous context-free languages under pre- and postfix.
+Is there any known work on generating random uniformly distributed DAGs given a set of path existence/absence constraints?
+Iterative algorithms in algebraic complexity (Blum-Shub-Smale-Model)
+Smoothed Analysis: If a Problem has Pseudopolynomial Complexity, is it in Smooth P?
+Does kd-tree search look at more leaves in L1 than in Lmax ?
+Survey on Optimization algorithms
+Average-case space complexity
+Mathematical background needed for pursuing a PhD in TCS
+What happens if we improve the time hierarchy theorems?
+Is there a problem which is provably not parallelizable?
+What is the maximum number of stable marriages for an instance of the Stable Marriage Problem?
+clustering (lat,lng) pairs, with clusters having the same number of elements
+Detecting infeasibility of System of Linear Inequalities
+Is it possible to prove that a game(ex. chess or othello...) will eventually halt at some point.
+Explaining input-size of integral arguments to undergraduate CS students
+If you could rename dynamic programming...
+A clarification in Signature schemes for Strong Unforgeability.
+Complexity class when reducing decision problem to function problem
+Conjectures implying Four Color Theorem
+Quantum evolutions
+Polynomial algorithms for UPB (Unextendable Product Bases)
+Known sparse integer programming problems
+Interactive Proofs via Postselection?
+Collatz Conjecture & Grammars / Automata
+Lovasz theta function and regular graphs (odd cycles in particular) - connections to spectral theory
+Time-based mathematics or logic
+Is there any programming language theory describing foreign function interfaces (FFI) and multiple language bindings?
+Is there a survey of the semantics of various programming language features?
+Is there a name for "physical things out of which one can build a Turing machine"?
+How do 'tactics' work in proof assistants?
+Span programs, witness size, and certificate complexity
+Algorithm for finding the largest subgraph without a directed triangle
+Graph planar drawing, with each edge's length is known
+Examples of #P problems which are in FP ?
+Existence of $opt^c$-approximation of Dominating Set with $c < 1$?
+Are there Belief Revision techniques for quantified data?
+Is signing a message hash a valid replacement for blind signature?
+What is the status of Vladimir Romanov's proof that P=NP?
+Recovering the slope of a digitized line
+Size of BSP tree for a simple polygon?
+A better way to cluster items
+What is the complexity of #satisfiable instances of k-SAT ?
+What is the fastest algorithm to compute rank of a rectangular matrix?
+Which algorithm can do a stable in-place binary partition with only O(N) moves?
+Physics and TCS
+Any algorithmic problem has a time complexity dominated by counting?
+Minimal non-negative linear combination of positive integers larger than a positive integer
+Ambiguity and Logic
+Can regular maps, no matter their complexity, be topologically transformed into circular maps or rectangular maps?
+Are there Petri net models with "checking" rather than "taking" transitions?
+Enumeration of discrete objects for which recognition problem is coNP-complete
+Selecting papers to read
+What is the complexity of (possibly succinct) Nurikabe?
+Is there a local variant of TSP?
+Fair and "robust" fallback permutations
+Looking for papers and articles on modal substructural logics
+Book on Probability
+Looking for papers and articles on higher-order sequent systems
+Is $ALL\setminus(RE \cup co-RE)$ empty?
+SAT - Hardness of determining backbone literals
+Given a network flow, are there bounds on the change in weight on nodes?
+Array slice reversing data-structure
+Isometric embedding of L2 into L1
+Asking optimal questions to differentiate object in set
+Four color theorem and map pre-simplification of faces with less than 5 edges
+Complexity of Turing self-reducibility of Clique problem?
+a data structure for partial sequences
+Classification of Typed/Untyped Lambda Calculi
+What Fuzzy techniques can combine conflicting quantified data?
+How would I go about learning the underlying theory of the Coq proof assistant?
+Intersecting Complexity Classes with Advice
+Is there a theory to answer "the simplest program to solve a problem"?
+Trace Equivalence vs LTL Equivalence
+Are types propositions? (What are types exactly?)
+A possibly new representation of DAGs
+Catalog of NP-complete problems, more up-to-date than Garey&Johnson?
+Asymptotics for Coin changing
+Bounding the number of edges between star graphs such that graph is planar
+Lower bounds on 2-query locally decodable codes
+Approximation algorithm for Minimum Fill-In and/or minimum elimination ordering (for directed graphs)
+How many ephemeral stacks are required to simulate a queue in worst-case $O(1)$ time?
+Number of non-isomorphic connected graphs of $n$ nodes and $m$ edges
+Finding cycle with constraints
+Survey of transformations related to the use of SAT solvers
+What is the status of fuzzy logic for TCS in 2011?
+Cohomological approach to boolean complexity
+When was first line detection algorithm created and when line detection problem was posed?
+What is the currently best known algorithm for the transportation problem?
+Splittable stack
+LU factorization of a 0-1 matrix
+Fixed point theorems for constructive metric spaces?
+algorithm that can determine for every regular language L
+How fundamental is undecidability?
+Looking for papers and articles on the Tarskian Möglichkeit
+Results in Theoretical CS independent of ZFC
+What is the most general structure on which matrix product verification can be done in $O(n^2)$ time?
+Difference between Strict Consistency and Sequential Consistency
+What algorithm on a PRAM computes the connected components of a graph with least time complexity?
+How do models of hypercomputation overcome the Halting Problem?
+Correspondence between Computability & Learnability Theory
+Maximum imbalance in a graph?
+Hard Instances for graph isomorphism testing
+An Anthology of Complexity Assumptions
+Sequences with sublogarithmic concat and approximate split
+Prior work on finding domain-theoretic suprema of equivalent total functions?
+Restricted Reachability Problem
+Approaching Number Theory conjectures through Graph Theory
+What is the name of this type of directed graph problem?

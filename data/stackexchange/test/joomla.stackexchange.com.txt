@@ -1,0 +1,886 @@
+Method for creating a subquery using JDatabase
+Custom canonical urls using sh404SEF
+What are the differences between the Joomla! CMS, the Joomla! Platform and the Joomla! Framework?
+I'm using sh404SEF on HostGator. What should I do with my .htaccess?
+How do I contribute code to Joomla?
+How to keep overrides updated?
+Custom menu get title of the active menu's parent item
+Joomla Component Tool or Scaffold?
+Getting too many (flood) request, how can I block/reduce bot requests to my site?
+ACL and control access to download documents based user-group permissions
+How to improve server response time?
+What is the proper methodology for updating templates?
+How do I generate a SEF URL in a custom module instead of the real URL?
+Is it possible to get generator tag removed from Joomla sites without interfering core framework?
+Are Download IDs, API and Subscription Keys free to distribute with GPL extensions?
+What's the proper way to get the entire $_POST?
+SMTP no error but not sending email
+My 404 page returns a 500
+Copying Joomla Menu Items and keeping Module assignements
+How can I control the module display on pages with no menu item?
+Is there a better way to show template's module positions?
+What are the module styles?
+How do I start a local Joomla! User Group?
+What are the key differences between Wordpress and Joomla!'s software architecture and how their core functions are extended?
+Updating your Joomla! files. Please wait ... (forever?)
+How can I make a modal menu item?
+Disable script loading in head
+Ajax call to component from menu item
+JEvents change "Latest Event"-Module align
+Copyright removal of free template GNU/GPL
+Troubleshooting 403 Error accessing Admin panel
+How can I create custom page titles for blog articles?
+How do Joomla! 'one-click' updates work?
+How do you update a website once it has gone live?
+Content Encoding Error when try to add an Article
+Recommended practices regarding Joomla file/directory permissions and ownership on linux systems?
+Compressing Site prior to completion
+What is the proper way to make an AJAX call in component?
+Forbid direct access to INI and XML files
+Do 'disabled' extensions slow down Joomla! site performance?
+How do I incorporate multiple Google Fonts into my Joomla! 3 site and JCE?
+When to move to a new major release?
+Change Super User account password
+What is the current status of Joomla 4.x?
+How to secure a new Joomla installation?
+How can I programatically determine the Joomla version of a website on which I have no administration privileges?
+What steps should I take to resolve excess memory resource utilisation detected by Cloud Linux or similar?
+How to implement microdata? A practical guide?
+How can I use a model of other component in my component?
+How to resolve `Strict standards` warning for different method signatures across Joomla versions
+Performance of Joomla on IIS
+Override default php session
+Sitemaps with Xmap on Joomla 2.5: (how) can I improve them?
+How to override core classes?
+How do I pull data from a K2 extra field that is an array?
+How can a module be disabled based on device or viewport size in Joomla 3 to optimize performance for mobile devices?
+Is there a way to detect the database changes that were made by third party extensions?
+Whats the correct way for exception handling?
+Is ChronoForms a Content Construction Kit (CCK)?
+Structure folder of sql files in my component
+How best can I fix a Gantry Framework and ChronoForms Styling Conflict?
+Still required to turn Remember me off when migrating from 2.5 to 3.x?
+When will the JxxxLegacy classes be deprecated?
+Revert Joomla 2.5.18 to 2.5.16, how?
+How to update everything to Twitter Bootstrap 3?
+Override a component view for a specific menu item
+How to create page only with modules and no component?
+Gantry PHP Notice: Undefined property: Gantry::$belatedPNG
+How to enable Smart Search automatic indexing?
+Filtering content in a single plugin or many?
+checkboxes field type in module settings not checked by default
+Default module layout not honoured in the admin (when adding a module)
+Best method to check if a component is installed/enabled?
+How does the pre-release cycle for Joomla versions work and can I test my extensions at the Beta stage?
+Hide Components with no admin interface
+What is an efficient way to troubleshoot a "white screen of death"
+How can I minimise the disk space used by a Joomla installation?
+fsockopen(): unable to connect to :80 component installation error
+No HTTP response code found error
+What do the options of component "Joomla! Update" mean?
+Module Params Custom Validation is possible?
+Difference between standard cache options
+Is there a permalink to the latest Joomla version?
+Should I use JResponse::setBody or onContentPrepare for strings replacements?
+What's the difference between JHtml:script() and $doc->addScript?
+Why does mod_smartsearch not load Mootools in J3.X, even though it needs it?
+Are you required to create the database before you install Joomla?
+Session Handler, "Database" or "None"?
+What's the proper way to authenticate a user?
+Why does a Joomla distribution still contain index.html in each folder?
+Is this the right way to extend Joomla class?
+How can I override content category view to display subcategories as list items
+How to manage multiple Joomla sites and their updates
+How to setOffset() in joomla 3.2.3
+What could cause Joomla session data to intermittently go missing?
+Correct manner of using View- and Model-Abstracts in Joomla 3+
+How can I programmatically get the Joomla database prefix using php?
+Adding javascript file in the footer & custom styles
+What to do when installation stuck on creating tables?
+Is there any way to block access to components by using non-SEF URL?
+Error when calling getItem method of external model
+What differences (if any) are there between Joomla sessions and php sessions?
+Adding Mathjax to a Joomla website
+Adding joomla's default toolbar in a component view page
+Correct way to verify if the logged in user is super user
+Which class method should I use for deprecated JDocumentRenderer->render();
+How can I use com_ajax to load and unload another module (for Adaptive Design)
+Docs use assign by reference (=&) but is this necessary with PHP 5?
+Override Joomla's users with third party service
+Is there a way to promote articles between environments?
+Overriding the system name in the new user message
+Understanding mvc way of component coding for both joomla 2.5 and 3 version
+Joomla 2.5 installation process silently failing
+Unable to install a component via the extension manager
+Problems moving J25 to new server
+Possible to make slug generation turn "&" to "and" for url? as extension/plugin/patch?
+How can I add an Email template in Joomla
+Do I need to complete the cookie domain and path information in Joomla?
+Catching exception/error in database transaction
+Security: best practices for disabled_functions and classes
+How to append the site title to all pages except the front page?
+Show/hide module title not working
+Where to use JInput in MVC
+What is appropriate for unused modules and plugins?
+How should I use view.raw.php properly
+Trash Joomla Article in frontend
+Unable to log into administrator section of Joomla 2.5
+Unable to post SQL code as part of the article text
+How to do SQL exception / error handling compatible with 2.5 and 3.x?
+How can I create a menu item on a different subdomain?
+Recommended extension / tool to check for core file modifications?
+Issue with joomgallery appended to menu item alias
+How can I tell if a free template contains malware
+How can we get involved in Joomla! CMS Testing?
+Implementing sticky articles
+Is there a roadmap for Joomla development?
+Joomla! eCommerce Extensions with 'cash register' point of sale?
+How to add com_content extra fields to Smart Search Index
+Display of contact information when searching by tags using smart search
+Table marked as crashed and repair failed
+Is there a method to get a module by name and position?
+Workflow for developing / adjusting templates
+Emails by joomlahost warn me I should update Joomla version on unknown domain
+Disable website to all but logged in users
+How to make a Joomla! component cross-compatible (J2.5 - J3.x)
+How can I install multiple extensions in one shot in a Joomla! 3 site?
+What is the Refresh Manifest Cache and why is it causing an error when upgrading Joomla?
+Plugin development - parse error: syntax error, unexpected 's' (T_STRING)
+Show products based on my custom attributes to second addon domain site
+How to add a CSS class to <body> depending on active language
+Adding all form parameters in a custom item of the component
+How do I change how many contacts to display?
+Tutorial for setting up PhpStorm to work with Joomla
+Is there any secure version of Joomla! 1.6 or 1.7 available?
+How to get list of all orphaned image files?
+Renaming of administrator directory
+Index.html files – must these be present in every directory?
+How to effectively distinguish test and production site?
+Diagram of Joomla! architecture
+What is the difference between images and media directory?
+How to extend component helper class?
+Export K2 content from a joomla web site and Import to another website
+Is there any chance FOF become the default way of do things in Joomla?
+Breadcrumbs + DropDown functionality
+Joomla Framework : Getting Started Guide
+How to automatically distinguish and audit external links?
+Is there a guide to updating a 2.5 extension to 3.x?
+How is the Joomla Issue Tracker documentation generated?
+Can Joomla send the user an email when admin approves them?
+GeSHi shows no syntax colors with Joomla 3.3
+Guide for using Bootstrap in Joomla backend
+Options for backups, restoring, and staging?
+onUserAfterSave called twice because of addUserToGroup
+Joomla browser detection
+How to setup $form->loadFile method properly?
+Are extensions which require SaaS servers to work permitted to be listed on the JED?
+How to develop a Joomla module?
+How to get Itemid by URL and pass it to JRoute
+How to discover custom library using Vagrant Joomlatools/box with extension:symlink to project folder
+How to query and display a list of nested tags for a particular parent on front end as links?
+What to use , simplexml_load_file or JForm::getInstance or?
+Akeeba based backups, remote backup options/best practices
+Joomla! CMS Component with Joomla! Framework?
+How to develop safe Joomla extension?
+Show only unread articles for a particular user
+What Joomla specific problems am I likely to encounter when changing from apache to nginx?
+Hide past items based on date inside foreach loop
+Can I use PostgreSQL with Joomla 3.3
+Migrating component from 2.5 to 3.3
+How to remove the 'index.php' from URL's?
+How to avoid getting bulk registrations?
+Stop robots from getting site/article content
+Adding Tags Functionality To Existing Component
+Pagination of lists at backend – how to add custom list size?
+Calling model from view error: Fatal error: Call to undefined function
+Non-static method JUserHelper::getProfile() should not be called statically
+Bot registrations even with Allow User Registration set to No
+How do deal with Multiple Article Authors (with/without K2)
+Error: 404 Category not found error with custom PHP script
+How does the form submission with views / tasks actually work?
+Which Bootstrap version should be used v2.3 or v3 in new extensions
+Scaling Joomla with Database read write splitting
+What should be last, cache plugins or CDN plugins?
+Facebook share with intro and link back to site
+Understanding CSS classes applied to menus: "deeper" and "parent"
+How to use Smart Search in a multilingual environment?
+Using Extension Manager to Install Packages from a Password Protected Directory
+User registration error : Two different values for password in database?
+Problem with external links remapped
+What's the proper way of setting a persistent cookie in Joomla 3.x
+Proper way to use MySQL fulltext search on a keyword string?
+How to retrieve unique values before a parenthesis in JFormFieldList Filter query?
+How to get the form of component from module?
+Smart search indexer hangs
+How to build a RESTful API with Joomla
+Can anyone explain the tp=1 process?
+Using the Joomla Extension manager to support component add ons
+What is the maximum version of PHP that Joomla 1.5 will run?
+Contus HD Video Share - User onCreate Hook?
+How do I implement tabs in an article that flush and load content when clicked on?
+How to show and save a form from module like we do in components?
+How to migrate articles from Joomla 1.5 to 3.x?
+Get full link from menu item field type
+Prevent error message from showing SQL
+Modify Joomla Tags Result Page
+Joomla 1.7 Extension Manager: Update not showing any updates
+Migrate Users, Permissions, Access, Groups and Content from 1.6 to 3.3.X
+Regex in Akeeba Backup exclude all hidden files
+Mapping the View Access Levels site content is using
+Article Alternative Layout not appearing as option
+The URL loaded two times on every page
+Hide Joomla slideshow module on user memberpage does not work
+Text with space entered via tinymce editor showing unexpected behaviour at front end
+Default menu assignment for a new module
+How to get parent category title for Tag view
+JAuthentication: :authenticate: Failed to load plugin: plgauthenticationcookie
+Joomla! working Dropdown menu on Touch device or, Non-clickable menu header with published content
+Tag Entry Mode - AJAX option not working
+Activating sef plugin throws a 404 error
+How to support a new language to the front site of my component?
+Adding a numerical value to each submenu in Joomla
+Installing php-font-lib in Joomla libraries namespacing
+Pagination confusion - Pagination uses start, PopulateState uses limitstart?
+How do I add URL parameters to default.xml when creating menu items?
+Is there a way to use Joomla's system captcha with a custom extension?
+Script using JMail not sending the email
+How to get Mambo 4.5.5 and Joomla! 1.0.15 to recent Joomla?
+Adjust screen resolution
+How can I style the current Joomla menu item when using menu item alias as the menu item type in Joomla 2.5?
+Using Joomla! SEF 'After the Fact'
+How to create a repeatable xml form field feature?
+Problem while restoring Joomla website on server using kickstart.php
+How to display user profile information?
+Making Custom HTML User Profile Page by using Joomla Variables
+Creating a Global Parameter for Modules
+Joomla Modal Field Redirect
+How to code the form submission for a joomla component in an efficient way?
+How To Get Extension ID of any Type
+Pictures/site are not showing properly in versions of IE lower than 10 with Bootstrap template
+How to save data from 2 fields as a JSON string to 1 database table field?
+Load K2 article with ajax
+I need a k2 module to show user "unread" articles
+Seblod: Create contact form
+User-Groups capacity limit in Joomla 2.5
+Joomla component media manager to select pdf
+Error loading module MySQL server has gone away
+JInput->get() , how does it work?
+Permissions for folders and files for www-data Linux user
+Dynamically Showing Articles Of The User Who Has Logged In?
+Multiple task with one
+Which is the best Certification course offered in Joomla for Professional Web Designing and development?
+Seblod template: How to use fields/markup.php to override field markup?
+Seblod: Email field
+Any Joomla & PHP podcasts from which I can learn?
+A Custom Page for Registered Users showing particular elements to a particular user?
+Link to content article with specific layout
+IP-driven CMS behavior
+How to remove some fields from core Joomla Profile Editor?
+Separate Password Changing Form for the Joomla Front-end users?
+Records in log file
+JModelList Group by Category
+Correcting problems with Media Manager
+How to let users delete their account from the frontend?
+Is there a way to restore an Akeeba database backup through the admin?
+Removing category/article numbers in SEF
+Remove Article ID from Joomla 3 url
+Displaying a Form Field Depending on Previous Question
+Joomla Variables for optional Profile Fields?
+Need Captcha Verification before accessing a hyperlink?
+What's the purpose of $this->get('Item') in Joomla view.html.php example file?
+Joomla save function with ajax update
+Retrieve joomla session from within a module
+Profile Pictures for Joomla Users?
+Bad configuration of Externallogin extension causing search engine indexing problem
+Joomla 3.3 specific menu item nofollow
+Any free extensions for Single Sign-on using Shibboleth or ActiveDirectory?
+Is there an extension/script that could pull html pages as articles in to Joomla?
+One time form for Joomla Users?
+Joomla Pagination issue with K2 + sh404SEF + T3 Framework
+Reverse SSL Proxy support
+Add a URL Param to Chronoforms5
+How to save checkbox values in a table?
+API for UnionAll in JDatabaseQuery
+Joomla: Blank administrator backend after login
+Blank page when executing a database query?
+JFactory::getDate() time offsets
+Joomla 2.5 differences in JFormField from 3.x
+Override inner K2 function for output data?
+Joomla User Password Reset from an External (Standalone) Script
+Joomla Article Multilingual Associations
+PHP code to display Registered Date & Last Visited Date?
+How to render System Message from AJAX call
+Displaying a Joomla module using PHP?
+Module get items from specific component category
+Where can I find Joomla usage statistics?
+How to retrieve the CHANGED text from Joomla Editor?
+Cannot override global article settings
+sharing Joomla URL on Facebook - editing picture, title and description
+How to override/customize pagination links?
+How can I select the IDs of a category and all its (n levels) subcategories?
+Select returning only one row with one column
+How to print a single-row result set as a html table?
+Migration Files - post update sql migration scripts generation
+Many usergroups slow down sections of the website
+Filtering the usergroups loaded in com_config
+Why does {mosmap} not show markers?
+Jomsocial or Community Builder?
+ID of saved JModelForm
+JCE / TinyMCE - Keeps attempting to Fix Valid & Invalid HTML
+How to best include jQuery Themeroller in an extension?
+How should I use backup to restore the previous version of my website
+Mass emailing - maximum recipients problem
+Where can I find Joomla upcoming release dates?
+Chart library for backend
+Return JSON using the Joomla Framework
+Export article as PDF
+Does anyone know where JFactory::getApplication()->getParams() is declared?
+Show module only on the start page
+Joomla Component Tool Bar Buttons Not Working
+Create new menu type, define fields, metadata.xml
+Is it possible to call a postflight on a module install?
+Activation email not sent via localhost?
+How to detect if user is Super User?
+Upgrade Joomla 1.7.3 to 2.5.0 failed
+Upgrade from 2.5 to 3.x overview
+How to setup a new multi-language website?
+Where can I change the message "Error displaying the error page: Application Instantiation Error" in Joomla?
+Joomla 2.5 back end pagination is not working properly
+#1062 - Duplicate entry '1' for key 'PRIMARY' Joomla
+How to add extra fields to the activation email?
+joomla protostar formfield width responsivness
+What is the proper way to set the route to a menu item from within a component?
+Only show articles by current user in category view using plugin
+How to display multi-day multi-track conference on Joomla with an emphasis on maintainability
+Jhtml::script order - how to postpone until jQuery has been loaded?
+Markdown editor like on stackexchange
+Joomla 3.3.0 very slow
+Most common and unresolved problem when using jquery in J2.5 extensions
+Add custom / extra field to a category
+How to get assigned template name in onAfterInitialise?
+Is ordering broken for the Joomla 3 language selector?
+override modules
+Initializing JHttpTransportCurl class
+Should I change the way I include javascript into Joomla? If yes, why and how?
+Working menu link now leads to 404 error page
+File upload using JInput! possible?
+JInput object does not work outside root folder?
+Allowing Registered Users To Edit Only Specific JDatabase records?
+Call to undefined method access manager controller.php joomla
+Joomla, Easyblog and format irregularities
+Justified Menus Don't work in Joomla
+How do I know if the integrity of the asset table is good up or not?
+creating new template in 3.3
+Deadlock on the sessions table
+window.addEvent('domready', ...) alternative
+Using Joomla within Wordpress
+Dynamic Page Replacing Content joomla
+Can't change order of menu items in Joomla 3
+Not proper output in Joomla editors while using CSS
+Joomla: Unable to decompress data OSX folder permissions?
+How to track separate QR codes on the same website?
+Joomla 1.7 to 3, users and k2 items
+Dynamic Menu Item Names
+Multiple File Upload Using JInput?
+Is there a way to have multiple component level ACL rules display and save using com_config?
+Tracking contact form submissions for different pages with Google Analytics
+Joomla 3.x Search Engine Friendly URL for Articles
+JCE not appearing for custom front-end user-groups
+How to reposition the notification message generated by CookieMonster plugin
+Joomla 2.5 SEF and JRequest
+Javascript Menu conflicts
+0 fsockopen(): Unable to find the socket transport "ssl"
+Selecting data from multiple JDatabase tables?
+What to do if my Joomla website got hacked?
+Can I use HTML overrides to override a file located in /components/administrator/componentname/helper/?
+Unexpected parent tag association
+Is it possible to change system plugin fire order without change order in backend?
+Replacement for JDownloads
+Using caching for module or component independently
+CB 1.9.1 List Manager alternative list manager plugins
+What are the top reason to reconsider Joomla?
+Changing redirect login path for guests?
+Electronic Signature & Joomla
+Password problem when a user registers (Akeeba Subscriptions)
+Predefined values for ACL action, for common user groups
+How to add validation in my own module?
+Google Search's Nature Towards Joomla's Adminstrator Folder (and sub-folders)?
+Display Categories in Different Layouts
+How to change the title tag?
+Extension restrictions on Multiple File Upload (JInput)?
+Posts after the first one are shown as columns
+Prevent User Deletion with Plugin?
+AceSEF exclude urls from creation/ hide in sitemap
+Implement CSRF anti-spoofing using the Joomla Framework
+How can I do a screen display module in the news?
+Only one module can display
+Responsive Equal Height Blocks in a Row - problematic in IE8
+Directory Permissions Issue in one domain when site accessible from multiple domain
+How does alias-parent-active get implemented?
+Hide Edit Module option in front-end for admin users
+Joomla Module View Access Level Issue
+How to save Custom Fields in Core components
+Kunena forum new topic field?
+How to send the value via url to helper.php when i click a href link in the default.php?
+What is the URL for user login (aka How to hide the login form?)
+Site Randomly Broken - String could not be parsed as XML
+Filtering list of Users in User form field type
+Creating variables inside article text
+What's the correct method to get the alias of the active page
+Google Map not loading properly inside Bootstrap tab
+Fatal Error : Could not Access the Global Configuration part in Administration
+View Users Front End - php code
+Nginx 502 in Administrator
+Component-Creator: Component Development Help
+Taxonomy in Joomla 3
+Adding an itemid on the Tag component page
+Customizing the tags displayed under the article title
+Attributing Itemid to article when opened from a "Tagged Items" pages
+Language condition with Php if... elseif
+How to restrict user registration based on user group
+Showing every user its simple specific content. e.g. a secret username and password
+Mootools-more.js conflicting with Bootstrap Button dropdowns
+Your host needs to disable magic_quotes_gpc to run & No Write Access
+Update virtuemart_product_prices based on weight
+Token check not working in custom component admin
+Difficulties in calling ajax from joomla 2.5 module
+Where to find absolutely free responsive templates for Joomla on the web?
+How to write an Insert Select Statement?
+MySql User with Multiple DBs Advice
+Customizing K2 admin panel
+Undefined index: view with external url menu
+Why the newly installed template looks differently from the demo?
+joomla error arising when transfer site to the other hosting
+How to use additional jQuery UI libraries such as draggable?
+Multiple website managment with Joomla?
+How to add category image to module mod_article_categories
+What differences (if any) are there between JFactory::getSession() and $mainframe->getSession()?
+Where is the copy template button in Template manager in J3.3.1 after update?
+JDatabaseDriver->replacePrefix( ) Allowed memory size of ... bytes exhausted
+Joomdle 2.5 backend login
+When accessing Joomla from an external script when should you include ('libraries/joomla/factory.php');?
+How to get the default frontend language
+Use HTML tag to bold only some words of a menu item
+K2 item producing a 404
+Restoring site on localhost: keep redirecting back to old URL
+How to disable frontend editing on a specific module?
+Joomla Invalid token / Session timeout issue
+Is there anything wrong with setting Joomla session variables consecutively in an external php script?
+How destroy specific user session when we are using default php session handler?
+How to change Joomla! 3's bootstrap theme preserving original?
+Layout Overrides: Intro Image Link
+File password extra protection
+Error while migrating a Joomla website from version 1.5 to 2.5
+User group in joomla 3.2.1
+Recommended practices regarding transfering database from Joomla 1.5 to Joomla 3
+How can I modify/control the HTML output of my Module?
+Submit form and send email with attachment
+Meaning of the "version" in any extension XML manifest file
+how to exclude a script written in the index.php (only) in the frontend
+How to generate absolute urls in joomla 3
+Advice on creating a custom searchable db within Joomla
+Can't access jmodulehelper load method in module helper file
+Menu items and item ID
+from which file code is coming
+Solution for Using Markdown Content from github?
+Is there an alternative to Retina.js that works properly with JCE rollover images?
+Joomla 3.x extension development tutorial for a beginner developer
+Set display All by default in backend for category/menu/module
+Can the Access List of a Front-End menu item be limited to certain User Groups?
+How to install sample data after the installation is already done?
+Migration error: Unknown column 'rawpassword' in 'field list'
+Make the Message "Article successfully saved" Fade Away after x seconds
+Installing PostgreSQL database - Error connecting to PGSQL database
+Are you sure you want to navigate away from this page? Browser popup to avoid accidental tab closure while editing
+How to distribute width in according to module count?
+how to add more frontend feature to front-end editing (alias, association...)
+Display the category notes on the page "article manager"
+how to prevent JCE from removing/replacing divs on copy/paste
+Any “Link Preview” (like the facebook feature) in joomla editor?
+Is there a way to have the article edit box stretch the full width of the screen in Joomla 2.5?
+Module to show all articles with Tag and in a Category
+Admin menu items disappearing
+Parse Article Content for Template Layout
+Joomla 3 LDAP username won't allow required special character
+Joomla 1.5 to 2.5 : JLIB_APPLICATION_ERROR_VIEW_NOT_FOUND
+Using checkToken() to secure form posts
+My plugin currently saves data to attribs - can I change this?
+Module parameters in main tab
+Change Date Format in Article Editing page on Publishing tab
+Menu items not appearing when base item is 'current'
+Banner component Click URL - relative link not absolute
+Can I use Joomla's community builder as a form component?
+"echo" title article before read more
+Tag page: remove links on image when they are in introtext
+Filtering com_content in the backend by url in Joomla 3.3.1
+Jquery marquee script not working in joomla?
+Joomla 3.x and .htaccess
+Style tag links
+How do you extend Content Category
+onUserLogin and onUserAfterLogin events don't seem to fire
+Falang Menu Item Alias Not Working
+Best strategy for updating component manifest using Ant or alternative
+Testing Joomla extensions
+Overriding a plugin's non-templated layout files?
+Where to include JLoader::register calls?
+Is there a way to prepopulate a 3rd party form with data?
+HTTPS and Force_SSL backend login problem
+How to get the intro image of a joomla article
+Any Chance of JApplicationWebClient constants changing in the future?
+Does anyone know which component has tmp_object_relations as a table?
+Modules and plugin in one package
+How to work with field type Checkboxes (not checkbox)
+Getting progress updates (via AJAX) on a controller action without blocking
+How to load a partial view into a normal view via AJAX?
+How can I add custom fields to the article component?
+Language switcher doesn't let me change language manually
+How can I use the memory usage tool in the Joomla Debug Console?
+How does the Administrator main menu come up with menu item text?
+Catching InvalidArgumentException in template
+Execute SqueezeBox OnClose Event Multiple Time
+Remove all <img> tag except the first one change image size - Tag component
+Bootstrap Tour on Joomla
+How to bind an IP address with apache on Windows 7 to host my Joomla web application?
+How to use data from another table in my view?
+Menu Module not appearing/working with ACL
+Google still indexing old URLs
+How to show parent category title in featured articles on the home page?
+Remote Login using cURL
+Database query where() value is a number
+Insering items from RSS feed every interval
+Assigned User Groups Dissappear Randomly
+How to load Joomla session from external AJAX call
+I could not find joomla .xml file in the package
+Add association tab/field to front end editing page
+Joomla Tag Result Page Accordion
+No more than one module in position
+What language string determines the 'group name' of menu items for a component?
+Make module titles linkable
+Tags and SEF URLs - Wrong Page
+Articles Frontend Editing Issue: Field required: Category
+Where can I find source for Joomla chrome templates?
+What is the purpose of page heading?
+Pulling featured articles from another remote Joomla install with images via RSS or otherwise
+Alter registration and comment forms
+Joomla Mailer won't send a second Email
+Custom Admin Panel/Back-End Functionality Starting Point
+Why my template's positions become Custom Position in Module Manager?
+How do I add an article to #__content from my component?
+Link to plugin list with filter
+How to make shorthand for countModules?
+K2 problem with displaying tagged content with SEF URLs
+How to access administrator models from site controller / views?
+need help in adding Alexa Certify Code in head section
+How to set get('Items') limit?
+Menu Item Aliases stopped working Joomla 3.3.3
+Article Content formatting Issue with modules
+Content Plugin loadfile loads CONDITIONAL form/data, but does not save the data - why not?
+Shows blank page when creating new article or new category
+Is it possible to update an article remotely?
+Installation stuck on first page while installing Joomla 3.x with free template built-in
+on the frontend I got nothing but a ">" sign
+How to add a WYSIWYG editor to my module
+Why are the default "index.html" files not valid HTML5?
+Modify layout of component options
+What server side caching can be used with Joomla 2.5.x?
+From the model, how I can access the data retrieved in the view?
+Get head of current template from component
+Delete folder on extension update
+Best way to include CSS/JS files in my custom extension
+Print content in popup in template's index file
+How to re-enable an extension's update site
+Google indexing k2 urls wrong
+How do I override the CSS styles in my template?
+MathJax and latex2html5 Joomla System Plugin
+Multiple categories linked to menu item
+How can I Include an article's Links in the blog intro text
+Migrating Joomla site to local machine
+Is there a way to have registered users auto-publish their articles
+Joomla - one admin panel for multiple sites
+How can I diferentiate between guests and members?
+JUri::base() issue, losing subdomain
+Are there any "cleaned up" overrides for stock components and modules?
+How can I configure Joomla with several languages?
+Get the number of menu elements? (Parents)
+Removing the space between header and nav on Protostar
+Can Joomla be brute-force attacked?
+Proper way to add attributes to HTML tag of Joomla page?
+Change http to https in source code when using SSL
+Add a class to all images in article dynamically
+Good Information about JEventDispatcher Class
+How to integrate a component in a Joomla template?
+Migrating Joomla 2.5 site to 3.3
+Disable Mootools for 3.3?
+Cloaking Emails does not work
+Why using Joomla! Framework?
+Create custom module with javascript .js
+Joomla security - fingerprinting attacks with htaccess
+How do you set parameters in Phoca Gallery 3.2?
+Handling two user groups in front end Joomla 2.5
+How is jQuery added to Joomla Template Protostar
+How to add custom tab in component's new item editor
+How to modify article structure?
+Sync up Joomla 1.5 with 3
+Multiple styles on a website
+Controlling Component Redirect (Using JControllerForm)
+Add JavaScript with $doc->addScript with async="true"
+Server-side validation rule is not being found
+Debug custom plugin error
+How can I provide a custom message for a failed JFormRule validation?
+Override blog intro image
+Exclude specific articles / categories from smart search
+Writing custom method to save form data
+Identify and locate missing translation strings in joomla 3
+User Verification Link / Message
+Component Update: DB error file function returned no error
+How to set up a menu icon in Joomla 3?
+How to add image/icon to the header of the administration pages of a component?
+Image slider gets stuck on menu items others than home.
+Joomla tmp directory - What is it for and can I delete its content?
+How do I apply JHtmlSidebar to add a sidebar to my admin view?
+How can I prevent a particular view in my Component from being available as a menu item?
+Component name different to the default view name, how to display default view?
+I tried ordering modules, now everything is one under the other
+How do I find what is causing the error when I get the "500 error screen"
+How to remove index.php from url in multilanguage site
+Looking for "start publishing" field in database
+Using the extensions installer (upload package file) is not working all the times
+No acces to front page but acces to backend is working
+Using custom image flags with language switcher module
+Available fields in Joomla XML manifest
+Updating user profile
+Simplify image management in articles
+Only articles with article anywhere are accessible
+Joomla works without my new ftp password, how that's possible?
+Is there a way to have two Joomla sites on the same virtual host?
+Is there a way to reduce document waiting time?
+Logging in user without getting password from them
+Remove head script not working in custom component
+Virtual host for Joomla
+Joomla $document->addScriptDeclaration with single quote and double quote
+Validate Checkboxes within a Hidden DIV Only If Shown - Chronoform
+How to deal with Duplicated Content / URLs in Joomla?
+Help me understand Banners Component Toolbar Action (Joomla 3.3)
+Repeatable xml form field - Can't remove fields / Repeatable.js issue
+You cannot access the private section of this site
+Using variables from a database like source
+Running content plugin on content prepare trigger for com_content attributes text
+Adding/Importing a ready coded (AboutUs) page into Joomla
+Best way to override the index.php file from a joomla template
+Applying custom module chrome under J3.3.3
+Separate custom fields in com_content from the options tab
+JLayout: Overriding joomla.edit.params layout only for com_content
+Upgraded to 3.3: can't save in Frontend anymore ("category field required")
+Check if module is enabled
+How to check what component is being used on current page?
+Where can I find list of the available Joomla-WYSIWYG-Editor buttons etc
+Changes on a joomla site do not reflect on the front end
+Send mail subscription in the user language in a component
+How to prevent empty modules from being rendered?
+Overriding Core Components Model Form XML
+Default menu item for articles
+Jform POST issues
+Database query outputting twice
+Add onclick/onsubmit event to form submit
+How joomla plugin registers itself to a subject
+Two different modules showing the same content
+How to handle RSS data coming from WordPress for Joomla's RSS Module?
+Model getListQuery() fetch all rows with using JPagination
+Logged in user details, profile, message notification display using access level category
+How to style a Custom Field radio list as btn-group?
+Proper folder structure for custom component
+After admin approval, user does not receive acceptance email
+File selector in the front-end of a specific directory
+Multilingual - Associations: Single Articles for Home Page - Duplicate Home URL issue
+RSForm Pro Search form
+Assign user-groups to lower user-group users
+How to sort my query's results by publish_up value?
+Search engine for a custom component
+What I do for Glyphicons appear in Joomla! 3.3
+Force SSL on parts of my Joomla site
+Add output formats to core components
+Menu Item loads any article content when ID passed in the URL instead of showing 404 error
+How to create a collapsible menu with Joomla! 3.3 and Bootstrap 3?
+Get the current Joomla URL
+Joomla capabilities for content authoring
+Php doesn't display special characters
+Folder create when user register joomla website?
+phpmyadmin: how to save changes made on multiple rows using "edit"
+Joomla XML form fields in content
+K2 Add tag to article if the keyword is in the article title
+Is there a way to determine if a logged in user has been to the current page?
+Batch processing Menu Item options
+How can I set the page title from a component
+Menu item without link
+Unable to create external link to javascript:void();
+Change Banner Size in header - JA Teline IV template
+Send a copy of an e-mail
+Uploading Tags In Bulk
+Articles With No Menu Item
+Optimal Apache Permissions for a Joomla website for PCI Compliance
+Can't create new Article & Modules - page just reloads
+Disable backend modules
+Is it possible to display a list of category "grand children"?
+1054 Unknown column 'extra_query'
+Apache error: "File does not exist" (Not telling me when which file)
+Strange Issue - Adsense Appearing/Disappearing
+Joomla template for technical documentation website
+Assigned User Group selections unchecking themselves
+Broken Image Link - Custom HTML module
+Database error, do i need to worry about it?
+Joomla remove index.php - redirect to homepage .htaccess
+Creating a module to search the database and display the results
+How to link Jquery files in Joomla 3x to head section
+Delete <li> tag of "Forgot Password", "Registration"
+Is this a route loop?
+Update Search Plugin from Joomla 2.5 to Joomla 3.x
+Sometimes it shows the error #1044
+Error when updating T3 template and T3 plugin: "Invalid extension update"
+ZOO Component - Image Database
+Module to display dropdown options from database table
+When to upgrade to Joomla 3
+List All Categories (com_content/views/categories) alternative layout not working
+Hiding and showing fields based on menu item
+Batch processing articles in database
+How to turn the site to lightweight mobile version?
+Change folder name in URL
+How to override layout files properly
+How to programmatically set 'created_by' when creating a new category
+Detect current template style
+Image is not showing when sharing on Facebook due to Gzip
+Mavik Thumbnails for Joomla 3
+How to use logout() method without duplicate session record in db
+Mosets Tree not working after site migration
+How can I completely and safely remove the subject field in com_contact?
+Custom Search Result Page order by Category ID
+Can you have multiple custom Login Forms with unique templates Joomla 3.x
+Rogue text output on my Search Page: "onContentSearch"
+How can I access articles from subcategories in a blog layout?
+gtmetrix and pagespeed low score
+Unknown code in my site - am i hacked?
+Why Joomla 3 add Canonical tag to current page and made it unindexable?
+Leverage browser caching
+How to get article intro image by article Id?
+No Mobile Login
+Turn off page caching on a single page
+How to assign a module to different pages
+How (re)set password for admin after migration from 1.5?
+Using Separate Databases for Each Component
+Can't logon with Joomla IIS 8 install
+No notification to update to latest Joomla version
+Can some form extension write to/populate with values from database?
+How to add the joomla style tootltip error message to a form
+If URL is equal to X then do this
+Extension that allows redirect after file download
+How to create contact form from scratch
+Cannot access article, get 1146 error.
+List articles by Category and Sub-Category
+Restrict front-end component access
+How to correctly save and understand ACL rules when creating categories from PHP
+Tag view Notice: Array to string conversion in
+Adding A Super Admin - Hacked
+Module as menu item
+smart search plugin for custom component not indexing
+Calling model's method from view works, but not from controller
+Custom Component - Linking File Upload From Controller to View
+Article output at multilingual websites
+How to link entire article content as menu
+Do I need a database to install Joomla on localhost using XAMPP?
+&JModuleHelper::getModule doesnt return parameters in joomla 3
+How to improve the speed of a Joomla site launched at Server2Go
+Joomla cache handler only shows memcached
+Why doesn't Joomla use foreign keys in the core table structures?
+Avoid counting my own visits on the pages
+J2Store add quantity input and add to cart button for each product option
+Custom Component - JInput Isn't Getting the Form Input
+How can I stop the breadcrumb module from duplicating categories
+New Install session.save_path Error
+How to test a Joomla 2.5 component
+What's the difference between these 2 methods that use Jinput to get an Array?
+Date/time picker in component
+Security: Give users full access to manage all articles in a category
+return 404 header with 404 page
+Automatically publish plugin after installation
+Overriding com_users component
+Standard CSS classes / id naming conventions
+Set cookie in from joomla plugin
+RSForms Pro changing the class of Radio Group label
+Does joomla automatically populate the redirect component?
+Redirects aren't working from com_redirect
+Saving JTable (in Component) fails when called from a module
+Joomla file with classic cronjob don't work?
+2.5 template/css issues: article links not working in Chrome, link colors locked globally to white and email cloaking
+How to deal with "JFolder::create: Path not in open_basedir paths Unable to create destination" while installing Joomla extensions?
+Changing layout of tag search in smart search results joomla 3.x
+Date format override for international multi-site setup
+How can I translate RokSprocket views?
+Make submit button inactive until fields have been filled
+404 HTTP codes in Joomla
+Migrating from joomla 1.5 to 2.5 along with VirtueMart 1.9 to the supported version with 2.5
+Suggestions for Performance improvement based on Result differences
+Media manager popup renders twice
+Load articles by tag
+Core Update Not Detected in Joomla! 3.3.4
+Undo batch process
+Renaming positions in the template XML manifest file
+Gzip compression for files outside the template
+Post-login Redirection Not Working
+Overriding Content Gallery Layout to Contact Gallery Layout
+How can I retrieve data from MySQL table and insert it into QR code using PHP?
+After update Joomla 2.5.24 to 2.5.27 i get JDispatcher: :register: Event handler not recognised. Handler: Array
+How to add conditional comments for IE when including CSS / JS?
+How can I use the MVC Model to Load, Change, then Save a record?
+Pagination in custom RSS feed reader
+How to create a multi layout page using k2
+Error 0 Cannot open file for writing log while updating
+Joomla pagination loop without start or end
+How do I get the "Most read" module to show only articles within a time range
+Display timestamp on related articles module
+Error 0 Could not write to the configuration file,"Joomla can't write any data to configuration.php file"
+My joomla 3.x website went down and I can't re-run it
+_getTab() returns spaces
+How to automatically import video from YouTube?
+Identify the template name in joomla site
+How to disable Joomla k2 word limit for introtext
+Create new page in Joomla or add some text to existing page
+Ftp folder permission for a custum contact form
+How custom module chrome works?
+Creating a different kind of frontpage
+Module: Plus User Panel
+Set default value for a custom filter
+How to add a custom dropdown field for a product in VirtueMart?
+Update server for commercial extensions
+Move site to different location on same server
+Including multiple models to view or controller from different controllers
+Add html in menu title field
+How can I prevent Joomla from loading template.css when opening a page in a modal
+Managing sites with Git
+Joomla print/email function
+Featured view Title position?
+Joomla CMS, Hika Shop Ecommerce and retail POS
+Joomla v2.5.24 is outdated, does it need to be updated?
+User Module issue
+Upgrade to J3 gives JHtmlBehavior::mootools not found
+Load css file using absolute path for my component?
+Joomla! JFactory::getDate wrong
+Cannot log in to Joomla (front and back) after site move
+Joomla custom module $params stays empty
+Joomla templating custom JDOC statements
+I can load data from Joomla database and external database?
+Change the image in Joomla site
+Where to change the contact us page in Joomla
+How can I get information about the main Category being displayed in a content plugin
+Add text in empty space in Joomla corpoboost theme
+Frontend: why some fields are not in the $data param of the save function?
+Upgrade From 2.5.x to 3.x SQL error: 1091 Can't DROP 'usertype';
+How positioning the calendar popup?
+Joomla contact form
+Display and edit user profie in a custom componet
+Joomla access state variable in modules
+How can i get a categories tree view in alphabetical order without to lose the tree structure
+Generate menu structure from categories
+Single source many Joomla sites on a server. How could it be possible?
+Change background of entire website
+how to display Moving text in a website
+How to load Joomla framework in external file including the template?
+Single Sign On (SSO) Joomla with other System

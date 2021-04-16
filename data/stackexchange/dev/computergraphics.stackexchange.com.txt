@@ -1,0 +1,365 @@
+VR stereo rendering with Instancing
+Reliable test for intersection of two Bezier curves
+How to determine the object-to-world matrix
+How do I create my own bitmap using a text editor?
+Need a reputable source for the formula for the shape of Earth's horizon
+Silhouette curve for isometric surface of revolution
+What's the difference between irradiance and fluence/radiant exposure?
+OpenCL doesn't detect GPU
+Questions about Preconditioning Conjugate Gradient method in Baraff & Witkin 98?
+Rendering in radiometric units or photometric?
+How to disable Perspective Correction in Texture Coordinates Interpolation in OpenGL(without using shaders)?
+culling meshes across mulitple layers
+Cost of parameter passing in webgl pixel shaders?
+How much should I rely on Geometry shaders in WebGL?
+3D mesh segmentation simple algorithm
+Why does my lighting look incorrect?
+implementing right handed coord system APIs on top of a left-handed rendering engine
+Where is the shown display image actually stored and accessed?
+OpenGL - Colours not working properly
+Renderbuffer needs to be bound before glFramebufferRenderbuffer?
+Artefacts on top and bottom of utah teapot
+Shadow Mapping Errors
+What is Tessellation in computer graphics
+OpenGL with SFML, create an n-pointed star?
+Graphics Pipeline: Viewspace & Back face culling incorrectly
+Explicit vs Automatic Attribute Binding
+Cannot use more than a couple of MB in a shader storage buffer
+What is stereo about multi-view stereo?
+why does black text have orange and blue pixels
+What happens when you display a high resolution image on a low resolution screen?
+Correct view-space transform
+What are the most efficient ways to convert between f32 and smaller float formats on the CPU?
+Ray tracing with thin lens camera
+What is the benefit of using Half Edge over Winged Edge?
+Bicubic bezier surface from 4 bezier curves
+Choosing & Using a Projection Matrix
+Rotate line around center
+Jitter texture generation
+How to build a triangle-voxel list from a triangle mesh?
+How does DirectX 12 SLI VRAM stacking work?
+Confused about z-axis behaviour
+Uniform Buffers: What is quicker?
+Bitpacking into buffers with webgl (shadertoy)
+Interpolating vectors on a grid
+Rotate image around its center
+Creating shared vertex normals on GPU
+HLSL Deferred Rendering
+scan line conversion
+Volume Rendering in simple words
+Color space of MERL BRDF database?
+Why map Hammersley 2D set's (u,v) to sphere's (θ, φ) coordinates (and not to (φ, θ) )?
+How can I use multiple texturing with shadow mapping?
+Ordering a set of unorganized points along a curve
+Triangulated model rasterization: light-weight Python library
+Trouble Finding Simple 2D DirecX11/HLSL Issue
+Frustum - problem with z dimension
+Is Jump Flood Algorithm Separable?
+Test if a point is on a line segment
+How to test if one object A intersects and is therefore partly or wholly inside object B
+Compensation for energy loss in single-scattering microfacet BSDF models
+Raytracing Problem - Casting Shadows
+Map a texture onto a hyperbolic triangle
+Get vector length with GLM
+SVG opengl implementation - strokes overlap on transparency
+vertical or horizontal line test
+Anti-aliasing / Filtering in Ray Tracing
+Conserving Mass in Liquid Simulation
+Do modern GPUs contain barrel shifters?
+Template matching subpixel accuracy
+Free 3D Scene Simulation Framework
+Seamlessly transitioning between nearby environment maps
+How to invert an affine matrix with small values?
+intersection between line segments - narrowed precondition
+A question about derivation in oblique view frustum
+Moving each point of a surface in direction of corresponding normal
+Get data from javascript
+Making surface with common parametrization from bunch of other surfaces
+Loop performance in a shader
+SSAO artefacts on iPhone (OpenGL ES)
+Normal mapping for planar reflections
+live music visualisation
+Modern Screen Space Ambient Occlusion Techniques
+Creating vector shapes using only C++
+library / tool for implementing algorithms
+How does vsync affect fps exactly when not at full vsync fps?
+Choosing width of data for signed distance field texture
+Calculating intersection of polyline and line
+Separating photos from other images algorithmically?
+Clearing but not drawing objects
+Converting raster shape/blob into displacement map
+Guidance with Sphere-Map calculation in GLSL
+gamma transform in webGLSL: when already done or yet to be done?
+OpenSCAD Hull/Minkowski function by hand?
+Drawing to framebuffer texture - texture then split in half
+Should not specular reflection on a rough surface be similar to diffuse reflection?
+Cause of shadow acne
+Can I run polygon insetting on the surface of a mesh?
+maximal convex patching in Computer graphics
+Spectral path tracing - image color/brightness incorrect
+Model Separation - Several models reside in a single .stl file
+How is VR different from a monitor
+Maximum number of vertices after clipping a triangle against an AABB
+OpenGL C++ Camera Rotation Problem
+How to convert Non-Axis Aligned Bounding Boxes to AABB
+Which 3D algorithms does Windows 10's "3D Builder" application use?
+Generate complex (non-convex) polyhedron UV mapping
+Why do we have graphics frameworks like OpenGL and DirectX, when games could just draw pixels directly?
+What are the current open problems in Computer Graphics?
+phong equation of illumination specular component
+Strange behaviour of glDisableVertexAttribArray() on devices
+Which interpolation algorithm does MS Paint on Windows 7 use for image rescaling?
+In what order to apply lighting and translucency?
+Gpu derivatives. How it's done across 2x2 boundary?
+Human Readable/Writable 3D Representation Formats/Languages?
+Coordinate system transformation in motion capture files
+Converting from 360 degree vr to rectangular
+How are we supposed to fix brightness with square roots?
+Why does the integral of NDF over a solid angle equals the area where micronormals belong to that angle?
+Can V-Sync avoid tearing? I think it can't. Am I wrong?
+Cloud based VR would be the future?
+Can Frameless rendering reduce latency? And, can FPGA do 3D rendering instead of GPU?
+Path tracer not rendering shadows
+Sine-based Tiled Procedural Bump
+How to properly combine the diffuse and specular terms?
+How to generate OSX Flurry screensaver
+Computing camera front direction from Euler angles
+Trouble using java connectivity and data transmition on libgdx
+What is an index buffer and how is it related to vertex buffers?
+Unlit objects in deferred rendering
+inside and outside region identification from 2D contour
+Could we dispense the near clipping plane?
+How could I use bent normal map
+How to load a model in .json in three.js
+Is Russian Roulette really the answer?
+Collision detection methods for 2D and 3D environments
+How to compensate low amount of rays reaching the light in a Path Tracer
+Ray-tracing the Cornell Box results in really inconsistent image
+What methods/technologies to reduce required performance for virtual reality are there?
+Why does the G1 term have a 2 in the numerator in Walter's formula, but not in Heitz's generalized formula?
+Change particular color in an image
+Image based lighting, tangent space coordinates, and optimization
+Is it possible to store the plain buffer data in gltf files?
+How to generate binary gltf array buffers?
+How to blend World Space Normals
+Parametrize set of unordered points in 3d space
+Can't render multiple VAO's?
+Represent vector with arrow
+What kind of technology would be involved in the rendering of human nails?
+Find the longest straight line between two points on surface of polygon
+Creating an Object Orientated Bounding Volume
+Gamma setting in games - Why 3 icons?
+Data structure and algorithm for clipping triangulation with leaf nodes of an octree
+How can I resize a rendered ray traced image?
+Line segment intersection test and find the point of intersection
+Line segments overlapping
+What is my GPU waiting on?
+Generate this kind of 2d burst or pulse algorithm?
+Global illumination leading to image variation
+How to implement Constructive Solid Geometry in ray tracing with implicit surfaces (spheres)?
+How does everyone count "Rays per Second"?
+Affine Transformation
+Finding the maximum number of disconnected fragments
+What's the difference between orthographic and perspective projection?
+How are hard and soft shadows cast?
+Importance Sampling of Environment Maps
+Why did tessellation come to be a prominent feature?
+Bilinear Transformation not working
+3D rotation matrix around vector
+Check if one line segments is entirely on the other line segment
+16bit half-float linear HDR images as (diffuse/albedo) textures?
+Optix: Rendering time-variant data
+Cohen-Sutherland Clipping
+How does the rendering equation incorporate shadowing
+Calculate vanishing point
+Unwinding an image on a spiral to make it long and flat
+Linear gradient shader ( Photoshop-like)
+generate multiple border contour
+Data fitting SVBRDF with L-M
+Perspective-Correct Texture Mapping
+Why does the 1/r² term appear with point sources?
+Identify different contour cycle after model slicing
+Using GPU in PC for GearVR
+Role of PDF of Uniform Random Sampling in a path tracer
+Interlacing vertex buffer data with extra efficiency
+Gaussian blurring a function defined over a surface mesh
+What is causing this odd scaling behavior?
+Why does my Perlin Noise look "blocky"?
+OpenGL - Detection of edges
+Double rasterization work on triangles edges.
+face normal consistencies
+Can (and how so) shaders paint screen pixels beyond those that occupied by the shaded mesh?
+What effects does path tracing capture that recursive ray tracing does not?
+Resulting Probabilty Density in Path Tracer for paths using Next Event Estimation
+Perspective Translation Of Quadrilateral
+Constructing base mesh for required subdivision surface
+How to detect a screen in a photo
+Does a point have a length?
+Rectangular prism parametric equation
+How to properly implement Phong material and importance sample it in a path tracer?
+Count number of green fragments that are within a given distance from each screen fragment
+Generation of lower resolution textures
+Choosing Reflection or Refraction in Path Tracing
+What are sample gaps during scan conversion?
+How to get started writing a low-level GPU profiler?
+2D projection from some points
+Correct form of the GGX geometry term
+Polygon Filling rule - even odd OR orientation of the normal
+Symmetry plane estimation for 3D point cloud
+In a physically based BRDF, what vector should be used to compute the Fresnel coefficient?
+What is the effect of the BRDF denominator?
+Matching an HSV color with a blended color
+Linear interpolation on Plane (Marching Cubes)
+Surface shading on an triangle
+Threads lockstep and conditions in compute shader
+Explanation of the Vatti clipping algorithm
+How to draw an orthogonal graph from its edges and vertices data?
+Image rotation algorithm
+Bug with the Bresenham's line drawing algorithm?
+Why cant I use `#include` after upgrading my driver
+Controlling Sobel edge thickness
+Optimal 2D graphics resource
+Midpoint algorithm
+distribute the bounding area into grid space
+Hlsl - registers type
+Is there a way to interpolate color across the line with only integer calculation ?`
+In a shader, how to store fragment coordinates in a spatial partitioning from one pass to the next?
+Fading an object in add mode with correct color math
+GPU short circuit when multiply by 0?
+Understanding view matrix
+Why does substracting -1 in shader fail for a float data type?
+OpenGL ES vertex/fragment shaders - Blinn phong
+"Anchor" vehicle to 3D path with OpenGL / SDL
+What physical properties are “lacking” to keep this 3D scene from looking like a real photograph?
+Full Monte-Carlo Volumetric Scattering
+How to project a view frustum in an orthographic cuboid?
+View Reference Coordinate System
+Object rotating around origin instead of object center?
+Chromakey Conversion
+Should new graphics programmers be learning Vulkan instead of OpenGL?
+Why does checkerboard pattern on a computer screen appear with a yellowish tint?
+scan line algorithm is too slow?
+What are the differences between GPU instancing and standard instancing?
+How would I create a virtual cabling system?
+How to convert image results into data?
+Texture rendering in OpenGL
+Implement own Bend function
+Components that can be used for 3d shadow analysis, sunhours of surfaces throughout the year in a 3d model?
+Compute shaders: one-time-only versus persistent buffers
+Open GL Shader Storage Buffer Objects to replace Vertex Attributes
+benefit of perlin noise over value noise
+Move position in smooth gradient
+Perspective correct interpolation of normal values
+How to texturize a 3D model from video?
+How to encode/decode buffer data in glTF?
+Why do adjacent triangles never overlap when rasterized?
+Total emitted power of diffuse area light
+The generations of Intel's integrated graphics
+How does a GPU process a task by using multiple ALUs?
+SIFT Feature Extraction
+Fastest shader compilation strategy on windows dx9 and dx11?
+How to use 32 bit Integers for Element Indices in WebGL 1.0?
+OpenGL Vertex - Texture Mapping
+How to check which API's are available on a given machine?
+How fast should I expect to render the silhouette of a 20k triangle model?
+OpenGL GLSL - Sobel Edge Detection Filter
+Reconstruction filter of LCD monitor
+Solving a set of Geometry Constraints - What's that Method called?
+What is bilateral upsampling?
+Incorrect values written in stencil buffer
+Converting cartesian pixels to polar pixels
+Why is my fragment shader not showing any colors?
+Is there a performance implication if the frame buffer resolution and the physical screen resolution are different?
+Flickering tile map
+How to determine if SceneKit can produce sufficiently 3D graphics like Minecraft?
+How can I draw a tube on basis of position and angle between two 3d points?
+How to do keyframe interpolation on matlab?
+Maximal and minimal no. of angles obtained from clipping a convex polygon with n angles
+Fastest way to put a point on the circumference of a circle
+How to ensure a fragment shader only runs once
+How to correctly implement Lambertian BRDF with point light
+Issue with size() function in Processing language?
+OpenGL Instanced Rendering with Level of Detail
+Algorithm to find the center of a Bezier curve
+Is there any reason to prefer Direct3D over OpenGL?
+What is the difference between shading and shadowing?
+Tweaking a glow shader to make it look better
+Applying correct light physics to gaussian blur formulas for glow
+Closed form solution to a problem of tangent circles
+Curves fairness
+Using a LUT to speed up a trig heavy shader for mobile devices
+Uniform not set, despite valid location
+exact down sampling and re-triangulation of mesh data(non-convex)
+How to deform some mesh so that it fits along a spline curve?
+Is there a image-format that support an array per pixel?
+Creating an "ink spread" effect with a glsl fragment shader
+Confusion about notation in a paper
+Combination of Triangles and Quads in a mesh
+Rendering equation - why unsolvable directly?
+How to never draw "Jaggies" in the first place considering resolution and scale
+How to unproject quadrilateral into rectangle?
+Rendering same vertex-array in different modes
+Where are the highlight definitions inside of my shader?
+Can't make blending work
+Estimating real world object distance from photo
+Why isn't a BRDF a ratio of radiances?
+Estimating the area of a triangle-circle intersection
+Computational Geometry - Triangulation
+Apply distortion to Bézier surface
+Proper architecture for rendering history of streamed data (points)
+Is there a objective reason for matrix naming conventions?
+Blinn Phong rendering
+get partial view points from 3d surface mesh
+What algorithm is used in the animation of the uTorrent 's "About window"?
+Label Placing for thousands of objects with OpenGL
+Pixel packed texture source
+What modern real-time rendering applications still use fragment shader depth writes / late-Z?
+Compute Shader vs CUDA/OpenCL
+Why did AMD's putting an SSD on a GPU board reduce latency so much?
+What does $E_L$ mean in the context of shading equations from the book "Real time rendering"?
+How can you interpolate over an array of say 5 colors?
+Compute shader not updating buffer, or vertex buffer unable to read the updates
+What kind of anti-aliasing is used in font rasterization?
+Billboards or impostors when objects' instances are re-scaled
+Sobel edge detection line thickness
+Distributed parallel rendering in Gaming or VR rendering
+Find closest point on surface interpolated by 2d matrix of points
+Sharing calculation result between shader programs in OpenGL
+Alias|Wavefront .mtl File "decal" Command
+detect blurred zones after conversion to black & white
+Texture Parts Terminology
+How to sample 3D points to visualize a B-spline surface?
+Will the gaussian kernels in this fragment shader be computed for every fragment?
+Efficiently rendering sprites
+What does these FXAA settings do?
+What is the definition of "motion to photon" in VR?
+How to create specular surface in Mitsuba Renderer
+DLT algorithm (4+ points) not working, what's missing?
+Ray casting in fan configuration produces point cloud with curvature, how to eliminate curvature?
+Why shouldn't Bump, Normal and Displacement maps be gamma corrected?
+Checking the correct offset direction for Bezier curve offset
+How to store > 256 transparency values in textures?
+Are vertices reprocessed per-poly for indexed meshes?
+How do I simulate a starfield?
+How to use Shaders with vertex & index buffers?
+Changing colors after raytracing
+Why random monte carlo sampling instead of uniform sampling?
+Why use a tent filter in path tracing?
+Dark stripes on surfaces in V-Ray when rendering to texture (baking)
+What is required to limit the amount of draw calls in Unity?
+Removing a darkened caption with text on it in an image
+draw a chord in three.js as in d3.js
+mapping 3d texture on view frustum (or part of it)
+How do you sample an analogue image and store it in a true-colour frame buffer?
+Controlling reflection and refraction with material properties in ray tracing
+Can I use the same vertices to render multiple things?
+Ray tracing scene with 2 lights and sphere
+GLSL - Merge two textures
+Can I Implement Clustered Lighting with WebGL?
+In a polygonal mesh 3d model which consist of triangles is it possible to separate different objects?
+What are the fConstX in Spherical Harmonics?
+Expressing a reflected ray at a point as a function of the incoming ray and the normal to the surface at that point
+Calculating inverse disparity of a stereo image
+Is it better to blur the input or output of an edge detection shader for noise reduction?
+Meaning of the parameter in a line-plane intersection in the space
+Can we use PhysX in WebGL?

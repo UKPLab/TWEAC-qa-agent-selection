@@ -1,0 +1,473 @@
+When are Tezos Rewards Unfrozen?
+Node does not start syncing
+How to run a baker with ledger (remote signer)
+Where can I read the changelog for the Tezos client?
+How do I know my password or backup information is not being shared when creating a new wallet?
+How do I fix './mainnet.sh status' reporting wrong status of docker containers?
+What details should I look into when choosing the right baker to delegate?
+How can I create unencrypted addresses?
+Would it be possible to find a Derivation path for a public TZ1 address
+Time based Delegations possible?
+Docker vs local build for baking on mainnet?
+Is there any way to get the Tezos binaries latest version?
+How to encode a transaction offline？
+What is the BigMap container and why does it matter?
+Is tezos-node single or multi-threaded?
+How to run unit tests?
+What is the circulating supply?
+How to generate a fake but valid protocol hash?
+Running a Baking Node on Azure - any considerations?
+Is there a Tezos equivalent of ERC?
+What are nonce-revelations?
+Wallet using the secure enclave of the iPhone
+How to solve Permission denied error on Mac when setting up a Tezos node and running alphanet.sh
+Is a 51% attack possible in Tezos?
+Language features needed for Marigold
+"Unhandled error: Failure backtracked" while trying to creating a contract
+tzscan.io Balance on web site differs from their API calls
+Is it recommended to be 100% delegated for a baker?
+How to receive payments with Velos?
+Tezos in BigQuery: blockchain analytics on public data
+How to check if remote-signer is working as expected?
+Node on Windows?
+Basic Syntax for iterating through List Element and processing each of them
+Proposal Period Voting style
+Who bakes and endorses the blocks for the testnet during proposal?
+Why is my faucet wallet on Alphanet not recognized?
+Implementation details for PACK and UNPACK
+How to upgrade a smart contract?
+Why does a transaction contain a storage dump?
+Error while signing transaction from remote-signer after updating mainnet.sh script
+Issues resetting the ledger HWM
+How to derive the tezos public key from the points on the curve (SECP256K1 or P-256)
+What is gas on the Tezos network?
+Testnet Fork during Testing Period (Cycles 17-24)
+Is it possible to 'destroy' a wallet?
+How counter grows
+Can I quickly see all "priority" baking-rights for a cycle?
+Is it possible to have a transaction operation in any operation's "contents"?
+When does roll counts update for voting?
+RPC query for amendment status
+How to manage rewards for small delegators?
+Error: Tezos_stdlib__Lwt_pipe.Closed for "ideal front node configuration"
+Any current bakechain voting solution?
+Smart contract for bakers
+Is it possible to run alphanet and zeronet nodes from the same server that is running a mainnet node?
+What incentive is there for baking on the test chain during voting period?
+My private node is not connecting to the peer mentioned in the start command
+Node synchronization
+Activating a Alphanet Faucet Wallet Remotely (without tezos-client)
+Sotez Forge Method Returns "Type Error: Expected String"
+Inject Signed Operation Fails With Unrevealed_Key Error
+Where is the protocol change proposal injected?
+how to transaction from a KT1 address to another KT1 address?
+Trying to understand fitness in the Tezos model
+Transaction Failing With: proto.003-PsddFKi3.storage_exhausted.operation
+Why won't tezos-client find my Ledger Nano S?
+Exact procedure to update the tezos-client to enable voting
+tezos-node on a server with multiple NICs, each with a public IP
+ppx_traverse_builtins failed
+Manually (without a node) construct protocol hash from a folder
+Can I transfer a delegated KTZ account from one TZ1 account to another?
+Docker Containers Restarting (132), Illegal instruction (core dumped)
+Is it possible to run a baker in AWS and secure your keys with AWS CloudHSM
+Run Alphanet and Mainnet on the same VPS
+How to use RPC to judge whether a PKH is revealed?
+Extremely slow node sync on alphanet
+Time for bootstrapping a node in alphanet
+Private Node keeps disconnecting from public node
+Make compilation error
+What are the recommended requirements for running a node
+Missed my endorsement
+Can someone provide list of trusted foundation nodes?
+3 public nodes, 1 private. Upcoming testing chain
+Ballot RPC message
+Node stops with 'Cannot open /dev/urandom' error
+How does NOW work?
+What is the complexity ratio of Tezos Proof of Stake algorithm compared to the Proof of Work algorithm of Bitcoin?
+Energy used to run Tezos
+Contract Factories
+Contract accepting an ANY type
+Local operations vs remote operation
+I've got 'export TEZOS_CLIENT_UNSAFE_DISABLE_DISCLAIMER=Y' in my bash profile, why does my tezos disclaimer still show?
+ReasonML pattern matching error on tuples
+is it possible for tezos-node RPC to authenticate clients with SSL?
+Tuples index access via contract's input params
+Michelson P2P message encoding
+How to set up auto transfer of baking and endorsement rewards to respective delegation accounts?
+Can I add metadata to a transfer operation?
+Why is an active Abstention/Pass Vote needed?
+Recurring "No Ledger found" error by endorser
+When setting up a contract, what do the fields mean?
+How do I get a list of the transactions of an address using TzScan API v3?
+Were bakers supposed to receive any rewards for voting?
+Address, Key, and Key Hash
+Newbie user is confused
+Undelegating on Galleon wallet
+Missing blocks for no reason?
+How do I vote for a proposal?
+What is the adequate fee for a reveal operation?
+PRESERVED_CYCLES in Alphanet
+Block Structure
+How is the liquidity token.liq working
+How to check the vote of my delegate?
+Error: "inconsistent hash". Workers crash and node is unable to connect to others
+Lost deposit from denounciation
+How to create a wallet in Ledger Nano S?
+How can I remove the double timestamps in journald logs for tezos?
+Why run a node in Tezos?
+Galleon not showing delegation addresses
+What is the current size of the blockchain?
+Error: Unix error in write: Socket is not connected
+How do I rename address alias in Tezos?
+Node re-connection problems
+How do I move Tezos blockchain data to a separate partition?
+Ignore block : forged too far the past
+How to vote in the exploration period?
+Nano Ledger and baking
+How can I migrate my Tezos baking address to Ledger Nano?
+What are checkpoints?
+Where can I find the genesis file for mainnet?
+My tezos are baking. Now what?
+How to find a baker's balance available for bond at the beginning of old cycles?
+Building node from source - Library “tls” not found
+What exactly will happen if I vote "yay" for the testing phase?
+How to become a baker - what are all the technical/financial requirements?
+What cloud VPSes do you run your tezos nodes on and is alphanet taking forever to sync for you also?
+Has anyone solved the issue of alphanet crashing once it syncs and consistently showing 0 peers?
+Error: cannot_parse_bock_header
+"estimated_time" on baking right is not constant
+Error on activate account alphanet on docker
+Deploying a simple contract using liquidity
+WSL (Windows Subsystem for Linux) Ubuntu 18.04 LTS compile Tezos Node
+Using Ledger Nano S to bake/endorse. Guide?
+Block Withholding Attacks
+Can't send my tezos around because of a "transaction failed" error
+I got an error after updating node using command line
+How to initialize storage using tezos-client
+What happens if operation with multiple transactions fail?
+Signed bytes and encodedSignature explanation?
+Has anyone configured Galleon or TezBox with a local node?
+How do I get a list of all delegators of an address using TzScan API v3?
+Using Ledger with node to bake
+My Baker’s Public Key has changed - baking on my node
+How do these accounts differ from each other? tz1 vs tz2 vs tz3
+Issues with the Tezos Node CPR script to restart the node after failure
+Missing Blocks for Months now - No endorsements present in mempool
+What are the new rules for when a KT1 gets destroyed? Or when "--burn-cap" must be used to send funds to a tz1/tz2/tz3 account?
+Unlock tezbox only with Ledger Nano S
+Single ledger to support multiple bakers?
+Why did my baker lose a block?
+Forgot password issue
+API Access HTML/Javascript problem
+How exactly to calculate your next time slot for baking?
+How long does it take to sync the entire chain?
+Issue with API Request Cycle
+Get valid keys/address with ed25519
+Priority 5 block baked. How to analyse what happened here?
+Error on activating account on docker -alphanet
+Tezos as an employer
+Activating an account on alphanet using public node
+Running a Baker from Shadow Tech
+Only 60% of the rewards made by a baker are distributed to its delegators?
+Migrating from Source build to Docker
+Why is registering ledger with the root key not recommended?
+Gas consumption in a chain of internal transfers
+Can I have multiple tz addresses for an unique baking node?
+Are bakers not paying promised rewards?
+How to fix tezos-admin-client p2p stat returning error "CalendarLib.Date.Out_of_bounds"?
+Can I use an RPC to switch the Tezos node to another protocol?
+Error voting in Tezos
+Hwo do I get list of operations using RPC api?
+Is delegating insecure?
+How to guarantee uptime for baking node?
+Password retrieve wallet problem
+How does accusing work? What kind of anonymous operation is sent to the network?
+Cold Storage Delegators
+Timestamp in blockheader
+How to use both linked ledger and fundraiser wallet with tezbox?
+Burn fee for empty account
+Liquidity - Unhandled exception (Invalid_argument List.fold_left2)
+method for calling to entry point of contract instance (?) created by contract.create
+How to disable private_mode with config update?
+transaction rejected by the mempool pre filter
+smart contract for automatic baking/endorsement rewards to delegators
+Which Linux system for Tezos?
+Can I send transactions from tz1 to KT1 and viceversa?
+Can I change my vote during the exploration period?
+Constantly adding/dropping connections
+Amending the P2P Layer
+"Operation is outdated and may never be included in the chain"
+Tezos-client can't import TCP signer
+does using a remote-signer or a ledger really improve security?
+Creating public key hash
+Run two nodes with same identity or migrate identity to a new node
+Unable to build Tezos from source - alphanet
+Michelson_v1_printer.unparse error with originate contract
+What are all of the operation types supported in Tezos?
+Error in Alphanet: "MDB_CORRUPTED: Located page was wrong type"
+where to find trustworthy peer nodes
+Looking for a payout script or software
+What steps should be taken to safely upgrade a baker after a new protocol update
+Error compiling tezos main net
+Tools available : contract deployment / calling - Alphanet / mainnet
+Baker "Did not find service" Error
+Strange behaviour running a node on Google Cloud
+Can I know when a wallet was created?
+Can /context/constants change apart from a protocol change?
+Wallet JSON file - field "secret" purpose
+Error compiling tezos main net hidapi
+Would Tezos benefit from parallelisation?
+problem with tezos-reward-distributor: Public key of Manager (tz1XXX) is not revealed
+Tendermint vs Grandpa & Babe
+Unable to deploy a Liquidity smart contract directly (without offline signature / forged operation)
+Error while baking
+Voting - Does balance need to mature 7 cycles?
+the tezos protocol and the problem of over-delegation
+Node gives strange error
+Error when doing make build-deps for alphanet
+Does the return on baking depend on the size of the staking pool?
+How can I connect public and private node through a reverse SSH tunnel?
+Michelson contract files - spaces, new lines and comments
+Import private key
+How does the 003-node binary download/compile/merge proposal code?
+Contract : opcodes FAILWITH / FAIL - gas usage
+Error Signing Operation to make New Origination Account with Ledger (Error: TransportStatusError: Ledger device: UNKNOWN_ERROR (0x917e))
+Node gives testnet error
+Do minimum funds for baking include delegated funds?
+Can not move xtz from K1 back to T1 address using Model T Trezor simplestacking wallet
+Why my balance decrease while baking?
+Clearing existing Tezbox Ledger Nano s
+Tezos CLI, Ledger Nano, Tezbox and HD Wallet: problem accessing my xtz
+Testnet participation rate?
+No baking right
+Unable to start mainnet node docker container
+How key_hash can be coerced to address, or vice versa?
+Tzscan API not responsive
+Not able to run Baker and Endorser using docker image after docker image upgrade
+Sending Tez without revealing my balance
+How to recover from "No space left on device" error?
+Double baking / endorsing is possible while using a single node?
+fixing a ledger/tezbox device error problem
+Error while initializing storage in contract deployment cmd using tezos-client command line interface option
+Private Node disconnects from public node
+How can I set trusted peers by identity in the tezos-node config file?
+Liquidity "Syntax error", ok, but what/where?
+How can I make my private node connect to my public node at start-up?
+Tezos main net node: Hardware specs
+Installed Kiln on Debian Linux with sudo gdebi kiln_0.5.1_amd64.deb , but the UI won't open in the browser. What can I do?
+Endorser did not see new block; Node did not switch head?
+Bus Error 10 - Node Won't Start
+`tezos-client bootstrapped`: why it quits too early, really without waiting bootstrapping to the network?
+Will there be a way to make snapshots from blockchains downloaded and maintained by nodes V0.0.1?
+Forging operations - what is the purpose of this?
+Alphanet protocol synced with mainnet
+Contract - purpose of returned internal operations?
+Baking rewards as operations
+Ask about blocks baking
+Errors running a TZScan instance
+How to forecast as a baker your next upcoming time slot by using baking rights RPC?
+How do you restore a ledger wallet to a software wallet?
+Are there any wallets that can call contracts?
+Is there a TzScan API to find the total number of delegated Tezos?
+Contracts - is events / logging going to be added?
+unknown address transaction
+v0.5.1 Kiln unable to initialize node Level Error
+what is the reason for "wrong predecessor" when endorsing
+getting off chain data on chain to smart contracts
+Trying to run alphanet, getting error when make build-deps
+Can I bake on the same node with two different addresses?
+Where can we find FILE.full publicly for bootstrapping from a snapshot?
+Is there a TzScan API to find the number of Tezos Node?
+Could the tezos node down for 5 minutes affects baking rights?
+How can I test the Ledger signer without signing a block or endorsement?
+How do I get my delegatees' addresses and delegated funds for a specific cycle from the Tezos RPC?
+API Ballots not working
+Two nodes on same machine, one always lags
+Node won't start after importing chain history
+How to initialise a contract with storage (contract unit)
+How to get XTZ on zeronet to complete a roll?
+Please clarify. Who precisely is able to vote on protocol changes?
+What's the easiest way for an account holder to verify/sign that they are the rightful owner of an account?
+Transaction failed
+How can delegators find out the voting intentions of Bakers?
+Unable to get consistent tz2 (secp256pk1) signature
+How to get smart-contract storage data?
+Updating a existing contract with new code and storage
+How to vote during promotion phase
+Missing more blocks than normal (Fitness/Mempool issue)
+How to use rpc parse operations endpoint
+Moving chain data to a new hard drive
+How to calculate a random seed?
+How to implement a signature checker for the signature scheme BLS?
+How can the baker and accuser logging level be reduced?
+Constant storage size in the rolling history mode?
+Delegate address cannot send transaction
+How is the hash code of blocks generated?
+error when bootstrapped
+Cannot SEND XTZ from Galleon
+API documentation for tezos.org.sg?
+Running Tezos node with rolling mode but sync started at the beginning
+Calculating the total locked XTZ?
+Do Tezos support multisignature transaction?
+If the Athens proposal passes will I need to upgrade?
+Configure proxy for node connection
+How can I use TLS RPC endpoint and tezos-admin-client at the same time?
+which rpc endpoint is used to find the roll snapshot which was used for determining baking/endorsing rights at a certain cycle?
+Operations created by a smart contract call chain go in the same block?
+When contract simulation may fail to predict the contract's behavior?
+Checkpoint and TAPOS : implemented in Tezos?
+Why Operations have extra money transaction that are not included in balance calculation?
+Ledger Nano X not recognised in Tezos client
+Running an alphanet node
+Is the decimals can be change when protocol updating?
+Confusing about the Mathematical representation in white paper
+Is double voting possible?
+How to concatenate a string and tez in Liquidity?
+How should I prepare as a baker, for Athens A protocol activation?
+Tokens on Tezos
+Rebuilding node from scratch
+Tezbox Web Wallet to Tezbox Windows Wallet App
+Do I need to save the identity,peers,config.json when updating Tezos node?
+Solo-baking question: Does having 33,000 (eq to 3 rolls) earn more than having 31,000 (eq to 3 rolls)?
+Import Snapshot Failure
+Rebuilding Node and Syncing with snapshot
+config.json missing
+after upgrade, proto003 baker/endorser error: "Can't fetch the current event..."
+kiln v0.5.2 LevelWarn internalnode LOCK HELD error
+Proto004 - no output at all for the new proto004 baker and endorser
+The new history mode "full" - how far back can you go to retrieve balances?
+Tezos version running
+Where is the reward operation for athens?
+Tezbox and Ledger Problem
+tezos-baker-004 no usual output
+How long should exporting a snapshot take?
+Can't send my XTZ from any wallet
+What flavor of zksnark in tezos
+How big is the chain data on a new node?
+Problem with Cortez wallet
+What does a good P2P configuration look like for a public node?
+implicit.empty_implicit_contract error is thrown while creating originated account
+efficiency of my node for my website?
+Tezos error messages - branch refused etc
+How to split a string in Liquidity?
+Checking contract against contract type in Liquidity
+One Single Place to See Cumulative Rewards
+What types of things is Tezos doing to improve scalability?
+License Dependency Report
+How to deploy a contract in Mainnnet (not Alfanet!) Tezos? I have a contract code for Fi, a working node on the Digital Ocean. What should I do next?
+Switching users on a Mac makes ledger unreadable from tezos client
+Can I withdraw funds from an empty smart contract?
+Error 57 when installing Liquidity
+Baking Guide Questions
+Proposal merge code conflict
+Problem with Liquidity installation
+TezBox won't let me create a KT1 account for delegating
+client command to list contracts results in stack overflow
+Deployment of a smart contract through fi compiler
+Error while initializing storage in contract deployment
+How do I export a snapshot using docker?
+How do I get a list of all delegators a baker has, using only node local endpoints?
+How do I import a snapshot using docker?
+problem with running tzscan: Camlp4: Uncaught exception: DynLoader.Error
+"Missing protocol 'ProtoGenesis' for the current block" when I lanch a node
+How to get the tz1 address without manually entering the password
+Error w/ injecting endorsements w/ ledger on zeronet
+How are KT1 accounts originated?
+Operation bytes parsing
+Unexpected error (validator) during bootstrapping
+API codes from my Tezos node
+How to extract the storage of a smart contract?
+How to run a sandboxed Tezos node in a Docker container?
+Why did the transaction fail?
+How to query a transaction via the rpc interface
+How can I configure my baker to accept 0-fee transactions?
+typecheck a script without network connection?
+Transferring XTZ with only a private key
+How do I get access to my tezos coins
+Automated Payment script
+Smart contract transaction of 0 XTZ throwing error from TezBox
+'alphanet.sh head' returns old block
+Available snapshots for main net?
+Why is my account reduced by 0.257 tz?
+How can i modify the balance of account on Tezos?
+Snapshot for alphanet
+Adding peers on a live private node
+Tezos alphanet branch 'bake for' command is not available
+No block to bake - Number of Rolls differs too
+How can internal transactions be fetched?
+Can someone provide a link to a tutorial on how to do a basic smart contract on the Tezos protocol?
+API calls to get statistics about the address delegated to a staking pool
+What is the difference between `balance`, `frozen_balance`, `staking_balance` and `delegated_balance`
+Galleon Wallet Issue: sent transaction locked in pending
+Ledger Nano S Public Key Hash Changed
+how can i send operation throught eztz to a contract specific entry point?
+Getting errors related to the smart contract after running eztz.contract.send()
+Why cant i call the contract entry point with type parameter througth eztz.contract.send
+Adding New Account
+Tezos RPC doesn't respond with blocks below the current checkpoint
+Can someone give me a noob guide to get eztz up and running on my ubuntu system? I'm getting the following error
+Error too big to serialize within the provided gas bounds. Increasing the gas bounds does not help
+Why does the Tezos node use only one CPU core?
+Error when sending transaction to get my Ledger Nano with Galleon
+Why are the tz and KT addresses using different letter cases?
+Tried to cancel a transfer, now counter is off
+Baking Tezos with Kiln: deviating BC source path
+Cleanup of node data (to fix 'Bus error: 10' error)
+'Tezos' wallet addresses generation
+How do I get the contents of a big_map through the RPC interface?
+How to calculate the txHash?
+Broadcast tx success, but the tx not confirmed
+Error with make when switch from Zeronet to Alphanet (tezos-node)
+How was the number of 32 endorsements arrived at?
+Why is my delegation+origination appearing in red?
+Address prefixes
+How to get balance from alphanet via tzscan api?
+How to Generate Address in tezos via api?
+Can i create HD wallets?
+How to Transfer Tezos via API or node rpc?
+Help with building a tezos-client from sources (from scratch)
+Kiln Version 0.5.3 Voting Problem
+Transfer Transaction Failed
+How to sign transaction from tz2 address?
+Ledger Nano not signing
+Downsides to running multiple endorsers?
+config.json how to define the network?
+Current level of block-chain
+Multiple txs and counter already used error
+What happens if I loose the nonce?
+Tezos Origination operation - How to do it correctly from programming?
+When import snapshot data :internal error, uncaught exception: Out of memory
+How to delegate programmatically?
+Alphanet problem - activating account with faucet
+Why are some blocks not finding operations?
+Baker miss block
+How to get hash of operation without injecting in chain
+Very slow syncronization
+Ledger with remote signer - health check
+Cant Install Liquidity on Mac
+How can I derive a public key from a known private key?
+TezBox transaction with parameter not going through
+What's RPC api to get unconfirmed balance?
+tzscan.io api return wrong
+Updated Docker images and bootstrapping
+What does it mean when there are rewards with negative values in the block's balance_updates?
+Move baker to new physical server
+Archive Node Syncing: Block Level and Block Hash Do Not Match
+How can I point Tezbox to my own node?
+I/O error while sync
+Public "Snapshots" for history mode nodes
+Maximum supply in tezos
+Issue w/ TezosJ_SDK wallet
+Missed endorsement - unregistred error
+How to use Emacs michelson-mode with Tezos sandboxed client?
+What does "Last Assigned Baking" alert on TzScan.io explorer mean?
+How do I assign counter?
+Is it safe to use branch mainnet-pack-validator?
+Is it possible to discover a private node from its trusted public node list of peers?
+How to set "#bytes in next field" field?
+kiln client / only use a ledger with the 8,25% bound on it
+Sometimes returning errors when looking for block transactions
+Branch mainnet-pack-validator gives error "tezos-node: Error: Not_found"
+alphanet.sh client list rejected blocks returns Unrecognized Command
+Auto restart in case of failure with Kiln and 18.04

@@ -1,0 +1,1978 @@
+Which method is implemented by Excel's YEARFRAC for ACT/ACT?
+Automatic fixing of missing floating rate in QuantLib's addFixing()
+Calculating the error of a Trinomial Model
+FIX- what exactly do repeating groups represent?
+Implied term structure from risky discount curve: does it make sense?
+In Mean-Variance Analysis, why not the efficient frontier being pushed to the left near the axis?
+Is there a contradiciton between option prices being martingales and the use of options for speculation?
+Differential equation for log-returns
+Setting up Schedule for an amortizing floater in QuantLib
+Market Standard Pricing Models for Fixed Income Securities (Vanilla)
+Delta in Covered Calls?
+Calculating spot level using tick data
+Trader's identity in a limit book
+Why is the Put-Call Symmetry model dependent?
+What is the correct Stutzer index and Sharpe ratio relation, assuming a normal returns distribution?
+How to simulate stock prices with stochastic time change subordinated arithmetic Brownian Motion?
+Survey of market making strategies and research
+Pricing options and bid-ask spread
+Fundamental reasons for the stock price change
+Can Beneish's model for detecting earnings manipulation be applied to companies in the UK?
+Calculate Average Price, Cost, (Un)Realized P&L of a position based on executed trades
+Basic question about bonds pricing
+Stat Arb Equity Pair Position Trigger
+Binomial lattice convergence
+FIX binary decoder
+Why are there still manual market makers in options
+Control variate for Heston model
+Adjusted option prices?
+Asynchronous Data Across Time Zones - RiskMetrics
+What Forex Services support the ForexConnect API?
+Forecasting Equity returns using state-space models
+Additive portfolio risk decomposition
+How to derive zero-coupon rates from IRS?
+Examples of Spectral Risk Measures
+Extreme Value Theory possible for portfolios with options?
+Concave volatility smile
+Can option prices be characterised by an ODE?
+Practical Usage of Wavelets with Real Time Data
+How does the 2-factor Hull White model propagate the forward rates curve?
+adjusted close prices on SP500
+interest rate in cost of carry
+Question about the rationale of applying certain recovery rate by ISDA
+Pricing Fixed-To-Floater bond in QuantLib
+backtesting with open, close, high and low
+Does it make sense to apply complicated mathematics to calculate with precision when the margin of error is +/-10%?
+Integration of stochastic total derivative
+how to extract moments of GB from moment generating function?
+Applications of distance correlation
+Can you hedge a derivative with a CASH|spot product or does it have to be another derivative instrument
+Is it better to hedge or reduce the position size?
+Why use leverage when it does not improve the risk/reward ratio?
+Question about Merton model to estimate default probability and recovery rate of the company
+Obtaining the default probability and recovery rate for each credit rating?
+Effective anti-gaming controls in dark pools
+Is "Issuer and Holder with same strike" meaningless?
+Breakeven of a delta-hedged option
+Physical Option Implied Distribuition
+Yield curve fitting example in Wilmott on Quant Finance p.528
+VaR for FX forwards
+Quadratic utility function
+Question on yield curve fitting from Wilmott on Quant Finance p.529
+How to apply Ljung Box Test?
+What's wrong with this asset growth simulation?
+Plain vanilla risk parity with trends forecasting power
+Volatility Scaling
+Time Series or Regression
+What good papers of short term (<30 seconds) volatility estimation
+Bond duration as estimation to holding return
+What is the best alternative of Quantlib library
+When does the Epps effect start?
+Price functions based on order book events
+Correlated Wiener processes of different factors
+SDE simulation: P or Q?
+What is most reasonable approach to determine side of a multi-leg options order?
+Is there a Bloomberg field for a bonds (upcoming) coupon dates?
+Is Vasicek risk neutral?
+ADF test in R yielding perfect cointegration. How is this possible?
+GARCH(1,1) prediction in R - Basic Questions
+How to normalize stock data
+From $AR(p)$ to SDE
+VIX Calculations/Which product?
+Why is the VIX computed that way?
+Do two stocks with the same beta have a correlation of 1?
+Fama-French 3-factor model: factors implying risk
+IB API quotes and speed
+How do Order Management/Matching Systems match/allocate orders (and filled prices)?
+Semi-strong efficiency and HFT
+Valuation of Mortgage Backed floating notes
+European Swaptions: does implied volatility of swap rates decreases both with start and tenor?
+Deriving the par-yield curve
+Fixed Income free research available online
+stock option strategies long vs short
+What is the market impact of OTC trading ETFs?
+From Fourier Transforms to Option Values
+evaluation of volatility models using loss functions
+How to plot custom hourly data into R with quantmod?
+What are the CMG-relevant banks according to Basel III?
+Risk Neutral Probability
+How could HFT help increase liquidity?
+Comparing Backtests of Value-at-Risk and Expected Shortfall
+Market making: buy on bid/sell on ask
+What is a resting limit order?
+Greeks of self-financing portfolio
+C# Broker API for FX Trading
+put-call parity equation
+How to think about dollar volume in Eurodollar futures?
+How to Analyze Interbank Lending Market?
+Calculating Greeks in Covered Calls?
+How to compare volatility models?
+FIX/FAST packet analyzer
+Determine state price vectors?
+Credit Rating vs Bond Yield
+compute sharpe ratio for options?
+Machine Learning vs Regression and/or Why still use the latter?
+Difference between Ibovespa full and mini futures contract
+Relationship in Order Book between S&P500 and S&P500 Futures Contracts
+tail correlation during crisis
+IMM rolls: Are there special business day conventions?
+How to construct the binomial model for European option?
+Rate of Return Required on Buying Stocks with Loan
+Intuitive explanation of the Hansen-Jagannathan bound
+pairs trading or long short strategy given volatility of the stocks
+Implementing Orders with Interval Estimates
+Black-Scholes: Why the focus on volatility?
+For pricing, what types of Exotic Options are suitable using Local Volatility Model or a Stochastic Volatility Model?
+Algorithm to fit AR(1)/GARCH(1,1) model of log-returns
+Risk-free investment strategy for european call and put option
+Why does graphic of log first difference of renminbi look similar to hkd?
+Trouble arriving at Black-Scholes Formula
+How to properly take averages to reduce data in regression/panel data analysis
+How to value VIX Option?
+Is the risk-reward ratio considered in Quantitative Finance?
+Risks of issuing an Autocallable Note
+What is the stochastic differential of a general semimartingale?
+Quantitative finance mentality for success
+Consensus on Cauchy distribution for stock prices
+What happens at market open when there is a reverse spread during preopen?
+How to compute the Radon-Nikodym derivative?
+LSM American Option pricing with dividends
+How to sum interest rate curves in QuantLib
+pairs trading detrend the spread
+Bond Convexity Treasuries Futures
+Mitigating gateway delay
+R or Matlab code for Multi-Barrier-Options (3 or more underlyings)
+How to calculate implied vol for next trading day?
+interpreting huge jumps
+the law of comparative advantage and exchange rate
+converting US tickers into Reuters RIC
+Parameters for numerically fitting t-distribution to log-returns
+Dirty price of US T bill
+moody's credit ratings for senior unsecured bonds
+Risk and Reward in practice
+Interpretation of cross-correlation matrix when one sample distribution is not normal
+what's the difference between Peak-Load pricing and price discrimination?
+Analysing FX Data
+How to synthesize a futures spread option?
+Dividend Index Futures
+How to explain the path dependency in binomial tree model to price options?
+Understanding the concept of Martingale pricing
+Portfolio risk decreased by increasing share of riskiest asset?
+Cross validation of a garch model
+I want to optimize an equity portfolio for the four central moments can anyone help me with the problem formulation
+Binary options and European option is similar?
+How to convert trasaction log to bid-ask ticks
+Library for interactive financial charts
+What are common methods for modeling intraday trading volume?
+How do I calculate Sharpe ratio from P&L?
+Question about weighted midpoint formula
+Why does the SMA and EMA appear to be relative to the timeframe?
+Finding Probabilities Using The Binomial Model
+Closed form european option prices for a variance gamma process with a randomly distributed drift, volatility, and variance rate
+Why do stocks with a negative beta return less than the risk free rate?
+Proving the asymptotic distribution of Manipulation-Proof Performance Measure (MPPM) (Paper by Goetzmann et al.)
+Extrapolating implied volatilities to small time
+Can I trade the volume of a security or index?
+Components of an index in a specific date
+Accrued Interest in Monte Carlo simulation for CVA/DVA computation
+Optimal Choice of exceeding time
+Is price gaping the major risk that market maker has?
+Optimizing stochastic functions numerically
+Why is the discount function non increasing if pure cash holdings are feasible?
+Potential pitfalls in the use of correlation
+Get discount factors with limited knowledge?
+A basic question about market jargon
+Deep bid ask orders
+download intra day data
+Probability of a return from historical average and standard deviation
+HFT enhancements for FIX (Simple Binary Encoding) vs proprietary protocols performance and cost
+Estimating risk aversion (power or exponential utility) from options prices
+Shortcomings of generalized Brownian motion for asset price modelling
+Black 76 for Options on Interest Rate Futures
+How to choose a risk-neutral measure when the market is incomplete?
+What is the right group of durations?
+How accurately can the LIBOR market model price a floating note
+Basics about the scaling property of volatility
+Pricing credit risky bonds
+constructing best bid/ask from NASDAQ TotalView-ITCH data
+Formula for the efficient portfolios (mean-variance optimisation)?
+Itô diffusion processes in finance with unknown distribution at a terminal value
+Maximum Likelihood using a Kalman filter for two factor model
+Distinguish between market makers and other participants?
+OF-B1 report - cell A1
+Which measure to determine Risk?
+open-source implementation of orderbook from FAST?
+Does Matlab support exogenous variables in GARCH models?
+How to manage evaluation date changes in QuantLib while using ImpliedTermStructure Class
+Quotes and Transactions Streams from Exchange
+Problems to understand a stochastic DGL equality
+How to use a realized kernel?
+Given monthly returns of 10-Year Govt Bond, how to get monthly risk free rate of return
+What does it mean by "labor taxes cut is self-financed"?
+Forcing price to rise or fall by high volume buying and shorting
+Min VaR and Min TE as second order cone program
+Estimate of fx trading volume
+How to treat large (5K-10K) non-positive-definite (particularly near-singular) covariance matrices for Cholesky decomposition?
+Solvency II Assets-D1 - aggregation of line items by CIC code
+Securitization of a loan portfolio
+When did volatilities start to smile in capital markets?
+Single Most Important Fact about a Fund - Interview Question
+Choosing a weak learner
+decoding this formula about nominal and real return
+Market Discrepancy in ETFs
+Calculate price of index from underlyings (weightings included)?
+Evaluation volatility with Garch model
+Examples of non-increasing variance of a time homogeneous Markovian process
+Optimal trading strategy in toy world of simple Hidden Markov model with Gaussians
+Market overview trading platforms (with OTC)
+Fitting Student t-distributions to log-returns
+what is General IB2 Restriction in Basel II credit risk model
+Portfolios from Sorts
+What are the math topics involved in FRM 1
+How is the default probability implied from market implied CDS spreads for CVA/DVA calculation?
+default probability
+Recreate Positions after downtime. Suggestions requested
+Finite difference methods
+Arbitrage with freshly issued bonds
+Time series (stochastic process) estimating parameters using characteristic function
+How do Trade-At-Settlement orders work?
+VIX intraday data
+What does "primary calendar" mean?
+What is Quantitative Investing and how does it differ from Quantitative Trading?
+Optimization: Factor model versus asset-by-asset model
+How to use Merton model to calculate default probability with monthly stock prices?
+Bloomberg interest rate interpolation
+EuroDollar vs FRA
+Scaling Intervals in Diffusion Process
+Open source equity/bond index data
+List of 2008 NACE Rev 2 codes
+Estimation of Empirical Expected Shortfall of a heavy tailed distribution
+ITM Puts under negatively skewed return distribution (volatility skew)
+How to prove price of Asian option under geometric averaging is cheaper than a European call?
+Yahoo Finance API
+unique equivalent martingale measure in incomplete markets
+selecting test data for neural networks
+Random Brownian Simulation Startling Results
+A Question from "Mathematical Methods for Financial Markets" Chapter 2
+Fixed Income Var calculation
+Drawbacks of Black-Scholes option pricing model
+Expected Shortfall (CVaR) Backtesting
+BS Implied Volatility under Normal returns
+mean reversion with Kalman Filter - Spread calculation
+Calculating and interpreting cumulative returns is R
+How can I calculate the margin requirements for a Bitcoin futures contract?
+How to compute $\mathbb{E} \left[ (W_s + W_t - 2W_0)^2 \right]$?
+How is holding an European call option equivalent to holding an asset-or-nothing call option and writing a cash-or-nothing call option?
+How to determine risk-free rate of Ecuador?
+How to estimate market integration parameter in Singer-Terhaar model for E(r)?
+What is the difference between these two equations for GBMs?
+Where to find historical stock news and other events?
+IB with R which package?
+How did we get $W_g=W_b$ from $\dfrac{U'(W_g)}{U'(W_b)}=1$?
+How to trade volatility?
+How To Regress Returns Vs Price as Pct of 52 week high?
+Calculate display and plot relative spread using Sierra Chart
+What are the general limitations of Gaussian copulas with regards to the range of joint pdf's it can approximate?
+how to choose top n assets?
+Does the time between prices created from a GBM affect the estimation of parameters of the GBM?
+ISDA: Interpreting a date specified as x business days prior to another date with a business day convention of 'NONE'
+Difference between S&P 500 index and S&P 500 Total Return index?
+Machine Learning on matlab 2010
+Compare fund managers with insignificant alphas?
+Weak convergence of Lookback payoff with correction term
+Are my estimates of parameters of geometric brownian motion correct?
+Best method for determining the market value of a stock before it is issued
+Arbirtage free price process question in Bjork's Arbitrage Theory in Continuous Time
+Error message in calculation Implied Volatility
+Stochastic volatility model with exponential OU volatility
+How to interpret beta meaningfully?
+Calculate the total returns from the total return index
+How is the redemption right on delisting of underlying shares held by holder in the convertible bond valued?
+How to become a registered market maker on an exchange
+How to reproject rates risk on a subset of tenors
+Lagged dependent variable, yes or no?
+Optimizing Principal Component factor weightings over time
+A doubt about Evans and Jovanovic (1989) economic model for entrepreneurs with credit constraints
+MonteCarlo simulation of stock prices using milstein scheme with dividend yield?
+Multifractal Model, Generating Sample Paths with Correlations between Assets
+Do you know any data source for historical VWAP data?
+What is the realized volatility's estimation error?
+Under an EMM, does there necessarily exist a replicating portfolio?
+Calculating deltas of call options?
+How can I calculate the Cumulant-Generating Function in Matlab?
+Penny jumping in the direction of the price
+FTAP in the model independent case, paper by Schachermayer
+Correlation between idiosyncratic residuals and forward returns
+Where can I find monthly/weekly historical data for gold and silver
+Book on market microstructure
+What R-packages for SOCP problems are there?
+Measuring historical earnings surprises, their frequency and severity
+Expected value of Black-Scholes
+Expected payoff and weighted average price
+Calculate Daily Returns for Sharpe Ratio
+Is there any open-source library, implementing "exchange" to be used for algorithms running on the same computer?
+Clarifying the way in counting number of weeks for calculating historical weekly volatility in Bloomberg
+What nonparametric methods exist for estimating intraday seasonalities?
+Inferring signals in absence of sign of principal components (PCA)?
+Rational expectation meaning
+How does a cross trade pose a problem to the retail investor
+Normality assumption in Sharpe ratio
+Is there a difference between crossing network and ECN
+Liquidity seeking algorithms open source implementation
+Inflation modelling
+How to eliminate border effects on Wavelet denoising?
+Why banks borrow from each other
+Pricing options under restricted domain
+Derivation of the Nelson-Siegel model and proof of arbitrage
+How to compute greeks using the adjoint Monte Carlo approach?
+SEC XBRL Context Dates
+a good book on option pricing from theoretical and practical aspect
+Is Cubic spline Interpolation on swaption Volatility arbitrage free?
+Co-integration constraints of coint(X,Z) given coint(X,Y) and coint(Y,Z)?
+How to interpret CME's specification regarding grains options expirations?
+Disclosure of the liquidity provider identity in ITCH
+Price of a down-and-out call in terms of European call
+Lattice Boltzmann method for pricing options
+Step-by-Step PCA algorithm (checking correctness without math packages)
+Lookback option explicit formula using Black Scholes
+Explanation or implementation of Ledoit-Wolf estimator (without math packages)
+what is considered material information?
+How should we select efficiently orders parameters in time series modelling?
+Free database for storing intraday tick data and querying bar (candle) data on budget hardware
+Quasi Monte Carlo in Matlab
+What are DGTW adjusted returns?
+Where do these Orders come from and what do they mean?
+What's the meaning of the intercept in asset pricing model?
+Time-zero price of two specific contingent claims
+First Exit Time Based Volatility
+How to remove outliers in financial times series?
+Downside deviation
+Calculating the Sum of Squared Deviations between two Normalized Price Series
+How are the Hamilton–Jacobi–Bellman equations used to solve optimal control problems?
+What are the econometric assumptions in the Fama-Macbeth procedure (1973)?
+Which day count conventions are there and where do they apply?
+Recalibrating SABR parameters for Swaption ATM volatility
+How can I determine U.S. market capitalization percent using WFE data?
+Where do i find the trade execution priority rules for special order types on continous auction markets
+Understanding the VaR example on wikipedia
+Background required for the book by Brigo and Mercurio
+Particular kind of market game
+Microstructure effects for a market maker?
+Are proof-of-work systems used by exchanges?
+Portfolio Optimization : Shrinkage of Covariance Matrix when data is available
+Need overlapping sample autocorrelation correction for calculating asset return correlations
+Why are some MBS's with coupons below the FRM rate priced at a premium?
+How will the European requirements for prudent valuation affect derivatives pricing?
+fair price for a call option
+How does Vega of a call/put behave under the Black-Scholes model?
+Position Sizing For Ratio Pairs Trade
+Calculating index arbitrage
+probablity expiring in the money ..basic question
+How to score a portfolio's diversity based on security returns?
+Interpolation on CDS rates
+Funding spread in FVA calculation
+Economic indicators leading the yield curve
+Estimate reasonable trade sizing based on daily volume
+what's the relationship between forecasted stock volatility and implied volatility?(option)
+Finding Credit Risk Population Data
+Value of American Call vs Value of European Call when using implicit finite differences
+Interest Rate Swaps on Mortgages
+T-Forward Price on risk-neutral measure
+Multivariate interpolation for estimating FDM in-between grid points
+Data feed for 10 year government bond yields
+How can foreign investment have a negative figure?
+Brokers offering low-cost / free accounts
+Papers and algorithms on bidding schemes for best order execution?
+Why does my posterior mean differs from Idzorek's results?
+Is it illegal for a publicly traded company to publish inaccurate financial data?
+Derivation of the Stochastic Vol PDE
+Volatility calculation for intra-day cash-or-nothing call binary option
+Is there any academic material regarding robust optimization with fixed transaction costs?
+Simulating the short rate in the Hull-White model
+Is the number of outstanding shares a stationary series?
+Stock Price Question
+Reasoning for Bloomberg's short rate volatilty calculation
+Estimate the market maker's price from the posted Bid/Ask and Trade price
+Lower bound of ITM Calls when computing Implied Volatility
+Is it possible to understand financial theory without mathematics?
+Change of order size
+Calibrating Hull-White using volatility data
+Is it wrong to use 'real world' probabilities for option valuation?
+Estimate the effect of a buy order on stock price
+Attributing the change in NII to Shift, Twist and Butterfly
+What is the most amount of money the consumer would be willing to pay to play take this gamble?
+How to replicate this option?
+Can we model components in a set of multivariate multi-period time-series data?
+The distribution of jump gaps for Levy processes
+I want to keep a column in getSymbols or get.hist.quote with the Date as as.Date format
+Interpolating spot rates given intermittent coupon-bond prices.
+Why are short expiries associated with more pronounced volatility skews?
+What information about the stochastic process is available from path-dependent options?
+Korean Bond futures market: is there a fundamental difference between 3yrs, 5yrs and 10yrs contracts?
+binary tree options pricing model with dividend value - How should I discount the option at?
+Model calibration to illiquid assets when pricing options with long maturities
+Which interest rate model for which product
+Basket Option weight sensitivity calculation
+How do I simulate stock prices for a 10 asset portfolio, over a period of 10 years in MATLAB?
+why is the BNS model the way it is
+Directional View of Volatility
+Finding the dynamics of a dividend paying asset under arbitrary numeraire
+how to back out levels from a forecast of differenced series
+Summary statistic for the average probability of default?
+How to rightfully balance the share of the organization between departments after variable changes?
+Risk management of options
+Practical equity options pricing
+where can i get data for foreign exchange order flow
+What are some of the best quantitative finance websites?
+Price an option and find a replicating portfolio
+How does buying back stock affect a company's credit spread?
+How are quants able to verify whether their calculated prices are any good
+what was the quant role in the 2008 crash?
+How to Calculate a Monte Calo VaR estimation error
+Pricing options with two assets
+Minimum Variance Hedge Ratio in Binomial Framework
+Derivation of variance of Zhou (1996) volatility estimator
+Does Bakshi, Kapadia and Madan (2003) VIX building approach underestimate volatility?
+Is there an intuitive explanation for the Feynman-Kac-Theorem?
+Moody's Sovereign Ratings: Clarification on Definitions and Symbols
+S&P's Sovereign Ratings: Clarification on Definitions and Symbols
+How do bond futures affect effective rate when used to hedge a bond's duration?
+Time-Varying Volatility and Conditional Likelihood
+What is shorting a asset that has negative price. Can anyone give me an example?
+Reading XBRL Data from the SEC FTP SITE
+Bloomberg Alternative for Quant Fund
+What is the arbitrage opportunity in Arrow-Debreu One Period market Model
+How come the existence of ARCH effect is not a violation of Random Walk Hypothesis 3?
+Triangular Arbitrage formula
+What's the link between EURIBOR3M futures volatility and rates volatility?
+What return equation is Engle referring to in his Nobel lecture?
+Sharpe Ratio, annualized monthly returns vs annual returns vs annual rolling returns?
+How to hedge a forward contract
+Plain Vanilla Interest Rate Swap
+Best practice approach for calculating the PE-ratio
+What is the necessary level of Econometrics-Know-How for a quant
+Effect of interest rate on options prices
+Algorithmical replication of a profit and loss function using different options
+The concept of an incomplete market
+Asset-or-nothing Option Valuation in the Black and Scholes model
+Forecasting amount of slippage in executing option spreads
+How to calculate modeled asset volatility by industry factor?
+Beta and the Assumption of IID Returns
+Pre-trade evaluation and risk assessment of option trading strategies (in market practice)
+Free and tested optimization, statistical and visualization packages for C#
+Sampling and/or asymptotic distribution of a function
+Fitting a sigmoid function to incomplete, structured, data
+Linear-Boundary Crossing Problem for Brownian Motion
+How to obtain specific information on FX trading systems?
+Can the duration of a bond be greater than Time to Maturity
+Markit PMI vs ISM PMI
+Practical implementation of Least Squares Monte Carlo (tweaks and pittfalls)
+An alternative to the Gaussian distribution to describe/fit market stock returns
+How to backtest the VaR model?
+Delta Neutral / Gamma Neutral Positions
+Zakamouline Optimal Hedging of Options with Transaction Costs
+3 Factor HJM model, do these factors have an economic meaning?
+What would be an alternative if the VaR model is not acceptable?
+regarding Basel III IRB method for credit risk
+Do intraday volume and volatility share the same properties?
+measuring the performance of round-trips on stocks
+Approaches to check/validate the output of an optimization algorithm
+What's the underlying idea of definition of constrained market in Skiadas' Asset Pricing Theory?
+Is Behavioral Finance relevant to quants?
+Attributing change in yield as a result of structural change
+Wiener process proof
+The Public Market Equivalent measure in private equity
+Who is the issuer and the counter part of this instrument?
+Implied state price density (Question 1 - derivation of the formula)
+Distribution of Geometric Brownian Motion
+What does "percent of change" mean?
+How are HFT systems implemented on FPGA nowadays?
+Tracking delistings on NASDAQ & NYSE
+Implied probability density (Question 2 - Applications and Interpretation)
+How to perform significance test on transition matrices
+What is the algorithm for the Fama-Bliss instrument selection?
+Looking for a pricing library supporting Mutli-curve Framework
+Is there evidence that illiquid stocks, held less by institutions, have more price momentum?
+Why does it "say" portfolio diversification not suitable during market turmoil?
+Standard way to represent trend in an a-dimensional way
+Call option on a Mutual Fund
+Optimal Executions for Minimizing Slippage
+Optimal lag length selection criterion in GARCH(p,q) model using MATLAB
+Volatility tools / web sites?
+Econometrics - Granger Causality
+Econometrics - Testing
+Critique against consumption-based asset pricing theory?
+Pricing a piece of asset whose dividend stream following a Markovian matrix
+Sharpe Ratio and time spent in loss
+Why was NASDAQ(or other index) not fluctuating in 70s and 80s?
+How do I determine what is a separate objective in a multi-objective portfolio optimization?
+Normally Distributed Returns Become Leptokurtic Due to Compounding
+Minimum PD under Basel II retail asset?
+Ex-Ante tracking error how to determine the look back period
+Pricing a bond with variable strike collar with QuantLibXL
+Algorithmic Trading Model Calculation and Stale Data
+Use of geometric mean for average return of several indices
+Places to make quant code/tools publicly avaliable
+Characterizing relation " has no less information than" between information systems represented by Markovian matrices
+What is a good index to track short term interest rates?
+Definition of Return of A Long/short Portfolio
+Risk neutral Esscher transform of exponential Levy processes
+Calculating the sensitivity of the modified bond duration to changes in the coupon rate
+Volatility swaps historical data
+Controlling portfolio concentration
+How can I show that $u=e^{\sigma\sqrt{\Delta t}}$ in the binomial option pricing model
+What are the equation that gives hurst exponent of value >0.7 and <0.3?
+What does it mean by autocorrelation coefficient near 1?
+How can dividend protection be considered in the binomial model in pricing the convertible bond?
+Discount rate, convertible debt and the effect of time
+Delta hedging frequency for plain vanilla European options under trading costs
+Price of Bond given credit state matrix
+Calculate volatility from call option price
+How do I calculate probability distribution of stock prices given option prices?
+QuantLibXL - Optionlet bootstrapping failure
+How to incorporate fundamental analysis in quantitative trading algorithm?
+Scaling of a transition matrix
+How is the MA (moving average model) useful?
+evaluating portfolio performance without knowing the amount held on cash accounts
+CAPM as pricing formula
+List of financial derivatives Ito's Lemma does not apply
+Mock/practice trading for options (delta/gamma hedging etc.)
+Backtesting Period
+Difference between VaR and credit VaR?
+Value Weighted Return
+Does one use the covariance or correlation matrix in cholesky decomposition to generate correlated samples
+Definition of orthogonality and independence for a stochastic processes
+Geometric Brownian motion - Volatility Interpretation (in the drift term)
+Direct exchange data via a Vendor
+Baye's rule for conditional expectations (Proof review)
+What type of interpolation should be used in key rate perturbation models?
+Backtesting with fundamentals
+Is the volatility of a trader's wealth equal to the volatility of the underlying assets traded?
+How often do banks update forward points?
+Effects of random-generator-choice on derivative's price
+Does risk-neutral measure have anything to deal with risk-neutrality in utility theory?
+What impact does arbitrage have on realised volatility estimates?
+Given future price probability distribution, what is a strategy that maximizes return?
+Credit Spread, Transition Matrix
+Are PX_BID and PX_ASK on Bloomberg closing bid/ask? or are they daily averaged?
+Why is that a risk averse consumer buys the optimum insurance when there is actuarially fair insurance?
+Where does this copula come from?
+Options with a stochastic strike
+On the interface between Quant finance and actuarial-science/insurance-math
+Understanding the derivation of a ML-estimator
+Does an implied volatility always exist for a binary option?
+Reference for Algorithmic Trading
+backward Kolmogorov equations - Markov properties
+SABR model inconsistent with Black Swaption Pricing
+Use of Girsanov's theorem in bond pricing
+How can I use PCA to determine spread ratios for multiple legs?
+Mean-variance portfolio & quadratic programming
+Numéraire -- couldn't understand the wiki explanation
+How to hedge a derivative that pays the reciprocal of the stock price?
+FTAP a-la Harrison, Kreps and Pliska
+What are the merits of pseudo random numbers over quasi random numbers in monte-carlo simulation?
+Incorporating a stochastic correlation structure into a multi-factor model
+Value at Risk from Delta of a single asset portfolio
+Overview of robust/regularized portfolio selection
+Pricing an american style option on a bond future
+Why use implied volatility
+what is the vol in the BS formula?
+PDE pricing of barrier options in BS
+Weighted average implied optionlet/swaptions volatility
+S&P500 components at specific date
+How to compare different volatility measures?
+Why systematic divergence between ^VIX and VXX?
+Efficient numerical approaches for pricing American Options with multiple sources of noise
+What quant-related functionalities is R lacking compared to commercial software like Mathematica and Matlab?
+Downloading Quotes in CSV format from Yahoo Finance - Beta symbol?
+When do trades actually execute on an exchange?
+How do i test the significance of Sharpe ratio of a strategy using bootstrap
+Margin % Bridge - Effect of Price, Cost, Volume
+Having trouble finding PPI for commodity using NAICS code
+Bloomberg ticks is difference from Reuter ticks?
+How to price this option without using BS framework
+Price volatility and yield volatility
+Trading spot volatility
+Graduating Quantitative Finance (please don't move it to meta immidiately)
+Simple pricing example confusion
+Different range price data on one chart
+Derivation of a ML estimator
+Simple question about expected value of brownian motion
+Divergent or Convergent Strategies? Which is the way to go?
+How do you calibrate a poisson arrival rate process?
+Black-Scholes derivation assumption contradiction
+How can the Wiener process be nowhere differentiable but still continuous?
+Integration in the context of modelling with the Meixner Process
+Are power contracts traded on any stock market?
+hedging with known volatility
+Calculate interest rate swap curve from Eurodollar futures price
+Avoiding negative spread in pairs trading
+Bond (yield curve) dynamics in the Forward-LIBOR-market-model
+Are there Python algorithmic trading libraries supporting forex?
+Harnessing small correlations for reliable profit
+Debt vs. Equity?
+Discounting based on instrument type
+quantiative risk measure how they are implemented in R and their use
+HJM simulation problem
+Delta of a standardized at-the-money 30-day put option
+What open source trading platform are available
+Convolution copula?
+Accessible HTF? (Slippage reduction)
+CVaR/VaR Ratio as alpha goes to 1
+Beta and Frequency of Data
+list of ADR's by volume or market cap
+Differenced Brownian Motion covariance
+Why is the LIBOR-market model free of arbitrage?
+Pricing of a simple contingent claim
+If we modify duration, should we modify bond price? Options Futures and Other Derivatives
+Why long power and short gas for Merchant power plant
+Sampling problem in portfolio optimization
+Budget Constraint in Sharpe Ratio Optimization
+Black Scholes diffusion well coded in Python
+Dv01 of Eurodollar futures contract
+American Swaption Pricing with Monte-Carlo method
+Bond Spread Drivers
+Usage of Brownian Bridge?
+Significance of Data
+Engle Granger test returns a 0 in matlab, while correlation factor is .80+. Am I doing something wrong?
+source for yahoo finance equities volume traded
+American Swaption Pricing with PDE discretization
+At-the-money Call Spread approximation
+How does logging effect Quickfix performance?
+Markov switching model estimation
+Portfolio optimization with Portfolio CVaR Constraint
+PWIQF excercise solution
+How would you correct a GARCH model to deal with non mean reverting volatility?
+Black Scholes vs Binomial Model
+Were can I find Historical Interest Rate Data?
+Risk neutral measure for jump processes
+FX Rate dynamics
+"Equivalent" data sets despite different numbers
+What are the good book to understand economics?
+Calculating instantaneous forward rate from zero-coupon yield curve
+GARCH(1,1) good fit found, how to predict one day volatility ahead?
+Effects of Fund manager reputation, track record, and skill on funds returns and capital flows
+How to calculate the expected value of a function of a standard brownian motion (Wiener process)
+Attribution of unusual persistence in noncompetitive TAQ quotes levels?
+When can a derivative be considered to be path dependant?
+GARCH model and prediction
+Estimating Beta from unevenly spaced price history
+What's the disadvantage of ARMA-GARCH model?
+Does GARCH derived variance explain the autocorrelation in a time series?
+Distribution of minimum of hazard functions
+How to price this option using the Black Scholes model?
+What is the distribution of Brownian Bridge over a given time interval?
+Quantitative method to select tactical bands for asset allocation
+What happened to Mountain View Analytics?
+Close price or adjclose price to calculate volatility?
+Hidden Markov Models methods for selecting optimal number of states
+Volatility arbitrage - how is the profit extracted?
+Ornstein versus AR(1) for modeling stationary data
+A question about pricing convertible bond with two different underlying assets
+FTSE AIM Components From 2000, 2001, ... 2013
+derive black scholes greeks
+Constant term in linear regresion
+Bond pricing with HJM simulation
+Is this an inconsistency between Swap and LIBOR?
+Stability of Equilibrium in 2 good exchange economy
+Will pricing a Bermudan option default to a value of a European option?
+How to price an option with a "step up" feature using binomial tree?
+What are the estimation methods for SV models?
+Adjusting for variance bias when using overlapping data
+Why do I have a statistically significant slope regressing R(t) on R(t-1)
+novice question on fixed coupon schedule in QuantLib
+What noun is used to describe whether an option is call or put?
+Stochastic Calculus in Quantitative analysis
+Google historical prices on Yahoo Finance before split?
+ex ante tracking error correlation between funds
+Why are options called what they are called?
+Can one use the Greeks (delta,gamma,theta) to show that the Black-Scholes call formula satisfies the Black-Scholes PDE?
+How can I calculate Value at Risk?
+What should I put on a math finance cheat sheet?
+What is the main reasons to use Miltersen & Schartz (1998) model for commodity futures options
+How to apply Elliott wave priciple to any Time Series?
+What features does q /KDB provide for HFT use?
+Pre- Versus post-2008 Crisis Rates Modeling
+Calculating the Hedge Ratio
+What is the hedging underlying of MBS
+Beta arbitrage in CAPM
+how market makers set the time factor to calculate option greeks on the expiration day?
+Capital Allocation for Portfolio of Multi-Strategy and Multi-Instrument
+Stochastic Volatility for Stocks, FTSE
+Partition assets into minimally correlated portfolios
+How to reason about leverage in terms of elasticity
+What equation will convert implied yield volatility to implied price volatility?
+How to price zero coupon bonds with the Monte Carlo method?
+Why are factor models so popular for risk analysis of portfolios?
+What are the assumptions of portfolio optimisation with higher moments?
+Calculating Variance Explained from PCA Loadings
+Where can i find tick data for futures contracts
+Empirical copula
+Looking for C# library that provides/contains performance analytics
+Non-negative matrix factorization for factor analysis of stocks
+What's the practical difference between the Johansen vs Engle-Granger tests for cointegration?
+Given a correlation martrix, calculate portfolio's correlation with its assets
+Valuation of Cox-Ross-Rubinstein Model
+What does "true"volatility mean in volatility comparison?
+What is the price pressure?
+Calculating the VaR from a GARCH(1,1) with Student-t innovations
+Where can I find implementations of the time-varying copula (BBX) in Matlab or R?
+Calculate correlation between two sub portfolios and the combined portfolio
+2-state HMM / ARMA process?
+Adjusting open, highs and lows for past monthly stock prices?
+Why does regression capture differences in volatility?
+Convexity of Portfolio Containing Eurodollar Future and Forward Rate Agreement
+Are the sin, cos, tan functions used in some financial calculations?
+Please advise on the choice of an automated trading framework
+High correlation will help detect spurious regression over cointegration?
+Why is "full" Yield Curve (term structure of interest rates) 3 component based?
+Yield to Maturity
+Is there a formula for future value of a growing annuity with yearly payment growth and monthly payments?
+Square-root-of-time and autocorrelation
+In a mis-matched trade who profits?
+Need weighted global stock index data (components / weights)
+How to price long dated options most efficiently?
+Where can I find historical data for volatility estimation?
+How do insurance companies use interest-rate swaps?
+Pricing binary options with kernel density estimation
+Are Futures exactly Delta One?
+Calculating Bollinger Band Correctly
+Hansen-Jagannathan bounds derivation: last step is not clear
+rugarch and rolling estimation
+Where can I buy historic raw recording of an exchange
+Forex brokers with free API compatible with Node.js
+Why is that maximizing stock value, under uncertainty, is a better option than maximizing profits?
+Relationship between Large Cap and Small Cap Volatility
+Order 1.5 strong SDE integration methods for systems with diagonal additive noise
+Why does Futures contract credit and debit a position daily, if it has "locked" the price?
+What is the motivation for index benchmark?
+What is Prompt Date Structure?
+Forex trades: what time zone are trade and value dates specified in?
+Calculate alpha (CAPM) in "cross country-portfolio"
+Is there an easily implementable alternative to lognormal growth (something with fatter tails)?
+How to interpret negative asset volatility numerical results in Merton model?
+What is the equation for Garman-Klass volatility?
+Difference betweem martingale property and adapted filteration
+Effect of kernel smoothing on correlation
+The role of micro credit in finance
+How to model hedge fund returns?
+Making portfolios better than others for a 16 week portfolio game?
+Replicating the short part of a long-short trade using inverse ETFs
+Implied Probability of Default from Bond Prices
+Derive instantaneous forward rate
+How to derive equivalent martingale measure using Ito's Lemma
+How to price zero coupon bonds with short term rates model?
+Source of Quandl Open Data
+Trend estimation techniques
+volume augmented garch(1,1) model in matlab
+Databases for storing and querying high frequency tick-level data?
+"Stable-Floating" model for non-maturing deposit for FTP purpose
+Which are the popular free/open-source charting controls?
+Intermarket analysis - related time series?
+How can I calculate Fama-French betas for a particular stock?
+Create optimal portfolio by Treynor and Jensens Alpha
+After PCA on original factors, how to tell which original factors are dominant?
+List of Stocks by Sector
+Implied Correlation using market quotes
+Forex Fundamental Data Sources
+What is PCA and how does it relate to eigenvectors and eigenvalues?
+Forward rates diffusion
+The implied volatility surface and the option Greeks - to what extent is the information contained in their daily movements the same?
+What exactly is the OIS Black VOL?
+estimate implied volatility using newton-raphson in python
+Existence of a hedging portfolio and martingale property
+Why is USD LIBOR used for USD denominated securities?
+Why are multiple custom curves (swap) built for one desk?
+When to use the real world drift and when the risk neutral one for a Monte-Carlo simulation?
+how to compute daily skewness of S&P daily return timeseries under no other more high - frequency time series?
+Modeling Financial Time Series
+american option and cash dividends
+Reference request about stochastic volatility model
+Variance of Multi-Dimensional OU process
+How to define the median for bivariate function?
+Monte Carlo for MultiFactor Ornstein Uhlenbeck
+Bloomberg alternatives for fixed income data
+Why is it enough to know the expected present value of cash flow in risk-neutral framework to price derivatives?
+GNP/GDP and modelling
+Interpolation of volatility curve for Swaption
+Introducing credit risk to an already implemented interest rate model
+Volatility of Option
+Documentation of the ISDA CDS standard model
+Is there any other way to measure option pricing model performance than proximity to market prices?
+Successfull applications of Chaos Theory in Quant Finance
+Why do some stock options have expiration dates for a given month, while others don't?
+What does it mean if $\beta$ is insignificant in the CAPM model?
+What is the main point in the Forward contracts definition?
+Calculating volatility of inhomogeneous time series
+Tick Data Poisson Process
+CDS Spreads and Equity Volatility
+Best performing stocks in given year
+meaning of discount term in FRA value
+What is the Rho of an option on a futures contract priced using the Black 76 model?
+Hedge fund database with daily data
+Regression of TAQ half-hourly stock volume data against news volume
+Properties of a Symmetric Copula
+Sample size and historical correlation matrices
+Simulating state space model with AR(1) dynamics
+Modelling driftless stock price with geometric Brownian motion
+trading strategy outperforms passive strategy in absolute terms, but in returns vice versa. how could this be?
+How do I do a mean variance optimization with constraints?
+IMM Swaps vs. Forward Swaps
+Determining optimal trading signals (buy/sell) from past data
+Standard Deviation as listed in Rebonato's Volatility and Correlation: Binomial Replication 2.3.4 Worked-Out Example
+Obtaining Expense Ratio Data
+Price change of a bond towards yield and YTM
+Do people hedge with leveraged ETFs intraday? How?
+Why is the VIX futures market usually in a state of contango?
+Why shrink the covariance matrix?
+Girsanov theorem in CMS convexity derivation
+Quant teams predicting the World Cup
+How to use the stock as a numeraire to price a derivative with payoff of the form $(S_T f(S_T))^+$?
+Why parameterize the Black Scholes implied volatility surface?
+Variable Selection with Kalman Filter
+What is the correct / expected behavior for a market order sent to an empty book?
+Market-Maker existence impact to short-term informed directional trading
+regarding Basel II III model
+Boundary condition for Asian Option under Black-Scholes model
+Is there a step-by-step guide for calculating portfolio VaR using monte carlo simulations
+Directional/Non-Directional Risk
+Estimating the Hurst exponent in short terms in developed markets
+calculate gamma value using finite difference method
+PDF Calculation by Fourier Inversion of Characteristic Function for Affine Intensity Process in Matlab
+VaR mapping - Forward Foreign Currency Contract
+Is node.js being used in systematic trading software?
+BInary Option implied volaltility
+Is the market really Normal. Is Implied Volatility Historically Correct?
+Intuition behind interest rate models
+Controling ex-post volatility by ex-ante limits
+The option values are different from two r package - foptions,rquantlib
+Short-term directional trading
+Basis Risk for Futures/Options
+investors hold efficient portfolios because generally they are risk averse
+What is the tau parameter in the Black-Litterman model?
+Intuitive understanding of Black-Scholes pricing
+Why does [dz(t)]^2 converge to dt over infinitesimally short time periods?
+Which more topic should be covered in my undergraduate program?
+Understanding the conditioning in a GARCH process
+Is stock price priced in the uncertainty?
+robust open source Kalman filter library in C++
+What different techniques exist for modeling exotics near payoff discontinuities in Finite Difference method?
+Electricity market : how to design an optimal hedging strategy using spot and futures markets for an industrial consumer?
+What does 2 Year Annualized mean compared to 1 Year Annualized
+Platform for Quantitative equity portfolio
+Is the purchase of a stock publicly accessible?
+Deriving Interest Rates
+Beta of FTSE100 stocks against benchmark index FTSE100
+How does US banks ensure that other country's banks aren't counterfeiting USD?
+How do derivatives affect capital structures?
+Swaptions vol trading lognormally
+Risk-neutral pricing in incomplete markets
+Pricing a FixedRateBond in Quantlib: yield vs TermStructure
+American Swaption Heding with Malliavin Calculus
+Why is Value at Risk non-negative?
+how to calculate avarage variance and avarage covariance
+Black–Karasinski - Market Price of Risk
+Hedging a Long Equity Swap by Shorting the Stock
+Simple Forward Interest Rate Proof
+Johansen-Ledoit-Sornette Model
+Do quants need to know Accounting?
+Arbitrage Strategy Proof in Bjork
+Solving the Jamshidian Zhu (1997) PCA short rate model
+Weighting several returns over different time frames
+questions on VAR manipulation
+Why can sometimes stock prices rise when interest rates rise?
+Infinite autocorrelation - Unit root?
+is there an accepted method for quantifying risk of inaccuracy of nascent trm systems?
+What Is A Good Success Rate Using Machine Learning For A Beginner?
+OIS discounting pre and post crises
+Bloomberg Zero Coupon Rates
+forward vs spot simply-compounded spot interest rate
+Quantitative Math required for Market-making?
+Pricing an interest rate swap using Eurodollar futures
+European Option Technical Exercise
+Do hedge fund trading desks use portfolio optimization?
+How current prices is formulated in markets?
+Arbitragefree Pricing: Q vs. P
+In a Black-Scholes world, why must volatility be strictly increasing in time-to-expiration?
+Does pricing quant still have bright future?
+Self-financing and Black-Scholes-Merton formula
+How to combine trading signals to achieve higher capital efficiency?
+Regime-Switching Model for detecting market shifts
+economic facts that causes the financial time series to be heavy tailed
+what is the actual point of vega on real option data
+How to apply Levenberg Marquardt to Max Likelihood Estimation
+How do I prove that $\lim_{K\searrow0}\frac{P(K,T)}{K} = \mathbb P(S_T=0)$?
+Common point between IR and Vol option pricing models?
+Future spot price versus current forward price
+Combining BHHH and Levenberg Marquardt
+What is the correlation of and Index's dividend yield relative to its constituents?
+For Probability of Default in retail credit what is more popular logistic regression or GLM with Poisson distribution and why?
+What are the unfair order execution/routing advantages HFT firms apparently have?
+Plot Evolution of portfolio weights over time in R
+How to distinguish total return and absolute return funds in the KIID
+Joint distribution from expectations
+Implementing A 50/50 Prediction Model Strategy
+Using Fourier Transforms for stock option pricing with stochastic interest rates
+How Much Capital is Needed to Start an Arbitrage Strategy?
+Kelly Capital Growth Investment Strategy (Example in R)
+How To Account For Inflation Over Historical Data
+Counterparty risk tutorials
+Mysterious disappearance of options from historical datasets
+How can I calculate the strike price or implied volatility from a given delta?
+IP API Active X for Excel refresh rate
+What is the Most Efficient Way to Calculate the Internal Rate of Return IRR?
+Free stock split history data source?
+How to calculate the pre-tax cost of debt for a mix of bonds allotted to a company?
+Does Implied Volatility always exist?
+Getting the next price of a GBM (Geometric Brownian Motion)
+Getting the next price of a GBM with reversion
+Inconsistent Definition of Arbitrage in Bjork?
+Forward rates formulae
+Which is the correct definition of arbitrage?
+Ability of hedge funds to transform illiquid assets
+Trading days or Calendar days for Compound Annual Growth Rate?
+Does a delta hedged short option guarantee profit of extrinsic value at expiration?
+What is the intuition behind the fact that Modified duration = Macaulay Duration / (1+r)?
+Transaction Costs for Currency Pairs
+Math basics of Equally-weighted Risk contributions
+Divergence between binomial pricing and monte carlo simulation for vanilla european call?
+Calculate rate of return of a stock, if there is a buy transaction occurs during the middle of financial year
+Non-linear Dynamical Systems and Quantitave Finance
+Shorting 'pump and dumps' legal?
+Commodity prices on Yahoo finance
+The Definition(s) of Momentum
+2 stocks, no shorting vs shorting. (concrete questions, mean-variance)
+Valuing a warrant on a warrant
+Isn't a perfect economic system always in debt?
+How to convert HJM model risk-neutral measure $\mathbb{Q}$ to real measure $\mathbb{P}$?
+robust regions in grid search
+What are the implication of a negative risk-free rate on SML?
+Is there any relationship between investment return of a stock, for individual year (Yearly return) and multiple years (Overall annualized return)
+How to projectP&L or drawdowns on pair trading , trading and portfolios?
+How to benchmark bonds?
+Correlation of asset to portfolio, given certain variables
+Option based portfolio insurance in practice
+Excel to Java for Interactive brokers
+How popular is the Linear Gauss Markov (LGM) model?
+How to see the impact of one variable on a set of other variables?
+Prove that the binomial algorithm implies the arbitrage free price at t=0 of a T-claim
+Martingale Stock Prices
+Where can I buy historic raw order by order data for Euronext market?
+Break down XIRR to different segments
+Why Ito calculus?
+Technical analysis in Python - source of knowledge
+How to get permanently growing chart within PCA
+Max Likelihood via Marquardt Optimisation
+why people want to get a continuous time series from futures data?
+Sharpe Ratio - my own calculation differs from Yahoo finance, Morningstar
+Interpretation of equation derived from the delta of a call European call option
+Difference between Total Long Term Debt and Net Total Long Term Debt
+(Purchased) terminology on Net Preferred Equity Issued
+How to construct a deterministic trading model based on a loess (local regression) model?
+SVCJ (SVJJ) Duffie et. al Model implementation in Matlab
+Logic behind Gordon Growth Model in a DCF analysis?
+ETFs have lower tracking error than Futures?
+forecasting crash time of KLSE index (1991-1994)
+Pricing Principle 1
+Arbitrage free implies complete market?
+Handling Missing values in stocks returns when estimating the co variance matrix
+How is PnL calculated
+How is the price of a bond actually determined?
+Calculate bond yield in python
+Historic Value at Risk - Ratios vs. Differences
+Does Modern Portfolio Theory align with EMH?
+Questions related to the banking crisis during the European sovereign debt crisis
+Worked examples of applying Ito's lemma
+Comparison of multicurve calibration methods
+How to get Geometric Brownian Motion's closed-form solution in Black-Scholes model?
+How to price a Swing Option?
+Opposite of Tail-Risk Hedge (Established Vocabulary)
+How to deal with extreme cases in normal random numbers generation?
+reference question about portfolio optimization
+Some clarifications on eigenvectors and eigenvalues from PCA
+where to find historical option prices?
+What happens when bond price is less than the recovery rate
+Should I analyze the tick data day by day?
+How to find optimal look back in quant trading models
+Is an economy where money yields interest able to be sustainable and healthy? If yes, how?
+Fitting stochastic variance distributions to index return data
+Company rank within an industry
+How does trade deficit affect the economy of a country
+Formula for the forward rates?
+Ito integral approximation by Euler?
+Why is the equity premium not arbitraged away?
+Finding a basket of stocks that tracks an index
+Difference between "basic risk" and "basis risk"
+Selling an American call option early
+Brownian Bridge's first passage time distribution
+Non-Negativity of up-factor and down-factor in Binomial No-Arbitrage Pricing Model
+CVA number used by Finance Team
+Probability of Hyperinflation as a function of Probability of Soverign Default
+Underlying changes impact on implied volatility
+Inflation-Linked Bonds & Asset Swap Spreads
+Why are we obsessed over normalizing financial data?
+Heat/Diffusion Equation
+What is the distribution of stock splits?
+proper choice of risk aversion parameter in the risk-sensitive cost-criterion
+Looking for Research Paper on Creation of Currency Baskets
+How low can HFT transaction costs go?
+How to de-seasonalize natural gas term structure data?
+Cross-sectional volatility vs temporal volatility
+Strictly local martingales: what is the intuition behind them?
+law of one price, understanding
+Recommended Literature for creating Factor Mimicking Portfolios
+Are there providers of delayed market depth data (DOM, Level II, Order-by-Order, etc)?
+QuantLib: Black / BSM processes and pricing via volatility surface. Different results?
+Correlation between S&P500 returns and 10y US Treasuries yields
+Models for volatility estimation of high frequency data?
+Backtesting with Simulated Historical Data?
+Why doesn't VG flatten volatility skew for short term options?
+Bond Portfolio Immunization - Duration Matching
+How do I find the mappings between sedol and isin codes?
+Resources for finding quantitative finance examples using excel, VBA and access
+What is the effect of dividend yield being greater than the risk-free rate to American options pricing?
+Handling IQFeed events in Matlab
+Popular R packages for Quantitative Finance
+Concise way of learning Bond & IR models
+Which size of constant range bar gives the most persistent chart?
+How to model natural gas forward price?
+News on ETF sector performance
+CDS - Accumulated Default Risk?
+Starting mathematics reading for quants
+Book recommendation for time series analysis
+Johansen Cointegration Test
+Formal Proof of Immunization Techniqu
+Stock Correlation Matrix, Multiple Currencies
+question on Leif Andersen's "Interest Rate Modeling, vol 2 Term Structure Models"
+Discretization Schemes
+Exchange rate model and Martingales
+Is this arbitrage?
+Difference between a warrant and an option?
+Need help on cointegration
+Why would an exchange choose one matching algorithm over another?
+Machine learning for non optimal behaviour
+How are bond prices quoted in the financial press related to bond yields quoted?
+Simulate non-stationary time series with cointegration
+Trading over a Ornstein/AR process
+How to calculate the volatility matrix with multiple stocks
+Why would a 9% dividend payment halve the stock price?
+What is the most convenient data structure for backtesting a model of futures options prices?
+Proper way to combine wavelet coefficients from multiple rounds of analysis
+Understanding Price Elasticities in Discrete Choice Models (Derivative)
+Estimate rolling stochastic volatility forecast using stochvol in R
+Autoregressive distributed lag models ADL(p,q) howto in preferably matlab (stata/R/python/C# etc)
+Is Reuters Instrument Code (RIC) case-sensitive?
+Why maximize expected growth rate?
+Is there a trustworthy ranking of quantitative finance degrees?
+Integrating R with Bloomberg
+How to fully replicate ADX + DI Indicators in Excel?
+Cost of Carry Bear Flattener
+Black-Scholes Equation - Riskless portfolio derivation
+How would you price this kind of derivative?
+Stress Testing Methods
+How to value a portfolio of non-mature consumer loans?
+How to Calculate Confidence Intervals for Moving Averages Given Nonindependence?
+Risk-Free Rate determinant in CAPM
+Can Standardized unexpected earnings be considered a Z-score
+How does Volatility Pairs Trading work?
+Calculating short/long order percentages?
+Mid-Point calculation with execution probability
+Discounted risky asset stochastic process problem
+factor models and using cross section regression
+For an affine process, how do we know the second order term is positive definite?
+Incoherence in Bloomberg Data in Swap Curve Builder (ICSV)
+Impact of NZD mid-day EST Roll forward
+Testing for the presence of a positive or negative gamma effect
+M&A hedging an equity portfolio against an index
+Volatility of Futures
+CVA formula proof
+Explain drop in Correlation between two time series in consecutive periods
+what kind of test for volatility and where find the data
+one-step-ahead Stochastic Volatility for 5-minute VWAP prices
+multiperiod optimization using R
+ADR vs Foriegn Stock Price Arbitraguers
+Valuation of barrier options in Jump diffusion model
+Probability of stock closing over a certain price
+hedging with a 3 month fx forward every month
+How can theta be so large on this option?
+Doubt on risk cost criterion
+Approximation of different volatilities
+Cholesky Decomposition on Correlation Matrix for Correlated Asset Paths
+Modelling currency exchange rates timeseries data across re-denomation dates
+Methods for "prompt month equivalent" exposure in commodities forwards/futures markets
+How to classify stocks by their volatility?
+What is the reasoning to derive this financial model called the Vasicek Model?
+How to develop your own interest rate model?
+Portfolio Optimization - n risky assets
+List of dates at which the NYSE was closed from 2005 to 2014?
+Risk Neutral Pricing Necessary Condition
+How to create a model or formula for evaluating trade opportunities
+How does this follow from the separating hyperplane theorem?
+CVA/CDVA - Worsened Credit Quality implies profit?
+Art market specificities
+Nested volatility
+Contribute to Finance related projects
+Which is the better risk sensitive measure?
+Explicit solution SDE
+Algorithm to detect the aggressor side of a trade
+State Space models with Short Time Series
+Yahoo OHLC data reflects nonexistant stock split
+What software should I use for forex arbitrage?
+Constructing Volatility Smile from Implied Volatility & Delta
+What do "Exposure Bounds" mean in Portfolio Optimization?
+Intuition behind American Option pricing
+What kind of front end/ gui is used with trading applications?
+Practitioner's criterion for MC pricing convergence
+What makes investors risk averse?
+Calculation of price momentum using weekly price observations
+Conversion factor for bonds
+Where can I find a correlation matrix between the revenues of different industries?
+Ito integrals and copulas
+Explanatory variables for regression predicting weekly stock returns
+Estimate correlation of time series whose histories differ in length
+Earnings Quality for a large group of stocks
+What is the Swap Curve?
+Which library shall I use for time series analysis in Java?
+What would be a concise method to learn Monte Carlo methods?
+HAR-RV, realized GARCH and HEAVY model for realized volatility
+Meaning of w in SDE
+How much correlation between alpha and forward returns can be considered good
+How to calculate burnrate?
+Choosing broker to run with Zipline
+Is this a reasonable approach to determine the relative importance of valuation factors?
+When Fed stops QE, Treasury Futures will go down in price, so... LEAP Puts are a good idea?
+What is the best way of updating data while using Empirical Mode Decomposition to analyze
+Different interim balances when calculating annual compound interest different ways
+Option on a dice game
+Sovereign Credit Rating
+Intensity Function of Stochastic Processes
+Copula- AR simulation
+Pricing Callable Floating Rate Note
+Literature on Empirical Option Pricing
+Rule of Thumb for minimum length of time series for AR(1) estimation
+What is wrong in this GBM simulation?
+Where can I find a guide to implement the FAST protocol from scratch having already a FIX implementation ready?
+Convergence of GBM mean after simulation?
+How can I break down the change in value for an inflation-linked bond
+Cross-Currency Inflation-Linked Swap
+What is the required Risk/ Reward ratio in Forex?
+How to draw a binomial option tree graph?
+Back-testing Value at Risk with a WML investment strategy
+Would this extremely simple strategy make money?
+how to find CVaR/AVaR for triangular fuzzy no
+Efficient Markets Paradox
+Basic question on LIBOR-OIS swap
+How do Return.portfolio and Return.rebalancing work in Performance Analytics in R?
+Standard errors clustered along the time dimension in pooled panel logit model
+conservative approach payoff table
+Validity of CAPM
+Predicting stock returns - in a panel data specification or by using portfolio formation strategies?
+Calculation of weekly P/E ratio
+Option Prices under the Heston Stochastic Volatility Model
+Hedging future USD cost using different IR and forwards
+How can one find an area of research in quantitative finance appropriate to write a masters thesis on?
+MPT and the connection to asset prices / initial capital
+Finding historical data for indices
+Filtration and measure change
+What is Base- vs. Implied Correlation of a CDO tranche?
+Beta distribution - Holding period
+Is there a good closed-form approximation for Black-Scholes implied volatility?
+For which instruments performs SABR/LMM better than LMM?
+Where can I download intraday series for DAX and S&P500 Index?
+Calibration Problem in the LMM-Skew (Shifted Diffusion) Model
+Pricing a bond contract from the yield curve
+Algo's Shadowing Limit Orders
+Scale of Market Quakes Computation
+Bootstrapping Sharpe Ratios
+Calculating returns for a mutual fund with dividends
+Asian option numerical pricing method generates a negative time value
+Is there a way to adjust R PerformanceAnalytics function VaR with EWMA or GARCH method?
+Question 1.18 from Hull's Financial Risk management CAPM
+Does anyone have a C# implementation of the Barone Adesi Whaley options pricing model?
+Collateralized Loan Obligation - reliable source of information
+Can selling put equity options be a good business?
+Exporting Time Series Data For Securities Prices From Bloomberg to Excel
+Hedging using relative values
+Why should we expect geometric Brownian motion to model asset prices?
+How to select optimal betting strategy from backtest?
+Why is the duration of a bond important?
+Why is two-factor model so popular for bond futures?
+What data should be used for regression-based model backtesting?
+Predict Futures Prices based on weather + agricultural data
+How to combine Gaussian marginals with Gaussian copula to obtain multivariate normals?
+Why does the price of a convertible bond go up if the CDS spread goes up?
+Two assets with the same mean and standard deviation - Would there be any benefit?
+Girsanov Theorem and Quadratic Variation
+Solving Black-Scholes PDE using Laplace transform
+Analog - Pattern Recognition model using KNN
+In what kind of stochastic process Ito's lemma is adopted?
+Does the correlation of matrices have explanatory power when building a pattern recognition model?
+Why would there be a positive risk-free rate?
+What is some prerequisite book that can help me to read "mathematical methods for financial markets"
+Different ways of portfolio optimization
+Why most of apple stock price since 10years have been gained overnight?
+Game theory and antagonistic games in trading
+API-based equity screeners?
+Historical Value At Risk on option portfolio
+Difference in weekly and monthly data
+Locked or Crossed Markets
+y-axis unity of density probability function
+Factor model assumptions
+Option pricing ? Where to get the dividend yield from?
+negative probabilities in the bivariate tree heston model
+Is linear programming important for quant?
+What are the canonical references on wholesale credit risk management?
+detecting and measuring lead lag effect
+How to compute for basis adjusted forward rate?
+How is USGG10Y (or any tenor) constructed?
+Testing Statistical Significance of Various Portfolio Simulations
+Why interest rate future does not support fed policy on reducing assets buying?
+Intraday Data - Stylized Facts?
+Pricing American with floating strike
+negative transition probabilities in the heston model
+GMM time-series regression factor model with factors that are not returns
+Text book or distilled guide to market making?
+AT1 ratio, Core T1 ration and CET1 ratio
+optimisation problem with linear constraint
+Is it possible that a security with a positive variance can have a required return that is less than the risk free rate?
+What are the most effective market variables to measure liquidity/illiquidity in the market?
+Data provider for daily futures settlement prices
+What's the intuition behind DTS(duration times spread) in fixed income?
+Law of a geometric brownian motion first hitting time (formula dont match Monte Carlo Simulation)
+How to interpret ACF and PACF plots
+Is it fair to assume $(ud=1)$ in the binomial tree option pricing model?
+Interpolating probabilities of default
+Efficient Frontier Derivation: why minimize half the portfolio variance instead of just the variance?
+quadratic programming portfolio optimisation
+Which quantitative tools are actually used for hedging energy price and volume risk?
+Level II market data (equities)
+ISLAMIC FINANCE WACC
+Time Lag for Market Inefficiency
+Portfolio Turnover Constraint
+Interest rate on loan for purchasing Sterling bond
+Calibrating an Ornstein Uhlenbeck process on residuals of regression
+How to map shocks from VAR to news? (Academics)
+CAPM (SML) Problem
+What are the roles of "Game theory" and "optimisation (linear, integer, conic)" in Finance, Mathematical Finance?
+finding the strike / maturity of warrants given their ISINs
+Determine $E[W_p W_q W_r]$
+Show that $E[B_t|\mathscr{F}_s] = B_s$ for $B_t = W_t^3 - 3 t W_t$
+seasonality and generalized additive model
+"Adding" risk-free asset to covariance matrix after the fact
+How to reduce fx currency pairs ? PCA or other tools?
+Why are interest rates and stock prices positively correlated?
+What is the fastest way to decode the FAST protocol for market data?
+option pricing with limitation on the change of underlying daily changes
+Volatility estimation: sampling frequency and scaling
+Bond Interest Rate Swap Growth Rate
+Elicitability of risk measures
+What is meant by "position at a given time" in the context of a series of forex trades?
+forward implied volatility skew
+Currency Portfolio G10 vs USD allocation
+Set up sharpe ratio with 2 risky portfolio
+CDS Spread and Par Bond Yield Spread
+Problem when calculating the daily return on a forex trade, what is the best way to do such a calculation?
+Daily option data
+Is there anyone still using Markowitz modern portfolio theory?
+How to price a bond without paper during interview?
+Distribution of the value of a portfolio
+What are the textbooks used to teach Quantitative Trading at universities?
+Calculate bond returns from yields
+How to implement the herding measure proposed by Lakonishok et. al (1992) in python
+How do exchanges make money?
+Forex buying 2000+ pip difference
+Proof oriented introductory text?
+Price of a composite option
+White's Reality Check versus Benjamini-Hochberg-Yekutielie Procedure
+Why do Earnings Per Share matter?
+End-of-day holdings vs overnight inventory
+What is a good Computer Algebra System for financial engineering?
+Where can I find a list of market-moving news announcements for different asset classes?
+ICE oil Future Markers
+Importance sampling for barrier option like pricing by Monte carlo
+Transform MPT optimization problem
+What are the properties of the Expected Shortall measure when split in multiple time periods?
+Can we trade option spreads with more than 4 option legs?
+Moneyness and option prices
+Volatility skew and how to capture it?
+Historical Data on $/yen forward exchange rates
+run time error 424 in IB TWS Excel DDE API; failed to add combo orders
+Where can I find literature (books, articles, etc.) about basic HFT / arbitrage strategies?
+Briefly stated, why does the function N(x) appear in the European call option pricing model?
+If I am very fast (less than 10 microseconds latency) what would be the first strategy to execute?
+Do people actually use VaR in professional settings?
+how to use known premium of options to determine premium of options with another strike?
+Negative Eonia rates
+Data on margin volumes?
+What are the main flaws behind Ross Recovery Theorem?
+garchOxFit in R-oxo file does not match
+Expected Shortfall and Spectral Risk Measure
+Hedging bond with CDS of different maturity
+Data on banks’ leverage
+Relationship between Beta and Standard Deviation
+Weighting with restrictions, but no clear objective function?
+Where can I find a list of VaR and CVaR formulas for continuous distributions?
+What would be considered a good/competitive throughput for a FIX engine?
+What is the name of this product?
+What is the formula for beta weighted delta and gamma?
+What machine learning method is more suitable for prediction of financial time series?
+PerformanceAnalytics and Annual Charting
+Statistical arbitrage using eigen portfolios
+Inflation/Rates Correlation
+General way to solve Partial differential equation using Feynman kac representation
+Is there a broad currency index just like there is an equity market index?
+Historical data resources for Indian market
+Understanding how to calculate tracking error
+Uniqueness of equivalent martingale measure in Black Scholes-Model
+Build a customizable trading engine in python
+Incompatibility of Lognormal Forward Model (LMM\BGM) and Lognormal Swap Model
+How is stock data objectively different to this random walk?
+How literature come up with risk-neutrality problem, considering that market is not really risk-neutral?
+Arbitrage-free market for continuous logreturn distribution?
+Calculating the efficient frontier from expected returns and SD
+Portfolio Optimization using S&P Universes
+Variability in the Expected Shortfall estimator
+How to get Black Scholes' Geometric Brownian Motion differential form form the closed form?
+How trading in currency pair works, underlying techniques and mechanisms
+Pricing inflation lags
+SABR calibration: simple explanation and implementation
+Equity Chart - design and granularity
+How to calculate returns of backtested strategy?
+How to model the effect of earnings surprises on long-term returns?
+How to express the Black Derman & Toy Model in a $dr=A\,dt+B\, dW$ form?
+What is an efficient method to find implied volatility?
+What is the difference between asset management and wealth management?
+How to calculate the Sharpe ratio for market neutral strategies?
+Market Timing Performance for a single stock
+Is it important to equalize the minimum price fluctuation in pairs trading?
+How to exploit calendar arbitrage?
+Calibration of a GBM - what should dt be?
+(Beginer on bond market) References on callable bond's pricing
+Factoring risk premium in to Forward Rate calculation
+Normal vol - convention
+Does Nelson-Siegel require adjustments to yield curve input data?
+Interpret alpha's on Dual-Beta Model regression Results
+How to learn finance?
+PDE and Black Scholes problem
+Risk-free arbitrage given a volume oracle?
+Factor Model - Minimum Variance Portfolio [Complete Proof]
+Where can I find answers to questions in the book "Paul Wilmott Introduces Quantitative Finance"?
+how to calculate a cross-currency swap in basis pt?
+Anybody knows the answer to this exercise found in PWIQF?
+Automatic trading strategies - what are benchmarks for PL on serious backtesting?
+Combine together different strategies in one portfolio
+Dummy variable and negative estimation in GARCH (1.1)
+Mean Variance Analysis: what does the solution of the following exercise tells me?
+American put on a foreign currency
+Provide a bond pricing differential equation and invoke Feynman-Kac Theorem
+A model to stochastic hazard rate and CDS spread term structure
+Why is OU process stationary?
+Data point discrepancy between Google Finance and Yahoo Finance
+Logging FIX Messages
+Information on books about mathematical finance
+Why is the rate of change of a stock price proportional to the stock price?
+Optimization metric that takes into account number of trades vs expectancy
+In bond pricing, is negative convexity better than positive convexity?
+LMM. Calibration to swaptions by Brigo and Morini. Volatility of swaption that matures at T=0
+Historical list of Primary Dealers in Europe
+Quadratic exponential method (by Andersen) in Heston model
+Black scholes text book
+Index creation from multiple time-series and variable weights
+Best sources for worldwide balance sheet data?
+How to compute daily compounded backtest returns closer to real-world results?
+Returns adjusted for dividends
+Index tracker and inflation
+Stochastic Differential
+C# - Using Black Scholes Newton returns NaN occasionally
+Par Yield Curves vs Zero Curves
+What is the probability distribution of the changes in $\Delta$?
+An Alphabet Effect?
+Implied volatility and pricing of vanilla options
+Model-independent dynamic portfolio optimization techniques
+Key Rate Duration for MBSs greater than Key Rate Tenor
+IR Yield Curve and Fixing Dates
+Find the order of an ARMA model (q & p )
+UST Yield Curve Forecasting - Bond Structure Testing
+I want to prove Determine the coupon rate $r$, such that the price of the bond, at $T_0$, equals its face value
+How do I price $P(t)=P(t,T_{n})+\sum_{i=1}^{n}[P(t,T_{i-1})-P(t,T_{i})]$?
+How to prove following order?
+Kolmogorov-Smirnov test for Generalized Pareto Distribution
+Normalization of Market Data in Time Series Correlation
+Binary option expression
+What is a canonical book or article to learn pair trading?
+Cobb - Douglas Production Function
+Black Scholes - how to calculate delta with a vol skew
+Cause of long term inflation in the United States
+Is there a better way to price options than with historical volatility?
+Is the price of a binary call not monotonous with vol for OTM
+how to apply a simple copula model
+What is the difference between market efficiency, market equilibrium, and no-arbitrage?
+Price 3m libor autocap with LMM calibrated on 1y swaption data
+Replicate by Arbitrage price of a forward
+Stripping projection curve
+Stationarity tests in the frequency domain for regression
+formulating MVO with costs
+GARCH parameters
+Local volatility pricer
+How to calculate cash flow for XC swap
+Share Repurchase and Bid ask Spread data
+Mutivariate t markets
+Black scholes OTC
+Filtering out AR(1) effects before using stochastic volatility model
+Delta formula for FX vanilla option
+Optimal Portfolios
+How to get real-time data for Fama-French model?
+Long/Short Backtesting Set up
+Curve Euribor - Euribor 3M
+CVaR reformulation correct?
+Question about "short" in this sentence
+Help with integrating stochastic calculus expression from yield curve model
+Optimal Upper and Lower Bounds
+BlackProcess' constructor $x_{0}$ argument in QuantLib
+Optional Sampling Theorem Application
+float64 to store price data: is precision sufficient?
+Derivation of the formulas for the values of European asset-or-nothing and cash-or-nothing options
+TAQ NYSE OpenBook
+FX Delta Conventions
+In a FX options book, is the sum of P&L equal to the portfolio value?
+How to calibrate the Hull-White model using cap prices?
+Various ways to choose bonds for a butterfly strategy?
+Pricing rule shall be a martingale measure
+finance - using CAPM
+Relation between IV and SD
+What is delta neutral
+Why IV shares an inverse relationship with underlying
+Calculation of Returns and Risk Metrics for L/S Portfolio
+Total return index for interest rates (EURIBOR 3M)
+How to price an European call on zero-coupon from the yield curve?
+ZSpread in multiple curve framework
+Where to get master list of mutual funds?
+When $C(K_2) = C(K_1)$ for call options with the same expiration date
+PCA on term structure of interest rates
+Libor Market Model: numeraire change
+Modified or Macauley Duration in python
+Overlapping Value-at-Risk Backtest Data an Issue?
+What are the dynamics of the reverse of this FX process?
+Downloading most recent stock prices
+Why gamma for ATM option decreases as volatility increases
+Is it possible for two securities to have the same first 8 characters of a cusip, but differ in the check sum?
+What math concepts are used in designing volatility models
+Is the volatility for these two SDEs the same
+use synthetics for a pairs trading strategy
+Is the Volatility of the Fx Inverse process same as Fx
+Shreve book II Question 4.6 Error?
+Historical Implied Volatility Calculation
+Is the value also log-normally distributed?
+what volatility do we calculate using GARCH model
+Why doesn't Black-Scholes assume the absence of statistical arbitrage?
+Why vertical skew is same for puts and calls
+Portfolio VaR with Copula?
+Index for Hedge fund, Private Equity, Venture Capital
+Implication of the Greeks under jump diffusion model
+Cointegration results interpretation validation?
+Get market cap by ticker on 1.7.2013?
+What are the canonical books for statistics applied to finance?
+How to estimate the greeks with a Monte Carlo simulation?
+What's state price vector?
+Dupire model and Local Volatility model
+Black Scholes model: condition of payout function
+Bachelier model: number of stocks in replicating strategy
+What is the future value of a growing annuity with different periods for payment growth and monthly payments?
+Estimating Number of "Day Trades" from Total Volume of Commodity Futures Contract
+Any Simple Way to Prove Black Scholes Type Identies?
+Longer term average probabilities of fills at fx ECNs?
+Does it make sense to use upward and downward volatility in option pricing?
+Hot do I calculate an effective forward rate?
+How to estimate CVA by valuing a CDS of the counterparty?
+How can I export intraday frequency data from Bloomberg and (how) is this procedure different than for lower frequencies?
+How to calculate a forward-starting swap with forward equations?
+Total demand under logit model
+In theory historical performance of a portfolio
+Adjusting for your own orders in future backtests
+Par and Zero Coupon Yield Curves
+arbitrage in Heston model
+dynamic programming with serially independent returns
+Is volatility really a coherent risk measure?
+Wiener process integral
+Why asset management firms shouldn't be custodian of its own funds?
+Bloomberg-alternatives for intraday stock price data?
+Data Selection for Empirical Pricing Kernel Estimation (Stochastic Discount Factor)
+What to do when I do not get enough fill in cash leg during cash - future arbitrage
+Law of one price in continuous time
+Is an arbitrary prior for Black-Litterman valid? Or do we need a market implied one?
+In which divisions of banking are the Greeks and Black Scholes equation applied?
+risk-neutral valuation implies no arbitrage?
+Opposite of hard to borrow?
+Create 10-K Filing Database
+Replication of a call option by cash-or-nothing digital option
+Suppose you bought a July ITM call and sold an August ATM put, am I net long or short?
+Which interest rates to use for options pricing?
+How do I calculate the probability of a stock being above or below a value using the Heston model?
+Proving that Absence of Arbitrage does not imply law of one price
+PEGY Ratio: Does it make sense?
+Deriving credit spreads or migration matrices from prob of default
+suitable benchmark to use for Sharpe ratio of power trading strategy
+How do I artificially generate intraday ticks data from a given input (Open,High,Low,Close,Volume) using Brownian Bridge method?
+Girsanov's Theorem - Change of Measure
+negative discount and zero rate on swap bootstraping
+Correct term for position accumulation relative to price?
+Review of Excel Stock Simulator
+Why can't I multiply two SDE Solutions?
+Sharpe Ratio for loans
+Yahoo YQL missing industry "Industrial Metals & Minerals"
+How to compare market values with model values after calibration?
+How to extrapolate VaR?
+How to compute the historical VaR for a portfolio with long and short positions?
+Yahoo finance inaccurate stock data
+Why didn't my order get filled?
+Simulate from time-dependent copula in MatLab using COPULARND
+Where can end-of-day price volume data for Japanese stocks be downloaded or subscribed to?
+Risk measures, Risk Management and Financial Risk Area
+What Matlab packages to I need as a Risk Analyst?
+Pricing exotic option whose payout depends on the stopping time
+Obtaining logical lists of Bloomberg security codes in Excel
+Maximizing utility subject to a wealth constraint
+Finding Expression for Optimal Markowitz Weights
+Book recommendation on robust optimization
+What are the technical events that fluctuate quoted asset (e.g. forex) prices? How does it relate to the purchase of currency contracts?
+Difference between CAPM and mean variance optimization
+How to find the best fitting GARCH model for a portfolio composed of 3 ETFs in R?
+How consequential are violations of the efficient diversification assumption of asset pricing models?
+How to annualise the volatility of non-iid returns?
+Portfolio Optimization to include ALL Securities?
+Why is this stochastic integral a martingale?
+How does Yahoo finance calculate Beta?
+What do I need to do with my data before fitting the ARIMA model?
+ARIMA model, cannot get rid of low order ACF spike
+To lump or not to lump
+Skew in Black Scholes model
+For futures contracts, do we need to do price adjustment during live testing?
+Calculating "Market Index Dividend Yield" of the ASX
+examples of c++ code with application to quant finance
+Where to get analysts' earnings estimates data?
+Integral-differential equation for forward rates
+Forex P&l Attribution on Physical Forward position
+Importing daily data: '-1' in volume column
+Backtesting software with custom data input
+Can classical economics explain *any* of the so-called stylized facts of finance?
+Arrow-Debreu Price in "The Volatility Smile and its implied Tree"
+Component VaR is additive but at what level
+Variance calculation
+Jensen's alpha with timing activities
+Arbitrage and dominant strategies
+If the risk neutral probability measure and the real probability measure should coincide
+Yahoo currency api
+Critical Appraisal of Approaches countering Parameter Uncertainty in Portfolio Optimization
+Calibration of nested pricing models consistently on two different classes of derivatives
+Geometric Return & Performance Results for Quarterly Rebalancing
+Technical Analysis in FX: literature on effective methods
+Is this process predictable or not?
+Am I in a long or short position in this case? (Cross hedging)
+Python code to download historical firm data
+What are the units of the variables appearing in a standard stochastic differential equation for a Wiener process?
+How does Reuters quote caps?
+Free access to official real-time and intraday data for exchanges
+What are the empirical limitations to testing market efficiency?
+Do we need Feller condition if volatility process jumps?
+Log returns and GARCH models
+Median value for geometric brownian motion simulation
+Which risk free rate is assumed by market when pricing american options?
+Ibrokers: reqMktData extremely slow when adding tickers
+Is there any way to easily estimate and forecast seasonal ARIMA-GARCH model in any software?
+Why Beta Distribution for Credit Migration
+Historical Financial Statement to Backtest in R
+How do I track implied volatility of specific delta?
+How should I interpret MDD and ASD?
+comparing modified VaR to ordinary VaR
+How to use WACC for investment?
+VIX-implied Volatility calculator
+Aren't Technical Indicators calculated on Adjusted Close Price?
+Two correlated time series - driver and follower
+Exercise on American call option and dividends
+Ho and lee derivation for short rates model
+Distinction between "risk factor" and "market anomaly"
+Get: Historic S&P500 Market Cap
+How to price a futures spread option?
+short-sale constraint with nonpositive-definite matrix in portfolio optimization
+Stochastic Volatility CIR estimation
+derivation of heston pde in gatheral
+Multicasting with FIX
+VIX options historical data
+Life annuity and the use of Gompertz-Makeham
+Key rate duration - Bond trading at par
+Best simplified way to model volatility in returns of an investment in a risky fixed income asset
+Credit Rating or Probability of Default from Financial Ratios
+How to compute the implied probability of default from a CDS spread?
+Using Technical Indicators for forecasting Financial time series using Machine learning models
+How to calculate the probability of 2 options ending in money with different expiration dates?
+$\frac{1}{p(T_{i-1},T_i)}(A-p(T_{i-1},T_i))^+$ at time $T_i$ is equivalent to a payment of $(A-p(T_{i-1},T_i))^+$ at time $T_{i-1}$
+Probability distribution and Stock Price Movement
+How market making in Index options is done?
+Asymptotic behavior of theta of vanilla call option
+interbank market rates - missing data
+I have some historical options data, and there are duplicates of some options, how to filter them
+For the Dothan model $E^Q[B(t)]=\infty$?
+Using central limit theorem to test whether population average return is the same, before and after the recession
+Learn backtesting using MATLAB
+Bayesian estimation of asset pricing models
+Who determine Sport rate curve (Yield Curve)
+Bayesian or Frequentist in Finance?
+Why is there onshore and offshore currency?
+Can you use a t-test on bootstrapped Value at Risk (VaR) figures?
+Normalized price process $Z(t)=\frac{\Pi(t)}{B(t)}$
+How to model bracket orders?
+Asset Liability Management Test Topic Interpretation
+Simple value of a Forward contract at an intermediate time question
+Who holds stock overnight?
+Null and Alternative hypothesis for multiple linear regression
+Scan for chart patterns software
+Effect of time to maturity on european put option
+Does unit root stationary imply mean stationary and variance stationary?
+Black-Litterman example
+How to compute the VaR for European Call, using the delta-normal method?
+How can an inverted yield curve in a liquid market exist?
+Portfolio Optimization with Monte Carlo Simulation - How to do it with Excel?
+Ran multivariate linear regression, checked normal probability plot, residuals are not normal. What can I do?
+Value of an option to exchange an asset for another
+Bloomberg Libor Rates
+Can a null be inconclusive?
+Investment: Bond vs Equity
+Gamma is always positive on both put and call
+Parametric/Analytical VaR
+Cointegration Test: Residual is stationary but not random?
+Black Scholes formula with continuous dividend paying stock
+Research methodology of systematic strategies
+CIR model: is the short rate really non-central $\chi^2$ distributed?
+Principal Component Analysis and Yield Curves
+Risk free rate for Performance Analytics
+Chart Correlation warnings
+Feature Selection Effect on Deep Multi-Layer-Perceptron for Financial Applications
+How to calculate Probability of Default from Survival Probability
+Continuity of Black-Scholes formula
+Using Financial Ratios to get credit rating or PD
+Black-Scholes formula with deterministic discrete dividend (Musiela approach)
+Equall Risk Contribution and The Most Diversified Portfolio
+Market price of volatility risk
+Gamma and delta P&L example question
+Commonly used vol surface calibration model in the industry
+Price an option whose strike price is always lower than the future price of the security
+What does NPV ASSENTED after stock name mean?
+Some questions about implied volatilities and how to generate theoretical prices when market prices are not available
+API for after and pre market data
+Why is the price of a call option with $K=0$ equal to the price of the stock $S_0$?
+Term structure of default probabilities without market data
+Should I use a correlation coefficient formula or a multiple regression formula?
+Why Markov Functional Models (Hunt 2000) are not yet so popular?
+Historical Data - Free Sources in 2015?
+Are there any software libraries for backtesting FX algorithms against tick data?
+Do you have a validation set for Libor Market Model implementation?
+Comparing the return of different roll strategies
+How do I specify Thirty360::European day counter in RQuantLib
+Which anomalies are easy to replicate in an event study?
+How can we write swap as a chain of FRA's
+swaption model for forward swap rate
+Black-Litterman with simple portfolio
+Law of large numbers necessary for APT derivation?
+Transaction Costs Measure ATOP: What does it mean and exactly measure?
+Why is Weighted Least Squares necessary in fundamental factor model?
+Martiglale and Brownian Motion
+How can I interpret US treasury?
+Feature for Maching Learning(SVM) in High Frequecy Order Book?
+Question about the stochastic differential equation in the Merton model
+Fixed Income risk attribution in the historical simulation of a sovereign bond portfolio
+I have portfolio volatility for individual years, can I use them to compute portfolio volatiltiy for subperiods?
+I have portfolio volatility for year 1 and for year 2. What is portfolio volatility for year 1 and 2 combined?
+Factor immunization for bond portfolio
+I have volatility of a portfolio in year 1 and in year 2. How do I calculate the volatility over the total 2-year period?
+What is the mechanism of Asian option?
+Any New Discoveries in Quantitative Finance?
+Comparing Portfolio Volatility with Index Volatility seems a wrong method?
+Practical implementation of Libor Market Model
+Deriving the definition of stochastic integrals with respect to Ito processes from first principles
+Volatility updating rule using r
+Where can I find US public company bankruptcy data
+How to download intraday data regarding a particular stock exchange from bloomberg at one time
+Geometric Returns values less than -100%
+Portfolio Optimization - Zero beta portfolio
+Longevity risk modelling
+Why is this delta-hedging/P&L example on a variance swap call correct?
+How to obtain a log of all trades done on the Nasdaq or other major US exchange?
+Using the R package " termstrc "
+What is the the correct treatment while short for the cash in lieu of a reverse split?
+How to price an option on a dividend-paying stock using the binomial model?
+What are the parameters of the function PORTVAR in Matlab?
+Building curves using onshore or offshore JPY overnight rates?
+Real-time market data from the exchanges: what should we be aware of?
+Countries and/or exchanges which don't allow algo-trading
+Black-Litterman, how to choose the uncertainty in the views $\Omega$ for smooth transitions form prior to posterior
+R TTR/RSI does not behave like a Bloomberg RSI
+Order book Limit Order book
+Swapping expectation operator with differential operator
+Implied Volatility Calculation for Deep In The Money Calls, Numerical Issues
+What does it mean to be "long or short in volatility"?
+Is Least Median Squares (LMS) regression commonly used in Finance?
+Non-overlapping ranges of HCNN' observables and of state transition function
+Basket Default Swap (BDS)
+How to calculate the growth rate of a growing annuity?
+Time-independent local volatility
+what is the definition of resetting tenor and time to maturity tenor in libor rates
+Option greeks: sensitivity to 1% move
+Build spot rate curve with multiple treasuries for each maturity
+Is printing money really a bad thing?
+CDS credit spreads vs default probability
+InteractiveBrokers server outage every Saturday
+How to get twice the expected return of S&P 500
+How can an FRA create arbitrage opportunities?
+Is it possible that some types of financial systems can resonate?
+Multi-objective optimization: Where to find qualified examples for portfolio management?
+How to get Multivariate Betas from an Estimated EWMA co variance Matrix?
+generalized black scholes
+In Dupire's paper, why is $(S_t, t)$ in the $(K, T)$ space?
+Why does expected price of OTM option not equal to BS price?
+When are implied and real world parameters the same?
+Magrabe Exchange Option: not equal drifts
+Is the CAPM beta equivalent to the coefficient estimate of an OLS regression?
+What constitutes an "odd lot" in corporate bonds trades?
+Black-Litterman: Why should the views be independent of each other?
+On learning the bayesian approach to portfolio optimization
+Effective & Maturity Date Modified Following
+Which volatility to use to price options on futures contract?
+Why is the vega of an at the money option so insensitive to movements in volatility? I.e, why do ATM options have such little Vomma?
+Volatility Surface Constituents, do's and dont's
+Dixit & Pindyck (1993) Chapter 4, equation 13
+Why random walk Metropolis Hasting algorithm works bad on GARCH(1,1) parameters estimation
+VIX For Convertible Bonds
+Black-Scholes: If exercise probability is 0.5, should $D_2$=0?
+Which sports are generally the best for trading on betting exchanges for a profit?
+Bloomberg equity option volatility data
+Where to obtain Eurex level 2 historical order book data from?
+SEC 13F Security List has incorrect CUSIP numbers?
+Cheapness indicator for Convertibles Bonds
+Constructing Volatility Smile from American Options
+arbitrage opportunity in a two period model
+Straddle neutral strategy
+European vanilla call/put option, when volatility increases, how will gamma changes?
+How to price exotic options using Monte-Carlo?
+Why do we need $dS_t=r S_tdt+\sigma S_tdW_t^Q$?
+Convolution of inverse gaussian and power law distributions
+Interpretation of Correlation Matrix
+Why model the variance-covariance matrix as an inverse-Wishart distribution in bayesian portfolio analysis?
+convention in borrowing money in a multiperiod model
+Impact on bid/offer due to volume/size of trades placed
+Bivariate Black-Sholes Model
+How to get around flat likelihood function when calibrating GBM parameters?
+Q regarding amortization of 500,000 loans
+how to make a nonlinear gird where grid points are not equally spaced?
+On a source for a mean-variance portfolio optimization result
+Calculate spread for pairs trading
+Foreign exchange - Dealer spreads and order size
+Constant Relative Risk Aversion
+Covariance matrix and Cholesky decomposition
+Comparing cost of two alternative given their distribution
+Portfolio choice problem of a CARA investor with n risky assets
+Can wavelets be effectively used to approximate the market value of an illiquid instrument?
+Portfolio optimised for diversification and regular yield. How to hedge?
+What kind of errors arise when I fit ARMA(1,1) to data generated from ARMA(1,1)-GARCH(1,1) process?
+Spread options on prices or returns?
+Get distribution for aggregate loss using Monte Carlo
+How can I create a public viewable stock market index?
+What is Margin of Conservatism
+How to apply the chain rule for partial derivatives to transformations?
+Question regarding sinking fund
+Annuity Duration Based on Closed Derivative is half of Effective Duration?
+Simulating Stock's close, high and low prices
+Time-Varying Copulas (GAUSS)
+Why do we usually model returns and not prices?
+How to get get weekly returns from daily data
+What is the proper discounting of PIK and non-compounding bullet loans?
+constrained portfolio optimization in matlab
+Executions deep in the Limit Order Book?
+Market data for options
+Why the growth of the American Economy is going to cause the Fed to raise interest rates?
+Compute moments of aggregate loss using Monte Carlo
+Getting Parameter of Translated Gamma Distribution from Monte Carlo
+Does DV01 grow proportionally to portfolio?
+Cash flow diagram, interest rate inflow series
+Floating-rate bond
+How to apply the "Knapsack Problem" to minimise a portfolio's volatility?
+How can I forecast future correlation?
+Estimating mean reversion
+How to estimate constrained a constrained VAR(1) with MATLAB?
+The importance of good optimizers in Portfolio Optimization
+Why gamma and theta have opposite signs?
+How to prove the "Law of one price" theorem?
+Is Geometric Brownian Model suitable for long term price forecast?
+How to value a Binary Option using market data?
+Do you have a good application example of Approximate Dynamic Programming?
+Why annualized return and cumultive return aren't equal over 1-year period with Performance Analytics package in R?
+How do I use BIC (Bayesian Information Criterion) to estimated model AR (auto regressive) lag?
+When do CDS curves yield arbitrage opportunities?
+Backtesting on historical option data
+Can I add the greeks of individual postions to obtain greeks for the portfolio
+When the two time series with different length, how could we analysis them with a bivariate GARCH model?
+What methods - inspired by Haavelmo’s Structural Econometrics - can show that a partial equilibrium model is unreliable?
+Copulas simply explained
+What is the difference between BBSW and AUD LIBOR?
+How to hedge a long stock with the corresponding volatility ETF
+Deposit vs. LIBOR rates? (Bloomberg/SuperDerivatives)
+Daily or weekly data?
+Online algorithm for selecting smoothing parameter?
+price engine configuration
+Is CAPM a failure?
+Regime Switching for Dynamic Correlations
+Variance swap replication and variance vega
+Discounting factor depends on
+Bid/Ask vs Low/High
+How to break down an FX option P&L?
+constrained portfolio optimization by fmincon
+Complicated American style option contract with numerous non-standard features (simultanous exercise, additional premium, etc.)
+Bootstrapping zero-rates from AUD swap rates
+biggest rally data collection
+at c(x)% "where x is a numerical figure", what does that c mean?
+Radon-Nikodym derivative and risk natural measure
+Here is an approach for measuring Data Snooping; is it new?
+Actually benefiting from logistic regression to estimate probability of default
+How to pull an exhaustive list of securities traded globally, on bloomberg?
+Reuters RIC chain for Eurodollar midcurve options
+Under what circumstances would one want to delta hedge a straddle
+Quantiles, Value-at-Risk and log normal random walks…
+Computing the minimum variance portfolio
+Conditional expectation of a non stochastic process
+Can the Minimum Variance Hedge ratio be greater than 1?
+Non-Negative Matrix Factorization - Estimating the Mean
+How to pull stock exchange names for a list of tickers, bloomberg?
+Positive VaR when calculation on Total Return Indexes?
+Numerical delta of Bond Options
+Differential equation involving bond price and forward rate
+Heston model with Jumps
+computation involving independent increments
+Method to combine trading signals to achieve higher sharpe
+Share price of Precision Imaging Corporation of America on March 13, 1991
+Why does the volatility smile flatten as maturities increase?
+Show that Z(t)/Z(0) is a positive mean-1 martingale
+What does the "-E" mean at the end of a CBOE options symbol?
+Use of Black-Scholes Model on Guaranteed Fund Investment
+What is the filtration described?
+Incorrect characterization of spot rate?
+Differential of stochastic term
+Forecast 3m LIBOR USD. Budget purpose
+Bayes Stein Porfolio Implementation
+Why is Brownian motion merely 'almost surely' continuous?
+Black Scholes: How does it help to transform uncertainty and still not be able to calculate a fair price?
+De-annualizing a target alpha return
+Why an option has sometimes and implied volatility greater than 100%?
+What is the difference between a book value and a market value?
+forward curve and cap/floors in nowadays environment
+Delta-Gamma Neutral portfolio, derivation issue
+Reputational Harm
+hedging correlated instruments
+Why implied volatility is less for the back month option even though the back month option is more expensive
+Markowitz Mean-Variance Implied Returns
+Why a calendar spread is a preferred strategy in a low volatility period
+Proving there exists no arbitrage opportunities given 3 states and 2 assets
+Correctly applying GARCH in Python
+OIS & LIBOR swap
+How to simulate a CIR process using GPU and Matlab
+How to approximate the time to mean reversion for implied volatility
+Does an Interest Rate Swap has a Vega component?
+Are CME security id's unique and constant over time?
+Stock Returns Distribution in Heston Model
+What is the strike of a short put that mimics a covered call
+Pricing of a call option in one period binomial model
+Please recommend a book regarding Monte Carlo simulation in OAS
+Desperate for help with simple derivative
+Forward Curves and Par Yield Curves
+correlation for portfolio of stocks
+What is the yield on an infinitely lived ZCB?
+If an option went down in value, how much is due to theta decay and how much due to fall in IV
+Does higher vega imply higher IV and vice versa
+Question about historical volatility ranking
+Is it too important that my residuals be normal? I am Using an ARMA/GARCH model
+Dou you have an example of implementing Engle-Granger 2-step cointegration?
+Using Forward Equity Returns to Value Stream of Equity Return Cash Flows
+Technical Indicators reference
+Why theta multipled by days to expiry exceeds the total time premium of the option
+How to manage risk on a call calendar when underlying is falling
+The future language of quant programming?
+Spread over LIBOR on a Equity Swap
+Exercise 2.2 from the book "The concept and practice of Mathematical Finance"
+Why vega increases further out in time
+Has automated trading produced profits at IEX?
+Convert a call spread to a butterfly to mitigate risk
+Does a call calendar lose its entire value if underlying increases well past the strike?
+Stochastic control (HJB) for wealth process involving stopping times
+Are there industry standards form market data server and real time linux kernel?
+VIX Futures data: why happen to have settle price > 0 and Volume = O.I. = 0
+What to use as portfolio diversification measure?
+portfolio optimization with uncertain returns
+How to calculate implied volatility smile of basket using correlations?
+Risk minimization by investing in all assets with positive expected return
+How to filter and normalize market data obtained from distinct sources (FIX 4.4, bloomberg, etc) in an algorithmic trading system?
+How to implement an Interest rate neutral strategy using options?
+How to assess stock price movement from implied volatility?
+What is an appropriate algorithm to use for tax loss harvesting?
+How to estimate parameters of geometric brownian motion with time-varying mean?
+How to test the 5 Factor CAPM of Fama & French (2014)?
+Where can I get equivalent of 3 months libor or swap historical data?
+How to calculate global exposure via commitment approach for FX swaps?
+Stub rate and first fixing in IRS
+What does tradable asset mean?
+Where can one find realistic historical transaction costs?
+How to adjust historical data highs/lows for splits and dividends?
+The role of Gamma in replicating a put
+Pricing of Binary or Digital Options or more generally options with discontinuous payoffs using PDEs
+Is it statistically valid to ignore "irrelevant" stock prices during backtesting?
+Are "American" option strategies traded OTC?
+Fix protocol and Bars
+Exponential weighting of returns
+Local volatility surface corresponding to the implied volatility surface
+Local volatility SVI parametrization
+What are recent important papers on credit portfolio risk modeling?
+What are the properties of Max and Min functions?
+How to implement Konno's Mean-Absolute Deviation Portfolio Optimization Model using LP methods in Excel
+What are pros and cons of mean absolute deviation portfolio optimization?
+How important is the limit order book?
+Can you explain me these comments on high frequency data?
+Conversion stock symbols Google Finance vs. Reuters
+What is the difference between these two Expected Shortfall definitions?
+Market Data Sources Bloomberg Vs Reuter
+Finding relative price strength as defined in CANSLIM stock picking methodology
+MLE estimate of normal distribution
+Historical Daily NAV for Closed End Funds
+Difference between GARCH and Heston Volatility model
+HFT Architecture
+Does anyone know where I can find a free efficient frontier tool, or an informative and legitamate/academic graph of the efficient frontier?
+On the existence of a perfect market with no arbitrage that contains a forward contract
+Determination of Quote / Trade Ratio
+Sharpe Ratio vs Net Profit vs max drawdown
+Lease Accounting / FX Embedded Derivatives: How to Value Floor / Cap Optionality Features
+Book recommendation: math toolkit for quantitative finance and statistics
+How to write a home task report which is part of the interview process for a quant position in a trading firm
+Calculating time value of an option
+Price of an asian option with squared of average payoff
+Basic questions on the yield curve
+Anyone know where I could find a free list of hedgefunds and their strategies...?
+Rich Volatility, Poor Volatility
+CFA (Level 1) schedule after school and working a 9-5 job
+Calibration of Hull White One factor model in F.C.Park paper
+Tangent portfolio weights without short sales?
+Fama French 3 Factor Data
+Bootstrap yield curve with QLNet / Quantlib
+Investing in all assets with positive expected return and allowing for positive correlation
+Fitting transition matrices in R by solving for coefficient
+How to compute the conditional expected value of a geometric brownian motion?
+is there any calibration method to calculate FX forward rate? How Bloomberg define FX forward rate
+What is the use of computing the par yield?
+Alternatives to CDSs for default term structure?
+Does a forward price have a drift component in any measure?
+Right metric to manage a portfolio based on correlation?
+Linear Model setup for Second-pass Regression
+Active or Passive strategy?
+Estimating the next tick movement in Chinese markets
+Markov Pricing kernel
+"The drift of stock price becomes the risk-free interest rate" under RNP
+Downloading Data from Interactive Brokers using IbPy
+List of central index keys (CIK) for NASDAQ and NYSE
+How do I find the Sharpe Ratio?
+possible to estimate if hard-to-borrow?
+is there a limit on how many times i can access fxcm xml feed

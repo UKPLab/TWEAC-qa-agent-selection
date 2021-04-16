@@ -1,0 +1,85 @@
+---
+#Model will be saved here in a new directory
+out_dir: "PATH_TO/results"
+#Optional. Prefix to the new directory name
+folder_name_prefix: optional
+#Directory where preprocessed training/ test data is stored
+cache_dir: "PATH_TO/data/cache/"
+#Optional. Huggingface cache directory
+transformer_cache_dir: "PATH_TO/data/cache/transformer"
+#Optional. Weight file for a previously trained model which will be loaded at the start.
+base_model: "PATH_TO/TRAINED_TWEAK_MODEL/best_model/model.pty"
+#Flag to only load the transformer weights without classifier heads
+base_model_exclude_classifier: False
+#List with the names for the agents
+all_agents: # !!! Order here defines order of classifier !!!
+  [cooking, bicycles, music, math, superuser, puzzling, hinduism, movies, english, travel]
+#For extension of a model with new agents. Indicate that the LAST x agent in all_agents are newly added. The remaining agents where already present in the base model
+agents_extended: 0
+model:
+  version: v2 # TWEAK model. v2 is the default and used in the paper
+  max_length: 50 # max sequence length
+  model: albert #Alternative: bert, roberta
+  model_name: albert-base-v2 #bert-base-uncased, roberta-base, etc. Has to match with model.model
+do_train: True # set False to skip training
+train:
+  freeze_bert: False # only train the heads
+  freeze_extend: False # only train the new! heads (requires agents_extended>0 to make sense)
+  batch_size: 32
+  gradient_accumulation_steps: 1
+  epochs: 4
+  learning_rate: 0.0003
+  warmup_fraction: 0.0
+  max_grad_norm: 1.0
+  weight_decay: 0.0
+  # Truncate the training data for each agent to this
+  truncate: 1000
+  # Truncate the training data for the extended agents to this.
+  extend_truncate: 2000
+  # Resample the examples for the not-extended agents each epoch
+  epoch_resample: False
+  # Common base path for the training data files. Can be a list
+  base_path: PATH_TO/data/stackexchange/train
+  # Mapping between names and files containing the training data. Files can be a list
+  skills:
+    cooking: cooking.stackexchange.com.txt
+    bicycles: [bicycles1.stackexchange.com.txt, bicycles2.stackexchange.com.txt] # example for multiple files
+    music: music.stackexchange.com.txt
+    math: math.stackexchange.com.txt
+    superuser: superuser.com.txt
+    puzzling: puzzling.stackexchange.com.txt
+    hinduism: hinduism.stackexchange.com.txt
+    movies: movies.stackexchange.com.txt
+    english: english.stackexchange.com.txt
+    travel: travel.stackexchange.com.txt
+dev:
+  batch_size: 32
+  truncate: 1000
+  base_path: PATH_TO/data/stackexchange/dev
+  skills:
+    cooking: cooking.stackexchange.com.txt
+    bicycles: bicycles.stackexchange.com.txt
+    music: music.stackexchange.com.txt
+    math: math.stackexchange.com.txt
+    superuser: superuser.com.txt
+    puzzling: puzzling.stackexchange.com.txt
+    hinduism: hinduism.stackexchange.com.txt
+    movies: movies.stackexchange.com.txt
+    english: english.stackexchange.com.txt
+    travel: travel.stackexchange.com.txt
+do_test: False
+test:
+  batch_size: 32
+  truncate: 1000
+  base_path: PATH_TO/data/stackexchange/dev
+  skills:
+    cooking: cooking.stackexchange.com.txt
+    bicycles: bicycles.stackexchange.com.txt
+    music: music.stackexchange.com.txt
+    math: math.stackexchange.com.txt
+    superuser: superuser.com.txt
+    puzzling: puzzling.stackexchange.com.txt
+    hinduism: hinduism.stackexchange.com.txt
+    movies: movies.stackexchange.com.txt
+    english: english.stackexchange.com.txt
+    travel: travel.stackexchange.com.txt

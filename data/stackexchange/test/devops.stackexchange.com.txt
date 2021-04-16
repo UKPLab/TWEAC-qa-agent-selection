@@ -1,0 +1,441 @@
+What are the advantages of using Jenkins over Hudson?
+How to order physical backup of S3 data?
+What's the difference between DevOps and Automation?
+How to change existing policies in an organisation?
+What are benefits of using third party app metrics tools versus custom build tools?
+Why has Hudson been renamed to Jenkins?
+How to deploy a custom build of a Jenkins core plugin?
+How to use cloud-init with Terraform?
+Which SCM tools does Jenkins support?
+How can I keep track of my Cloud Resource use?
+How do you fetch a Jenkins job's artifacts from a remote system?
+How do I include my internal CA certificate to validate SSL exchanges in Chef?
+How do you back up Jenkins jobs & master configs?
+How to get mobile push notifications on Jenkins jobs?
+What does a "DevOps Transformation" contain?
+How to store Jenkins job results and produce a summary report?
+How do you test changes to Jenkins plugins before deploying them?
+What are the different job permissions possible in Jenkins, and what are the reasons you would use each?
+Can I package my application in a .nupkg when creating an application revision in AWS CodeDeploy?
+How to promote build when certain value in output is above threshold?
+How to publish Jenkins job icons externally?
+How do you connect a build node to the Jenkins master?
+Relation of devops with release management
+What are the pro and cons of SnowFlakes Servers, Phoenix Servers and Immutable Servers?
+How to add a new column with custom value extracted from the job?
+Are there any drawbacks of using a deb package as if it was a container to deploy an application?
+How to automate installation of Windows installer on Appveyor CI?
+Is it possible to make a deployment using Travis CI on GitHub commit to the branch?
+How to create a host on a DigitalOcean team with Terraform?
+What is Serverless?
+Is it possible to build Jenkins jobs without using build numbers?
+Is it possible to upgrade Jenkins from Jenkins it-self?
+Which problems does a container orchestration solve?
+How to deploy software every second?
+How to prevent failure from introduced changes?
+How is DevOps related to Agile?
+What is the origin of "Release early and often"?
+How can I manage secrets in .tf and .tfstate?
+What is a good strategy to keep my site online when S3 goes offline?
+What is the difference between SRE and DevOps?
+How to terminate EC2 instance in Jenkins via Vagrant when job is stopped manually?
+How does Cacti compare to Nagios?
+What is "black box" testing?
+How to test provisioning and configuration in Ansible setup?
+Upgrade from job-dsl to Jenkins 2 pipelines
+Ansible playbook for configuring runit to supervise an uberjar?
+Git clean/smudge filters for ansible vault secrets
+To design a blue green deploy how to publish websocket traffic from live to hot swap server
+What role do Configuration Managment tools play in immutable infrastructure?
+How to transition from a complex branching reality to a single-branch model
+How do I work around the fact that AWS SQS is not HIPAA compliant?
+How can I manage changes in desired capacity due to scaling policies in AutoScaling Group state?
+Is DevOps restricted to companies with SaaS products?
+Is cross-region replication 100% fool-proof for S3 region outages?
+Key attributes of Continuous Integration (CI) software
+Is there any way I can rotate AWS KMS keys every time interval < 1 year?
+Can you use `aws-sdk` to store objects in Google Storage?
+How to increase the size of a disk on a running instance on Amazon EC2
+How do I troubleshoot missing data in my Prometheus database?
+What is the difference between Sysadmin and DevOps Engineer?
+How to use feature flag toggles?
+How to automate TeamCity installation using docker?
+How to achieve a smooth transition from “the one big VCS repository for all products” organisation model to the “many small VCS repositories” model?
+How to check Jenkins build executor free memory?
+How to rebuild multiple jobs at the same time in Jenkins?
+How efficiently does GlusterFS deal with failures?
+How to manage Consul and its quorum in auto-scaling environments?
+What are HiveQL limitations compared to SQL?
+What's the difference between checkin and checkout?
+How should I store credentials my application needs?
+What are the steps to inherit and override some parts of a Chef cookbook?
+How to find the constraint in a software development shop?
+Vagrantfile change with Ansible playbook to control file permission on Vagrant synced folder for Trellis
+Is it possible to set CloudWatch alarm for a combination of metrics?
+How to implement the immutable server pattern without loosing the ability to do post-mortems?
+Deterministically and reproducably assign increasing port numbers in Ansible
+What is Value Stream Mapping?
+Is DevOps compatible with ITIL?
+How do you manage your inventory of spot instances on AWS with Ansible
+How to get rid of develop branch for simplified Git flow
+What branching strategies/workflows are available for Git repositories?
+Continuous deployment Angular, PHP Api and Ansible - multisite
+Would choosing the integration branch strategy be part of DevOps?
+Is it possible to trigger an AWS Lambda function directly from CloudWatch alarm?
+How do I run ansible on one host at a time and break on a failure
+How do I automate deployment to Docker with CircleCI?
+How to only allow API Gateway requests to reach our EC2 instances
+How to performance test AWS Lambda functions?
+What are ways to mitigate the effects of Mythical Man Month?
+Simple CI/CD Containers in AWS
+DynamoDB vs RDS for a counter store?
+How can continuous integration scale for very large projects/teams?
+How can Agile methodologies, CI/CD be applied to massive, monolithic software projects with 100s/1000s of developers?
+Is there a CI tool that guarantees no regressions in the branch quality level?
+Which SCM solutions exist for managing mainframe software?
+Problem in integrating Travis-CI with core PHP projects
+How to send notification only in case of job output being non-empty
+Which plugin should I use to get started with Jenkins to manage mainframe components in PDS format?
+How can I validate GoCD configuration before applying it
+Why does development oppose operations?
+Is Elastic Beanstalk suitable for enterprise-grade CD?
+How to safeguard Ansible deployment to mitigate accidents
+Ansible Dynamic Inventory - generate inventory with ip addresses under specific tag with underscore instead of dot
+Which Release Management aspects help explain the difference between Waterfall and Agile?
+How to decide between Rolling Releases versus LTS Releases?
+Does my organization need adopt Agile Soft. Dev. before adopting DevOps?
+What are possible implementations (or examples) of the four-eyes principle?
+How to persuade developers to start using feature flag toggles?
+How is Ansible different from simply running a provisioning bash shell in Vagrant?
+What is a 'Feature Flag Toggle' and when to use them (or not)?
+What are the limitations of Puppet in comparison to Ansible?
+Which ways are there to decouple deployment from release?
+Load balancing Nexus artifact repository
+Usefulness of Hackathons?
+How can I communicate queue-based processing delays to non-technical team members?
+What feature toggle frameworks are available out there?
+What's the difference between feature flags and feature toggles (if any)?
+How to model Man, Machine, Measures, and Process in a DevOps world?
+What is a container?
+Advantages of Linux Containers over Docker
+How can successfully pre-verified changes cause regressions which should have been caught?
+What is a good logging practice for distributed tasks?
+Getting a single revision from Git
+How to measure human utilisation?
+What are immutable servers?
+How to create the smallest working docker image every time?
+How should I best investigate a docker container where the main process has died?
+How to have multiple log streams in docker
+What are some methods to measure the ROI for DevOps?
+Are git pre-receive/update hooks serialized?
+Is there no Oracle JDK for docker?
+How to implement the four-eyes principle for emergency fixes?
+What is the cleanest branching strategy to use when creating reusable artifacts?
+What functional differences are there between kubernetes, rancher, and mesos?
+Why it is recommended to run only one process in a container?
+How to properly scale Jenkins?
+What is an artifact repository?
+How to not "fire and forget" when doing a remote trigger of a Jenkins build?
+How to avoid a regular user can only test in production?
+What can Vagrant, Puppet, Docker, Chef do for a Full stack Web developer?
+What is an artifact (or artefact)?
+How do I hire a good DevOps, fitting my company?
+How to identify yourself on a CV
+How should I store my environment variables?
+How can Jenkins help me to implement CI/CD for Drupal?
+What exactly are "Truly reproducible builds"?
+How can I persuade developers on my team to embrace "You build it, you run it"?
+How does continuous integration relate to continuous delivery / deployment?
+How to implement the manual step at the end of continuous delivery?
+How to avoid continuous integration-caused instabilities in test environments?
+What are the Devops-related conferences happening around the world?
+How to implement a frozen test environment?
+Are there any best practices and/or tools for updating AMIs on a regular basis?
+How to remotely update AMI id in Jenkins EC2 plugin?
+Error connecting to agent: Bad address (Powershell)
+What are further known DevOps operation models?
+How exactly does Kubernetes work?
+How to restrict filesystem access in Atlassian Bamboo builds?
+Why is one not allowed to use a Boolean in a docker-compose.yml?
+Storing encrypted secrets in code for a serverless.com project
+Should I use multiple beats input in Logstash?
+What is "Infrastructure as Code"?
+What strategies can be employed to secure sensitive data in log files?
+What processes or tools enable Segregation of Duties when engineers both deploy and run code?
+What's the relevance of periodicity in CI / CD processes?
+What is "Push on Green"?
+Which university has a good postgraduate DevOps program?
+Who is this Chaos Monkey and why did he crash my server?
+Set up AWS Trusted Advisor alert for Service Limit warnings
+Automating submission to Amazon Marketplace
+How to clean up orphaned AWS EC2 snapshots?
+How can I make use of bash functions in a makefile?
+How does 'Environment Management' work in a DevOps world?
+How to explain devops to non-techy managers?
+How can DevOps help to improve Software Escrow procedures?
+Set a Jenkins job to not to clone the repo in SCM
+Are configuration management tools appropriate to use as deployment tools?
+What is the definition of "cattle not pets"?
+What do businesses that employ multiple development teams use to implement DevOps in a structured manner?
+How to automatically remove a dead node from RabbitMQ cluster
+Why can this ENV not be found when it is defined in one layer using a Dockerfile?
+What are alternatives for Docker in Docker (dind) usage for Jenkins slave running in container?
+Can GitHub's Pull Request model be used for implementing post approvals?
+What are ChatOps approach use cases of production infrastructure management?
+Why is Docker-in-Docker considered bad?
+What Is SecOps?
+What opensource solutions can be used to implement anomaly detection based on Riemann metrics?
+Tool for storing per environment configuration
+Are there any best practices and/or tools for cleaning old Docker images on a regular basis?
+Is Continuous Delivery the Control Framework for DevOps?
+What is Ansible's config equivalent of `--vault-password-file`?
+What are best practices for using Ansible Vault on public CI's and Source Control Repositories like BitBucket?
+How do you calculate the compound Service Level Agreement (SLA) for cloud services?
+What is a "Walking Skeleton"?
+Why trigger something remotely (using Jenkins) and then just forget about it?
+Bitbucket Pull Request Builder Configuration Jenkins
+How to integrate multiple "feature" react apps into monolithic PHP repo?
+Why could the encrypted Ansible files not be decrypted although the vault password file has been set?
+Can I bypass host key checking in Ansible?
+Why is ansible not sending the correct sudo password?
+How to test a cluster of microservices?
+Are there any best practices and/or tools for 'nohup' monitoring?
+Ansible expected paths error
+What Key Performance Indicators (KPIs) are used to measure DevOps?
+How to remove directories and files in another layer using Docker?
+What practices or tools enable Continuous Deployment of Databases?
+What are the main differences between Jenkins and TeamCity if one is used to working with Jenkins?
+How to synchronize deployments (especially of database object changes) on multiple environments
+What are the correct permission settings when running Docker in a Jenkins Pipeline?
+How to manage Free and Open Source Software dependencies?
+How can I autoscale instances based on Kafka topic lag?
+Where can I find professional insights into the impact of DevOps upon SecOps?
+Why does `docker-login` fail in BitBucket pipelines?
+Automation and the .NET framework which tools to use?
+Separate SQL Server or just separate SQL Database for test and production?
+What could be a valid definition of DevOps to introduce it to a novice?
+Continuous Integraton using Jenkins Pipeline for a .NET project
+Is running docker-compose not supported in BitBucket?
+Why shouldn't I try to hire a 'DevOps Engineer'?
+How to capture tools release to trigger upgrade?
+How to include a custom Slack message only on completion?
+Git & Jenkins: get latest green commit on branch
+Upgrading jenkins using chef
+Is it possible to host an ECS cluster with p2 or other GPU instance types?
+Where is the apache2 filebeat module configured?
+How to implement blue-green deployment with one master branch
+Google Cloud Storage vs Redis / ElasticSearch
+Autoscaling containers using local request counters
+Continuous Integration infrastructure for multiple iOS projects
+Open Ports on Google Cloud Load Balancer
+Where does CircleCI-2.0 store the ssh private keys?
+Combine Docker Swarm and Kubernetes
+How to run experimental Docker features on CircleCI
+How to define failure situation on jenkins
+How to backup Amazon Cognito?
+How to test a Terraform Configuration?
+Does TFS Build have something like a Jenkinsfile?
+Terraform apply exit code on error
+Where can I find older versions of GitLab Runner?
+Looking at a Career jump into DevOps and advice or suggested reading
+Is there a way to disable a Jenkins plugin for a single job?
+Cleanest way to prematurely exit a Jenkins Pipeline job as a success?
+How to prevent Azure Traffic Manager from routing over high latency connections in a fail-over scenario?
+Why is the AWS EC2's spot price greater than the on-demand price?
+How to avoid "retry storms" in distributed services?
+How to let build fail when docker image size exceeds certain threshold?
+What is the difference between the traditional Development and Operations Model and Site Reliability Engineering?
+How to use tags in Amazon Web Services and Azure
+How to create a centralised dashboard to monitor multiple cloud (Amazon and Google)?
+How do I detach an existing volume and attach a new volume with Terraform?
+What 'ChatOps' books and resources are available?
+How to check AWS spot pricing automatically?
+How are you enforcing git behavior, including locally (particularly on Windows)?
+How to cache third party resources in a build pipeline?
+Zip/tar a folder using chef resource
+Constructing Dependencies from a Pillar in Saltstack
+Running Ansible no-op's faster with a dynamic inventory and cached facts files
+Using requisite injection to order states
+Laptop Internet connection monitoring
+Where should I put my application configuration?
+How do I configure Travis CI build testing for a Java Eclipse project?
+How to build a complex parallel Jenkins pipeline?
+How to get memory usage per process with sar, sysstat?
+Referencing current variable in Ansible conditional statement?
+What are best practices of structuring encrypting variables since Ansible 2.3.0?
+Best practice when automating Drupal (or other soft) installation regarding database settings
+What processes enable software vendor/supplier management in a DevOps way of working?
+How can I experiment with Cloud (Azure, AWS, Google, etc) without going broke?
+What is a Platform Engineer?
+Assertions and constraints
+How can I develop and support mainframe software without going broke?
+Jenkins Pipeline downstream job; exit unless it hasn't run in the last x hours
+Unable to ssh in a multi-machine vagrant environment
+How can I calculate costs of deploying 1000 instances of Drupal?
+Git seems to recognize http.sslcainfo property from .gitconfig but ignores it on execution? SEC_E_UNTRUSTED_ROOT
+Using gitlab-ci to cache maven repository
+Best way of binary repository for .NET projects
+Windows network share application deployment automation
+Maven command for Sonarqube analysis
+Downloading multple files from remote using chef resource
+How can I automatically post Codefresh build results to pull requests in Bitbucket?
+Javascript based alternative to Fabric
+Jenkins cannot reach nodes after upgrade
+How to improve DRP-testing of SE sites?
+How to ensure equitable distribution of SQS messages in a distributed systems setting?
+Docker Container capacity planning
+Looking for ways to host application in AWS and have it monitored using opensource
+What are best practices of deploying docker-compose using Ansible?
+How to get environment variables in ECS container?
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree
+Use Vault SSH OTP backend with Jenkins
+What is a Notes Day and can it be used in DevOps transformation?
+Pass string to Jenkins job from Slack
+Reconciling Continuous Deployment with strict change management policies
+Jenkins Artifactory plugin not downloading in multi-thread
+Ansible sporadic errors with Windows machines
+Execute the whole Playbook serially
+How do I dynamically take variables from previous plays in Ansible?
+Changing the build intermediate paths for gitlab-runner
+Bamboo (ANT task): Why does FTP work for some files but not others?
+Problems with integrating Python script in a Bash script Git pre-receive hook
+How to prohibit access to internals of Docker container?
+chef database cookbook deprecated
+Jenkins Pipeline job; proper quoting for slackSend step
+Using Artifactory plugin in Jenkins declarative pipeline
+Memory being abruptly freed up every day at about the same time
+How to remove a non-existing GitHub Ansible role from Galaxy?
+error: exportArchive: The operation couldn’t be completed. (IDEDistributionErrorDomain error 3.)
+Assign DNS name to Docker Swarm containers with public IPv6
+How to insert a minion Powershell variable into Salt Pillar or Mine?
+Unable to create databags in chef
+Site monitoring browser-only tool running in frontend only?
+How to avoid interactive dialogs when running "apt-get upgrade -y" in Ubuntu 16.04 when packaging with Packer?
+Pros/cons of discontinuing a DevOps workflow?
+Can I rename an RDS instance?
+Where to Store Container Configuration
+Sensu TCP Connection Issue
+How to create a database backup using docker-compose
+How to examine Jinja output in Saltstack?
+Docker Compose; Avoiding duplicity when Webapps depend on common microservices
+How to track changes to AWS settings?
+What is the difference between using brackets (`[` `]`) and just specifying the command in the CMD option in Dockerfiles?
+What is the simplest way to list which attached disks are encrypted (and which not) on AWS?
+Amazon ECS Basic Definitions and Terms
+Deriving an item value from a structured file in Zabbix
+Is Docker right for my use case?
+What Puppet modules do include best practices regarding CI and rspec-puppet like Geerlingguy's Ansible roles?
+How can I get a list of encrypted disks for instances that are running on the AWS CLI?
+Alarms management with Elasticsearch and Kibana
+Rerun of Bamboo jobs on commit
+Windows Container (Nano Server) with ASP.NET Core
+How do you monitor Node Micro services running inside of Docker Containers?
+What are known component intelligence tools?
+What's the difference between travis-ci.org and travis-ci.com?
+Jenkins Promote Build across different pipeline?
+Is there evidence to suggest that the Docker/Hashicorp ecosystem requires a higher calibre of software development engineer?
+Jenkins pushing to branch overwrites commits made in interim
+What is the best way to do REST with puppet?
+User management using chef
+How does using packer and terraform in a CD pipeline compare to docker images built from git?
+How to get the ARN for an arbitrary Amazon Resource?
+What is the proper relationship between rollback/rollforward and MTTR metrics?
+Disable a Jenkins pipeline on failure? Issue with a central deployment job
+Baking Immutable Images
+How do I configure SSH keys in a Vagrant multi-machine setup?
+How can I share a (global) variable between salt states?
+Connecting to a Windows machine with Ansible
+In what all cases would one use an external load balancer over the Ingress routing mesh in a Docker cluster?
+SaltStack and Vagrant adding files
+Salt Stack environments ignoring saltenv
+When would I choose IPTables over an Ambassador pattern for port forwarding?
+Does the "cattle not pets" distinction apply as equally to machine instances as to containers?
+Who redirect ports on Windows to access http container?
+openshift fails to deploy jenkins
+What are best practices to implement Gatling in CI?
+Debug BackendConnectionErrors from Kubernetes Service LoadBalancer sesrvice
+Force script to fail if "npm install" has network issues
+What is the ec2 cli command to modify the minimum number of nodes in a scaling group?
+How to ensure that removed allowed ports will be removed using Ansible's UFW module?
+Is there an ansible module that check whether a port is not in LISTEN state?
+How Do I Log Task Output To A File?
+Securely grab minion ID in pillar top file template?
+Hosted CI/CD for iOS that's not in the US?
+Vendoring - what is it?
+What are the reasons Docker should not be used for databases?
+How to hook up Jenkins to Endevor?
+Application calling AWS internal load balancer in same subnet is timing out
+What courses would be useful for a DevOps Engineer?
+Terraform - resource repeated multiple times
+What are best practices to override complete sections using docker-compose?
+System test frameworks for scale testing on physical and virtual systems
+Bitbucket Webhook plugin for Jenkins - differentiate between branches
+How to detect what interface has private IP in Ansible
+How to mark a check as warning or error if a check fails multiple times within a certain time range using Sensu?
+What is recommended books reading order offering thought leadership to read on DevOps to go from beginner to expert?
+Jenkins shows the job as failed if there is nothing to commit to gitlab
+What are formal criteria for establishing declarative pipelines, or pipelines as a code?
+How to export Cucumber Reports via Jenkins Pipeline
+What are feasible quality criteria for Git repositories?
+Terraform: How to use a variable inside of another variable?
+How do I write a buildspec.yml file?
+Looking for a tool to static code analyse
+Is it possible to build docker images using docker-compose concurrently?
+What is the difference between packages and artifacts?
+How to performance test websites using Gatling that are encrypted using Certbot?
+How to login using serverspec using ssh key?
+Playbook without relative path to vars
+Deploying a set of cloud instances based on a list of parameter differences
+Jenkins Testing PR's - allowing broken builds
+What is, or could be the formal and/or officially established definion of a "stage"?
+What are known efforts to establish DevOps ontology model?
+Does full automation still provide a better ROI at small scales?
+How to get eth1 ENI on AWS Instance to Respond to NodePort Requests?
+Octopus Deployment - only deploy some specific folders
+Understanding how Docker volumes work with compose
+Is DevSecOps indeed a new practice worth a professional term?
+Docker memory storage
+If I set up a Travis CI agent, will it be independent of Travis's existing infrastructure?
+"Software Development" which environment is it: Manufacturing or Projects?
+Unable to get jupyter/scipy-notebook running on docker
+What are the responsibilities of a project manager in a DevOps project?
+Which organization types are targeted by DevOps transformation?
+What tools do you use to monitor applications and business-specific data? (apart from Jenkins)
+Build user for Visual Studio Online
+docker-compose invalid type, it should be a string
+Is the use of ChaosMonkey restricted to AWS?
+How do I launch Lambda in my own VPC?
+How to scale-down in a multi-tenant environment?
+How to change PagerDuty incident name?
+What are known useful and misleading memes in the DevOps culture?
+Dynamic YAMLs for Docker Compose
+How to stop VPN connection started from Jenkins?
+AWS Storage Cost for a custom AMI
+Connect Docker container to both host and internal bridge network
+What is good and/or bad about Accenture's Multi-speed IT approach to DevOps?
+What is Systems Thinking?
+Scope for one click deploy
+Does load balancer F5 support CasC (Configuration as Code)?
+How to visualize dynamic microservice architecture running with Consul?
+Scaling issues with Nagios as CaSC
+Delivery in a SalesForce environment
+How to automate control of synchronization between Maven artefact version and Git tag?
+Release/file sharing service
+How does dependency management for Node.js differ from Maven?
+What is the message of this picture?
+What is the future role of tester?
+Installing phantomjs karma launcher in Ubuntu-Docker context
+1 second system engineering work cycles: educated workflow setup for Docker-driven development
+Different execution contexts for same POM - use properties files?
+What are the pros and cons of running application testing during vs. after a docker build?
+How to recreate GCP Preemptible VMs behind LB before they expire?
+Can I run Chef/Puppet server from Azure and manage my on-premise infrastructure?
+Best learning resources for continuous integration tools like Jenkins
+puppet module manage policykit rule on Ubuntu 16.04
+Conflicting Kubernetes CPU usage & Docker Container Metrics
+How can I deploy an AWS Lambda function from Jenkins?
+What is the best way to find the Auto Scaling Group of an ECS cluster?
+Running a background process in Pipeline job
+Backup Jenkins log files to external cloud storage
+Persistent Storage with Docker in Production - Which Solution and Why?
+How to make custom SLES (SuSe Linux Enterprise) Dockerfiles?

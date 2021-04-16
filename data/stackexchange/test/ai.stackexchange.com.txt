@@ -1,0 +1,567 @@
+What is "backprop"?
+How does noise affect generalization?
+How to find the optimal number of neurons per layer?
+How to program AI in Mindstorms
+On the intelligent agent definition of intelligence
+Why does Stephen Hawking say "Artificial Intelligence will kill us all"?
+What is fuzzy logic?
+Can a single neural network handle recognizing two types of objects, or should it be split into two smaller networks?
+Is the Turing Test, or any of its variants, a reliable test of artificial intelligence?
+What is "early stopping" in relation to AI, and why is it important?
+What is the concept of the technological singularity?
+What are the methods of optimizing overfitted models?
+How could emotional intelligence be implemented?
+Is a genetic algorithm an example of artificial intelligence?
+What is the difference between artificial intelligence and machine learning?
+To what extent can quantum computers help to develop Artificial Intelligence?
+What is a Markov chain and how can it be used in creating artificial intelligence?
+What is the "dropout" technique?
+Can the IQ of an AI program be measured?
+What is the purpose of the hidden layers?
+When did Artificial Intelligence research first start?
+How can generalization error be estimated?
+Is it possible to implement reinforcement learning using a neural network?
+Does the recent advent of a Go playing computer represent Artificial Intelligence?
+Who first coined the term Artificial Intelligence?
+What are the main problems hindering current AI development?
+What kind of problems require more than 2 hidden layers?
+What were the first areas of research and what were some early successes?
+What are the real world uses for SAT solvers?
+What genetic algorithm designs are there that includes models of epigenetics?
+Is the pattern recognition capability of CNNs limited to image processing?
+What is the difference between strong-AI and weak-AI?
+What's the state of the art w.r.t research on the legal aspects of Artificial Intelligence?
+Is Lisp still being used to tackle AI problems?
+Specific requirements of the Turing Test
+What are some examples of statistical AI?
+What is the relation between optimality theory and AI?
+Are methods of exhaustive search considered to be AI?
+How is a deep neural network different from other neural networks?
+Why does unsupervised pre-training help in deep learning?
+Are search engines considered AI?
+How is it possible that deep neural networks are so easily fooled?
+What is the significance of weights in a feedforward neural network?
+What is Deep Network?
+What are some examples of Classical AI?
+Can artificial intelligence be thought of as optimization?
+What are the main advantages of using declarative programming languages for building AI?
+Can rule induction be considered a way to "hybridize" probabilistic / statistical approaches and symbolic approaches?
+How could self-driving cars make ethical decisions about who to kill?
+Which machine learning algorithm is used in self-driving cars?
+What's the difference between hyperbolic tangent and sigmoid neurons?
+How can fuzzy logic be used in creating AI?
+How does Lucas's argument work?
+Does the Chinese Room argument hold against AI?
+What are the main differences between Deep Boltzmann Machines and Deep Belief Network?
+Number of input variables for a cellular automaton (was: Squares or hexagonal?)
+Does this argument refuting the existence of ultraintelligent machines work?
+What is the relevance of AIXI on current artificial intelligence research?
+In what ways can connectionist A.I. be integrated with GOFAI?
+Can we ever achieve hypercomputation using recurrent neural networks?
+What limits, if any, does the halting problem put on Artificial Intelligence?
+Can DeepDream produce a "dream" from 3 images?
+Why is the generation of deep style images so slow and resource-hungry?
+Can autoencoders be used for supervised learning?
+Is it possible to train the neural network to solve math equations?
+Are there any computational models of mirror neurons?
+What artificial intelligence strategies are useful for summarization?
+Is it possible to apply deep dream technique for the audio streams?
+Why would neural network dream scenes mirror the hallucinations people experience when they're tripping?
+What are the challenges for recognising the handwritten characters?
+AIs' self-evaluation threshold
+How can the multiple intelligences model be incorporated into AI?
+How can we build word embeddings for a language?
+Optimal number of layers in a neural network?
+Are there emergent models of time in robots?
+Does a quantum computer resolve the halting problem and would that advance strong AI?
+What was the first machine that was able to carry on a conversation?
+Is there a strong argument that survival instinct is a prerequisite for creating an AGI?
+What research has been done in the domain of "Identifying sarcasm in text"?
+How can you simulate level of curiosity for a chat bot?
+How to write C decompiler using AI?
+Can abstractive summarization be achieved using neural networks?
+What's the most suitable format to store huge number of neurons states?
+How does DeepQA analyze natural language?
+How to store datasets of lexical connections?
+Which objective tests have been developed to test the intelligence of AI?
+How to resolve lexical ambiguity in natural language processing?
+How does unsupervised learning model learn?
+How would we know if AI development will continue to be multipolar, or will become monolithic?
+How could AI be used to augment human biological intelligence?
+What are the approaches to predict sequence of π numbers?
+What is the difference between MLP and RBF?
+Are neural networks and its variants the only way to reach true artificial intelligence?
+Are there any microchips specifically designed to run ANNs?
+What exactly are genetic algorithms and what sort of problems are they good for?
+Has an AI ever solved a detective mystery?
+What are the limits to what can be learnt using a backpropagation neural network?
+Issues with and alternatives to Deep Learning approaches?
+Is it possible for 'unsupervised learning' model to recognize features on unlabelled images?
+Which ANN can mimic biological neurons the most?
+Are there any studies which attempt to use AI to guess the human emotion based on the brainwaves?
+Artificial Intelligence on the blockchain
+Did Minsky & Papert know that multilayer perceptrons could solve XOR?
+Can we destroy artificial general intelligence without its consent?
+How much of Deep Mind's work is actually reproducible?
+How does Hinton's "capsules theory" work?
+What are the advantages of complex-valued neural networks?
+How does "novelty search" work?
+How to distinguish AI modeling from implementation?
+Do you need single or multiple networks to detect multiple faces?
+Can PHP be considered as a serious programming language for AI?
+What are the dangers of AI applications for nuclear industry?
+Is AI capable to replace pilots entirely on the commercial flights?
+How powerful a computer is required to simulate the human brain?
+What would happen if someone jumped in the front of a Google car?
+How does artificial intelligence work in games?
+Is there a way to define the boundaries of the optimal size of a training set?
+How important is true randomness in AI designs?
+Does learning content from additional encyclopedias consume much less amount of storage?
+How does Watson find and evaluate its evidence to the answer?
+Are Asimov's Laws flawed by design, or are they feasible in practice?
+Are there any textual CAPTCHA challenges which can fool AI, but not human?
+How can the EQ of an AI program be measured?
+How does "Monte-Carlo search" work?
+Has any research been done on DNN Music?
+How to avoid falling into the "local minima" trap?
+Is it beneficial to represent a neural net as a matrix?
+Is it ethical to implement self-defence for street walking AI robots?
+How likely is it that Watson-like AI will replace Wikipedia-like encyclopedias?
+How does the Jetson AI write its screenplays?
+Are there any learning algorithms as powerful as "deep" architectures?
+Predicting chemical reactions using AI
+How can I plan the topology of a neural network for a given "random" problem?
+What are the most challenging tasks aiming to achieve the lowest error rate?
+How do Google cars recognize the traffic signs?
+Are there any artificial neuromorphic systems which can mimic the brain?
+Why can't OCR be perceived as a good example of AI?
+Are there any AI that have passed the MIST test so far?
+Can we prove that a piece of code in AI software will cause it to never turn against us?
+What does "death" intuitively mean in the paper "Death and Suicide in Universal Artificial Intelligence"?
+Do specific units exists for measuring the intelligence of a machine?
+What kind of body (if any) does intelligence require?
+What is the current state-of-the-art in Reinforcement Learning regarding data efficiency?
+How close are we to creating Ex Machina?
+Is there any artificial intelligence that possesses "concentration"?
+How can thousand-robot swarm coordinate their moves without bumping into each other?
+How Watson can help to make medical diagnoses?
+How machine learning can help with sustainable development and biological conservation?
+Is Deep Blue superintelligent or not?
+What kind of education/expertise is required for researchers in AI?
+What are the most pressing fundamental questions and gaps in AI research?
+Is recursion used in practice to improve performance of AI systems?
+Illustration of Von Neumann's Minimax theorem in games?
+Has the Lovelace Test 2.0 been successfully used in an academic setting?
+Can ConvNets be used for real-time object recognition from video feed?
+How to classify language as friendly or aggressive with AI?
+Are Siri and Cortana AI programs?
+What is the difference between AI and robots?
+How exactly does a validation data-set work work in machine learning?
+Is reinforcement learning needed to create Strong AI?
+How successfully can convnets detect NSFW images?
+Do scientists know what is happening inside artificial neural networks?
+How many neurons would a network have after a training of 100k small images?
+How can action recognition be achieved?
+In LSTM text generation can low amount of training data be compensated?
+How to separate image recognition from logic?
+How close we are to replacing guide dogs with AI?
+Why did a Tesla car mistake a truck with a bright sky?
+What are the benefits of the VGDL over the ALE?
+How to deal with huge branching factors in real-time?
+Why did AlphaGo lose its Go game?
+Is it possible to cheat facial recognition algorithm?
+Training network to detect spelling mistakes
+What are the ethical implications of creating (possibly sentient) AI systems?
+What are the minimum requirements to call something AI?
+Which neural network has capabilities of sorting input?
+How can genetic programming be used to prevent cyberterrorism?
+What is the difference between abstract, autonomous and virtual intelligent agents?
+How could Deep Blue possibly cheat?
+What is the Control Problem?
+Could a Boltzmann machine store more patterns than a Hopfield net?
+Is Prolog still used in AI?
+How do I know when to use which Monte Carlo method?
+How exactly is the value of each node determined? Is it the same formula throughout the network?
+Which techniques can achieve neural doodle in real-time?
+How do evolutionary algorithms have advantages over the conventional backpropagation methods?
+Using AI capabilities for coding review
+Why is cross-over a part of genetic algorithms?
+Could curiosity improve artificial intelligence?
+How does Google's self-driving car identify pedestrians?
+Would Google's self-driving-car stop when it sees somebody with a T-shirt with a stop sign printed on it?
+Once self-driving cars are perfected, will they replace manually driven cars?
+Is there any board game where a human can still beat an AI?
+Why does my NN not classify these tic tac toe pattern correctly?
+Are there any results on how difficult certain languages are to learn for chatbots?
+What technologies are needed for a self-driving car?
+Asking for references regarding the question "Is a concept of personality useful for Strong AGI?"
+What are the minimum requirements to call something artificial neural network?
+Research for misbehavior detection in WiFI networks
+Which learning algorithms are suitable for data leakage detection and prevention?
+What are the approaches to teach AI to how to render html page based on its source code?
+What are good APIs out there for (untrained) intent detection?
+How do autonomous robotic vacuum cleaners perceive the environment for navigation?
+How can artificial intelligence (including deep learning algorithms) find suspicious patterns in the body’s biochemistry?
+Why would someone want to simulate emotional desicion-making within an AI?
+What are the practical considerations of using a genetic algorithm to decide the structure of a neural network?
+Can neural networks be better than human experts at prediction of greyhound racing results?
+Have any chatbots fooled the judges and won the Loebner Prize Gold medal yet?
+Given enough computational resources, do we currently have any algorithms which could achieve AI?
+What are the current approaches for AI to learn a foreign language just from English books?
+Is it possible to implement Asimov's Three Laws of Robotics?
+How to achieve recognition of postures and gestures?
+What are the criteria for a system to be considered intelligent?
+How does using ASIC for the acceleration of AI work?
+What would the Valkyrie AI robot do on Mars?
+How do Artificial Neural Networks store data compared to Biological Neural Networks?
+Are there any DeepQA-based computers other than Watson?
+What is predicate argument recognition?
+How does Wit.ai convert sentences into structured data?
+How does 'Bright score' assess how strong the connection is between users and their jobs?
+How does Pinterest decipher what's on unmarked pictures and categorize them?
+How does Wolfram's Image Identification Project work?
+How to make convnets aware what the image actually is, not what is depicted on it?
+What are the necessary components to make AI agent self-programming-capable?
+What purpose would be served by developing AI's that experience human-like emotions?
+Applications of CNN for detecting crime from video surveillance cameras
+Selecting the right technique to predict disease from symptoms
+What is Statistical relational learning?
+What can be done to correct for sampling bias introduced from (noisy) training data while training a DNN?
+What non-math/CS classes are good supplements for computational neuroscience and/or linguistics?
+Why was ELIZA able to induce "delusional thinking"?
+AGI official government reports or regulations already in place
+Getting to understand continuous state/action spaces MDPs and Reinforcement Learning
+What is the difference between machine learning and deep learning?
+How good is AI at generating new, unseen [visual] examples?
+What are Hyper-heuristics?
+What is the difference between an agent function and an agent program?
+Are there any anthropological studies involving AI right now?
+Could a paradox kill an AI?
+Human-like general intelligence vs. task-specific algorithms: when people realized these are two different goals?
+How can thought vectors be used outside of an Artificial Neural Network (ANN) context?
+How to represent a large decision tree?
+Using feature learning for a medical text classification problem
+What methods could an AI caught in a box use to get out?
+Have any AI systems yet been developed that can knowingly lie to / deceive a human?
+Can an AI make a constructed (natural) language?
+Monte Carlo Tree Search: What kind of moves can easily be found and what kinds make trouble?
+Why would an AI need to 'wipe out the human race'?
+Who are thought leaders in the chatbot space?
+Power efficiency of human brains vs. neural networks
+Why did "Artificial Intelligence" stay intact as a coherent, unified field of study?
+How to replicate legacy systems with machine learning?
+What is the difference between artificial intelligence and cognitive science?
+Differences between backpropagation techniques
+Should I use anthropomorphic language when discussing AI?
+Is anybody still using Conceptual Dependency Theory?
+How to start learning about artificial intelligence?
+Memory intensive local search methods
+What is the best .net programming language for artificial intelligence programming?
+Why is search important in AI?
+Emulating human brain - with analogous NN chips
+Are ANNs just highly distributed lossy compression schemes?
+Is consciousness necessary for any AI task?
+Is anybody still researching GOFAI?
+State representation of position in 2D plane for Reinforcement Learning (Q Learning)
+What are the steps to follow to learn artificial intelligence?
+What is a good way to create an artificial self-recognition?
+How does deepmind's Atari game AI work?
+Recurrent neural networks with hidden layer
+Is it possible for visual systems in AI to have Inattentional Blindness?
+Are FFNN (MLP) Lipschitz functions?
+If mankind can create artificial life in a machine, when would we define it's death?
+Can programming cause passive or aggressive behavior in AIs?
+When we create artificial life and artificial intelligence will we require it to obey human laws?
+Assuming an AI can die, who manages the state?
+What kind of road/weather conditions can AI-driven cars can deal with, as of 2016?
+Has anyone thought about making a neural network ask questions, instead of only answering them?
+What AI concept is behind the Mars Exploration Rover (MER)?
+What are some techniques/method that can be used to train and detect objects like cars and humans?
+Are there any ongoing projects which use the Stack Exchange for machine learning?
+How could we define passion in a machine in reference to Artificial Intelligence?
+Can we create AI to not only recognize itself, but to recognize other AI systems as well?
+If IQ is used as a measure of intelligence in humans could it also be used as a measure of intelligence in machines?
+How would an AI learn language?
+Would a sentient AI try to create a more optimised AI which would eventually overtake AI 1.0?
+Do deep learning algorithms represent ensemble-based methods?
+Are Convolutional Neural Networks better than existing image recognition libraries that don't use CNNs?
+How to classify data which is spiral in shape?
+Is there a trade-off between flexibility and efficiency?
+Which neural networks can be used only for storing and retrieving information?
+ResNets. Ensemble or depth makes residual networks strong?
+Simple text recognition with neural network
+What are the flaws in Jeff Hawkins's AI framework?
+How can neural networks deal with varying input sizes?
+Are there any artificial intelligence systems with an internal dialectical approach and multiple minds which develop within a community of nodes?
+Could an AI think laterally while avoiding "ethically suboptimal" choices?
+How exactly does Angelina design games?
+What is the calcium equivalent role in neural networks
+Must people tell an AI which algorithm it should use? Can an AI learn algorithms by itself?
+Is a subset of a problem solution, used to recreate complete solution considered a heuristic?
+When using neural networks to detect features in an image, how can locate that specific feature in the original image?
+Wouldn't an AI that specializes in making other AI be an AGI if they can cooperate?
+What jobs cannot be automatized by AI in the future?
+Artificial writing system
+Feasibility of sorting a basket of clothes in the real world
+Wisdom representation?
+Is the AI Effect caused by bad tests of intelligence?
+How will an AI comprehend the ethics of "right" and "wrong"?
+What is good way of start learning AI step by step?
+Can an evolutionary algorithm adapt to a changing environment?
+Genetic algorithms and isolating part of population
+Given unlimited time and a perfect fitness function, could a genetic program solve any problem?
+Is AI programming useful in everyday programs?
+Is it possible to create a 'logic system' equivalent to humans?
+How can one intuitively understand generative v/s discriminative models, specifically with respect to when each is useful?
+What is the most abstract concept learned by a deep neural network?
+Is AI living or non-living?
+What sort of game problems can Neural-Networks and Genetic Algorithms solve, and how are they typically implemented?
+How can AI help developer to develop things
+How can we create an AI to develop mobile apps?
+Is there any simple testing data?
+What is the definition of artificial intelligence?
+Why are autonomous cars categorized as AI?
+Advantages of having self-driving cars
+AI becoming sentient plausibility?
+How would Deepmind's new "differentiable neural computer" scale?
+AI Completeness - Testing
+Why do self-driving cars use radar? Couldn't they use LIDAR for everything radar does?
+What would the commercial application of a conscious AI look like/be?
+How can an AI system develop its domain knowledge? Is there more than just Machine Learning?
+In 2016, can $1000.00 buy enough operations per second to be approximately equal to the computational power of a human brain?
+How to create an AI snake for a video game?
+Is Artificial Intelligence restricted to electrical based technology?
+Was DeepMind's DQN Atari game learning simultaneous?
+Is it possible to build human-brain-level artificial intelligence based on neuromorphic chips and neural networks?
+Turing complete languages for self improving program?
+Will it ever be possible to construct a neural network that could have the features of human brain?
+What is the purpose of hidden nodes in neural network?
+Arbitrarily big neural network
+How do generative adversarial networks work?
+When will the AI can replace developer or tester
+Board/Card Game AI - Questions concerning state/action space - Deep Reinforcement Learning
+What is a time-step in a Markov Decision Process?
+Intelligent vision and gestalt processing
+Why would neural networks be a particularly good framework for "embodied AI"?
+How q-learning solves the issue with value iteration in model-free settings
+Why is Lisp such a good language for AI?
+What resources are good for learning to program AI?
+What is a deceptive trap function in the context of testing a genetic algorithm?
+What does the term "closed expression" mean?
+Network representation for Q-Learning in carrom
+Were there known tests done on two or more AI interacting together?
+Where should I start learning about AI?
+Can an AI be sentient?
+Is it possible to create an atom in Java
+Giraffe Chess - High Level Assessment
+Building Profile Based Off Speech Patterns
+What would be the best way to disable a rogue AI?
+Could an AI feel emotions?
+CNN for detecting not just the nature of the object, but position within image as well
+Is it ethical to create a chatbot to answer questions on Stack Overflow?
+What is the most sophisticated AI ever made?
+How to calculate entropy for an ID3 decision tree?
+Retrieving answers for general questions
+What is the most effective way to build a classifier?
+What linear rectifier is better?
+What are the top artificial intelligence journals?
+How to find proper parameter settings for a given optimization algorithm?
+Can the English language ever be generalized using a set of grammar rules?
+Must AGI lead to ASI?
+Which are the good tools, similar to ChatScript, for building chat/sms based bots?
+A* Algorithm undefined name error
+On essential humanlike drives and intelligence
+When will the number of neurons in AI systems equal the human brain?
+Knapsack of mixture with constraints
+When will artificial intelligence equal human intelligence?
+How does A* search work given there are (more than) two goal states?
+Could artificial intelligence cause problems for humanity after figuring out human behavior?
+Are ReLUs incapable of solving certain problems?
+Is the QuickDraw with Google neural net a convolutional neural network?
+How can a general AI determine/verify what is true/real?
+Would an AI with human intelligence have the same rights as a human under current legal frameworks?
+Is a Sobel filter for edge detection a type of Cellular Neural Network?
+What are the most important components in the algorithm of a minimum AI?
+How to convert string to number and number to string efficiently?
+boltzmann machine; from logistic function to boltzmann distribution
+Using ConceptNet5 to find similar systems to solve specific problems?
+Will AIs make most of the scientific discoveries in 50 years?
+What are general ideas behind OpenCog?
+iOS/Android Neural Network App
+Are Cellular Neural Networks one type of Neural Networks?
+Is it possible for an AI to work in a computer without the power cord being plugged in?
+Dataset containing images of varying dimensions and orientations
+How many nodes/hidden layers are required to solve a classification problem where the boundary is a sinusoidal function?
+Negative reward (penalty) in policy gradient reinforcement learning
+How can we connect artificial intelligence with cognitive psychology?
+Is there an efficient way to implement a random crossover of individuals stored in a matrix?
+Why is the Universal Declaration of Human Rights not included as statement on the AI?
+Can programs like AlphaGo be said to be means of dealing with computational intractability?
+Difference between Reproduction and Crossover in Genetic Algorithm
+What techniques can be used to predict future attendance of students for a particular subject lecture session?
+How close have we come to passing the Turing Test?
+Importance of Sanskrit
+How is it possible for an AI to interact with someone without a computer screen?
+Can I categorise the user input which I get as free text?
+Is it possible to train deep learning agent to pass a multiple-choice exam?
+Which methods or algorithms to develop a learning application?
+Should intelligent AI be granted the same rights as humans?
+What could possibly replace artificial intelligence?
+What are different actions in action space of environment of 'Pong-v0' game from openai gym?
+How to efficiently interpret phrases in a Python AI?
+Are CRUD webapps today the modern version of the "expert system"?
+How to determine the probability of an "existence" question
+Are probabilistic models dead ends in AI?
+Perceptron learning
+How could human behavior and relationships be implemented?
+How to train a chatbot
+Could there be existential threats to humanity due to AI?
+How to make a bot to learn from previous games
+Neural Networks unmatched on MNIST?
+How to detect an emerging A.I
+How can a virtual reality system be made artificially intelligent?
+Are AI researchers more likely to follow "conservative anthropocentrism" or "post-human fundamentalism" in deciding whether AI has moral standing?
+Good books to read on Artificial/Recurrent Neural Networks?
+Is the advent of a technological singularity a solution to the Fermi Paradox?
+Why teaching only searching algorithms in a short introductory AI course?
+Are we supposed to "decide" ethics for Intelligent Systems?
+Can an AI be killed in an infinite loop?
+Whats the name of the value that you add or subtract from a minimax tree node?
+What is the difference between a Hopfield Network and a Neural Network or a Perceptron?
+What kind of algorithm is the Levenberg–Marquardt algorithm?
+What makes neural networks so good at predictions?
+Why do activation functions need to be differentiable in the context of neural networks?
+How do you generate the transition probabilities of a non-trivial MDP?
+What techniques are used to make MDP discrete state space manageable?
+How do you explain Hebbian Learning in an intuitive way?
+Define rules for the predicate
+Concept of AI program
+Understanding the perceptron algorithm in the book "A Course in Machine Learning"
+Is there anything novel about Zuckerberg's Jarvis?
+Perceptron vs Naive Bayes
+How close are we to having an AI that can play Magic: The Gathering objectively well?
+Could style transfer be used to transfer the style of a website from one to another?
+Is there a proof that states that an AI can become smarter than its creator?
+Backpropagation in Decoupled Neural Interfaces
+Game AI without evaluation function
+Is it possible to design a Neural Network from feature plots?
+Are there any refutation of the original Lovelace Test?
+Making a simple ai like Jarvis
+Terminology: DBN vs stacked RBM
+Why doesnt my Neural Network work?
+How to decide Linear Separability in my Neural Net work?
+Conversational agent,query
+Feasibility of generating large images with a convnet
+What kind of Algorithm is used is StackGAN to process realistic Images
+Confusing Matlab Artificial Neural Toolbox script
+With gradient descent w/MSE on a regression, must/should every Epoch use the exact same training samples?
+Neural Network learning to play Connect 4
+Use ConvNet to predict bitmap
+What are the state space and the state transition function in AI?
+Bag-of-Words (BoW) model in image detection
+When do mutations in NEAT occur?
+Role of bayesian inference in reasoning systems
+Is there any way can teach AI creative painting (not convert photo to paint)?
+How to create an AI Voice Assistant using windows speech recognition?
+Are the shortcomings of neural networks diminishing?
+What exactly are the differences between semantic and lexical-semantic networks?
+MCTS: Terminal (leaf) nodes in selection step
+How can I generate What, why, who types of questions from "Gap-fill-in" type of questions?
+Questions to the NEAT Algorithm
+How can one distinguish between an AI and a "sufficiently advanced algorithm"?
+How would AI be able to self-examine?
+Are we at an inflection point in AI?
+How to stop people abusing AI?
+Using YodaQA with a non-Wikipedia source
+Which is the most successful AI project so far?
+Is the 'direction' considered, when determining the branching factor in bidirectional search?
+How does a google choose it's autocomplete solution
+AI that knows when its being spoken to
+Lets suppose that we have an AI that can interpret requests
+Using crowdsourcing for deep learning
+How can these 7 AI problem characteristics help me decide on an approach to a problem?
+Correcting 'bad' translations in a sequence-to-sequence neural machine translation model
+AI Algorithm for Sarcasm
+How does the Mating in NEAT take place
+Is it a good idea to pay for an Deep Learning course?
+Hardware immutability and sentience
+What is the difference between AI and machine learning programs?
+Artificial life simulator
+Could AI be used to generate questions from a database input?
+Why is the Turing test so popular?
+Would linked Watson supercomputers be even "smarter" than one Watson?
+Berkeley AI Course Question on Nearly Zero Sum Games
+Has any schema-agnostic database engine been implemented?
+What will happen when you place a fake speedsign on a highway?
+Can we use a messenger that does not alter the AI to solve the control problem?
+Are there any other machine learning models apart from Reinforcement Learning and Q Learning to play video games?
+How to test if my implementation of back propagation neural Network is correct
+Equivalence of formulae
+How do English language robots work?
+Understanding why the expectation is over the new policy $\pi'$ in the proof of the Policy Improvement Theorem
+Applications of Bayes' Theorem
+Linear regression: why is distance *squared* used as an error metric?
+How to fill in missing transitions when sampling an MDP transition table?
+Minmax - choosing the best player's way
+Fuzzy Logic Controller: Choosing Membership Function
+Can silicon based computers create A.I. per definition?
+Artificial Life - life or not?
+What programmable devices can be used to teach/demonstrate artificial Intelligence in schools?
+Are Neurons instantly feed forward when input arrives?
+How can I convert an input Natural Language QA to a MDX q
+What algorithm should I use to classify documents?
+Which parsing algorithm can I use for NLP question answering system?
+Infer dependent variables to produce output aligned to trained data
+How to transform inputs and extract useful outputs in a Neural Network?
+What does Brooks mean by Representation?
+AI that can generate programs
+Why do action recognition algorithms perform better on ucf101dataset than HMDB51 dataset?
+Creating a neural network for predicting next vote in a series of votes
+Making decision based on users' reports
+Machine Learning Ouput Array (for Poetry)
+A solution for a famous problem in RL
+Perceptions in a Neural network
+Reproduce Firefly Algorithm experiments of original paper?
+Why are deep neural networks and deep learning insufficient to achieve general intelligence?
+'Propagation' in n-step Sarsa
+Zilberstein's "LP-dominate" pruning explained?
+Is it possible for an AI to learn how to speak from books as training sets?
+Would a neuromorphic SNN of the same complexity as the human nervous system be 'smarter'?
+Can a technological singularity only occur with ultra-intelligent machines, or can other type of maximizers cause technological singularities?
+Programming Collective Intelligence
+Is there a central focus on the communication methods between AI and humans?
+Image segmentation using SOM
+To create "Edit tool" or editor based on Notepad
+SSD or YOLO on arm
+How does visual cortex share convolution weight
+Translate English Sentences into First-Order Logic without quantifiers
+“Goodness” of a position in an Evaluation Function?
+Why does the cost function contain a 2 at the denominator?
+Is deep neural network fooling a problem in real world?
+Different useful approaches of implementing real-time AI?
+Can a purely policy convolution neural network based game learn to play better than its opponents?
+Can an AI be made to maintain a train of thought?
+Can an AI learn to suffer?
+Neural networks efficiently solve traveling salesmen problems?
+Which algorithm is best for a 4*4*4*4 variant of ultimate tic-tac toe?
+The Singularity and future of civilisation
+Is it a valid assumption that a purely MLP based tic-tac-toe player will learn lookahead strategies?
+Why do neural networks based AI players still require extensive search techniques?
+How do I use a taxonomy and the Support Vector Machine for question classification in Natural Language Processing?
+Will artificial super-intelligence evolve to have selfishness inherent in biological systems?
+Is it possible to manage the evolution of super-intelligent AI?
+Is a super-intelligence limited by the intelligence of its creator?
+Tensorboard problems
+Is it possible to classify data using a genetic algorithm?
+Searching keywords on web
+If a neural network approach becomes widely used within a real-world situation, how would one debug/understand/fix the outcome if in one case poor?
+Can a CNN or MLP discover similar but untrained-on patterns?
+Does it exist a human-like or overintelligent AI?
+Is there a theoretical maximum for intelligence?
+Image recognition
+I wonder what roles the knowledge base play now and will play in the future?
+How should dropout change with network depth?
+Recognition of abbreviated text
+Is there any machine learning algorithm that can identify pattern(s) in a CSV file without the user specifying any conditions?
+Machine Learning hardware usage in embedded applications
+keras ValueError: Error when checking model target: expected activation_4 to have shape (None, 19) but got array with shape (100, 1)

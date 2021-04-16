@@ -1,0 +1,2000 @@
+How do I prevent soft body balloons from crumpling when they hit walls?
+Is it possible to compress or split '.blend' files within Blender? If so, how?
+How can I disperse objects with a particle system?
+What is the most computationally efficient way to make ripples?
+How can I start using Freestyle?
+How to build and submit Mac builds to Graphicall?
+Is it possible to use a slider toggle from FK to IK, in a armature?
+Does Cycles work with wave optics?
+Where can I change the background color of the notification in the Info header?
+How do I get a glowing line via textures or materials?
+How do I avoid rendering glitches from overlapping faces?
+How do I do a clean boolean?
+How do I control refractive properties realistically?
+What's the quickest, easiest way to point the camera somewhere in blender?
+What is the simplest way to generate a dodecahedron?
+What is the difference between a Viewer and a Compositor node?
+Would the automatic removal of double vertices ever be undesirable?
+How can I create a water material in Cycles?
+How may I establish a render farm over WAN?
+Can Blender "un-smooth" a mesh?
+What is the difference between a UV Sphere and an Icosphere?
+Why is "Smooth" shading slower than "Flat" shading in the viewport?
+How can I make a fluid simulation in game engine
+How would I import/export Blender's preferences?
+Can Cycles renders be done from the command line?
+How can I reuse existing materials, objects, etc from an existing .blend?
+Is it possible to download the manual from the Wiki and integrate it into the help menu?
+Is it possible to work on two or more files at the same time (or open multiple Blender instances?)
+When should N-Gons be used, and when shouldn't they?
+Can I use splines and bones together in the same rig?
+Can themes be exported and imported?
+How do I completely remove an image from my .blend file?
+Is it possible to group several objects and then manipulate them (scale, rotate, translate) as one?
+How can I use an array modifier to create individually manipulatable objects?
+How do I set a background image while I am editing?
+How can I use one image as a texture for an entire model?
+How do I take a flat model and wrap around an axis like a wheel?
+How do I export a model to .obj format?
+How to emulate a Number Pad and 3 Button Mouse?
+How do I apply a simple armature that I made to a model?
+How to do a cloth simulation in Blender?
+How do I 'pan' the camera around an axis for an animation?
+How can I convert an SVG to a mesh?
+How do I cycle through the camera views?
+How to align a cluster of points?
+How can I look up or create a shortcut?
+How to change Transform Orientation with keyboard in Ubuntu
+What is the difference between dissolve and limited dissolve?
+Can Blender export to the COLLADA format?
+Adding operator to the toolshelf?
+Can modifiers such as "Subdivision" and "Array" be "animated"?
+How can I convert a hair-particle system into 3D, editable objects?
+Can modifiers be called in the Game Engine?
+How can I animate my Cycles shaders?
+How To Create a Matte Car Paint Material?
+How can I manage multiple animations in one .blend file?
+How to change Blender's default startup settings?
+Can I use a custom Splash screen?
+Limitations on .stl file importing
+How to display the edges of a mesh while in Object mode?
+Patch for Non-ASCII Characters
+How can a rigged model be used multiple times in a scene?
+Considerations for using .blend files between operating systems
+Is there a build of Blender that only has the video editor enabled?
+When to use Conformal vs Angle Based when UV unwrapping?
+How can I make sharp geometric 3d models look more realistic?
+What exports does blender have for 3d printers?
+How do blender units and meters, feet, or yards correlate?
+Can matcaps be used for all objects and not just selected objects?
+Is there a way to convert procedural textures to UV maps without rendering a final image first?
+What are the differences between lamps in Cycles and Blender Internal?
+How can I scale particle size over lifetime within a keyed physics system
+How to make a sky environment map?
+Is there a way to update Blender without deleting it and downloading the new version?
+How to model effectively using exact measurements?
+How can the Blender API be used to access Blender from another application?
+Changing user preferences via console?
+Will Cycles eventually replace Blender Internal?
+Cycles Render not utilizing the GPU as it should
+Render just part of a final image from Cycles?
+How to make Blender use Python2.x?
+Is there a way to export an object to Unity 3D while keeping any applied textures?
+Node containing text?
+Is there a way to batch render multiple scenes?
+How do you detect collisions with fast objects like bullets?
+Add the Same Modifier to Multiple Objects at Once?
+Is it possible to set a global Blender preference so that all keyframed motion is linear by default?
+Are there any non-standard meta objects available?
+Setup of PyDev and Eclipse for Blender Add-Ons
+How can I make parts of a menu context sensitive in Python?
+How can I make the mirror modifier work right?
+How to lock the view to prevent rotation of the view camera?
+How to add roughness to a surface using modifiers?
+How do I convert materials from Blender Internal to Cycles?
+Can we render a sky layer with transparent layers?
+How to draw line between intersecting meshes in Freestyle?
+How to turn particle emission on/off?
+How do I center the view at the origin without moving the 3D cursor?
+Light reflection and refraction in Blender Internal?
+How do I make a normal/displacement map when all I have is a photo?
+Can I let a tracking marker paint a mask?
+How can I use my Blender models in WebGL
+Align view to selected operator (numpad .) when scripting?
+How to capture lighting in video shots?
+how to use BMesh to add verts, faces, and edges to existing geometry
+What is the ideal topology for a shoulder joint?
+Difference between Add Shader and Mix Shader?
+Create a shortcut to pause Preview viewport Cycles rendering?
+Write Apple ProRes files from Blender?
+Run additional code after user has executed and finished an operator
+Is it possible to apply a bezier curve along a mesh?
+How do I copy video strip properties?
+How may I create a continuously looping animation?
+How can I create a script that runs continuously but does not block the interface?
+Is there a way to find out what is in the latest build?
+How can you use vector blur in Cycles with fluids?
+What version of OpenGL does Blender use?
+What is the technical reason that Blender cannot use OpenCL on AMD graphics cards?
+Get the rotation of an object in the game engine
+How to Set a Property Value in Blender Game Engine?
+Logging renders?
+Why can't I have an inflow with an animated mesh output to local coordinates?
+Could someone please explain gimbal lock?
+Is it possible to make Blender a Y-up world?
+Is it possible to automatically simplify geometry in blender without losing object shape?
+How can I copy or duplicate several objects in one step?
+Has anyone started a project similar to Grasshopper (Rhino) for blender?
+Increase cycles speed for interior render
+How can I duplicate a mesh along a curve?
+Why does a plane with an image texture show as black in Cycles?
+Add different materials to different parts of a mesh?
+How to make a model cast shadows onto the world texture/background?
+How do I use the compositor to output colour based on the depth of objects?
+Apply rotation to camera?
+How do I set a specific render engine while launching blender?
+Can unofficial Blender addons be included in a project as a text block and automatically register on load?
+Snap object on top of surface of other object
+Is there a working extension to import Kinect skeleton data as animation into Blender?
+Assigning different wire or halo materials to different parts of a mesh
+Increase Cloud Evolution Speed?
+Is it possible to create a compositor node with PyNodes that outputs camera clip_start and clip_end?
+Screen recording with Blender
+PyNodes, the bare basics
+Make a hole in the ground of a video which is camera-tracked?
+How to get silhouette with contour rendering in Cycles
+Getting pynodes geometric node to work
+How to use dynamic topology for terrain modeling
+When is it useful to mirror?
+Where did my material / texture buttons go?
+How can I generate camera shake?
+How can I pause a render in progress and then resume it at a later time?
+How can I set the object origin for an armature?
+Appending an object brings duplicated objects
+Can cycles Wireframe Input be coerced into displaying Tris, Quads and Ngons
+Generate curve from equation
+Complex extrusion howto
+Why are materials linked to meshes by default?
+Return list of associated vertex index, weight values for a given vertex_group
+Do .blend files store information on which version of Blender they were created in?
+How to make the game engine render stereo on 2 monitors?
+How to simulate string?
+How can I export multiple animations into one .x file?
+When integrating live action footage and cg, how to make proper shadows for actors?
+How to model physics in Blender?
+How do I get the path my script is running in?
+Blender Compatibility Script?
+Is it possible to create image data and save to a file from a script
+Why does the zoom sometimes stop at a point?
+What are the differences between Orthographic and Perspective views?
+What is the difference between the trackball and turntable style view modes?
+How can I discover the author of a blendfile?
+Does Blender support any form of collaborative editing?
+Does Blender have a file locking feature?
+How can I navigate the viewport using Python?
+Getting the list of points that describe a Curve without converting to mesh
+What does the Cycles Fresnel Node do?
+How to reset the center of rotation of the 3d view when it is not the center of the view
+edges with thickness and color
+Brightness dependent texture on mesh
+Must I add a license block to all files in a multi file addon?
+How to add a UV Map to a Mesh Using Python
+Interactive output in blender
+Is there a way to see thumbnails of all the materials in a scene?
+Is it possible to print to the Report window in the Info view?
+How important is a GPU for modeling?
+Bake Fluid Simulation via CLI or Python?
+Set specular map from alpha channel
+What does “Use the pinned node tree” do?
+How do I make a model resemble one with low poly count?
+How to smooth shade an object while retaining hard edges?
+Is there a way to render single frame using network rendering in Cycles?
+How to create a script that connects points in an animation?
+Why are my mesh edits reverted?
+Lofting between Splines
+How should I handle a large number of objects?
+Can I export a PDF from Blender?
+How do you keep a single object from casting a shadow?
+Why does the water keep escaping in my fluid simulation?
+Can I perform an action when a file is saved or loaded?
+How can I automatically generate vertex groups for an armature?
+What is a BSDF?
+How do I create metal materials in Cycles?
+Midi driven animation in blender 2.6
+How can I change the centre of rotation of objects during an animation?
+Is there any good way to snap to intersection?
+Texture baking in cycles
+'Nabla' setting for cloud texture
+Most efficient way to round edges
+Play 1000 Frames Per Second in Blender
+How do you return to the default view (the one you see when blender starts)?
+How do I use the "Setup Tracking Scene" feature with Cycles?
+How do I disable texture filtering?
+Can I influence the bone envelopes?
+How to copy object(s) to another layer
+Can movie data from a movie strip in the VSE link to data in a texture?
+Create a square block extrusion in sculpt?
+Cloth sim : collision with external linked group meshes
+proper bpy.ops context setup in a plugin
+Camera to user view?
+How to find image coordinates of the rendered vertex?
+How to set a principal point for a camera
+Bottom of tool shelf grayed out
+How to offset multiple smoke instances by time?
+How to create a workable leaf spring in Blender?
+How can I transition between two shapes?
+Is there a way to have the unwrapping function not rearrange islands?
+Set up a render farm with multiple OS and spec
+How can I set and get the vertex color property?
+Draw geometry on screen using BGL module
+How to create a simple extruded box model?
+How do you unselect vertices without a middle mouse button?
+Rendering smoke in Cycles?
+Can you change the render seed for each frame of an animation in cycles?
+Combining UV maps
+Why is Quadro slower than GTX rendering on GPU cycles?
+Volumetric Shading in Cycles
+How to find back-faces and delete them with python?
+Artifacts in rendered geometry which appears okay in openGL / Solid view?
+Can I change the view(pan/rotate) while performing an action?
+Smoke Generator does not work
+Execute function on object property change
+Make a quarter curve with curves
+Object not visible in render
+How can I make an object show up on different layers
+How can I make a number of objects sit "snugly" on an irregular surface?
+Why is this anti-aliasing artefact happening?
+Exclusive lighting
+When is vertex painting the right choice to color a model?
+Cycles viewport render different than f12 render?
+Is it possible to reset the render view zoom level to 1:1?
+Physics cross-simulation interactions?
+What is the difference between bpy.types.IntProperty and bpy.props.IntProperty?
+Can I render a MOV with Jpeg2000 Codec with Blender?
+Importing PNG series with Import Image as Plane is blurred and has artefacts
+How can I optimize the code to parse lines in a file?
+Kind of "apply" for a clamp to constraint?
+How to Export proportional UV Layout in blender?
+How is the normal direction determined when I use "Make Edge/Face"?
+What's the meaning of tangent in the velocity panel in the particle settings?
+Adding UV Mapping to Mesh
+How to set up a face rig
+Rendering Diffuse Color pass in Cycles
+UV Mapping Plane Single Side
+Move keyframes from timeline?
+How to animate vertex color of an object?
+Set existing animation start frame with script
+Problem rendering multiple smoke textures
+Blender UI Multithreading Progressbar
+How do I animate time?
+Material Opacity in viewport?
+Append Texture Coordinates
+Translate all vertices of all selected objects
+How to animate layers in Blender 2.6
+Is there a bpy function to convert from blender units to Imperial?
+Procedurally weight a mesh based on the face angles of an animated mesh
+Is there some way to map different image textures to instances of linked duplicates?
+How to make a menu like the Sculpt Brush/MatCap menu with Python?
+Is there a way to offset an edge? (extrude edge loop perpendicular to each edge)
+Understanding mirroring and inverting an object
+Making a Laser in Cycles - Straight Beam of Light?
+Normalize a spline
+Blender rendering automation (build script)
+Composite a 3D object into a photograph
+Video Editing Workflow: Use a separate scene for VSE?
+Which modules are guaranteed to be present in Blender's Python?
+Is there a way to use a MIDI controller as a sensor in the Game Engine?
+How can I independently pose Group Instances?
+How should clothes be modified to fit a character model?
+How to have a nice visual join between two colliding meshes?
+Best way to "sculpt" sphere-shaped holes on a sphere surface?
+Why do some bones in an animation lose their position when applying scale to their armature?
+How to turn off image tiling in the game engine?
+Is it possible to limit the "Cycles Shadow from Transparency" per Object?
+Is it possible to add a custom property on bpy.types.Sequence?
+How to make a displacement map from existing 3d geometry
+Cycles Subsurface shader: GPU compute and CPU compute give totally different results
+Best practices for masking image layers for compositing?
+Getting to a file easily/quickly in blender's file browser
+Advice on how to understand UV unwrap a rounded object
+Can I set render settings by individual scenes?
+How do I copy a property from an active object to selected objects?
+Is it possible to delete folders in Blender's file view?
+Blender becomes very slow with large amount of objects sharing mesh data
+Ocean modifier and foam data export?
+Is there a tool for scientific visualization using Blender?
+Best Place to put Feature Requests?
+Too much Memory Usage?
+text already baked before fluid simulation
+Blender saves a new file every time
+Is it possible to convert Matcap colours to vertex or material colours?
+How to close/open a view panel
+Rendering Translucent Materals through Glass in Cycles
+Bullet physics compound shape
+Lighting and shading Orange juice
+Is it possible to make Blender prompt to save on exit?
+Export bullet physics with the Y and Z axis swapped
+Where did the marble procedural texture go? (Cycles)
+Realtime Anaglyphic viewport
+How to Simulate the marble procedural texture in cycles
+Cycles option to turn off texture tiling?
+How can I delete unused data blocks from my Blender Project?
+Is the Blender GUI package available for other programs?
+Setting default file format when saving baked textures?
+How do I import a custom icon set in the theme options?
+Is there a way to lock bones property from getting keyed. In Auto Key mode?
+How to input location of selected Vertex using keyboard only
+How to get world-space matrix of any pose bone?
+How can I animate object properties in Blender?
+Is it possible to pack a sequence of images into a .blend file?
+Change pivot or local origin of an object
+How to use the volume socket in Cycles?
+Can Blender render pngs with the background transparent?
+Scale Space Between Multiple Objects
+How can I get vertex positions from a mesh?
+Can I access the render screen size in a custom filter 2D in the game engine?
+Undo and Redo on Macbook not functioning
+Point and Edges based on Armature Hierarchy
+Is it possible to pin distinct Bones of a Model to a Plane while posing?
+Why is the result of this GLSL shader asymetric when rendering with stereo "Side-By-Side"?
+Is there any way to save background images in the .blend file?
+Resource for Blender addons?
+Restore last windows arrangement in single/multi-monitor setup
+How can you animate time?
+Scripting metaballs with negative influence
+Problems with smoke simulation visualisation
+How can I run blender from command line or a python script without opening a GUI?
+How can I get faster render times for a single image?
+How can i use an image as a background in Blender Render?
+Organic yet accurate modeling with the golden spiral
+Best place to put bug reports?
+Multiple artists modelling the same file
+Shadows along edges of mesh in 3D View
+Convert large particle system(s) to one object efficiently
+Objects other than leaves with Sapling addon?
+How to align multiple wave textures?
+Split a mesh with a plane
+How to quickly do a clay render?
+Disable object automatic dragging after duplication
+Efficient way to get selected vertices via python (without iterating over the entire mesh)
+Soft body to Soft body collision
+Export rigid (non-skinned) animation from Blender for consumption by AssImp
+What is the technical difference between softbody and cloth simulation?
+Export BGE Soft-body Distortions to 3D view?
+Do some Bone Constraints only work with Root Bones?
+Final render not showing full node setup
+Subdivide and separate face into different meshes
+How to add an object from another scene?
+How to enable GPU rendering on older Nvidia GPUs?
+How to copy/paste a baked sound f-curve?
+Blender Internal glossy BSDF equivalent?
+Why is the "render engine" selection menu missing?
+Turntable rotation with Y-axis up add-on
+Getting hair vertices via python
+Use only audio when mixing compositing and sequencer in post processing
+What are the best graphics cards for cycles?
+Shadows distorted and enlarged upon rendering
+How to change icon in Add Object menu?
+Applying Dupli-Objects
+Remove selection overlays when Editing UVs?
+Messed up Blender models when exporting to Unity3D
+How to rig a rotary counter?
+Duplicate objects transformation applies to both objects
+How can I call a specific keymap to draw within my AddonPreferences?
+Can blend files be queued for animation rendering?
+How to make UV loft like 3ds Max in Blender using curves?
+How can I reset the Rotation of a Meta-Rig Control?
+Zoom in and out without a mouse wheel
+How can I control the viewport without a mouse?
+How to iterate over custom properties?
+Save Custom Layout in Blender 2.67b?
+What are the not so obvious features of Rigify?
+How to simulate magnetism In Blender?
+How can I delete mesh parts with python?
+How to efficiently instantiate object with memory-hungry modifiers?
+Cycles Error: Cuda failed to find version number
+How can I get back to Blender's default theme?
+Fractals in Blender?
+What is the difference between an Active animated rigid body and a Passive rigid body?
+How can I get a Depth of field render pass?
+Blender - Plot viewport-independent 2D-Labels
+Is there a post-finish operator hook in the python API
+Correct approach to hip topology?
+Using blender as a python module
+How to automate a script execution on import actions?
+Adaptative ray bounces in Cycles
+How do I make animations a steady speed?
+How can I emulate moving water in the BGE?
+Is there any open software to provide cloud rendering via P2P?
+Access skin modifier radius data
+Soft body cloth meshes being affected differently to each other
+Clone brush isn't included in Blender
+Light spectrum dispersion effect in Blender?
+Iridescence In Cycles?
+Tracing a monochrome image into a 3D, extruded object with a script
+How can I check the returned boolean of a function?
+Invert Fly Mode Mouse Control?
+How to add keyframes for multiple objects at once
+Edging alpha texture viewport Blender
+Fixing a messy boolean operation
+Can I confirm knife action with mouse, or other key than Enter?
+Texture scaling to real world measurements?
+Ocean modifier foam spray?
+How are the Bones assigned to the Vertex_Groups in the API?
+Script node missing in node editor
+How to monitor render process in a thread-safe manner?
+Create Shortcuts to Toggle Actions?
+How to Make Multi User Objects Single User?
+Turning a ring of vertices into a plane
+How to use the new cycles mist pass in 2.68?
+How to stop Blender from making the CPU overheat?
+How does Blender calculate path normals?
+How to texture a beveled curve without stretching
+How to get selected edges length?
+How to make lamp visible to camera in cycles?
+Visual programming with Blender Python
+How to toggle between Flat and Smooth shading during animation?
+What is the technical difference between an Ngon and a bunch of Triangles?
+Installing an addon
+Way of seeing data as image anywhere in a Cycles nodes setup?
+Why does Blender 2.68 appear to still be 2.67b?
+How to reduce fireflies in Cycles?
+How to add a new Text Editor template?
+How can I get the Solidify modifier to apply after a texture displacement?
+Altering size of emission object without messing up brightness of light in scene
+Is it possible to render only keyframes from Dope-sheet?
+Why won't the material node displacement work in cycles
+What Are the Differences between Smoke Collision Types?
+Material that emits light, but appears diffuse?
+Is it possible to print message to the info view?
+Storing preferences without having properties in every scene?
+Offsetting animation
+Keyframe not animating bone from initial position?
+How do you export bones relative to parent?
+How to set the default vertex count to added geometry?
+Preserving the size of an object
+Blender UV mapping error
+Can I change the default color for Relationship Lines?
+How to fill a hole in face?
+Can I use Cycles materials with Blender Internal?
+Snap individual vertex of the selection to closest vertex
+Why is an object stuck to another?
+Adding a custom shortcut for sculpt mode
+Can I make a pen draw a solid line?
+Composite transparent overlapping objects from different scenes?
+Smooth displaced mesh
+Dynamic creation of properties for export script
+The basics of how to start modeling
+Random maps in cycles
+How can I replicate an object over the surface of another?
+What signals does Blender respond to?
+Using alpha channel of generated images for cycles
+Keeping old renders open
+Custom trackpad pan/zoom/rotate behavior add-on
+Low res texture in UV map with repetitive polygons
+What is the order of transformations when exporting to Collada?
+Tips for sculpting tile-like terrain
+Tips for making Mesh Rigid-body collision shapes more stable
+How can the Glass Shader be imitated using only other shaders?
+For which formats are Cycles materials completely and accurately exported?
+Is it possible for light sources in Cycles to have nonphysical falloff like in BI?
+Operator.report outside operators
+What constitutes a "context" in Pose mode?
+Is it possible to render vertices in Blender?
+Can a Vertex Group be saved as a separate .blend File?
+Is it Possible to Dynamically Change Object Materals?
+Is it possible to prevent a Displacement modifier from affecting certain parts of a mesh?
+How can I setup a Material in Cycles for Z-Transparency?
+Can Blender be used online for viewing and editing my 3D model?
+Baking AO and Shadows into one image?
+Animating slicing up an object
+How can I copy all selected Keyframes?
+How can I add Lens Flares/Halos?
+How to reverse animate?
+Rendering Transparent objects with the Cell Fracture addon?
+How to create an animated Electric Arc or Lightning?
+Is it possible to dump an Objects Properties and Methods?
+How to deselect using box select?
+How can I get a cabinet projection camera?
+Console vs scripting python constants
+How to unlink a linked-duplicate?
+Why do I get weird rotations in exported FBX?
+After updating to Blender 2.68 Driver Scripts are no longer automatically excecuted
+Dark Shadows when using AO with Transparent Materials?
+"Map Range" node equivalent for Material nodes?
+Can I use an image sequence with offset frames as a texture on array items
+Is it possible to change viewport draw mode when navigating?
+Why does Rendering Reflection + Refraction take much longer than Rendering them Separately?
+A question about Manual errors
+What kind of uses could the Wavelength node be used for?
+is it possible to make a setting enabled by default?
+Blender as python module, 'Context' object has no attribute 'object'
+blender2ogre 0.5.8 export error - ReferenceError: StructRNA of type Mesh has been removed
+Depth of Field in 2.68?
+Locking an object's pivot point in game engine
+How to rearrange poses in Pose Libraries?
+Reducing the size of shadows
+Can Blender render animated gifs?
+Theme option for changing relation line for constraints?
+Why does Blender have the Z-axis up but is the depth-pass actually called a Z-pass?
+Where is the color selection for text menus?
+In Themes, why does 'Reset to Default Value' result in black?
+Exporting to fbx - halo material is lost
+What's Wrong with Quaternion Rotation in the Game Engine?
+How to use snap option in object mode?
+How to know what object the snap function is targeting (in Python)?
+Smoothing curve "tilt"
+Timeline modal operator: how to get frame cursor to follow mouse
+Is There a Way to let Blender Use More Memory?
+How to make hair particles (grass) bend on z axis
+The best way to do twist-like bridge?
+Rotating around two z axes
+How can I customize the Render Button in the Render GUI to execute a custom script
+Why are the Cycles/BI Voronoi Procedural Textures Different?
+Blender communication with SuperCollider via OSC
+Snap a bunch of keyframes to the cursor?
+How to remove motion blur from images using the compositor?
+Cycles : shadows on smooth shaded mesh, strange behavior
+Imported OBJ will not move to grid
+Is netrender only useful for multiple frames?
+Color of spline in 3d view
+What is the difference between Translucency and Transparency?
+Can I import multiple strips of different fps into Video Sequence Editor?
+Render Border's related check boxes - How do they work?
+Why is my entire render white?
+Computing and animating mesh deformations
+How can multiple Curves be used to control Camera movement?
+Any word on custom closures, or new ones?
+Fake reflections in Cycles
+Can Cycles do a Gooch Shader?
+BI how to use the Defocus node with images as plane
+Way to use large textures in Blender without crashing?
+How to prevent malicious code execution loading blend files?
+How to easily identify which nodes have logic bricks attached to them in the outliner
+How to quickly find sound assets
+Is it possible to select all connected or unconnected nodes?
+Any Video formats that render with Alpha Channel?
+Getting vertex weights with the vertex proximity modifier
+Where is the Screen Node?
+How can noodles (the lines that connect nodes) be changed from straight to curved lines?
+Can I personalize the insert keyframe menu?
+Polygonal darkness appearing in render
+Control several different materials via one slider
+Rigid body animation with constraints and relationships
+Assign datablock to custom property
+How to use blender command lines in OSX?
+How can I make a material only apply to a side of a plane?
+How to create 2.35:1 movie with no stretching?
+Getting a Bleach Bypass Look in the Compositor
+How can I create an orthographic render similar to the Portal 2 promotional videos?
+How could I avoid UV maps when combining procedural Textures?
+Orthographic camera mirrored in viewport?
+Different image textures for one material (Cycles)
+Fade to Black Effect in Video Sequence editor?
+Color correction in the compositor from the video editor
+Is it possible to have more than one smoke simulation in the same scene?
+BGE mouse location in 3D space
+Snap entire selection to the 3d cursor in edit mode
+Why is Limited Dissolve irregular?
+First move object with rigid body physics, then animate manually
+Fluid simulation not baking
+What defines matching topology?
+Does OSL work on the GPU?
+Scale about true center with Mirror modifier
+Why texturing in game engine looks different than in render mode?
+Subdivision-surface giving strange geometry with tris
+Calculating acceleration or velocity of a point on a rigid body?
+How to create a bent spring?
+How to focus on different windows across multi-monitors to hit a hotkey?
+Is it possible to use the startup.blend UI layout in older files?
+How to control the Grid colours
+Select vertex if vertex color is dark
+No Rasterizer module
+Is there a way to Move a VSE Strip without moving its Keyframes?
+How to access Render Result pixels from python script?
+Boolean modifier messes up material assignment
+General system specs for large scenes in blender
+Can Cycles use multiple UV layers?
+How to save an image created from python script including the alpha channel?
+How can Waves of the Ocean Simulator flattened on a Beach Area?
+How to do "filter select" in an existing selection?
+Relation between BGE framerate and Action framerate
+Trouble importing STL produced by VTK
+BGE: Writing text letter by letter
+How to Use the Mapping node?
+Console flashes on launching, then closes (ms-windows)
+Manipulate BGE logic bricks through python
+How to do AddonPreferences using extensions_framework?
+How exactly does the Sigma parameter affect the Velvet shader?
+Why does blender erase transforms after inserting a keyframe?
+Remove vertices based on texture
+How can I separate faces without the edges?
+Convert cycles closure (shader) output to colors?
+Mix shaders with blend modes besides Add and Mix?
+How can I change an objects scale, and rotation using an Empty?
+What does Open Shading Language ( OSL ) mean?
+Animate Extending a Curve
+How to render without evaluating keyframes?
+How to pin a distinct bone in a rig while animating
+Can the full features of Blender be used with a trackpad?
+How to deal with a "non manifold edge" high count
+Controlling armature through python
+Make White Transparent shader that is not transparent?
+What can the Alpha sliders in cycles be used for?
+Visualize Speed Control Effect Strip
+Which normal input socket should I use when I have a mix between shaders?
+Percentile alpha control in the Compositor?
+How to print a list of enumerated items in Python
+Particle Settings Link/Transfer
+Why can't cycles cast one ray per image pixel, instead of rendering progressively to infinity?
+What is the Reason Cycles Creates Incorrectly Colored/Firefly Artifact Pixels?
+Feathering Edges in Node compositor
+How to get reference to object(s) added by an operator?
+Which is better extrusion or assembly for creating blueprints?
+Is there an easy way to align two objects on a specific axis?
+How to adjust operator settings after leaving the settings panel
+How would I go about creating a spiralled dome?
+How to bake normal map for discontinuous mesh
+Preventing axis being messed up by adding new objects to the scene in Front Perspective View
+Can I parent objects to parts of a group instance?
+What is the invisible unselectable entity on a supposedly empty layer?
+How can I use imperial units when entering measurements?
+Objects with transparent texture not always show transparency in 3dview
+Why does Network Render require separate Master and Client roles?
+Using wrl data in Cycles
+Panning with Shift + middle mouse button stopped working
+Is there any way to measure angle between edges/faces, or change the angle so that the mesh changes according to the angle we input?
+How to clear unused linked-data (libraries) quickly
+Array Modifier creates something that exports as single mesh, how to create same through group/parent/etc?
+Import SketchUp ".skp" files
+Add build Modifier to Dope Sheet?
+How can Edge Loops stay aligned when using the Subsurf Modifier?
+Is there a way to unfold a mesh?
+Best practices for learning Blender
+Transparent motion blur in Cycles
+How to unlink material from a mesh, with python script?
+How to Bake Lights
+Set face texture
+BGE: How to set the Constraint Axis to an object coordinate
+Mirror an object via modifiers on a point(instead of a plane)
+How to render a pixelated, occluded wireframe with freestyle?
+How can I resize/move the "canvas" of an image in the compositor?
+How can a single Curve Interpolation Mode set to Constant?
+How to add a "select path" input in a UI addon script?
+Add object constraint to a number of selected objects
+What to do with potential bugs?
+Can I load 8bit bitmaps with Blender?
+How does one obtain the file path of the current .blend in the bge?
+Rotating each iteration of an Array Modifier
+Save rendered images in different formats
+How to create a mesh programmatically, without bmesh?
+Change Image sequence frame only every nth scene frame?
+Is there a way to acces external .blend file's data with python script?
+Modelling fighter plane cockpit
+Finding controls/interface for addons
+Can armature/bones be edited without edit mode?
+Texture Image Material is flipping the PNG file I Input
+Is it possible to save certain parts of a screenshot
+How to run scripts in the background of the game engine without freezing or opening new Blender instances on Windows?
+Is it possible to deselect a group while keeping the original selection selected?
+Nothing happens when using 3DPrint
+Cannot find SMD export buttons
+What does "users" means in term of datablocks?
+How to deal with Cannot Execute Boolean
+Differences between dissolve and delete?
+How to keep the vertex normals after deleting an edge/face?
+Import file from Alias .wire
+Adjust random seed of displacement textures
+Difference between make local object and make proxy
+2.63a texture bump in nodes
+How does normal baking work?
+Paper model effect from Royal Institution titles
+Scripting - How to create a game property?
+How to slide a vertex with UV to avoid stretching?
+Counter rotate Animation using Driver
+Prevent legs from coming out of socks
+How to create a curved surface from a sharp edge?
+Rig a rope spanning two objects
+How can I move a group along a path?
+Where is the Vector math add node?
+Can I run a Python script step by step in Blender?
+Blender python custom UI button run custom function?
+Python add drop down menu that stores data
+How to compute and visualize a Vector?
+Changing the color of non selected edges in the theme preferences
+How can I properly orient custom leaves with a Particle System modifier?
+How to pass multiple operator properties via UI layout?
+Environment for implementing/testing Computer Graphics algorithms
+Building a Conveyor
+Viewport Animation Paths
+Is it possible to decrease the face count dramatically so I can continue working without crashing?
+Change settings like 'limit selection to visible' or 'trackball rotation' with python
+Array a Group of objects?
+Is there a way to convert a constraint to a keyframe?
+How can I round the edges of a mesh?
+How to give a variable rotation, scale or location offset to dupligroups objects?
+Quick way to get current opened filename in a script?
+Creating volumetric lighting (crepuscular rays) in Cycles
+What's the fastest way to select every other vertex of an edge ring?
+How to illuminate the darkness inside glass objects in Cycles?
+Is the Game Engines Coodinate System different?
+Adding thickness to a mesh in Blender
+how to report missing files in a list, usable in python script?
+Render with openGL from the command line?
+Is there a max size for saving openEXR multilayer files?
+Microscopic Material in Cycles
+Holographic Material - Cycles
+What programming languages can I use in Blender?
+How can I keep low resolution textures pixelated?
+Working with VRML 1.0 files in the current version of Blender
+Difference between the scale and the size of a light in cycles?
+Changing settings of the 3D view with Python
+Joining several splines
+How do I force a parent-child object hierarchy to follow armature *without* using armature modifier?
+How can we store EXIF-type metadata in renders?
+Mirrored object doesn't match it perfectly?
+Is it possible to use the output of a Renderlayer in the material nodes of another RenderLayer?
+How to loop an animation in BGE?
+Finding vertex locations at a given frame using python
+Insert properties keyframe for multiple objects?
+Is it possible for a emission shader not to cast shadows?
+Mesh appears normal in solid mode but looks weird in textured mode
+Using a mapping node to disable tiling is streaching texture?
+How do I make multiple Blender objects into one?
+Trouble with the Bprojection addon
+Run an edit-mode operator on every object in the scene
+Is it possible to get render time per tile?
+How can I hide 'mark sharp' lines?
+Get the total time spent working on a file
+One side of an object appears normal but the other side is transparent
+Read image metadata produced by Blender?
+Why will audio and video not sync in rendered video file?
+Can I save blend files with lzma instead of gzip?
+Change UV Positions for Linked Objects?
+BGE: Overlapping alignAxisToVect v/s applyRotation
+Render a cut through a mesh
+How can I do a one-time Initialization?
+How can a Script be periodically invoked from the BGE?
+Can multiple animations be saved in a .blend file?
+Weird Armature Deformation
+How to eliminate visual artifacts in rendered output when using the Speed Control effect?
+Use multiple UV maps in Cycles?
+Is it possible to deselect freestyle edges?
+Hair won't render in cycles?
+Foreign text in Blender isn't processed correctly
+Is there a way to restart a modified addon?
+Import camera animation from Maya 2014
+Why can I not select camera trackers in the graph view of the Movie Clip Editor?
+How can I call the active brush within my script?
+Why does my boolean keep flickering?
+How can toolbar transparency be modified?
+How can I avoid this camera tracking error? "Some data failed to reconstruct (see console for details)"
+How to get Cycles viewport output in compositing
+Re-Centering the Camera view after Shift Drag?
+OSL and raytracing
+Text objects are messed up when using Offset
+Why are color values rounded in Themes?
+What are the technical differences between F12 render and viewport preview?
+Bevel curves without fattening?
+Is it possible to de-bevel all or parts of a mesh?
+Python scripting Blender with Luxrender
+How could a single Python script run when Blender is started?
+Bug of the socket output, is not it?
+How can I create a mirror material for the game engine?
+Convert Cycles Hair Particle System to Mesh Object
+How can a Method from a startup Script be invoked?
+How to rotate an image in compositor without cropping it?
+Rotate posed character around the Z axis without deformation
+Is there way to control opacity of selection/active color in 3DView?
+Blender Output Options
+How do I find the users of a datablock using the Python API?
+Material assignment
+Import camera information from Sketchup
+How can I make a circular object appear perfectly round?
+How to read vertices of quad faces using Python API?
+Show unselected vertices in UV/Image editor?
+Rendering with wireframe
+Why does Cycles sampling give diminishing returns?
+Why does my PyDriver only update on frame-change?
+Image texture intensity on deformed mesh
+How do you stretch and then release a soft body or cloth so it springs back like elastic?
+Working sample of steering actuator with path following behavior
+How can I get a list of the installed addons using the API?
+Is it possible to stay in Face Mode when making loop cuts?
+How do I avoid artifacts when using bevel objects with complex curves?
+How to create a drilling effect?
+How do I remove the glow from particles
+How do I add a porous texture to a mesh?
+Button over another in the game engine
+How can I connect several links in the input node?
+Blender object Rigify - eyes, nose and fingers not moving
+How do you set the scale for a specific project?
+Liquid / glass interface IOR and normals in Cycles
+Is there an option to hide/disable the "volume" display in edit mode?
+What is the workflow for compositing Fire/Smoke with Cycles
+How to change the current action on dope sheet editor with script?
+How can I set sliders to values outside the limits allowed by their slider?
+Cursor is set to move by increments. how to reset to normal?
+Is it possible to use more than 20 layers?
+To what plane curve does a Catmull-Clark subdivision converge?
+Create a rounded wireframe?
+Working with larger .stl wireframe files
+Bone heat weighting: failed to find solution for one or more bones
+Why avoid bpy.ops?
+How can I transfer a collection of float values to a node socket​​?
+How to unlink a material only from a linked object?
+Pan or zoom in the VSE
+How to create a seamlessly looping ocean
+Align view to axis during modal operator?
+Ocean modifier with volume
+Extrude along path
+Exporting to Collada: Physics don't get exported
+Display list with custom items in panel
+Can modifiers be computed and applied from the command line?
+Map ocean displacement to a sphere?
+What does the Term Ragdoll mean?
+How to view value of node output?
+Why doesn't the key to switch on all scene layers work on linux
+My Blender File Won't Render!
+Is it possible to put an if statement into the scripted expression of a driver?
+Other possible expressions like #frame
+Hide geometry in render?
+How should I handle a split in a retopology?
+Export Wavefront .mtl file -- Where is the reflectance coefficient?
+Can game settings be changed dynamically?
+How do I change UV coordinates while the game engine is running?
+Custom splash screen in 2.68a?
+How can curves be converted to meshes?
+How to interface with blender using IPython from terminal?
+How to swap Y and Z axis on export to Collada
+Installing CUDA for Blender Cycles on Ubuntu 12.04
+How to display names of objects in viewport
+Why should triangle meshes be avoided for character animation?
+Creating game models for android
+Revert vertex position to Basis Shape Key
+How can a path animation be used as an action in the game engine?
+Blender does not fully load when running python script at boot
+Rendering freestyle lines in Cycles
+Where are influence and mapping settings of a texture saved?
+Remove sharp or jagged edges in mesh
+Selecting the nearest of overlapping faces
+Interactive Python workflow for Blender beginner
+What does scene.objects.unlink really do?
+Stretchable pipe (for export to Unity)
+Set default append location?
+Cut mesh at intersection
+How to get the entire list of operators?
+How can I add vertices to intersection of two edges?
+Sliding a point along an edge?
+Vertex slide past edge limit?
+Rigging a pixar lamp
+Can't update / remove keyframe values from an imported Collada file
+Can I use the timeline to erase keyframes?
+Are there more standard patterns besides diamonds which will preserve quad only meshes?
+What are the options to extrude fingers from a low poly hand?
+Why does my mesh flatten on the X-axis in the game engine?
+Using scenes and render layers to composite an object isolated on white background with shadow
+What are the most efficient workflows to create all quad junctions?
+How to bake "full render" in blender
+How to disable the "Save Over" popup
+Insert keyframe on an object's custom property with Python
+How to bake all sides of a model on a cuboid?
+How to prevent triangulation of models when importing models from sketchup to blender?
+How do I reset the viewport lens angle?
+Is it possible to expand/collapes all panels in a region with a keystroke or shortcut?
+How increase/decrease undo steps?
+Blender release life cycle and versioning
+Alternate between user input and automation in one-step script
+How can edge rings be selected in a predictable way?
+How can I visualize progress in a panel?
+Add marker to a strip
+Modify object's geometry after animation has been applied
+What values do the --verbose and --debug-value options accept?
+Orbiting around axis at an angle
+Why do normal map ridges become grooves in mirrored object?
+Run an external application with the bge
+Setting render options from the command line
+How to clear the command history in the console?
+Step-by-step execution of BGE mainloop for debugging?
+Best settings to reduce cycles memory consumption
+Undefined normal vector by converting .blend file
+how to make "operator_menu_enum" keep the selected value displayed
+How can I export curves(nurbs) to AutoCAD without converting to mesh?
+Multiple Linked Objects with unique Materials / Group Materials override
+Array modifier (vary textures on duplicates)
+How to import animation from directx .x file properly?
+Hide smoke domain objects in OpenGL quick render
+How to find which materials use a missing texture?
+Specify tile size for Blender Cycles rendering via the command line
+How can I import models from Anim8or into Blender?
+How can I move an object on a separate layer behind another in the compositor?
+Shadowless render pass
+Tracker dropdown is missing in the Tracking settings (in Movie clip editor)
+Some parts of my project aren't saved in the .blend file
+How to do PoseBone.children?
+How can I blend two textures together using Cycles?
+Checkered face on cube
+What is the parameter order of a quaternion constructor?
+Best practice for UV mapping buildings from CAD software
+Best Tile Size for Blender Internal Renderer and Cycles
+Why are my vertices being mirrored and how do I fix it?
+Select a Specific Tracking Marker
+Dark surface unchanged by light source changes
+Why blender throws an exception when saving a copy of image?
+3D navigation using a Space Pilot Pro
+How to identify a keymap conflict?
+Copy tracking settings to selected trackers?
+Looping Displacement Modifier Animation
+Blender API (2.6), UI list of loaded images
+Get number of frames in scene from the command line?
+Default skinning for vertices with no assigned vertex group
+How can I render an edge only mesh as solid lines?
+Using a 32 bit grayscale TIFF in the displace modifier
+How to know if the system console is open?
+How to map a texture to a distorted quad?
+Does Blender support other Python implementations?
+How can I make a duplicated object (Alt + D) a single object again?
+Efficient way(s) to render point clouds of 3D scan datas in cycles
+How to change a ui color from within the console?
+Capture a partial screenshot in the BGE
+Digits of precision of vertices coordinates
+How to animate multiple lines
+Proper way to remove unused linked Group data-blocks
+Make Particles Point Towards the Camera?
+Blender not recognizing GPU
+Troubleshooting Blender's Memory Use (Memory Statistics)
+Render Animation on still scene, No BVH reloading
+Duplicating surface of cube adds a circle to it
+Removing automaticly generated (automatic weights) weight paint
+Weird deformation between large ngon and edge ring
+Blender Stereoscopy, What glasses
+How to remove line sample?
+Separate preview/render border settings possible?
+How can I create a hollow sphere with regularly spaced holes?
+How can I quickly move/translate an object to the center location/position of another object in a static scene?
+Why can I no longer easily navigate inside of this mesh?
+How to show to the user a progression in a script?
+How can I create a convincing sea material in Cycles without using the ocean modifier?
+How to convert a text object directly to an ngon?
+Cycles hybrid rendering
+Blender game character not responding to game logic
+Generate multiple renders of same scene, each at a different resolution?
+How to get a property value not in current frame?
+Can I increase the frame rate of an animation while keeping it the same length?
+Show mesh vertices ID
+How can I bake the physics cache of linked objects?
+Selecting faces on object from UV editor window
+What is branched path tracing and how is it useful?
+Equivalent of the old beauty button for subdivide?
+How to cut a rounded hole in a sphere?
+Look through Spot Light
+What is an efficient way to remove loose vertices?
+Create Square Array
+Blender show array instances as wireframe
+Finding the armature owning a bone
+Why do the objects in this rigid body simulation rotate too slowly?
+How do I export animation data stored in actions using the Python API?
+How can I query the panels in the Tool Shelf from a script?
+Is there a way to set initial state with rigid bodies?
+How to select even/odd keyframes with python?
+How to get accumulated render time of animation
+How to set up custom controls - Pan using Mouse 4 + MMB
+How to save an image without antialiasing in cycles?
+How can I enable the Laplacian Lightning Generator?
+When is acceptable to have disconnected geometry?
+Is there a hot-key to jump between markers in the timeline?
+Time shift between tracked camera motion and original movie
+how to copy drivers to multiple Objects?
+Animate string property
+How to get bone rotation between two matrices?
+How to get perfect UV sphere Mercator projection?
+Separate selected UV map vertices from surrounding vertices
+Blender won't import my custom module, ImportError: No module named mymodule
+Randomly place and scale objects?
+How to slide some vertices along a slant, until it lines up vertically with another vertex
+How can I navigate my scene FPS style similar to how Unity does?
+Selection Behavior and Limit Selection to Visible
+Edge effects on almost completely transparent objects
+How to scale an image with python
+Procedurally generating wear on an object?
+Drag background images in 3D view?
+Get which screen the cursor is in?
+Howto get the filepath of a rendered animation frame with python
+How to iterate over material index using Python
+Middle mouse button doesn't always rotate view
+Transparent laser focus
+Merging Multiple .OBJ files
+Vertex group from texture
+Converting an obj sequence to a .bobj fluid sim cache?
+Camera Tracking markers
+AttributeError: ,_io.TextIOWrapper' object has no attribute 'next'
+Calculating final Bone/PoseBone matrices
+While compositing, RenderLayer doesn't move with time
+While in texture paint, make uv map edges visible (Cycles)
+Display bounding box around objects
+Is it possible to generate an image based on edges and corners?
+Cutting centered hole in mirrored object with subsurf
+Open or extract parts of a very large .blend file
+Masking for sculpting through edit mode
+Rendering - Save Intermediate
+How to select objects based on materials?
+Is it Possible to Create an Opalescence Shader in Cycles?
+What are the proper output settings for 1080p HD animation for Yotube?
+Add Custom Menu at Specific Location in the Header
+Adding Custom Menu "Run Script" Button Causes Duplicate
+Non intersecting objects
+Stitching Meshes Together
+How to copy/paste X, Y, Z coordinates in one step
+How to disable the face overlay in the UV editor?
+Is it possible to move parts of a model along the selected normals?
+Is there a way to snap color ramp stops to equal distances?
+Can we use the shape of an object that is instanced to particles with dynamic paint
+How to subdivide a mesh where it intersects another mesh
+Is there a way to make particles behave like rigid body objects?
+How to use an object as a mask?
+Access view orientation from python?
+Where is bpy.context.material?
+Where can I get Blender test builds?
+Setting objects into edit mode often seems to fail in python script
+How can I change Blender's theme?
+Python buttons not appearing in Blender
+How do I select an object in the 3D viewport?
+How can I use a material from one blend file in another?
+Is it possible to add a button to an existing panel or node with python?
+How can I apply some material included in a node-pack library?
+Vertex coordinate after pose change
+How do I catch keyboard input for a blender plugin?
+How do I delete an object?
+What file format should I use for rendering?
+Rendered image looks pixelated
+How can I animate the camera in a perfect circular rotation around a fixed position?
+Get texture to never distort or change scale without manual unwrapping
+Select every other face loop
+Is it possible to apply modifiers to multiple objects at once?
+Dot matrix display in Cycles?
+Can I get the object dimensions in Cycles?
+How to preserve Cycles material colours when exporting to .obj format?
+Is there a way to smooth a surface cleanly without subsurf?
+Spin tool is not shown in toolbar when trying to spin a curve
+How can I make a camera the active one?
+Viewport pivot point changed from scene objects to around viewport camera origin
+Removing corrupt screen setting
+Removing corrupt object
+Attribute ImageFormatSettings.file_path doesn't exist
+How can I improve viewport performance when using Dyntopo?
+How do you optimize Blender/mesh for sculpting with multiresolution modifier?
+Mass replace fonts
+How can I add text in a non-english language?
+Is there a way to overlay two similar UV islands with identical vertex count?
+How to read pixels of a video from python API?
+How to make freestyle lines stay the same size?
+Stream of mist between objects?
+Obtain UV selection in Python?
+Is it possible to hide particle emitters in the viewport without hiding particles?
+Is it possible to get the length of a ray inside an object with nodes?
+How can a bone's tail be changed by a script?
+How to follow a path by curve points rather than length?
+Changing tile location
+Reverse directions of spacemouse
+Is this possible, scaling the width, height & angle of a diagram via html5 and blender?
+Is it possible to change the emission rate of particles over time?
+How to mix raytrace ambient occlusion with indirect lighting
+Archimesh installing problems
+Rigid body simulation always has a visible collision space
+Is it possible to visualize ray length info as a black and white map?
+How can I change the buttons text position?
+How to achieve a retroreflector material in Blender Internal
+How to render a curve without creating meshes?
+Compositing output image shading
+Fade in action applicable to all objects (in cycles)
+How to define double shortcut like GG
+How do you make a lamp light up glossy surfaces?
+Can threading.event be used as an event in an modal operator?
+How to copy settings from previous using command line
+Giving planes thickness in real-time display
+How can I transform one end of a cylindrical extrusion to create a cone or needle-like structure?
+What is the best approach to modeling a non-human character with an obscure/disproportionate anatomy?
+Why are some faces in my mesh darker?
+What exactly does edge loop selection do?
+How to bake normal map identical to one from cycles?
+How do I remove weight from weight painting?
+Strange artifacts during camera transition when rendering movie
+Global Pose/Rotation of a bone
+How to cut a mesh into smaller pieces with python?
+How to paint through the mesh during weight painting
+Is it possible to simulate Fluorescence in cycles?
+Scaling the distance between objects
+Is blender a good solution for making a PCB enclosure
+Post-processing Lightsabers in Blender
+Get indices of vertices of triangulated faces in python
+Can I use BSDF for the emission pattern of a lamp or light source?
+What is the difference between the SculptDraw brush and the Brush tool?
+How to apply transformations directly on mesh data?
+Connected Bone Parenting Issue with IK Constraint
+Is there a way to lock rendered layers?
+How can I create a single Cycles texture with a different image for each object it's assigned to?
+Drive/animate smoke size according to particle lifetime?
+Determine which button was pressed from python
+Where can I find the dimensions of an object?
+How to save a movie/animation to OpenEXR?
+Can I make smoke to cast light?
+Is there a way to individually modify n objects with the same origin object in game engine?
+Why is accessing image data so slow?
+Setting Voxel Coordinates
+How to create a animated silhouette?
+What should be selected in order to store a pose?
+Toggle wireframe mode with hotkey
+How to duplicate an object without duplicating animation data?
+Three.js export option is sometimes disabled
+What does the F in front of brush names mean?
+Why does Subdivide Smooth look different when compared to the Subsurf modifier?
+How to remove background?
+How to make objects in a video glow?
+Line Conversions and Bsurfaces with Blender 2.69
+Hide backface with xray and object wire mode?
+Creating depth of field from Beauty+Depth passes (rendered in another software)
+How to make all polygons face outwards in an existing model?
+Creating renders from Image Stacking using different sampling levels
+How to select a group of vertices in edit mode?
+How can I return to the 3D view after rendering?
+Why do freestyle outlines occasionally have gaps?
+How should an animated character be moved while repeating a walk cycle?
+How to set render filepath using blend filename in python
+Autocad "edgesurf" equivalent in Blender?
+Procedural Vue-like materials with Cycles
+Where can I change mixing of an action in NLA?
+What do the bars between keyframes mean?
+Texture that only effects faces that are facing upwards
+Where are the nightly builds of Blender made available?
+White lines between objects in render
+Parenting messes up transforms - where is the offset stored?
+How is this blendfile hiding textures?
+Offset Image Brightness
+How do I report a bug in Blender?
+Why does the collada exporter not export texture references?
+How can I use the compositor on the result of the sequencer?
+Problem Duplicating Textures
+Is there a more efficient way to edit actions alread used in NLA?
+Slice the top of a cone
+how does one install "audioanalyse0.1.1" module in blender?
+Can I change the color of the last selected face?
+Insert keyframe menu does not show up
+Using groups in other files
+How to write all characters in a font to a 3D text object?
+Can an action be mirrored or reused?
+Cannot Select Linked When Sync Selection Is Enabled
+Blender's "smoothing groups" solution (Edge Split) destroys topology. Is there an alternative solution?
+Unable to move a mirrored part of an object
+Wait until the action is done (in script)
+How to know which object is using a material
+Exporting UV coordinates
+Transform cube face in the z up direction to vertice above (need automation method)
+Create an object in the BGE via python without using an inactive layer
+Is it possible to set all texture nodes in a node tree to a specific vector?
+How to find the right keymap to change on addon registration?
+How to inset a face?
+VSE proxy and offset+crop
+BGE Parenting loop
+Moving a surface from one side of an object to the other
+Blender debugging symbol files
+Changing default bake output format and quality
+Is color mismatch normal when using Texture Paint Quick Edit?
+Can I specify a portion of the image to render in Cycles?
+Disconnected (exported) mesh because of vertex paint?
+Is there a way to look at the inside of a cube or other object?
+Un-hiding faces and double sided textures
+What exactly does the "Non-color data" option for image/environment textures do?
+What are the differences between an environment node and a image node?
+Unable to add color to text
+Does Blender resume rendering after returning from hibernation in Windows 7?
+How Does Blender Voxel Data Work?
+Bokeh defocus not working on certain frames
+How to copy modifiers with attribute values from active object to selected objects with python scripting?
+Border render in mesh
+Moiré patterns in viewport but not in render?
+Blend mode equations including factor/influence
+What would be the easiest way to do or simulate color cycling for a face?
+How to set a specific edge length numerically?
+How to import NGONS from Lightwave to Blender?
+Bump node in Cycles, with an OSL script -- am I doing it wrong?
+Composite mist pass after-the-fact to finished rendered video using the original blend
+How to add thin wispy clouds or fog to my blender 3d scene of building
+Can I copy UV map to many objects with the same and/or symmetrical topology?
+Exporting a material with multiple diffuse textures in COLLADA format
+A different kind of mouselook script?
+How to create piles of snow on a mesh?
+How to transfer uvs from static mesh to the same rigged and animated mesh
+Is it possible to use two GPUs in viewport rendered preview, and not only for final render?
+blender 2.69: Texture is not shown correctly
+Lock rotation help
+How can a f-curve be used in an animation in BGE?
+How to integrate knoll to soil?
+Can I lock the viewport to always jump to what is currently selected?
+Is it possible to create a fluid simulation of rain?
+Is there a way to shrink particles to mesh surface?
+Low quality mp4 renders
+How could penetration between human models be avoided?
+How to add resolution to a mesh created from a curve
+How to make an object have a clay like surface?
+Rendered video pulses to lower quality and back to high quality
+Where can the viewport clipping parameters be changed?
+Is it possible to use the 'Split' tool in Python?
+Blender cycles with alpha texture and glass shader
+Problem with script being invoked twice in BGE
+Making indented panel lines for 3d printing
+Convert particle system to animated meshes
+Stencil Stamp not showing up
+Baking smoke on headless machine
+Setting additional properties per face
+Is there a way to rotate the axes themselves?
+Mixing two shaders based on raylength
+How to determine the poly/vert counts of a fluid simulation?
+Material to generate a mountain
+Blender icons have no label
+How to avoid noisy renders in Cycles?
+Is it possible to simulate an optical fiber with cycles?
+Extrude Individual Polygons Proportional to Polygon Area
+Rendering with NN Interpolation
+How to import AC3D files?
+How to invert a brush texture?
+Check if a property is animated or has a driver
+Texture Paint: Pixelated after texture paint
+Script skew camera in game engine
+Detect drag and dropped files from python?
+Select multiple faces at once
+How to render specific frames of animation
+Stacking cycles renders in the compositor?
+Is it possible to quit blender from the command line?
+What is the best workflow for texture painting?
+Is it possible to keep particles orientation relative to the emitter when the emitter is rotated?
+How to edit textures with texture paint in Cycles like GLSL in Blender internal?
+What does the stamp drop down menu in the render panel do?
+What is "Lightfield tools" plugin for?
+Moving user perspective in Blender with Python
+Help with Axis Placement when extruding
+Can one create a video from sequence of meshes that you already have using blender?
+Blender skin modifier error?
+Why do some values on nodes lack an input socket?
+How to make particles fall like snow
+Why won't my particles show up in my rendered image
+Applying shrinkwrap modifier corrupts the shape
+How to stretch 120 seconds of animation over 270 seconds?
+Mirror changes to side of cube across all six sides
+How can faces be rotated around their individual normals?
+How to batch import Wavefront OBJ files?
+Problem with creating edge rings on a model
+Output Z-Pass in Cycles
+I'd like to have portions of a texture not glossy
+For Fluid Simulation, what do the Start, End and Speed settings mean?
+Edit face triangulation without actually adding edge
+Problem rendering a video (Cycles / Node Editor / VSE)
+How can I scale a subsection of a mesh created with the screw modifier?
+Is there a way to use Textured Solid without getting a Backface Culling effect?
+Setting the DPI value in rendered images
+Browse for an Image and assign it as a texture in python?
+How to create a shadows pass in cycles?
+Cloth simulation not animated in 3D Viewport
+How to get a lamp icon at the location of a lamp
+Curve guide on linked object
+Why does attached Python script produce error "Cannot execute boolean operation"?
+Is there a way to unwrap a mesh without scaling the UVs to match the aspect ratio of the texture?
+How to create a visible material that does not emit or reflect light?
+How can I add motion to a rigid body?
+I want to make animations, is Blender the right program for me?
+Is there a way to put a copy rotation constraint with an influence higher than 1?
+How to import a .mtl file?
+How to make one object gradually disappear as it passes through another object
+How can I rig a cube in Blender so that it bends and twists?
+Cycles GPU render does not work
+Find the name of textures linked to an object in python?
+Using mask as a garbage matte to hide an object
+Reducing vertex density as distance from point increases
+“Cannot execute boolean operation” when subtracting several spheres and cylinders from cube
+Where can I change the settings for UV unwrap?
+Multiple scenes and material with pass index
+How do I disable sync selection?
+Model won't follow its armature in pose mode
+Blender not exporting Ambient Coefficient in .MTL?
+How to distribute objects evenly?
+Render transperent shadows in cycles?
+What is meant by numeric sequence?
+What is the technical difference between a diffuse shader and a rough glossy shader?
+How to create icicles hanging off an object?
+What does the Roughness setting on a diffuse shader do?
+How do I get a user defined filepath in Blender with python?
+How to mix shaders depending on the direction normals are facing?
+How can I thicken mesh hair?
+Can't find the Modifier section in Strip properties to use curves
+Origin not updating with transforms
+How to make a two-point perspective render?
+Adjust the image offset and image crop for multiple strips
+Python: is it possible to import another text block?
+Flatten a Curved Section of a Mesh
+How can font-ids of internal fonts be retrieved?
+Get name of bgl_RenderedTexture in Python
+Can vertices around a face be selected without the face selected?
+Nearby objects won't move independently?
+Sculpting brush tool only makes fancy triangles, no depth
+How do I increase the render distance?
+How do you apply a texture to select faces of a mesh
+Prevent splash screen from being shown when using a script?
+Pointing the camera in a particular direction programmatically
+Can a quaternion be used to convert between coordinate systems?
+How to combine Cycles and Blender render god-rays?
+Settings to fill an open container with objects
+How can I make Christmas lights to put on a Christmas tree
+System crashed but no autosave file found
+Accessing plane track using Python API
+How to get a high resolution image of the material preview?
+How will multiple GPUs improve Cycles' rendering performance?
+How can I tell if Blender is using all 64 GB of RAM?
+How can I simulate powder with a particle system?
+How to fix a 6 point vertex
+In Pose mode, my bones are stuck in rotate, and wont transform
+How can I analyze whether my camera is looking up/down?
+How to make a sub-menu with Python?
+Exported .dae models have a cube embedded in them
+How to find the pixels of a texture for a certain face
+Rendering an Image with a Specific Size
+How to simulate engines spraying a fluid?
+Rigging tank tracks
+How to use baked fluid with network render?
+How can I flatten a cube on the Z axis and make the sides protrude outwards?
+Knife tool doesn't cut obscured edges
+Simulate Individual Face Extrusion Via User Input In Python
+Displaying the wireframe of a beveled Bezier curve
+How to use the current file name as the the output name in the File Output Node and without the frame number at the end?
+Blender sets Compute Device (CUDA) but doesn't use it for actual render (on EC2 GPU Instance)
+How to show textures in the 3D View editor?
+Blender is rendering an older version my project
+Using 3rd party Python modules
+Can't see any objects anymore
+How to switch rendering engine via python script
+How to render very high resolutions without running out of memory?
+Cell fracture explosion with followed by reform of the object?
+How can I remove all unused materials from a .blend file?
+When I link a blend file, why is the object showing up at 1/10th the scale?
+Simulate objects falling into water
+Rigify - Mesh Scale
+When should MIS be used and when should it be disabled?
+Blender assign armature to mesh: “bone heat weighting failed to find solution for one or more bones”
+Is every frame of a animation stored in RAM
+How to randomly (with a checkered pattern) select a number of faces in a mesh?
+Realistic Outdoor Lighting in Cycles
+Cutting a mesh in half
+Where are some places to get reference images for modeling?
+Is it possible to simulate an egg?
+How to get additive blending in cycles?
+Get "Object Color" property in Cycles
+Quick Smoke Domain is Solid Black
+Remove part of a plane
+Is it possible to run a script from an external editor without reloading the file?
+How to change UVMap index?
+How to make an object completely transparent?
+How to prevent particles from going where I don’t want them to?
+Access python data path with ... (Ellipsis)
+Is there a caveat to using drivers on node properties?
+Mapping an algorithm to an animation
+How to set cursor location, pivot_point in script?
+How to use a pivot point to mirror mesh with script
+How to apply shape keys?
+Why are all the textures in my file pink?
+Constant errors with Rigify (Blender), and ultimately can't import to Unity3D
+Exporting (bullet) collision shapes
+Cutting hole into a face with a line loop?
+How do you animate the labels for a diagram in Blender?
+Working with big numbers
+Export multiple objects to .obj
+How can the Bokeh Image node be used?
+Is there a way to make a shortcut comment the current line?
+How to handle creating a node group in a script?
+Increase quality of water render
+Installing Pyserial in Blender
+Is it possible to get a random number in the node editor?
+Is there anyway to make blender print errors in the UI?
+How to make triangular pyramids on each face of an original triangular pyramid
+Objects transformations wrong when importing from 3ds
+Combine depth images from two cameras using the world matrix
+How to rotate source video in Movie Clip Editor - Blender 2.68
+ATI Radeon HD 7770 no GPU rendering?
+How to connect nodes to node group inputs and outputs in python?
+How to specify the name of a node group when creating it from python?
+Why does the shadow pass not account for mesh lights?
+Export 3DS file with pivot point in Blender
+How to apply gradient color change in an animation
+Problem assigning action in BGE
+How to attach colors (e.g., gradient color) to fluid particles
+Popup Dialog StringProperty File Icons Do Nothing
+Rotate camera around object for animation
+Cannot find a certain node in a newer version of Blender
+Python drivers and command-line render
+How do I solve "Color management: using fallback mode for management"
+Cause of black artifacts in render?
+Operator Button Text alignment
+How can a custom icon be loaded in an add-on?
+How to smooth multiple vertices at a point?
+How to unlink a node group datablock?
+Mirror modifier without seam
+How to set the socket type in python?
+How to exclude objects from cloth's collision?
+Is it possible to find the nodes connected to a node in python?
+how can I make my particle affects not glow?
+Python - 3DView Border Select
+Arm resets position when exported?
+Different materials for each fluid inflow?
+Open file browser with python
+Actions/animations interference
+C3D Importer does not work, Context is incorrect error
+Why can I see through a box in blender game engine?
+how can I change the size of particles?
+Dynamic Paint Brush Erase doesn't work in Render Output
+How to create a gradient backround in the compositor?
+How do I colour a 3D terrain based on its height?
+How can I prepare a point cloud for visualization in Blender using MeshLab?
+Blender export point cloud to vrml
+How to make compare with Menus
+Edit Image Externally
+Photoshop Filter in Compositor
+How can I separate a single object file into multiple objects based on closed geometry?
+Each camera may always keep the same resolution?
+I am wondering how to make a storm trooper helmet in blender
+How to make an object point in the direction that it's going?
+Rendering Cycles and Internal in the same scene without compositing
+Setting the pivot point of an object
+When I animate, I get 10 different actions?
+Is it possible to render a panorama in perspectives other than full 360°x180°?
+Animated object exported to fbx does not have any animation
+Is there an easier way to remove single vertices in mesh than delete and reconnect?
+Is it possible to effect the spawning direction of a particle with a normal map?
+Locking a vertex group from modification
+Select everything except ears from mesh of head
+How do I convert a triangle mesh to a quads one?
+Will vertex indices change?
+How do I decimate part of a mesh?
+Why does fluid (water) stick to the top of an obstacle?
+How to smooth animation?
+Decimation glitch for ratio < 0.2
+Removing ridge by smoothing
+Problems extruding a circle along circular path
+How to create a continuous flow of water?
+How to remove the default cube?
+How do you create grass?
+Why does smoke render as transparent in the OpenGL render?
+Water leaks through obstacle
+Render a Bezier curve in the game engine
+How to get the mirror image of an empty?
+Can't use Boolean Intersect on two meshes
+Do failed tracking markers still contribute to the solution?
+Any good free materials libraries online?
+Advantages of using Python in Blender for Animation?
+Move cache_fluid folder
+Wavefront export with [Vertex/texture-coordinate/normal] face definitions
+Rotate object texture
+Tidy up mesh topography
+How to correct collision between particles
+Deforming a mesh in realtime (Game Engine)
+What is the fastest way to create a curved plane?
+How to close view windows?
+why is 'child of' modifier scaling my bone?
+How can I get the location of an object at each keyframe?
+How to separate locked areas?
+Align viewport view to object/Move object to viewport view
+Importing UV coordinates
+Cycles Netrender Returning Black
+How to play a sound after script finishes?
+Transparent mesh with material/texture remains black
+Creating a curved rectangle on outside of a sphere?
+Cycles procedural material displacement is different (up/down) on different faces
+Is there a way to use custom procedural textures in Cycles?
+Blender and MBdyn
+Get smoke simulation to observe emitter's pose?
+How can I modify the mesh of a linked character?
+Automatic mapping of walk animations based on object velocity
+Use rayCast() in none-game scripts?
+Add Nodes to Material with Python
+Check if a node exists using Python
+Create a new UV map but move the textures with the polygons?
+Remeshing part of a mesh
+Where does light come from in a Cycles scene without lamps?
+Add a panoramic background to scene in Cycles
+Fixing intersecting mesh due to sculpting?
+How create Action strip for more objects in NLA
+Texture-painted images turn black when used?
+Snapping points of a roughly spherical mesh exactly onto a sphere
+Rendering animation frames with GPU and CPU
+Using Python to create a sphere and map a texture onto it
+Creating a procedural stone texture
+How to resume baking fluid simulation?
+Does the Blender Game Engine Support Texture Nodes?
+Temporarily join objects while animating
+Apply subsurf modifier to only part of an object
+2 different textures are overlaying (Blender Render)
+How are cycles lamp types different?
+Why do even samples give less noise than odd samples?
+Most efficient way to create a frame for eye glasses?
+Why do keyframed objects cause fluid baking to slow down so much?
+antialiasing is disabled when using Compositing nodes?
+How to select loops with 'emulate 3 button mouse' and 'LMB select' enabled?
+Not render sky texture?
+No bevel option in 2.62
+getting started: no module called bpy outside of Blender
+no module called numpy
+How to get Blender Internal-like specularity in Cycles?
+Is it possible to set which material output node is used?
+Creating a geometry from a Python array
+Rotate bones using a texture?
+Simplify mesh by cutting out inside parts
+Model a simple 3D spiral shape?
+Exporting to Collada --> Loss of Transparency
+Everything gets distorted when animating?
+Delete operation history from python?
+How to play an animation on a mesh?
+Simplest way to add/insert an image to a plane/mesh with python
+How to merge two hand perspectives?
+How to increase the scrollback history of the Python console/terminal within Blender?
+How to list all selected elements in python?
+Why does operators bl_idname have to contain 1 dot?
+When exactly __init__() of bpy.types.Panel subclass must be executed?
+How to make operator data persistent?
+How to disable the automatic UV stretching after an image size is changed?
+What does Dither do in Cycles?
+Locking an axis for a curve
+What is wrong with my repel player script?
+How to composite in a background picture?
+UVs button is missing
+How to move render to the left for space for text?
+Repeat a Python function multiple times
+Is it possible to execute an add-on when choosing 'New' to open the default file?
+How to constrain rigid bodies to an axis?
+How is Cycles different from Blender Internal?
+How to bake multiple fluid simulations in one scene?
+Blender API and Kinnect
+Get Shape Key from Action or FCurve in Python?
+How can I export a blender model as a sprite sheet?
+How to render the whole of image?
+Spin duplicate gives parts - how to spin a complex part of a pipe?
+Draw type stuck on wireframe and no model when rendered
+How to scale the cameras view bounds?
+Cylinder with no cap ends invisible on the inside
+Why subdivided faces with smooth shading acting weird?
+How can I mix two materials based on incoming light
+How do I create a solid object/cube
+Why does my objects look different when I enter the game engine?
+Transparency problem with tga material/texture
+Cutting a circular hole in a hollow cylinder without distorting the cylinder
+Importing animations for Rigify in Blender for use in Unity
+How to access custom properties from python
+Strange frame rate
+How do I join several objects into one?
+Should I add a sun lamp when using an hdri environment?
+Part of rigged mesh doesn't move with the rig
+Bake particle system animation and delete few particles
+Animation by adding points to a curve, with Python?
+Layout selector missing
+Why isn't the cube's collision properties working?
+Character texture is messed up
+When rendering hair, it doesn't follow the particle edit path
+How can I create a cylinder linking two points with Python?
+Is it possible to use timeline markers for driver expression?
+Sculpted object turns into a cube when I enter edit mode
+How can I scale bezier points without curve anchors being affected?
+How do I prevent object distortion when applying a curve modifier?
+Texture appears in render but not in game engine
+Why do fractured parts act like an explosion?
+Have two lamps blend together to give another color on a face
+Compositing multiple scenes and passes with transparency
+'Mesh' object has no attribute 'faces'
+Blender CUDA Rendering
+Best workflow to mix several takes in VSE
+using XML in the Blender Game Engine
+Is it possible to float an object on a fluid simulation?
+Object with a particle system doesn't show in render
+Walk Mode in 2.69?
+How to make a mosaic plane
+How do I subdivide a mesh into triangles?
+Adding hair particles in particle edit mode
+Testing identity of two data-blocks
+Can I influence the direction in which fire and smoke dissolve?
+Is it possible to deselect random elements?
+How can particles be emitted from particles?
+Can the orientation of objects emitted from a particle system be controlled?
+How can I align an object in a discrete sense to the camera orientation?
+Paint particles from texture
+How to save print-quality screenshots of the 3D view?
+Blender Object keeps moving back to 0,0,0
+Unwrap Separate Meshes
+ReMeshing two vertex groups to different resolutions
+How to generate a deformed mesh based on applied texture
+Stiffness of cloth jacket
+Modelling car light in game engine
+How to post a new entry to the help menu with python
+How do I create a haptic interface?
+How can I manipulate the properties of a pattern as a fabric using Blender?
+Possible bug? Sculpt Mode -> Simplify Brush is affecting far side of mesh
+How to make an object's texture conjoin when exported to Photoshop?
+How can keyframes of properties be added to an action?
+Black edges artifacts in renders on edges of geometry?
+Applying numeric input attribute changes on multiple objects at the same time
+Blender 2.69 Baking issue
+Multiple meshes per object
+mesh won't deform (in pose mode) once parented to bones
+Exporting tiled texture?
+How to make a circular array using offset object as center?
+Blender Loop cuts and vertices measurement
+Declare a global variable in a Blender session
+Merge vertex to face
+Ruler/Protractor tool - change snapping values for easier snapping to vertices?
+Armature bones created in python disappear after exiting edit mode
+Is it possible to add a new window type using the Python API?
+Cycles toonshader vs Blender Internal shaders
+How can I check the chosen preset in Python?
+How to exit animation mode when using physics
+High Poly Mesh UV Mapping
+How do I cite Blender builds/release correctly for Publications using Bibtex?
+Rigging convention for limb joint dominant axis?
+Subsurf and mirror modifier creating a split in mesh
+Trying to put color on part of object
+How to find RGB values from texel contained in an area?
+Use vertex path on one mesh to cut a hole in another mesh
+Multiples animations in a single blend file
+Particle systems with lamps as the object emitted
+Sound Block Buttons
+Rendering into video with Blender in Python, frames to video
+Use Python to add multiple colors to a NURBS curve
+Per-Vertex lighting in GLSL?
+Particles dispersion from one object to another
+How can I remove artifacts from a flat surface after using a boolean modifier?
+How to model component pieces of a geometric solid?
+Python Function to Discover Triangle Slope
+poll() failed, context incorrect? - Example: bpy.ops.view3d.background_image_add()
+Why does a cross effect in the Video Sequence Editor overwrite a multiply effect?
+How to weld two objects along a common seam?
+Is it possible to do a radius constraint in Blender?
+Blender baking problem
+unexpected reactions in a quiet simple rigidbody physics simulation
+Suppress output of Python operators (bpy.ops.*)
+Access active spline from Bezier Curve
+How can I dynamically show objects properties in the UI with python?
+Is it possible to render AO with the OpenGL render?
+Is it possible to copy a certain property of a certain material to other materials?
+Can Collada export vertex colors?
+Python script to determine XYZ of tip of cone
+How do you check for a specific game engine property with python? (2.7x only)
+How does squared samples "make tweaking easier?"
+How can I get a list of all objects named 'foo*'?
+How to iterate through all vertices of an object that contains multiple meshes?
+How to access vertex_color layer directly from inside BMVert
+custom color property in panel draw layout
+How to convert coordinates from vertex to world-space?
+Enumerating vertices with their indices
+Changing default text value in file dialogue
+Why does removing the dot from bl_idname break my addon?
+How do you restrict the left click rate in the game engine?
+How to blur video background?
+Problem with too many faces of object
+Where does console output go
+Mix node as identity function
+Splitting pieces of a mesh into a new object
+Manual voice syncing?
+Clean up vertices/edges with no faces
+Position all selected vertices to the same place
+Path for camera from motion equation
+How to create squared glow?
+My markers in the movie clip editor keep "moving" around - what gives?
+How to use the render result from one scene as a texture in another scene
+How to fold a plane while keeping length of edges?
+Blender's video and audio don't sync when editing
+how to use random.choice with transform.resize?
+Texture painting without rendering vertex paint
+How do I apply an environment map in Blender Internal?
+How to make a mesh look like it was 3D printed
+How to have volume material cast shadows?
+Change size of armature bones?
+Strange mesh deformation when using the action editor?
+How to change particle size?
+Packing all UV Islands when Draw Other Objects is activated?
+How do I use Dynamic Paint with the Image Sequence setting?
+What's the simplest way to wrap extruded text around a cylinder?
+Why does the previous frame sometimes get displayed as transparency when rendering animations?
+Is it possible to make a plane out of meta objects?
+How to reset/remove a shortcut?
+No CUDA option in system preferences - is it my driver?
+Should I be concerned with symmetry/neatness?
+Setting the context for cloth bake
+How to control hair particle position?
+How to convert from high poly to low poly
+How to Import a model with textures applied?
+How do I transform triangle polygons into quads?
+.obj export - moving the origin
+Output two files when rendering an animation
+audio track and video track are not the same length
+Extruding, other side does not have face
+Different camera settings for different render layers?
+Proper way to maximize reuse of assets within scenes
+Textures not showing up on objects unless selected in UV editor
+How to create an equilateral triangle base prism
+Can python be used to edit a Text Object?
+Is it possible to adjust the frame rate of viewport playback?
+How to make "baked powder" effect?
+Normals messed up after applying transform
+Fluid baking stops without errors
+How do I properly set up a spotlight cone?
+How do you render a stereoscopic image?
+How do I reload a linked blender file?
+How do I remove all loose edges?
+Problem with the "Use Object Material" setting for Dynamic Paint
+Why do my spotlight's dimensions differ between rendered and non-rendered view?
+Use Blender's file browser via python, without a UI panel
+How to align polyhedra face to face in an array
+Cutting an archway in a wall of a model of a building
+"Bake" all Particle systems into their object
+How to merge actions together?
+Are there any advantages of bigger/smaller tiles
+Issues with Shadow Mapping?
+How do I scale from one side side only?
+Python Commands from Terminal Aren't Working Ubuntu 13.10
+How do I clear the render border?
+Aligning bones' axes to the global axes
+How project/Cut a path over sphere
+UV painting within Blender?
+Why does my material panel look different?
+Is it possible to append objects to the same layer as they are in the source file?
+Choose 10,000 random points inside mesh
+How can I make an object render with a wireframe in the game engine?
+How can I set the linearVelocity so that the object travels a specific distance with python?
+Modeling a crease on a helmet
+How to align an object by one or two edges to xyz axes?
+Does a game engine runtime work on all operating systems?
+Preview in Video Sequence Editor doesn't show render layers
+Coordinates of corners of camera view border
+Export modifier, not apply
+How to set options before script execution
+Jagged and wrong looking shadow on hair particles
+How can I "convert" a blender model into a 2d drawing?
+X-Ray Mode is Not Working
+Poor precision when editing?
+Why can't I translate parts of my mesh with the 3d widget?
+Programmatically generate random point-cloud within solid mesh
+How can I organize the outliner with groups?
+How to re-parent a bone?
+How do we access Vert, Norm and UV data then print to a text file using Blender/Python?
+Possible to replay repetitive tasks using Python?
+Can I subdivide vertices in a single direction?
+Transparent image textures in cycles
+How do I copy the normal axis orientation from a mesh face to an Empty hooked to the face OR a bone parented to the face?
+Change number of frames allowed for each animation?
+Keep sharp edges when using subdivision surface
+Apply Scale issues on duplicated object
+Python context error NameError: name 'context' is not defined
+No previews showing in the compositor
+How do I force Graph Editor to show drivers for my Materials
+How to apply (make real) a curve generated by modifier in Graph Editor?
+How to create snow particle physics?
+Is there a way to have one material for cycles and the BI
+Problem when exporting from Blender to Unity 3D?
+Is it possible to convert a procedural texture into actual geometry?
+Is it possible to render other materials besides volumes using a procidural texture to define "density"?
+how can I make an emission shader shine through a transparent material?
+Is it possible to render video sequence animations with network render?
+Make the "Ruler/Protractor" measurements to appear on renders
+Why does home button in the UV/Image editor zoom out a lot?
+Getting a stack trace when addon crashes Blender
+Library Linking and textures
+Add a modifiers uv project with python
+How to stop Action Constraint giving different results when code is run in text editor vs python console?
+How can I make objects transparent but thick at the same time
+Is it possible to bake fluid simulation into blend file?
+Why do some bones look like boxes and others like arrows?
+Render has strange artifacts
+How to join booleaned objects without leaving seams?
+how to export armatures
+Can fluid respect soft bodies (or any deformation!) in blender?
+Duplicate along path with uniform spacing
+Make rigid body collide with hair particles
+Spotlight with Halo applied is creating rings around light
+How to exit User Preferences mode?
+How to properly project a pattern from a spotlight cone?
+How to move an Arduino's servo motors using Blender?
+How to repair cylinder mesh with misplaced vertices?
+Stars feature missing?
+Having trouble with panning in 3D view
+Change default parameters
+Symlink-ing into addons folder
+How to call invoke_popup?
+Blender Crashes after a few Renders from a Batch Script
+Layers section is not in the render settings panel?
+How can I export Exact material name with FBX?
+Should an Operator remember its last-used settings when invoked?
+How come my skeleton no longer works after mirroring it's mesh?
+Antialiasing with compositor?
+How do I limit the rotation of the camera in an FPS
+Setting keyframes with default linear interpolation
+Scripting help for Audio Visualizer Tutorial
+Split mesh into two pieces using bezier curve
+Render not showing UV texture
+Hair particles unaffected by mist?
+Is there something like Layout.template_fileselector?
+How to pass a property from popup to execute
+How to check if an object has a custom property with python?
+why is my object solve not matching my plane track?
+Cutting with Boolean Modifiers
+How to organize bookmarks in the file browser?
+Python De-Linearize Colors
+Is it possible to generate a mesh from a armature
+Display values of a normal of a selected face
+How to avoid fluid appearing outside collision objects?
+How do I implement the color I have on vertex paint onto my faces?
+Direct column falls on the horizontal plane
+How to superimpose a lot of textures in one material in the BGE?
+Scene clip in Video Editor affects the image strip above it
+Warp time with rigid body physics?
+Border around reflection pass
+Seamless UV Texture?
+How to modify Blender data from vector/arrays in Python?
+How to stop the influence of a curve modifier for part of a mesh after having animated along it?
+New Import script: creating UV coordinates
+Approach to making a 2D graphic 3D?
+Is there a way to add a specific modifier to more than one object?
+Morph between different facial expressions?
+Packaging external libraries in the game engine 'Create Runtime'
+How to get 3d view grid properties?
+Re-Polygonize a tessellated / triangulated mesh?
+UV unwrapping of complex possibly concave polygons
+Vertex selection without edge highlighting?
+Multiply object and place at vertices with specific orientation
+Can't change opacity of scene strip in Video Sequence Editor
+Can I constrain an object size to Camera angle of view?
+Which is the best way to model a low poly coat?
+Is there a quick way to move a keyframe to a specific frame?
+Make ends of hair mesh sharp
+Problems with Import images as planes. Display behaves randomly(artifacts)
+Blender Cycles 2.69 on Ubuntu Server 13.10 64bit
+How to assign random numbers to phase value for all noise F-Curves modifiers?
+Change FCurve handles from Python
+Remove reflection of one object from another object?
+Why do i get a strange black shadow when i smooth my mesh?
+How to change the camera used for render?
+Bump map connected to Glossy shader Normal input causes line artifact in render
+Mesh has invisible parts after exporting
+Bones moving wrong part of mesh?
+Making n-sided polygons in Blender 2.69
+Generate thumbnail image in addition to main image? (command line render)
+Test if the mouse is over any object in the 3D View with python?
+Can Blender make a timelapse video?
+Bump map painting does not work
+What file must I use for a animation render to post online?
+Why is my object in blender bigger by approximately a factor 10 than in my CAD program?
+Weight Painting Degrade Effect?
+Multiple scenes with the VSE?
+Can blender export 2D curves to svg?
+Select touching/joined vertices/edges/faces
+Snap to mesh issues with Z and X axis constraints
+How to get Anisotropic Filtering in Blender Internal?
+heightmap from textures and hight poly mesh to apply to low polly mesh?
+how do I make an object bend or break if hit with sufficient force?
+How to import an FBX file into Blender
+Mathematical formula for Bezier curves
+Only show colour and NOT transparency?
+Importing Scipy: "cannot import name oldnumeric"
+How to "peel off" segments of a sphere?
+How to access shapekey driver via Python?
+How to animate Rubik's Cube rotations
+Keep part of mesh square when applying subdivision surface
+Get current editor toolbar tab via Python?
+How to shrink an image with the Video Sequence Editor
+Using Physic tab in 2.68 to make swinging linked-chain--problem with "weight" and chain-links that snap
+Is there some way to increase the thickness of the outline around selected objects?
+Armature not working when trying to rotate using the mouse?
+How to get a list of edges of current face in bpy
+How to get the caption of a text object in Python?
+How to add transparency to a group of objects
+How to focus on the selected object?
+Cell Fracture addon leaving unfractured boxes?
+Physics are not simulated past a certain frame?
+Is it advisable to update Blender to the newest version as soon as possible each time?
+How to bake dynamic paint surfaces headlessly?
+Why is there noise in my output?
+Poly / Bezier curve from a list of coordinates
+Some settings in properties > world are missing?
+How to properly unwrap my mesh?
+Unwrapping the inside of a barrel
+Render Layers Without Displaying Them In 3D Viewport
+What do the preferences keyframing options actually mean?
+How to make folding Origami animation
+No file output after rendering?
+Are features from Blender daily builds typically in next release?
+Abort script that renders frames
+Python command within script to abort without killing Blender
+How to toggle visibible / selectable / renderable for multiple objects?
+How can I ensure a minimal precision of 1cm in my project?
+How to lock object rotation along a path
+Change animation fps at certain times (i.e. slow down the animation for a moment)
+How to render a shadow without the object in the scene
+Collada exporter generates too many UVs
+How to add a sky in cycles?
+Surface detection
+Where to report and discuss UI "bugs" and inconstancies?
+3D modelling Wired Designs
+Can NLA strips be combined by transform matrix?
+How can I set a custom projection matrix for rendering?
+Blender rigify problems
+How to pass command line arguments to a Blender Python script?
+Unexpected result when using transform.resize API
+Texture is missing in Cycles?
+Increase depth percept of upside-down cup
+Shader nodes are missing?
+How to create and render clouds in blender cycles
+How to edit a rotated mesh in pose mode
+Keeping the animation running in a Python script triggered by Always sensor in bge?
+How do I snap one object into place with the opening of another object? (See picture)
+How to get the directory of open blend file? (from Python)
+Having trouble panning/rotating with two-fingers on trackpad
+I would like to generate a particle star field that I could keep as static background
+Rigid body objects passing through each other
+Whiter white in cycles
+Why are there non-visible objects in my final render?
+Changinng in-game Armature Object's Armature Data
+Selection of Rigged Characters
+Should I open two blenders to render with my GPU/CPU?
+Save image as for example .png by a script
+How to create and export multiple animation/actions in blender?
+Blender twisting parts of mesh when rigging
+How can the active bone group be set from a script?
+How to numerically assign dimensions of a face
+Redirect output of bpy.ops.render.render() to variable
+Find bpy function in source code
+Can't use image as world texture
+Can I make Blender a Y-Up world?
+How do I Attach a Rigid Body to a Bone?
+Viewing node-editor-created project on 3D view
+How to cut a mesh by specifying the angle
+Isolate or hide specific parts of an object in edit mode
+Does Camera.view_frame() return the correct size of near clip plane?
+Animate with position and orientation from txt file
+How exactly does Blender perform a simple deformation?
+Disable mipmaps for BGE?
+How to set different colors to each side of plane
+Why does the apply_pose operater not work when invoked from a script?
+Python: process mesh so that longest edge length < x
+Need to re-render every time I change something in the compositor because of full sample
+How to check whether a list exists?
+How can a text object be created with non ASCII characters?
+How to write the output of Blender console out to a file
+Extrusion along a curve: position of the profile
+Create sharp crease in smooth Mesh
+How to programmatically register an addon
+Better way to join bezier curve to bezier (half) circle?
+OSX Unrecognized Arguments Terminal Render
+How to distribute an object to a hexagonal grid?
+Config blender to save backup files in subfolder
+Compositing video layers in 3D space
+Merge touching faces on model
+How To Make A Solid Object Drop To The Ground Like It Was Liquid
+My skinned model gets smaller and deform badly, when I rotate its bone in Z-axis
+Rotate object on axis between two points
+'Matrix' object has no attribute 'z' in world_to_camera_view
+What file formats preserve sharp edges?
+Motion tracking : blank trackers in 2.69
+How to copy Modifiers
+Get screen space coordinate for node position
+IK + Pole Target {Rig} is =//= Twisting my Characters Mesh
+Rotate object around cursor with Python
+Subtitles or how can a text object be edited before a frame is rendered?
+Convert VOXEL model to soft Mesh
+Is it possible to use bpy.props.PointerProperty to store a pointer to an object?
+Is OpenCL possible within Blender either via cycles or internal?
+Operator arguments - Identification if object names are not unique?
+How to mix more than two shaders?
+How can I simulate Real camera "white balance" parameter in KELVINs
+Color as Custom Property?
+Blue spots in compositing after color mix
+How to get world coordinates of a UV parameter on a NURBS Curve Surface?
+Bones not moving in pose mode?
+Transparency problem with texture using cycles
+Color faces based on world space normal
+How to display an skeletal animation in WebGL on web browser
+Which is the better Topology? Left or Right? - [With Image Reference]
+Why do seam edges move together?
+Blender Python Custom Outliner tableview
+Dynamically create camera in the BGE?
+Modelling metal deformation properly

@@ -1,0 +1,984 @@
+Mosquitto debug level log - How to keep all entries but PINGREQ/PINGRESP
+Optimal Wireless Technology for High Data Rate & Low Latency IoT Application
+Controlling IoT device through a captive portal/web app over Wi-Fi & 4G/LTE simultaneously
+What are the parameters and configuration required to connect HA 1.2 Zigbee
+How to find remote thing's IP address?
+What's the difference between Jackdaw and KillerBee on RZ Raven USB Stick
+What ports does an LG TV open?
+Creating COM serial port between external device (Joule/Arduino/etc.) and PC over Bluetooth w/ linux sdptool & rfcomm (OR another method)
+How is the IOTA cryptocurrency network useful for devices in the IoT?
+How can I send images from a webcam using a Raspberry Pi?
+What hardware and sensor do I need to install Android 4.4 in Raspberry Pi 2 or 3?
+What are the boot requirements for an IoT device for automotive industry?
+A practical guide to Amazon Echo, families with children?
+Wifi wall volume "dimmer" switch to control chromecast audio volume
+How do the AirPods communicate with the phone?
+Ceiling fans - Can I use a smart switch to control a dumb fan?
+Are there anybody use Android based 4G module
+Does Google Home support any NFC use cases?
+How to link LoRaWAN Server with WSO2 IoT through MQTT
+Windows 10 IoT Core will not install onto my SD card / Raspberry Pi 3
+What is the Operating System on Google Home Device?
+Can Alexa be trained to use preferred volume levels?
+What kind of network security is employed in live streaming surveillance cameras?
+Edison Ubilinux Flash Error "Cannot allocate memory of size 1610612736"
+With a SmartThings system, what is the result of marking an alert as a false alarm?
+How to create a home card in Alexa
+BLE only partially connected in iPhone?
+Which tools/frameworks do you use to configure an array of SBCs
+Acquisition of data from non automated old machinery in IIOT
+Drawing parallels between building an IoT system and building a PC?
+Connecting your Pi to the internet when mobile
+Ring Floodlight - Simple alternative by combining camera and floodlight?
+Is it possible to train the "Google Home" device for different styles of pronunciation?
+Can I publish multiple MQTT topics in a single request?
+Traffic Shaping and MQTT
+How does the IoT reduce Bosch cooling costs?
+Routing Echo Dot through my computer to my speakers
+How long does it take to create an Alexa Skill?
+ESP12-E Video Streaming window, text and buttons are not displayed as expected
+ZigBee integration (IP/Gateway)
+Which IoT platform should I use for low-energy temperature sensors to be powered by battery?
+ESP8266 Without Web Page
+MSP430F5529 + CC3100 IOT test device only responds to some test websites
+Bluetooth chipset high voltage
+Is MQTT protocol appropriate for transmitting sensor readings over BLE?
+Can I use Google Home in countries where it is not officially available?
+Intercom ring notifier with ESP8266
+Use of predictive maintenance in automotive industry
+Alexa cannot identify Fauxmo and ESP8266
+How to test Aeotec home energy monitor
+Looking for direction to find a specific hardware
+Would RPI 3 serve as IoT server with MQTT?
+Is this FTDI breakout compatible with the Sparkfun Thing?
+Alexa to Alexa calling
+Contacting Arduino through internet without port forward
+What will happen if I use Class 4 SD card, instead of recommended Class 10 for Intel Galileo?
+Using OpenIoT for detecting sensor node attacks
+How can I synchronise data between devices, avoiding loss of messages and duplication?
+Is there a smart switch or plug that can remotely turn on another smart plug?
+Wireless communication technologies for indoor location-tracking
+Instant Status with Vera / ZWP-WS-100
+What are the similarities between traditional internet and IoT (Internet of Things)?
+Creating an HTTP GET polling service on a Raspberry Pi Client
+A WiFi smart light switch with cloud API?
+Remote access for multiple IoT project units
+Ads popping up for the same thing I was talking about minutes ago?
+Does CoAP depend on IEEE 802.15.4?
+What is the easiest to install smart switch that has a remote control?
+Is there any way to restrict the Google Home account privileges?
+UK m590e, Use GSM,GSM compact or UTRAN? (AT+COPS)
+Remote access through carrier-grade NAT
+Does 6LowPAN stack helps in requirement of gateway?
+Connecting web app to IoT AWS
+How do you do a Google Home call?
+How does Alexa discover devices (Eco Plugs)?
+ESP8266 Mesh Network Root Node
+How to get Alexa to play music like <insert artist> using Amazon Music
+How do I get the MAC address of LoRa nodes?
+How to issue commands to IoT devices within WiFi Network
+LoRa - Creating a personal network to track cars
+How do I stop Alexa from including the application owner's name
+Input signal for Tasker on an external network
+IoT 2G wireless data - service providers options in USA
+How can I make an IoT system with a CNC machine and robotic arm?
+Connect CNC machine to AWS IoT
+Can a Bluetooth tag (iOS and Android) send a push notification without the device being connected to the internet?
+Can Google Home support multiple accounts in different languages?
+What is the simplest programmable IoT device that can connect to Wi-Fi?
+Does AWS IoT have Enterprise Mobility Management Capabilities?
+Wireless Blind Motor Control
+Does AWS Mobile SDK for Android gives capabilities to call AWS IoT REST APIs?
+Can we send commands to Alexa through Alexa app?
+Why is AWS Greengrass region specific?
+Can we install Greengrass core for different platform other than Linux?
+How do we get Alexa to speak instead of making the light green when receiving a message?
+What are the limitations of our own build Echo using Raspberry Pi?
+How do I check whether a LTE network supports CAT M1?
+Google Assistant Timer + Action with One Command
+How can I find echo dot's MAC address without turning it off?
+IoT types of traffic
+Does Apache Kylo support IoT data consumption?
+Which off-the-shelf wireless door/window sensor can I easily interface with Home Assistant?
+MQTT broker accessible from outside without opening port in firewall?
+What are some good tools for graphing sensor values?
+Mobile network on Android Things SoM?
+Power Consumption Benchmarks of Different Android Things SoMs?
+Sensors Communicating With the Pi, BLE / Wifi
+Connect Webpage to AWS IoT to Publish Messages
+Call home network IP from anywhere
+As a software developer, is there a way I can restrict Google Home to only play certain music?
+Chromecast Doesn't Show Up
+How can I control my TV from my computer?
+Can programs loaded onto NodeMCU board be extracted?
+How can I get Google Home to spell a word that sounds the same as another?
+Are wireless mesh networks limited to PAN applications?
+Is wireless mesh a poor choice for sleepy devices?
+Sensor using X10 power line protocol connection to Raspberry Pi
+ZigBee sleep problem
+How will network bootstrapping work for headless embedded-SIM IoT devices?
+How mature is massive MIMO energy harvesting (in the 3GPP standards)?
+Can I use an ESP8266 as an MQTT broker?
+Does Node-Red support multi-request flows (i.e. sessions)?
+What's the difference between Z-Wave and Z-Wave Plus?
+Is there a standardized RPC mechanism for MQTT?
+Control a solenoid with NFC
+Working with Rust on the ESP32
+How to secure a Samsung Smart Refrigerator against BlueBorne?
+How to control my telephone via Mobile/IoT?
+Can I enable interrupts on GPIO16 of ESP8266?
+Make Amazon Echo talk by sending a request to it
+What is the difference between beacon products
+Alexa Drop In on AmazonTap
+Creating a Tor 'hidden service' on Windows IoT Core
+Parity calculation problem
+Controlling ESP8266 via Raspberry Pi through MQTT
+Arduino Uno Vs Raspberry Pi
+Microsoft Edge Smart Mirror on Raspberry Pi 3
+Tracking exceptions and errors in production IoT devices?
+Cannot get Google IoT Core to work
+Can Google home be used for reminder?
+How to ask Multiple questions to Google Home
+Is there a way to control my lights from my Linux desktop?
+Standards for non-Internet-connected WiFi devices?
+Can I use my Raspberry Pi with 802.11 ah HaLow yet?
+How to setup mosquitto public broker in linux server?
+Windows 10 IoT on "regular" PC?
+Creating smart multi-room audio system
+I2C transfer to Thunderboard Sense microcontroller never completes
+Server to handle connections with smart sockets
+Google Cloud IoT Core quick start
+How to measure temperature using a sensor and Raspberry Pi?
+What is the difference between Echo and Echo Plus?
+Is it okay to use the 4 pin USB TTL cable instead of the recommended 6 pin USB TTL cable for Intel Galileo?
+Looking for a very low volume solenoid/water dripper
+Standalone accelerometers to track the movement of bow limbs
+Good microphone for whole room (without Internet)
+Generating a simple, low cost contactless pulse generator
+Smartthings Hub Keeps Losing track of Deadbolt Status
+Can I implement ZigBee with generic hardware?
+Is there a way to create WiFi with one Access Point, which should cover a big building?
+Can multiple subscribers subscribe to the same topic from AWS IoT?
+Are there any devices with open-source protocols over Wi-Fi?
+Watchdog timer changed router and esp8266 behaviour
+A low cost alternative option for ZigBee stack in mesh network of sensors
+How is LTE organized in NB-IoT
+Is it possible to share an Application between two or more LoRa Gateways using TTN?
+MTAC-LORA-H-868: Can I use without an antenna?
+What to choose: 2G, 3G, 4G, LTE Cat-M
+Is there something like a Thing as a Service (TaaS) emerging in the field of IoT and IIoT?
+How do I get Amazon Alexa (Echo) to run automations in Nexia?
+Motion sensor to monitor the movement of people
+How can I set up ESP3212 after unpacking?
+GPS Transmitter that works without Mobile Networks
+Standards for keeping devices' security up-to-date
+ESP32 & Bluetooth
+Non-IP device Communication Protocols
+How to turn a router into CoAP server or MQTT broker
+Offline messages not being send to Adafruit IoT portal by Mosquitto broker
+Modernise old door opening office system
+IoT Communication Protocols
+Set up home Wi-Fi access for a device without a screen
+Device for a motion tracker with BLE/Wi-Fi
+Alexa nodejs accessing url from Amazon Lamdba
+AWS IoT implementation on a low end controller like Atmega328, nrf51822?
+Smart electric outlet that can cycle power automatically when power draw falls below certain wattage?
+Proper steps of data processing in an IoT cloud platform development
+Website on a microcontroller
+Wireless devices for wireless control of light
+NC-200 Park Sensor for vehicle detection
+Industrial Internet vs IoT
+2G-4G SIM Cards for Cellular Modules, specifically the new NB-IoT
+Sensing multiple concurrent inputs—conceptual approaches
+What's the Name for a load control switch that is hidden in the ceiling?
+Solar panel + battery power for IoT device with 802.11n
+Google Assistant shortcut to "Repeat after me" isn't responding
+Build a “Smart Home”—Lack of Security
+What will the Apple HomePod be able to do?
+How can I replace physical IoT devices during the application development?
+Can Philips Hue bulbs run schedules while the bridge is off?
+Smart fluorescent strip lights
+Send Google Assistant text to read out via the SDK
+Can smart hubs such as Samsung SmartThings produce audio?
+How do car insurance tracking devices connect to the internet?
+Raspberry Pi Monitor: Qualify as IoT device?
+Smallest version of a GPS Receiver searched
+Wi-Fi Plug uses IPDC (Internet Protocol Device Control) for controlling via App?
+Looking for device with following capabilities
+802.11 action frames send and receive in software
+SSH into an Orange Pi connected to the internet via 2G GSM module
+Smart deadbolt without motor -- Read-only Access
+How do I connect Wemo Bulbs to Google Home
+Protocol for over 300 metres and minimum of 20 kbytes datarate?
+How does the MooMonitor detect bovine heats?
+Query my location from home
+Wio Node setup failed
+Z-Wave Hub that works with Google Home in Australia
+Anyone know of a Wi-Fi light switch that works with Linux?
+Is there a known list of wake words for Google Home?
+What right hardware to use for Home Automation using MQTT?
+Why is my Logitech Harmony turning off my devices in parallel?
+How can I match database records (e.g. names) with voice input from an Alexa Skill?
+Is the Amazon Echo mic mute a hardware switch?
+IOTA on Arduino or Raspberry Pi or Similar Board?
+Can I use a US or UK SmartThings hub in Australia?
+Reducing the number of Hubs in a DIY Smart Home Automation project?
+Questions about MQTT max message size
+Job / Run Loop manager for embedded device?
+Is there any way to access local server from outside without port forwarding?
+Lutron switch - turn off lights when nobody is in the room?
+Samsung SmartThings motion sensor
+Which services/resources discovery protocols or mechanisms are mainly used in IoT solutions (Amazon IoT/Eclipse IoT)?
+FitBit integration with Alexa; Play music when waking up
+How to specify Gateway in Contiki Cooja?
+IoT Setup: Bluetooth Sensor -> IoT Gateway -> IoT Platform
+Choosing appropriate protocol for IoT Application
+Error connecting AWS IoT button to Wi-Fi network
+Where can I buy "all-in-one" sensors?
+Control cheap Xiaomi Outlets with Harmony
+How can I push data from car-mounted microcontrollers to a remote server?
+Setting a device clock with BLE
+Amazon Alexa and Multi-Room Music Groups
+Do smart sockets consume power while turned off?
+How could I do a HDMI channel mapper?
+When is Z-Wave S2 Security Mandatory?
+Secure EEPROM Reading from Another Device
+How to Make Custom-Length Jumper Wires
+Can't connect Philips Hue Bridge with network
+How to make node select the least preferable parent as preferred parent in RPL protocol?
+The MQTT Paho Python code doesn't work properly
+Alexa app drop in feature and contacts missing after upgrading iPhone
+How to transmit binary data over CIP using AT commands?
+How can I get access to a public MQTT broker's (like iot.eclipse.org) logs?
+Alexa for Business - Using Alexa for conference room
+SIM5320 MQTT TCP connection closing unexpectedly after time
+ESP32 - How to enable options in PlatformIO
+Setting up Mosquitto with SSL
+Recommendation to choose API development open source Language, Framework and Database
+How to cast local video files from computer to TV using Google Home?
+IoT Session duration
+Is there any surveillance camera that supports UDP broadcast upon motion detection?
+Port Forwarding for non IP IoT devices
+How to create external client for cooja?
+Techniques of remote access to non IP IoT devices
+What do ACK, SB, SF, LG, RES mean in Sigfox network?
+Calculate velocity and direction on microcontroller or on remote server?
+Ambient lighting with IKEA Tradfri and Apple HomeKit
+How do Smart Home Security Boxes work?
+How does URL Remote Access method work?
+Should I use the MQTT protocol?
+Connecting Raspberry Pi and Intel Edison
+How to trigger a function in SIM800C Module using an SMS from AWS IOT?
+Raspberry Pi outdoor connectivity for large farm
+Google Assistant read custom phrase
+How is remote control of IoT devices Implemented by SmartThings?
+Why can I connect to Wi-Fi with 2nd gen Amazon IoT button but not 1st gen buttons?
+Cannot publish AWS IoT messages from Raspberry Pi
+How to decrease AWS IoT button press delay before message publishing?
+How to get Google Home assistant to read a value from the Internet?
+Program with MQTT hanging after starting, LDR processing is not working with no MQTT messages
+Increasing the range of an RF module
+How to link device with user?
+Is a range of 50 km+ possible in LoRa?
+Using AWS Lambda function to create a monitoring website for IoT devices
+Possible to assign a default "light" to a given Echo device?
+My thing connected to AWS IoT but it does not publish messages
+Can I upload code to NodeMCU without using micro USB?
+Is it possible to control the eq settings of the Kalimba DSP by a Bluetooth (Android) App?
+How can a device get the SSID and Password of my Network without WPS?
+Should I use emq+emq-web-hook to persist messages to database?
+How long between PINGREQ and PINGRESP on Mosquitto broker?
+Is there any scream detect sensor or scream recognition program?
+Are there 6LoWPAN based smart home platforms?
+How does a smart switch get its power?
+How to handle AWS IoT with a Raspberry Pi to connect to my Node.js API?
+Running Dropbear SSH server completely from SD card because filesystem is read only
+GPS ground communications expensive (financially and power requirement)?
+How can I pair the Tile to the phone?
+Can Alexa routines run arbitrary commands?
+Unable to receive RF signals from a remote using a RF receiver
+Fluorescent Tubes - Sonoff Switch?
+How to use Tradfri Lights with Ikea Tradfri Gateway within Alexa routines?
+Alexa Speaking Without Being Asked
+Do Hue bulbs need to be connected to an Echo Plus directly?
+Deploy Scripts to AWS-Greengrass without AWS-Lambda
+IKEA Tradfri bulbs showing up as "other" in the Alexa App, instead of "light."
+How can I have my Google Assistant and Home devices play an MP3 in response to voice command?
+Do hue light bulbs remember your routines after a power outage?
+How can I connect a local Arduino to my Google Assistant without relying on cloud services?
+Booting up ESP32 normally
+How do I disable phone ringing from my Tile?
+Is MQTT scalable with 1000+ clients?
+MQTT: Can a subscriber send data to a producer asynchronously?
+How to detect a presence (not motion) of anyone in a room?
+Building an IoT product - what is the best way to avoid sharing in-house proprietary code?
+Trigger to remote server when my device in low-battery?
+How to connect to an ESP8266 via public address?
+3G SIM5320 support for MQTT
+InfluxDB in Single Node Embedded IoT Applications
+Should I keep open a socket between IoT NAT device and server?
+File Transfer from ESP8266
+Can I install Mycroft on Google Home?
+Polling multiple GPIOs
+Subscibe to specific device with AWS or Azure IoT services
+Detecting IoT devices in web browser?
+MQTT Connection Using Keep-Alive > 5 Minutes Silently Disconnects on Azure VM Broker?
+(Multitech mDot + Conduit) mDot keeps dropping connection to network
+When using LTE-M's eDRX mode, is the TCP connection still open?
+NodeMCU - create public webserver
+How to use Aeotec Nano Dimmer with a SPST switch?
+Connect NodeMCU 0.9 to WPA2 Enterprise
+Lo.Ra and Lo.RaWan: Why is a gateway needed?
+MongoDB/Redis/CouchDB/Any Graph DB with S3 for IoT implementation
+Lo.RaWAN: Why a network server is needed?
+Can I play sound from my computer on an Echo Dot?
+How can I monitor, from the cloud (thingspeak e.g.), something not happening?
+Call AWS Lambda https end point from AWS IoT rules Engine
+Which backend database is suitable for the IoT implementation
+Eclipse solutions without a gateway
+Are there standardized MQTT topics?
+How to add payload to a posted MQTT topic?
+What are the hubs for non-WiFi, DIY/open/hackable devices?
+Which is the best web server use for IoT device?
+Can mosquitto publish the IP of clients?
+Does events batch count as single or multiple events in Azure's Event Hubs/IoT Hub
+Internet of Things: ThingsBoard.io
+Issue with Google IoT MQTT bridge
+RFM69W and LoraWan
+Fixing the Sampling Rate of ADC in ESP8266 Wi-Fi Module
+What is the working voltage range of a Sonoff Touch?
+In IoT, Is it necessary to involve single-boards such as Raspberry Pi as the only communication devices?
+HopeRf RFM98 and arduino-lmic library
+What is the best sensor for the measurement of Carbon-dioxide?
+Moquette MQTT server more than 1024 connections
+Create a toggle between two actions in IFTTT
+Which Wireless Frequency Bands could be preferrable for IoT in Aviation?
+How do I use Home Assistant's Configurator with remote access?
+How can I programmatically tell a camera where to point?
+HyperLedger for IoT
+Is there any open source firmware or OS for IP camera like openwrt for routers
+Do TP-Link bulbs provide any API support?
+What IR codes are emitted by Faber/AEG/Franke/Smeg... RC?
+Tasker MQTT to adafruit.io unreliable, how do I troubleshoot?
+Automatic Compiling & Flashing of EFM32 Programs
+Ultra Low Energy point-to-point protocol choice
+Secure pairing support in various RF standards
+Data visualization and device management
+Source device for multi-room audio system
+How to process the MQTT queue once?
+Using television Yagi antenna on a public homemade LoraWan gateway
+Bluetooth heart rate/blood pressure monitor
+Using Arduino LoRa with RFM9X chipset: How to connect the RMF9x NSS pin?
+Is it possible to use both Lua and the Arduino IDE on the node-mcu?
+How to pass two parameters in header using AT Command with SIM800 GSM modem?
+Avoid limited connections of WiFi Router
+How can I get the sketch going that came with my TTDO LoRa oled esp32?
+Why does IBM's arduino-lmic example for abp activation have only 2 keys?
+Why is 5G a plus for IoT?
+Home intrusion detection system - UltraSync 1347 - reliability
+How to get OSRAM Lightity ClientID and secret?
+Are there any 'minimal' power meter data loggers?
+Maximum Bluetooth LE devices near each other without interference
+Is there an IoT device which has Bluetooth, GPS, a USB port and which can support a module for an alarm?
+Echo and Wink, how to send a TCP packet to device on local network?
+How to cross compile Paho-MQTT-C library for ARM?
+DS18B20 Oscillating Rapidly
+How can an end device authenticate with server using chain of trust?
+Industrial IoT remote connectivity
+Unable to receive response to AT commands after switching from data mode to command mode
+Google Home won't respond, waits 30s to a minute and then says "something went wrong" or "there was a glitch"
+Using aircrack-ng within VoCore
+What are the best / recommended approach for communicating or sending message between iOS/Android app to hardware / Raspberry Pi?
+What is the maximum Packet Size of a LoraWan including the phy headers
+How to reset motes (Telosb) at same time?
+Which is the right way to use AWS-IoT for big quantities of devices?
+Local and distant MQTT communication
+Wireshark capture Arduino FTDI USB traffic in order to debug applications that talk to the arduino
+How to monitor extra MQTT information with Home Assistant?
+Are there any surveillance cameras/devices that are EU General Data Protection Regulation (GDPR) compliant?
+Finding the time interval between two events using CCP on PIC18f4520
+How would I use HTTPS on the web-based device config running an access point and no internet access?
+What is difference between a mote and a microcontroller equipped with sensors and connectivity?
+Wi-Fi Line Voltage Thermostat for Baseboard Heaters
+Unable to read the memory from NTAG213 via PN532
+OpenSource Cycling Computer
+Does an Internet of Things device need to directly connect to the Internet, or can they use alternative protocols like Bluetooth or ZigBee?
+Synchronized data between Hardware's storage and Server's database
+Why are Zigbee hardware modules so expensive?
+Error: 'NN_DIGIT' does not name a type, while using google-cloud-iot-arduino
+What would be the best way of authenticating users without password or username?
+Multiple agents authentication to MQTT
+Architecture for solution to Industrial IoT
+Semtech Lora Packet forwarder with Dragino Shield: How to configure the pins on packer forwarder?
+IoT device's soft access point module dropping out at trade show
+WiFi communication between PC and embedded system on LAN
+How do you clear Alexa music history?
+Mosquito MQTT Thingsboard and Thingsboard IoT-gateway on same server
+What are affordable solutions to air quality monitoring system?
+Arduino LMIC: Figuring out when packet transmission has been started on Chip
+DragonBoard 410c—Create custom Windows 10 IoT Core image
+Rapid pairing of Bluetooth low energy interface
+Control Samsung Smart TV (Infrared Remote) via Hue / Zigbee?
+Network type for streaming from RPi to several ESP8266 modules
+How can I write bytes to BH1750 via line buffer IC (ESP32)?
+MQTT protocol between RPi and sim808
+Is it possible to automate devices that are connected to electric switches in homes?
+SSL/TLS connection to Mosquitto broker from Android app
+Devices wth Support for BLE Services 'Location and Speed' and 'Heartrate'
+Tracking livestock location without GPS or mobile network
+OMA Lightweight M2M Protocol
+Remote control old intercom
+Door bell with wifi camera
+List of BLE hardware devices & what BLE services that they support
+IoT framework / dashboard with time lapsing capabilities and reusable device definitions?
+Connecting a SIM800L to a IBM BlueMix Server via MQTT
+Websockets with Mongoose on ESP-IDF
+Is there any way to hide traditional light switches?
+How to Use Alexa & Raspberry Pi switch things wirelessly?
+SSH to Raspberry with Windows 10 IoT
+How to connect IKEA Tradfri Gateway to a WiFI?
+Which Fleet Management Software exists for IoT devices?
+mosquitto - allow_anonymous false shows connected message
+AWS IoT Enterprise Button setup fails during Wi-Fi configuration and can't connect
+Android things create Wi-Fi access point to configure device
+Device authentication
+I'd like Alexa to announce a monthly reminder
+How to make mosquitto to update topics in database not from memory?
+Why does Mosquitto not apply access lists correctly?
+Spreading Factor of LoRa
+MQTT always connected and 4G data load
+Solutions to secure MQTT-SN over UDP with DTLS (or alternatives)
+Need Suggestion HD Camera to be integrated with Wifi module
+Cheap PoE board with TCP/IP support
+Z-Wave Plus Backwards Compatibility
+IoT based warehouse management solution
+Is it possible to emulate IoT with Docker?
+Do simple, wirelessly connected, but not battery powered switches exist?
+Alternatives to Siemens Tc65 (GSM modem) as a terminal to process text messages
+Sending temperature sensor's data to Kaa-IoT platform via 6LoWPAN
+Data from ESP32 to AWS S3
+Firewall/NAT for LWM2M
+Control arduino via MQTT
+MQTT with TLS for TI CC3200 fails with 'Bad CA file' error
+Solution for IoT web UI
+Industrial Controller Vs Prototype Controller(Study level Controller)
+S3 Actions from ActiveMQ (IoT Core)
+Has anyone got the transparent MQTT gateway running in Azure IoT Edge?
+DIY Add a Sonoff To Home Thermostat
+Stream video on display from server using NanoPi
+Embedded C—check internet connection
+Hacking a Google Home device to put a "hard switch" on its microphone
+Can I use IRC protocol to talk to devices instead of HTTP? What are the pros and cons of it?
+How to connect 1 million devices over Layer 3 IP-protocol
+mosquitto - persistence configuration options
+node-red - Units of work
+Zigbee controlled signal routing?
+AWS IoT Authentication - Using own certificate not working
+Can MQTT be used for queuing?
+Can One-way SSL secure an IoT device?
+Is it possible to control a home appliance remotely as well as using the switch to which it is connected?
+Can environmental polluting gas sensors detect emissions of a low speed passing vehicle?
+KeyError while connectiong to a MQTT broker
+mosquitto - Broker won't start with persistence configuration
+Controlling WiFi switches from physical switch
+How to get Alexa to play music using Pandora without saying "on Pandora"?
+Connecting air conditioner to Apple's HomeKit
+Running Philips Hue Entertainment with 3rd-party lightbulbs?
+ESP8266 code using Python
+node-red - node.error does not stop flow sometimes
+ESP8266 programming without USB cable
+Is it possible to implement AWS free RTOS on nrf51822?
+Sending Data via a Local Network
+Can an AS3539 Sensor be made to "just" report distance to lightning strikes?
+How to send data to broker from arduino, sim808 using mqtt protocol
+Mosquitto service won't start
+What is the difference between SPIFFS and EEPROM?
+Could not ping ESP8266 Wifi module connected to an Arduino
+LTE-M, Cat-M1, maybe MQTT - How is data metered? TCP/IP overhead included?
+IFTTT: Use trigger from one applet with ingredient from another applet?
+How to work with an ESP8266 with relay?
+How to convert messages between CoAP and MQTT protocols?
+Alexa App on Iphone 4 / IOS 7.1.2 - Can't find "alexa" button
+Creating nested IoT field gateways with Azure and AWS
+Arduino Serial Error
+Could not measure power consumption of ESP8266 module
+mosquitto - bridging options for remote client identifier
+Requirement for a mesh network using Zigbee or similar technology
+How to setup time alarm as a silent vibration?
+What is the library to be used to implement CoAP in ESP8266?
+Fail executing RSHELL to acess ESP32 using Micropython
+ESP32 - 5V output to operate a Relay
+Dashboard of historical data in iot_datasourse
+node-red - Metrics display with pm2?
+Upload measurements with unix script ( RESTful API?)
+NodeMCU connected with batteries stopped working after 2 hours
+Does powering NodeMCU with 3.3 V also power USB-UART module?
+Free MQTT brokers
+Commercial Arduino Reprogrammable Smart Plug
+Does a battery-powered light switch exist to control a smart plug?
+Nest cam fallback wifi
+Philips Hue Out of home control won't log in
+How to register an IoT device to a user account
+How to configure Wifi on a headless smart device?
+Semantics in IoT and providing better context for data collection
+Create an IoT App for iPhone
+What are the differences between Modbus addressing zones?
+Simulation tools for centralized, decentralized, or distributed wireless sensor network
+Remote com (serial) connection through cellular IoT
+What is the special function with 4G industrial routers?
+mqtt publish/subscribe key exchange?
+What does it exactly mean to say the IoT Protocols are not standardized?
+Chevy Cruze 2013-WiFi Hotspot?
+Sonoff Dual - Where to find GPIOs
+Is there a Linux distro (à la Open/DD WRT) for smart speakers?
+By what mechanism are IoT widgets vulnerable to hacking?
+First steps to learn IoT with watering plants project
+Connect sx1272 module to a Dragino Gateway
+Alexa app: How to choose the device to drop in on
+How do I build a web application using AWS IoT connecting to a factory floor?
+In atmega128 bootloader.hex file missing
+MQTT multiple topics vs. bigger payload
+Ring doorbell and echo dot interaction
+What is the difference between bandwidth consumption and speed of IoT protocols?
+Send values from HomeAssistant to ESP8266 via MQTT
+Remote switch to activate smart outlet
+Do integrated smart plug sockets exist?
+How to prevent other unauthorized users in the home from Chromecasting videos using the Google Home Mini?
+Number of GPIO pins in esp32
+Efficient Server- and Protocol structure for raspberry, smartphone and 3rd-party-device network
+MQTT Library for Arduino using GSM
+IoT and middleware
+ESP32 - using 3.3V Dual relay
+Can't connect to Onion Omega 2
+Distance calculation based on RSSI value
+How can I use End-to-end encryption in sensors network?
+Using an iPhone as a source for a whole home audio system
+ESP32: no signal output on I2C bus
+Suitable wireless technologies for high density industrial IoT
+aws iot - mosquitto_sub does not subscribe
+Can I use Android Things to detect a doorbell press via an RF Transmitter/Receiver pair?
+Sonoff basic- GPIO’s
+Smart plug for air conditioning unit
+Home Assistant on Raspberry Pi Zero W
+Choosing a microcontroller for IoT project
+What happens internally when ESP8266 goes into deepsleep mode?
+Range of BLE and IEEE 802.15.4
+How long should a FreeRTOS task be delayed in each loop?
+Possibility of integrating secure elements with sensor networks?
+State of the Art for Alexa and Harmony with multiple hubs
+node-red - Replicating message flows per MQTT subscribing client
+Can't Exclude or Reconnect Switch
+Looking for IoT (or general) platforms which can trigger actuators
+View the messages sent to the local Mosquitto server
+ESP8266-01: How to work with USB to ESP8266
+Are there MQTT servers which allow for message log and retained messages TTL?
+Using Raspberry Pi as USB bridge
+How relevant is the energy consumption of IoT and RF home devices?
+Command not found while trying to flash Android Things
+Make ADT Door Sensors work with Ring security system?
+All possible Wired communication protocols that also transmit power supply in IoT
+How can I view the website from the Maker Pro IoT Smoke Alarm?
+Automation (Smart Home): General Information / Devices controller by WiFi
+How to setup local MQTT in Bridge REMAP remote topics
+Are there any smart electrical plugs with an open API?
+Some type of movement sensor
+Custom responses — Google Home
+How to use dedicated cryptochips
+Most scalable LWM2M server implementation
+Understanding ZigBee Light Link protocol
+AWS Greengrass Raspberry Pi scanning for Bluetooth LE
+Force Echo 2 to Mono Output
+Is it necessary to create a x number of MQTT topics for x number of devices?
+Can't connect IKEA TRÅDFRI driver to TRÅDFRI app
+Are there standard (topic) dictionaries for MQTT-capable devices/sensors?
+How does an ESP8266 "advertise" it can handle Alexa "relative volume" commands
+SBC similar to Banana/Raspberry Pi with USB comms
+GPS/GSM Tracker not sending location
+How rapidly should the data from IoT devices be sent to the cloud?
+mosquitto_sub: command not found
+Handle real time rule based events generated by IoT devices
+Control GPIO of ESP32 using Bluetooth
+IoT hub on private network
+Proper way to add an Echo Dot 2 to my existing system
+Read data from STM32 using UART ESP32 micropython \x00 error?
+TRÅDFRI lights and multiple swiches
+How to use Harmony activity to change mode on SmartThings?
+AWS IoT certificate rejection
+Can I use MatLab code in esp32?
+MicroPython - ESP8266 using WebRepl
+How to decide how to select an endpoint device
+Does SenML provide any fields that describe the sensor itself?
+Entropy depletion in /dev/random on Beaglebone
+Create a smart environment
+Standard message structure for communication in HTTP
+Steps to turn On/OFF the light using custom skill of alexa
+Scalable Arduino ESP32 IoT project ( with lots of users )
+Controlling one device using Alexa and Siri at the same time?
+Sending load information from devices to the coordinator
+Can I use Xiaomi Smart Light Switch or other smart switches to control devices from other producers?
+Is a simple UDP messaging a good idea for IoT Sensor?
+Which items work together for a smart home? (In Europe)
+How to connect Google Home with a DIY home automation system?
+In Azure IoT Hub under IoT Edge, is a device a type of hardware or a specific device?
+Alexa - call web API in localhost from AWS Lambda Console
+Using RBP as a broker between door locks & web server
+Set up Yeelight (Color) in both Yeelight an MiHome app
+Options for cheap and "open" wireless thermometer/humidity sensors
+MOXA Modbus with Raspberry Pi – Can't get slave to work
+How to trigger on solar noon in Home Assistant?
+How can I associate an smart outlet with "lights"?
+"No connection" reported on Iris By Lowe's Android app for WIFI-enabled Whirlpool Water Softener (WHESCS)
+Change Cloud URL using SimpleLink App for TI CC3200 SensorTags
+How to optimise WiFi and ZigBee Coexistence
+Where do SonOff schedules reside?
+Make Embedded Board NTP Server for Arduino boards in the subnet
+Connect IoT devices to AWS
+Lua for ESP32: How to obtain time from an NTP server or from time.is or?
+Thingspeak: message limit, update limit and bulk updates
+Reverse rpc/device control
+How will the Proxima I and II satellites use or test LoRa in space?
+Lorawan packets datasets
+How does LoRa based geolocation work? How does it measure distance?
+Sigfox Callback CustomValue's issue Sending NULL instead of wanted values
+Send wirelessly very small amount of data
+Why there is no LPWAN technology in HF or VHF band?
+Is static IP needed if using VPN to connect to IoT devices?
+How does UHF RFID remain sufficiently insensitive to product-dependent frequency shift?
+Does MQTT inresponse can cause a reset due to network activity?
+Alexa - Confirm AMAZON.Number slots
+Privacy with Voice Assistants
+Scanning for Device
+Read I²C Sensor via openHAB
+Connect to I/O remote through VPN router
+Timer 300-W Smart Dimmer Outlet
+If XBee modules from Digi use Silicon Labs chips and their stack, why then would I need them?
+Adding Metadata within MQTT client in order to be available for querying in InfluxDB
+out-of-the-box sensor nodes ready for deployment
+MQTT messages hit queued or inflight limits, is it stated somewhere it's the oldest messages that are dropped?
+Why does echo dot audio play through my laptop after bluetooth pairing?
+Would there be an IoT use cases where sensor and actuation are at two different locations
+SCT-013-000 with Arduino MKR 1300
+Ikea TRÅDFRI gateway
+Sending data from remote locations
+Provisioning "things" on AWS IoT without certificates confusion
+Microchip RN2903: TX/RX distance with internal antenna
+Are all functions available on all Google Assistant devices?
+Control electric plug remotely
+Camera with doorbell separately that is connected to the server?
+Sensors under increased pressure
+Using excess power from solar station to automatically power a pool heater in another location
+IoT app and software
+Smart light: change colour schedule
+Carrier Specific Processes details
+Paho MQTT connect() fails ungracefully if internet connection not ready, can't trap the exception
+Near real-time LAN device status without polling
+Rogue Start-Up of Robot sweeper
+How to detect desk occupancy in office
+ESP32 video recording to SD card
+Can an Android phone do the same things as Google Home (Mini)?
+Germany Alexa skills with a UK amazon.co.uk account
+How to reset a ESPurna LED bulb?
+How to access internet-connected home when phone moves between LAN Wi-Fi and Cellular?
+Can I trigger Alexa to respond based on an API / Job call?
+Arduino MKR 1300 LoRa library and RTC problem
+run arduino code without a usb cable connected to a computer
+greengrass ggc_user changeable?
+Controlling normal bulbs brightness using Sonoff devices
+Philips Hue Bridge resets to factory default after power loss
+Is the Sonoff RF bridge slow?
+Multiple Google homes one WiFi
+Is it possible to use a CO2 sensor to detect how many people are in a room?
+How can I activate a IFTTT recipe when a Philips Hue movement sensor gets triggered?
+Problem when discovering an emulated roku (on HA) from a Harmony Hub
+Home Assistant - Platform not found: sensor.ping
+ESP8266 - Device doesn't support that
+Sensors for a Validation Research
+Alexa - require password for routines?
+How do you turn on Amazon Music history?
+Google Home Mini won't recognize contact and place a call, saying it, "didn't catch that--is that percent one dollars, percent two dollars?"
+How do smart plugs of domotic IoT work?
+publish image data to mqtt not showing
+How do smart plugs connect to Wi-Fi via mobile applications?
+RESTapi and MQTT Broker
+Using Raspberry Pi as a Lora Node for a TTN setup
+How can I detect the presence of a Xiaomi Mi Band 3 (which uses BlueTooth)?
+Dumb sensor vs smart sensor
+Pushing Processed data from RFID + Sensors to a Platform
+Add Regional Language in Google Assistant?
+How to setup internet in neighbourhood, completely disconnected from regular internet?
+Replacing two way light switches with smart switches
+Posting data from a sensor into home assistant?
+POST messages in JSON to mosquitto MQTT not being received from node-RED mqtt node
+DIY smart button to trigger phone app
+Can Alexa determine a switch state?
+How Smart Home devices communication works
+Amazon Echo in France but I want everything to be english speaking
+Will my Raspberry Pi home automation hub be able to do all that?
+Node red MQTT node cannot connect to Azure IoT Hub
+PTP time sync over PPP (on serial) connection
+Non-internet-connected "smart" thermostat/thermometers
+How does APN affect cellular connectivity?
+ESP WROOM32- 8 channel relay board confused for which are pins to be use for connect relay
+What to do with in-wall switches for ZigBee setup
+How does Homeassistant MQTT publish via POST
+How would I make a wifi alarm clock?
+Are Over-the-Air Updates possible with NB-IoT
+Alternative way of developing own Hardware
+How to create a “TV off” activity for Harmony Hub?
+Which one is the fake? Samsung SmartThings motion detectors
+Echo Dot - Can you ask Alexa to remind you of your favorite TV shows?
+Does mqtt have late delivery feature if no client is subscribed?
+LLN and RPL Simulator?
+How to make Google Assistant to read information from a file
+Development board for DASH7
+Xamarin.Forms to ESP8266 Wifi moduleConnection
+How does the MQTT server output a single raw file from multiple client publications?
+LPWAN technologies and Dash7
+Smart gate - where to start?
+Raspberry Pi emulate phone Bluetooth stack
+Building a special effects rig
+Simple NAT implementation on ESP32
+LPWAN technology for remote environmental monitoring
+Medical data IoT communication protocol?
+How do I store data on iot device with only occasional access to the internet?
+What's the formal name of this network configuration?
+How can I set the clock of my smart watch using my Windows 10 computer?
+Arduino IDE friendly Ethernet development board with ADC?
+How do I set an IFTTT event to fire at specific week days at 7:40?
+Will google home mini work in foreign country (not supported)?
+What network technology can host 1000s of local IoT devices?
+How to send data collected by two different sensors simultaneously?
+Can portable routers be connected to power supply for months without damaging their batterry?
+Quick questions about MQTT of a beginner
+Are underlying commands language-agnostic between smart speakers and IoT devices?
+Alternatives to MQTT for local / remote bridging
+IoT Light Power Consumption
+How do I send 7Ultrasonic HC-SR04 data from a LoRa node to a LoRa gateway using Arduino?
+Dash Button indicator Light
+LoRaWAN remote sensor node platform
+Unable to configure nrf24l01+ with Raspberry Pi 3 B+
+How to implement out-of-home when developing an IOT device?
+How subcarrier affects MCS in NBIoT Uplink communication?
+Label (Category) for Humidity Controller
+What are the labels for Direct and Cloud API nomenclature?
+Can there be a correlation between Emonlib current increase and RTC unsync on MKR 1300?
+IoT logging ; tags vs meta data vs discover
+How to prevent a nest thermostat from auto updating its firmware
+Connect MQTT to cloud
+mosquitto_pub succeeds but ThingsBoard device telemetry not updated
+Which free dashboards are also MQTT brokers?
+For my "switch on light with clap project " will sound sensors detect other sounds other than a clap and switch on the light?
+Why does LoRaWAN 1.1 use MAC-then-encrypt for Join-Accept messages?
+Is it possible to trigger Google Assistant to say things via 3rd party?
+Can I log serial output from ESP32 using Sparkfun's OpenLog?
+Kevo Second Generation Android — Connection Issue
+Audio Streaming from ESP32 to Pi
+Custom sensor readings with Amazon Alexa
+Alexa for Business
+How to add resistor between two connections on breadboard
+SmartThings Zigbee Devices won't connect
+Are There any IoT Switches/Plugs that use HPAV Instead of WiFi?
+Idea about Wifi Mesh In High-Rise Building?
+Retrieve raw data from Smart Plug?
+Devices suited for Industrial IoT
+Can a Zigbee device receive an OTA update through a different manufacturers hub?
+Open-Source Repositories that use IoT Sensor Data for Smart Contracts and Blockchain
+Using Wi-Fi hardware for ZigBee
+The Things Network - Pricing
+How Different is a Car's Bluetooth from phone Bluetooth
+Measure strip bending
+How to differentiate the side of a door?
+Cellular Base station from ethernet
+Stream Raspberry Pi camera to Android/iOS over internet without port forwarding?
+How does endianness work in LoRaWAN1.1?
+How to store non-volatile data (an ID) inside a passive physical object?
+Thingspeak API Limit GET Requests?
+Indoor Navigation: INS vs UWB Beacon
+Are MQTT Brokers able to retain/cache some data for a certain amount of time and then send to the subscribers?
+How multitenency with azure IoT is handled?
+Communicate with MQTT over LoRa
+ESP32 watchdog errors when I need a loop to constantly stream data
+How to connect the ESP8266 and DHT11 to arduino Uno?
+Transfer data from Python Script to the Cloud using Node Red
+Measuring electricity usage with TECKIN smart plug
+Which certificate to embed into ESP32?
+DLINK-DKT-202-ES Setup
+Zigbee or Bluetooth for turning router on and off?
+The Things Network AWS IoT integration
+Which IoT platform to visualize real-time and historical sensor data?
+Change IP address of IP CAM using CMS software
+Issues including Fibaro's FGS-223
+Traditional looking toggle switch that works with Hue (possibly through Alexa/google)?
+Connect dumb lamp to Hue/Homekit without switch
+Error Handling Fallbacks In IoT Software
+If I want to integrate Innr with home assistant, does there need to be a component for it?
+what wifi modules exactly do?
+What is the most safe and easy way to send a command to a remote Raspberry Pi?
+Internet Connectivity at the sea
+Are immersion sensors typically waterproof?
+How to use of Aws IoT certificate, access key and secret key in Swift?
+Re-link Google Home Account with Assistant Pi on Raspbian
+How to recover "lost" ZWave device on Samsung Smartthings
+ZModo Cameras - read camera signal
+How to display the data on thingspeak using nodemcu?
+Connecting ESP to USB Port
+How to find iBeacon Triggering Apps for IoT Devices Unrelated to Marketing?
+Where to get ADK and CSR documentation
+Adding a webserver to eth2wifi example for ESP32
+How to provision large scale of IoT devices with multitenancy as a major concern in Azure IoT?
+Should there be one device provisioning service for one IoT hub if it is associated with one tenant?
+Cannot connect SensorTag cc2650 to IBM watson IoT platform using their android app
+Add delays to Google Home routines
+Monitor Energy Usage
+connect a device automatically without configuring at iot platform end
+How enrollment list in Azure IoT Hub Device Provisioning Service isolate tenant specific configuration?
+NodeMCU (ESP8266) board controlled over shared hosting database
+Home automation dialogues
+Why are zigbee bulbs so underpowered?
+How to test internet connectivity of network to which esp32 is connected?
+IoT <-> Cloud communication method
+Send sensor data over internet to a server
+Where can I find the default configuration of Home Assistant?
+Accessing my Wi-Fi IoT socket from remote via Phone
+How does R20D-USB RFID reader read directly into text editors/input forms?
+Stream real time data from smart band/watch to computer via Bluetooth
+CRC-24 calculation method validation
+LwM2M read flow
+use Gsm Sim800L To Publish data using MQtt
+Installing drivers on Windows 10 IoT Core
+Digital Gauge Widget not showing live reading of device in thingsboard Dashboard
+Error occurred in installing ThingsBoard Raspberry Pi
+Securing first connection of non provisioned IoT device
+Can I run a Greengrass Core and an IoT Device on the same machine?
+Does server running on local host constitute IoT?
+IoT applications with heavy-load wireless communications
+is it possible to add devices via Android app by a user using google AUTH API in Google Iot core
+What are the differences between edge computing and fog computing?
+Is Google home an IoT Device or a WSN base station?
+Test automation
+How to send data to ThingsBoard using MQTT in python?
+What is difference between fog computing and local computing
+Manually initiate time sync in PainlessMesh
+CoAP protocol using californium java library
+MQTT Client behind router and Port forwarding for subscription of Client
+Difference between Network, Communication, and Messaging protocol
+What CPU architectures are supported by Ubuntu Core
+How to track cause of unexpected lighting changes?
+Smart lights for GU24 lamp fitting?
+Create Light Switch with HAP-NodeJS, MQTT and fail safe
+Remote sensor cloud connection
+How can I use Raspberry Pi to communicate with my Z-Wave gateway?
+BLE advertising packet formation using nordic stack
+Simpler Security Cameras
+What's the size in bytes of a single, TLS-encrypted MQTT message?
+Choosing low power microcontrollers to run with a solar panel
+IFTTT Particle Photon Triggering Phillips Hue: Values Failing
+Push notifications to Mi Band 3
+How to detect current flow in a live wire running at 220V AC, using Esp32
+How to set up the Timeslot API for AES-CCM peripheral use
+Suggestions for vehicle sensors for parking lots
+Comparative power requirements of various wireless networking protocols
+Is it possible to send data to AMQP server using AT-Command on ESP8266 Wi-Fi module?
+Intrusion alert system for rugged environments iot, sensors
+Industrial programmable radio transceiver
+Which Pressure sensor in Netatmo weather station
+How to structure connection slots for WiFi clients
+Why is Mosquitto broker and Paho client running CPU 100% on connection?
+ESP32: Timestamp cannot be sent by MQTT
+What is the reason for RTCWDT_RTC_RESET in esp32?
+How to send WIFI credentials to ESP32?
+What is the difference between IoT and a Smart Environment?
+WLAN Hotspot Internet sharing possibilities?
+MQTT subscribing is not working
+Connect to MQTT Server without opening port
+IoT Standards for data format when uploading to clouds or servers
+Is it possible to implement the HomeKit Accessory Protocol directly on an Arduino or some other microcontroller without the need for a bridge
+Router connected to a router: how to cast different things in each router?
+RF interference for ultra low power wireless device
+Why does the ARM architecture dominate the IoT market?
+NINA B1 firmware update from 3.0.1.1 to 4.0.0
+remotely update a raspberry pi with limited data
+What is a good way for an IoT device to receive its network settings?
+How can I list the partition table of a currently running esp32 devboard?
+Powering an ESP32 used for controlling solenoids remotely
+How to communicate with IoT gateway with C#
+AWS lambda capture IoT thing creation event
+How do you test your ESP32 applications?
+How to extract values of multiple topics in onMessageArrived(message) function of Paho MQTT JavaScript API?
+Alexa unprompted
+Is it a good option to send images over LoRa network?
+Send Google Assistant/Alexa commands to my private server
+Eclipse broker publishes off on subscribe
+Discovering IOT Devices In Network Logs
+Tracking arrival and depatures in remote locations
+Where to find descriptions of the example ESP32 sketches in the Arduino IDE?
+Smart Lock | Exterior Use
+Seeking ESP32 with display which is supported by the PlatformIO debugger
+What are the sensors available to measure liquid levels?
+Can LoRa end points communicate directly?
+Configure LightwaveRF smart dimmer
+Mosquitto broker not authenticating, allowing mosquitto_pub and mosquitto_sub anonymously
+Advice for building a home automation system
+Using the TP-Link and AC
+Connecting Devices In Home
+How to send continuous data from a few ESP8266 to a webserver?
+Trying to access debug logs on WeMo smart plug
+Issue with NodeMCU Deep Sleep mode
+Lighting groups in Alexa
+Accessing IoT device from remote server using IP address
+MQTT-SN using any encryption?
+Scalability: CoAP vs. MQTT-SN
+Is Firebase a valid replacement for MQTT?
+Zigbee and supporting devices - UK
+How to get Pandora to be a music service on Alexa app
+Solution for Outdoor Geolocation
+Access home security system through other network?
+Wia Dot One - PIR Events are not created?
+How to keep users from breaking buttons
+Can somebody explain why some pins on Olimex ESP32-EVB cannot be used?
+Build in light switches
+Play music through Sonos and Google Home at same time?
+How to connect Raspberry PI 3 Model B to BLE Motion Sensor
+How can I get Windows 10 to recognize my IoT boards?
+How can I access data from my In-Home Display?
+Can I send messages from LORIOT to an HTTP web server?
+Receiving acknowledgement in LoRaWAN without affecting data transmission
+What Is This IoT Project from Maker Faire Detroit? Connected Aloe?
+What IoT services are available for free that does not have message rate limit?
+Heltec WiFi Kit 32 and PlaftormIO configuration (baud rate?)
+Water meter reading using LORA
+Fieldbus vs IIOT Difference
+Starting LG Smart TV apps (other than Netflix & Amazon) with Harmony
+How do I add my IoT device as skill on the Google Home?
+How to connect these different smart home devices?
+Using Adafruit with Google Assistant actions
+Forming a Network between Lopy4 node and RAK831 Pilot gateway
+How clients can utalize Applets in IFTTT?
+How to change dell edge gateway 3001 gpio pin to analog
+Google Home API Integration
+Is the LinkIt 7688 Unofficially Unsupported?
+I am new to IOT and am looking for some platform I can use to learn how to create IOT applications
+MQTT vs HTTP Connection - Server to Client
+Wireless IoT Devices at mm-wave frequencies
+Can Alexa be used to warn others if I become incapacitated?
+ultrasonic sensor reflecting waves in water or not
+ESP32 Cam send picture to cloud AWS
+Enable developer mode in Xiaomi Mi Home App
+Third party IOT Device, traffic through AWS. No local access. Proper way to sniff traffic?
+Seeking a board (STM32?) for Ada coding - are you experienced?
+Two Wi-Fi networks
+Looking for MQTT broker and client recommendations
+RFID Specifications and Project Recommendations
+How to make Alexa change how she reads custom text?
+Installing apps on TCL Smart TV
+How do IOT platforms like Blynk, ThingSpeak etc. communicate with hardware (e.g. ESP8266) without port forwarding?
+What's the difference between the Pelco D and Pelco P protocols?
+2-Way Switching with Alexa - how to get Alexa to toggle the switch regardless of it's state
+How to select a right database for IoT gateway?
+How to automate Broadlink RM Pro to turn AC on\off according to temperature?
+Is custom communication with OBU inside a truck using microwave DRSC technology possible?
+LORA VS NRF24L01
+What are the conceptual differences and similarities between OpenHAB, Home Assistant and Node RED?
+MQTT implementation recommendation for an IoT device
+Smart Door options
+Stream ADC values from ESP32 over http

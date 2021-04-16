@@ -1,0 +1,210 @@
+How can I properly test my device's PCB antenna?
+What are the differences of the Open Connectivity Foundation membership levels?
+Adding Devices to Samsung SmartThings
+Securing small home automation setup
+Is Shodan, the IoT search engine, really reliable?
+What are the best security practices to secure a remote IoT camera?
+Safety of a smart switch on a fireplace
+Intercepting web traffic going over cellular network
+How do I secure communication between app and IoT device?
+Can't have a reliable connection between my mobile devices and my TV both through Chromecast and Apple TV
+Securing 433 MHz wall light switch
+What is the difference between IoT and "Industry 4.0"?
+How could I create an LPG indicator?
+Secure Home Network Partition for IoT Devices
+How to Enhance the Voice Recognition on Raspberry Pi controlling Smart Home Devices
+When and why to use MQTT protocol?
+Should I build isolated networks for IoT devices vs. regular computers?
+Best practices for secure Over The Air updates
+How do I shut down IoT devices without a power button?
+When to use Wi-Fi over Bluetooth or vice versa in an IoT system?
+Reusing / recycling a Petzi Treat Camera?
+Testing the success of Over the Air updates
+Can I send my GSM IoT device via airpost?
+Can I monitor my network for rogue IoT device activity?
+How can I implement MQTT on an STM32F030K6T6?
+What classifies a device as IoT?
+Is CoAP still used for IoT devices?
+What are the the NB-IoT, LTE Cat-M1 and EC-GSM-IoT standards created by 3GPP?
+Can I implement FAT on a microcontroller to access USB/SATA drives?
+Difference Between ZigBee and Z-Wave?
+How reliable is location tracking of shipments?
+Confusion about client-server connection establishment in MQTT
+What is an “Embedded Agent” in reference to a Low Powered IoT Edge Device?
+Can I use my Pebble to interact with Belkin Wemo devices?
+Making Amazon Echo / Alexa work outside of US, UK, Germany and Canada
+Data connection issues during when working with IoT devices
+Connecting Proximity beacon with Mobile App
+Is there a fully open source platform for IoT presentation and visualization?
+Are there any IoT devices with fully open source hardware?
+Is there a way to turn on large numbers of IoT devices remotely?
+Repurpose ADT sensors
+What capabilities does my Home Connect appliance provide in the developer SDK?
+How can I monitor IoT devices in real-time while on a plane?
+Is the Subscriber-Publisher pattern applicable also to actuators?
+How can I check if my IoT devices are infected with the Mirai worm?
+Does XMPP have a large overhead for IoT devices sending short, frequent messages?
+Use cases of the "Release Event" on a smart switch
+How can I do incremental updates with a flash that can only be erased block-wise?
+What, exactly, makes SPECK and SIMON particularly suitable for IoT devices?
+What voice commands for Hue lamps does Amazon Echo offer?
+My home monitoring camera sends me thousands of e-mails every day
+TrackR keep ringing on its own
+Lyric T5 does not respond to commands via Apple Homekit
+How to connect Loop Energy Saver to Landis Gyr gas meter?
+How does the Z-Wave certification process guarantee interoperability?
+European Union Regulations for Smart Plugs
+How to track a stolen Canon EOS camera using SDHC memory card?
+Eye-Fi vs Transcend: Which card provides more accurate geotagging?
+How can I determine TV 'white space' frequencies for use with Weightless-W?
+Are drones considered part of the IoT by any officials?
+Hue Dimmer Switch frequently "ignored" by the light
+Is Wi-Fi HaLow unsuitable for IoT applications because it operates in unlicensed frequencies?
+Is there a certificate to indicate the security level of IoT devices?
+What makes Ubuntu Core's "Snaps" better than normal packages for IoT devices?
+How to stop these toys from sending what my kids say to the cloud?
+Why does Docker reduce power usage on an Internet of Things device in this benchmark?
+Schedule for Lightwave RF thermostat
+Making a smart light switch
+How to use English Alexa Skills on my German Echo Dot
+What factors to consider when selecting an integrated wifi MCU for a low powered edge device?
+Why are mesh networks used more frequently for IoT networks?
+Will "smart" devices be required to allow import and export of data under the GDPR?
+What's the purpose of a gadget snap in Ubuntu Core?
+Can an MQTT client subscribe to a topic created by itself?
+Is there a way to preserve the MQTT QoS level until it reaches the client?
+How to connect Google Home to Harmony hub through SmartThings
+How to instruct Google Home to play YouTube videos from *my* playlists
+How can I use Alexa to turn on/off multiple lights at the same time with SmartThings hub?
+How do I configure Alexa to access a REST API?
+Wiring regulations for self made electrical equipment (UK)
+Battery backup for small IoT devices?
+How accurate is Google Home's voice recognition, especially where the speaker has a thick accent?
+Can Mosquitto support multiple brokers?
+How to write custom Alexa Skills without 'Ask xxxx'
+Is it possible to run and train a neural network on an 8-bit microcontroller?
+What does the Lively Medical Alert Watch Monitor?
+mosquitto_sub "connection refused" on Arch Linux
+Don’t subscribe to # - so how to dump all messages to database with Mosquitto?
+What happens when there is not any subscriber to a topic in MQTT?
+Do protocols based on the publish-subscribe pattern negate the benefits of mesh networks?
+Using LP Gas Sensor in a Smart Home Safety System
+Is the Amazon Echo 'always listening' and sending data to the cloud?
+How to efficiently control my dumb TV via Alexa?
+Wired sensor protocol for buildings monitoring sensors?
+How to implement Wi-Fi for a headless IoT device?
+How do I generate a Time-based One-time Password with IFTTT?
+What can I actually do with a Harmony Hub?
+Can the Wink Hub 2 "listen" for away status from the Nest Thermostat v3?
+Can triggers be chained with IFTTT?
+How to select simple light weight IoT server for development?
+Are there any initiatives to prevent IoT obsolescence?
+List of important IoT references
+SmartThings Hub and Nest Thermostat
+Should I use Mosquitto's web sockets or connect clients directly?
+Will alarms set on one Amazon Echo be shared with all other devices in the same home?
+How to detect the state of "dumb" entertainment equipment?
+Are there any Bluetooth LE light dimmers with open APIs?
+Does IFTTT's Alexa channel support 'text ingredients'?
+Z-Wave Device ID changes in Domoticz when battery is changed
+Disadvantages of decentralized peer-to-peer networks in IoT
+How does Thread elect a Leader device?
+Power consumption of ANT/ANT+ compared to other wireless sensor network technologies
+Can Router-eligible End Devices sleep in Thread networks?
+Can I use Xiaomi ZigBee devices with SmartThings or other hubs?
+What simple security tests can I perform on my MQTT network?
+How to connect "io-homecontrol" skylights to a Raspberry Pi?
+How do I stop an Amazon Echo from making a sound after restarting?
+Does the Google Home record conversations to target advertisements?
+Will multiple simultaneous biometric sensors create unbreakable security for devices?
+What is the difference between the Internet of Things and the Internet of Everything?
+Why does 6LoWPAN use additional header compression?
+How can I use 2FA in an MQTT network?
+How does the Nest Protect autotest?
+Cryptographic algorithms for PIC16 microcontrollers
+How delayed can IFTTT triggers be?
+What will be the result of the following connection scenario in an MQTT network?
+Do Internet-connected lighting systems save energy overall?
+How can Amazon Echo Dot be made for families with children (parental control)?
+How to change the Amazon Echo wake word?
+Does openHAB support the Google Assistant?
+How to start Mosquitto broker service on Windows 7 from command prompt?
+How can I boot an Xbox One remotely using Amazon Alexa?
+Using Login with Amazon (LWA) to Connect Custom Alexa Skill Fails
+What would a "fog node" consist of in OpenFog?
+Can you setup Alexa to remind you about calendar events?
+Class of Wi-Fi connected home automation devices
+Can Alexa read Kindle books in the United Kingdom?
+Can you teach Alexa a new skill by voice?
+Is there any advantage in encrypting sensor data that is not private?
+What steps/equipment is needed to control a fan?
+Is it possible to be notified by Amazon Echo when it starts and stops speaking?
+KNX/IP gateways with support for KNX Web Services
+Is it better to control smart lights or smart light switches/fixtures?
+How to debug a DLNA infrastructure?
+UK-compatible (240VAC) receiver/controller for ceiling fan with dimmable lights
+Harmony Hub Security
+How does the Norton Core increase the security of a "smart home"?
+What IoT services are available for storing/sending/publishing generic data in the cloud?
+What connectivity protocol did the Carnegie Mellon University's Coke Machine use?
+Has anyone designed a custom IoT wall switch?
+How much power do smart sockets consume themselves?
+Intel SPI flash descriptor
+Are Android Things updates going to be delivered automatically?
+Mosquitto on Raspberry Pi refuses connection after changing log settings
+Is it possible to use Amazon Echo as a normal bluetooth microphone for a PC?
+Is there any way to track GPS device without WiFi, Bluetooth, internet?
+How can I easily configure Wi-Fi on a smart device without a screen?
+How do I create a smart alarm clock?
+Will reusing a mobile phone as a smart webcam be cheaper than buying a dedicated webcam?
+What happens after my Google business email expires?
+Internet controlled garage door
+Would using a Tor wifi router make IoT more secure?
+How do I train my Amazon Echo to understand my voice more accurately?
+Extreme modification suggestions for a Wi-Fi enabled hairbrush?
+Does the Ōura ring measure heart rate well enough to assess HRV?
+Which D-Link IP cameras are affected by the FTC complaint, and what can I do about them?
+Connecting a sensor to ZigBee
+Subscribing to MQTT birth and will topics? (emqttd)
+How can I stop Alexa from ordering things if it hears a voice on TV?
+How accurate is the calorie burn measurement of the Fitbit Charge 2?
+How to turn on Xbox One from Windows 10 PC using Cortana?
+Can a Mosquitto MQTT client forcibly disconnect another?
+Why do most smart assistants offer little, if any, customisation of the wake word?
+How can I dim or turn off the light of the Philips Hue bridge itself?
+Creating indirect (managed) connection between audio source and sink in CSR bluecore VM
+What is the purpose of dotdot in smart home devices?
+Why would I need multiple Alexa devices in one home?
+Could a blockchain really prevent malware in the Internet of Things?
+Just got a Google Home - What smart hub(s) do I need?
+What happens if Mosquitto runs out of memory to store QoS 1/2 messages?
+How does EMQ persist QoS 1/2 messages?
+Connect to device at home network remotely
+What can I do if a smart DVR camera only supports default passwords?
+How to map the identity and control of slave devices behind the programmable logic controller?
+Why does this whitepaper say MQTT usernames/passwords "do not provide enough entropy"?
+Rearrange Z-Wave network
+Are there MQTT brokers that persist QoS 1/2 messages to disk?
+Robust GPS + Internet - Best option?
+Does CoAP have a lower footprint than MQTT?
+Windows bluetooth event notifications event from cheap smart watch
+Is Amazon AWS IoT recognised as being compliant with oneM2M standards?
+Is Bluetooth 3.0 suitable for a single-master multiple-slave network?
+Can I backup/export settings from SmartThings?
+Why doesn't the Amazon Echo respond to advertisements or reports about Alexa?
+How can we get messages from an MQTT broker and put them into the ZeroMQ queue?
+What is the difference between MCU, VM, firmware and Kalimba DSP in the CSR8675 chip?
+How can I securely support unlocking my door through Google Home?
+Any real-world HomeWSN deployments?
+How do I force my Amazon Echo to update to the latest version?
+What is the power implication of encrypting my sensor traffic?
+How can I detect Alexa's current state or change its current state with an external device?
+Is "Insecure Rejoin" still enabled by default for Samsung SmartThings hubs?
+How can I stop my Philips Hue bulbs resetting to full brightness after a power cut?
+Can I ask Alexa to turn off its microphone by voice command?
+Can I use a smart plug with an air conditioning unit?
+How to read custom documents by Alexa?
+Are Samsung's "S Health" devices storing health data in the cloud?
+What personal information is stored on my Amazon Echo?
+How can I set up IP whitelisting on an IP camera without support for whitelists?
+How do I stop the Fitbit Surge from storing GPS data?

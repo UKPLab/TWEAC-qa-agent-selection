@@ -1,0 +1,2413 @@
+GUI Wallet and Daemon?
+Start Daemon Not Working in my GUI?
+How many total days are on the ledger?
+MRL RingCT research in the Ledger Journal
+Should one disable the Windows firewall for the Monero Wallet GUI?
+Why does the daemon say that I'm now syncronized with the network while I'm still missing some blocks?
+Wolf GPU miner using CPU?
+What are the risks/benefits of mining on a pool using SSL/TLS encryption vs mining on pools with non-encrypted connections?
+Is the GUI Safe for storing thousands of monero?
+Is there a tool for making secure cold wallets?
+Where can I find charts of Monero's price to dollar?
+How to synchronize the GUI wallet using the blockchain bootstrap
+Laptop has to go to service center - delete GUI?
+Easy way to see my balance without having wallet synced
+Attempting to get output pubkey by global index but key does not exist
+How can I connect remotely to my own node for other devices?
+Gui wallet seed imported into mymonero web wallet.Any possible security risks?
+What's the difference between "balance" and "unlocked balance"?
+How can I use Monero without syncing the blockchain?
+GUI wallet did not receive transfer despite confirmation from shapeshifter
+In the beta GUI wallet, what levels of mixin are offered by the sliding Privacy bar?
+Is it normal that the daemon log in the GUI shows 290 days AHEAD?
+Why did Monero start with an enforced mxin of 2 then plans to hardfork to enforced mixin of 4 later?
+Is it true that a vendor can see my IP address if I send moneros via my GUI wallet without using Tor or I2P?
+What are the advantages/inconvenience between using Monero with tor and with i2p?
+Why did the total network hash rate drop by 50% after 0.10.1 release?
+Is a cold paper wallet more secure than a cold wallet generated with the CLI or GUI?
+How do I make RingCT transactions now after the recent hardfork?
+Timestamp Question
+What are precomputed blocks?
+Why does Monero not softfork like Bitcoin does?
+What's the difference between block height and block number?
+Hardfork - Pool Failed to parse block
+What is a mixin, and how does it work?
+What are orphaned blocks?
+Can the size of range proofs be reduced?
+How can I improve performance of my pool?
+How does RingCT increase in transaction sizes affect people?
+Why does it take about 5 minutes for a transaction to register on the network?
+Can someone help me read a block explorer?
+With RingCT on, can I lower mixin safely to save on tx fees?
+Two GUI Wallets: One Daemon?
+Can cpuminer-multi be used for solo CPU mining?
+pool updated payment is not normal
+How long are unmined transactions kept in the memory pool?
+Monero privacy features different from coin shuffling used in nxt/ardor?
+Trying to migrate monero's from MyMonero to Cli wallet. MyMonero Offline because hardfork
+Alert when transaction received in wallet
+Wallet Portuguese seed words?
+What are 3 types of Ring CT transactions?
+Is it possible to create infinite coins in Monero since Monero is completely anonymous now?
+What is the importance of the 25th word in a mnemonic seed?
+how do I make monerod play nice with process supervision?
+How will the range proof size reduction be accomplished?
+How will users be notified of future updates to the beta GUI wallet?
+As a pool operator how can I setup having my pool payouts be mined with a 0 fee?
+Why can I not choose my own custom transaction fee? Does this affect privacy in anyway?
+Why are the last 4 trxs in the mempool stuck?
+How can I check if my node allows incoming connections?
+Setup remote-connectable node?
+How significant is the number of threads when mining? (I7-4790K)
+Median block size calculation
+Where is the mempool stored?
+Verifying Tx to cold wallet
+Are GPUs more efficient at verifying transactions?
+What is the correct way to make a systemd service file for monero-wallet-rpc
+How do fees affect tx priority and how did these specific high fee tx's sit unconfirmed for > 1hr
+Confidential transaction shows amounts
+Keccak vs Keccak-f permutation in cns008
+Getting Monero GUI running on ubuntu
+Lost monero money after switching wallets
+Create bulk Monero addresses
+How many confirmations to be sure a transaction does not end up in an orphaned block?
+Why isn't safe sync mode enabled by default?
+Where is the public key/output for the miner reflected on the blockchain?
+Private key - implications of sharing and relationship to public address
+Is it possible to add coins to a wallet that were never mined?
+How can i specify in mining to only use 75% of my CPU power?
+Why is mymonero.com blocked when using the Tor Browser?
+How can I check if a key image has been imported into a view wallet?
+Using servers to run nodes and mine
+Estimated mining profits are overestimated
+Has bandwidth usage or data transferred when mining or hosting a full node increased since the introduction of RingCT?
+Is there any benefit to the network by running multiple full nodes from one location?
+Can an output be used as a decoy after it has been spent?
+Reward penalty: how to control the block size?
+BLS Signature Aggregation
+Can miners know when their pool mines a block?
+Raspberry Pi 3, 64bit Suse and Monero
+Has bandwidth usage or data transferred when mining or hosting a full node increased since the "introduction of RingCT"?
+Monerod using all server bandwidth
+Monerod not syncing past ~1200700 in TAILS - Segmentation fault
+Monero pool configuration
+Different symbols in monero full node map
+Will Monero have unconfirmed transactions problems like bitcoin?
+"waiting on daemon synchronization to finish" Issue
+New GUI balance not showing?
+Why does my Monero wallet refresh so slowly?
+How do I install Aeon on Ubuntu?
+Run monero-wallet-rpc in background in Ubuntu?
+Understanding block reward calculation
+Error Message: "Can't bind socket"?
+Can you send Monero from an exchange to an exchange directly?
+How to send XMR from Minergate to Poloniex?
+Number of outputs included in a given ring size
+What Happens When a Miner Doesn't Reach Minimum Payment Threshold?
+Why does blockchain sync keep getting stuck?
+Unable to import outputs
+Tools to ease Monero source code pull request
+Ability to return funds
+What is a sweep input and how do they work?
+What does the 'Sweep Unmixable' button in the current version of the GUI do?
+Fastest way to sync and start using Monero GUI wallet?
+Is there a tool that tells me if my transfer has been used by others in a ring signature?
+wallet rpc call login parameter format please?
+Has the testnet been reset with a new genesis block?
+How long are mining rewards locked on testnet?
+Help me with digest authentication using java
+How do I start the GUI for a testnet wallet?
+Synchronising Blocks on Wallet restore from Seed
+I have the impression blockchain reorgs are more prevalent on testnet?
+Fail to execute Monero GUI
+How can I receive monero on my openalias address?
+How can I put my Aeon in Cold Storage?
+Failure when using XMR Stak CPU Miner on Linux
+How to back up my wallet using monero core gui beta?
+What is a disposable address?
+Can I set up the GUI or daemon to use a non-standard blockchain location in Windows?
+Energy consumed to protect the Monero network
+Difference between Monero and CoinJoin
+electrum seed word list for monero != official electrum wordlist (english): why?
+Why are coinbase transactions locked for 60 blocks?
+Longest orphaned chain
+Does AEON offer a sweep transaction feature?
+sc_reduce32 ... is it really supposed to be that complicated?
+Pool setup on OSX for testing
+Understanding monerod blockchain sync status
+multiple watch-only wallet management: suggestions?
+How would someone premine a direct fork of monero ( can it be done )
+Transaction fees are very high for small transactions
+Unable to spend from cold storage
+Running CPUminer Solo mining without client dependencies
+Do coins mined per day scale linearly with computing power?
+Calculating the break-even time for new rig
+Connecting Kovri through a VPN vs using Kovri directly
+What are the best parameters for W0lf miner with a R9 380 GPU?
+How to use tx-extra
+Are AMD cards easier to mine with than NVidia?
+How to prevent stack smashing on ccminer
+Do cryptonight hash speeds mirror scrypt and SHA-256 hash speeds?
+How to uninstall ccminer?
+Smart contract privacy
+Verifying an AEON transaction sent to cold storage
+Why does my pool say my hashrate is lower than what my computer reports locally?
+Is there a way to tell how many coins are currently generated?
+monerod print_coinbase_tx_sum 0 100 Returns Unsuccessful --
+Could a prediction market like Augur be built on top of Monero?
+Understanding payment receiving concepts
+How hard is it to create a monero wallet site?
+Monero and ASIC miner
+How to solo-mine Aeon?
+Given a view key, can you see payment ids?
+Can a transaction signed by a cold wallet be broadcast sometime far in the future?
+Confusion over Monero Mining Software
+wallet encryption
+How are outPk, mask and amount fields created when spending RignCT coinbase transactions?
+Monero MalwareBytes Blocked IP Address
+After not running monerod for a couple of weeks, it throws me errors and closes before I can read them. What is my strategy here?
+Difference between kovri tunnel types
+Does the dynamic blocksize limit and penalty function lead to a tragedy of the commons?
+Error with transaction on the blockchain
+Trouble connecting to my remote full node
+What is a remote node?
+I2P Reseed servers
+How do I know if Monero is running on Putty?
+How long to fully sync with blockchain via VPS?
+How do I confirm that my address is attached to my wallet?
+Bandwidth option in kovri
+What is a sub-address?
+Why does Monero GUI kill my internet connection?
+A SHA-1 collision has been found. Does that mean the Monero repositories on Github can be compromised?
+At what point will Monero forego forced hardforks
+What is the end number used for in start_mining command?
+Can someone walk me through a simple example to explain how RingCT works?
+Monero RPC over SSL for client and server
+What is the most efficient number of threads to run using a VPS with 32 cores?
+Why would you need multiple daemons using one LMDB database?
+How can I enable smart mining in my daemon?
+Pool stats showing abnormally high H/s
+CPU Miner for Mac OSX?
+What is floodfill parameter in kovri?
+How can I mine continuously?
+RingCT code usage in other projects
+Where can I find the AEON pruning branch?
+Will future GUI and CLI releases remain seperate?
+monero-win-x64-v0.10.2.1 CLI questions
+Wolfram Warptangent, Point Release 10.2.1 performance improvements
+How to use the full node?
+What is the command code for Wolfram Warptangent, Point Release 0.10.2.1?
+How do I know if I am mining in a pool?
+When syncing Monero's blockchain from scratch, why does it begin fast and end slow?
+How can I check my solo mining hash rate?
+Where can I find the issue tracker for the smart mining?
+Monero daemon with --rpc-bind-ip parameter
+Where is the Monero blockchain stored on Linux build?
+Monero Payments for WooCommerce plugin?
+Trouble compiling aeon node on ubuntu 16.10
+What are field elements and group elements used for?
+Why does the SHA512 code include numbers ending in ULL?
+Alternative Monero implementations
+Can the GUI daemon and the CLI daemon share the same data-dir at the same time?
+How do I get the TX Key from the GUI Wallet?
+Do you think Monero Payments are ok?
+How can block size grow over time when miners are incentivised to keep size small?
+Can I cancel a transaction?
+What exactly is a coin?
+Does I2P have a test network?
+What is Kasisto?
+Can the 750Ti and HD 5450 be used for mining? What software do you suggest.
+How to restore a Monero wallet from Private Keys
+What are the threats against I2P?
+Monero wallet packet sniffing
+Monero Applications Development
+Kovri modularity and I2P compatibility
+How is code reliability improved?
+Does the network benefit more from a local full node than through a VPS?
+How can Monero defend against a "majority of view keys" attack?
+How to use a remote node on a very bandwitdh restricted connection?
+Is Monero the only CryptoNote based coin with a public testnet?
+Question on understanding monerod command Flush_txpool and the bug that resulted
+Step by step guide on how to connect to peers
+How can the network or monero community reduce the txpool size?
+Why is there a penalty on large block sizes?
+Is Hybrid mobile wallet is as just secure than native
+I2P: How does the reseed works ?
+Will a large and sustained increase in Monero transactions resolve the current issues of the dynamic block size penalty function?
+getmonero.org have some kind of language system?
+How to fix blank gui wallet splash screen?
+How do I re-enable incoming connections?
+Clean up Monero on Mac OSX
+Miner publishes a block to the network with a lag
+Why does the address change after putting it in the GUI wallet's address book?
+Which characters are allowed in creating a wallet password?
+Do nodes authenticate other nodes for p2p purposes? (re: incoming connections)
+Does the daemon that mines a block see the transactions in clear text?
+How hard is it to find the originating IP of a monero transaction (pre Kovri)?
+Why will the v5 fork raise the min block size to 300,000 bytes?
+Why not include a README.TXT in the GUI Wallet Beta zip file?
+How do I create a stealth address using the cli monero wallet?
+Monero GUI: unable to sync
+When did Monero switch to 2 minute blocks?
+Why is monerod not connecting to any peers?
+How could Monero profit from TumbleMoneroWimble?
+how do I setup XMR-STAK-AMD webservice
+Are there any linux drivers for msi graphics cards?
+What does this ERROR from the daemon mean?
+How do I check balance on my offline wallet while I did not assign any transaction ID?
+How do I know I'm on the main blockchain?
+Open alias integrated address
+Do sub-addresses and disposable addresses have their own private viewkeys and spendkeys?
+How does CryptoNight "depend on all the previous blocks"?
+Is there anyway to calculate how much privacy is gained by increasing the ring size of a transaction?
+What is the best hardware wallet for Monero?
+Problems setting gui wallet on Tails
+Trouble restoring FreeWallet account
+What's the point of ring signatures if stealth addresses hide the actual addresses anyways?
+What is the difference between an orphaned block and a alternative block?
+How do I connect to a pool?
+How does a third-party verify that I have the XMR to make a payment?
+How to download latest builds from the Monero Buildbot?
+Does the new v5 hardfork low fee option create a risk for blockchain bloat?
+Is there a way to cap the size of the tx_extra_field?
+How can I verify the SHA256 hash of 0.10.3 "Wolfram Warptangent" on Ubuntu?
+How can I verify the SHA256 hash of 0.10.3 “Wolfram Warptangent” on Windows?
+How can I verify the SHA256 hash of 0.10.3 “Wolfram Warptangent” on macOS?
+How can I verify the SHA256 hash of 0.10.3 “Wolfram Warptangent” on FreeBSD?
+What calculation/process is being carried out regarding the syncing process
+Block cumulative size is too big
+What is to stop an adversary from inserting malicious code through Monero's compiling software?
+COMMAND_TIMED_SYNC invoke failed - Not Syncing, how to fix it?
+Keep mining to replace an already published block
+How does the "--check-updates" parameter of monerod work?
+Monero project visual c++
+What should I check if Kovri can't connect to peers?
+What is the format of a block in the Monero Blockchain?
+How is building the GUI from source different from building monerod/CLI?
+How do I build the Monero source for OpenBSD?
+How do I build Kovri from source for OpenBSD?
+Missing one word from 25 word mnemonic seed
+Missing monero sent from one GUI wallet to another
+monerod can't synchronize
+What is the difference between mixin and ringsize?
+How to upgrade Linux Monero to 0.10.3.1?
+How to restore a wallet on the Monero GUI
+Can I obtain Monero testnet coins without mining?
+Can I use the GUI wallet over SSH?
+Generating a new wallet, locally, from your android wallet app
+GUI halts synchronizing blocks, throwing 'unexpected recv fail'
+Technical questions about addresses and keys
+How do I change input selection after my wallet provides an unfavorable choice?
+How do you add support for (server side) SSL/TLS mining?
+How can I spend coins if other people can't see my balance?
+Stratum - Connected (unsecure)
+Is making a key image public equal to giving the monero in that output away?
+Would this be a good hardware setup for Monero mining?
+Monerod synchronization problems
+Can you reverse a payment without receiving a public key from the original sender?
+How do I send XMR to multiple different addresses?
+What happens to coins that are sent to a public viewkey?
+Tail emission in Aeon
+My monero is stuck in the blockchain
+Are there certain characters unsuitable for passwords?
+SHA256 hashes for newest AEON release
+ELI5 how to install AEON on Ubuntu 16.04 LTS
+How does RingCT work with / without coefficients?
+How might someone view the balance of a multisig monero address without both its private keys?
+What's the explanation for certain high fee transactions/blocks?
+How can I start to use tippero on #monero Freenode IRC?
+Monerod stuck sync?
+Viewkey for outgoing transactions
+Are [solo] mining yield calculations like dice or playing card calculations?
+Syncronisation problem on Geekbox running node from SD card
+Key-image generation: What does p signify in I = xHp(P)?
+Missing TX, 24+ hours and XMR is missing :(
+Missing Monero Funds
+Monero Height at a standstill
+Does mining require a daemon that allows incoming connections (open firewall ports)?
+If I only have the one-time public and private key of a transaction, can I spend it?
+Compile from source
+How would a transition from cryptonight PoW to cuckoo cycle work?
+Determining the real transaction/balance with view key only
+Cryptonote one time use view key
+How do I set transaction priority with the JSON RPC wallet?
+Xmr Stak CPU Miner Socket Error
+Monero block reward schedule
+Who will receive the Monero tail emission
+Can you choose the mnemonic seed to create a wallet?
+Getting rid of old transactions
+Where can I find the Monero transaction specification?
+Can I sweep funds in mymonero to another wallet?
+How does sending transactions to myself reduce privacy?
+Are there any Monero podcasts?
+How do I reduce the apparent memory usage of Monero?
+How is the Monero wallet picking outputs for transactions to spend?
+aeond connection problems
+Importing a paper wallet to GUI
+How to mine with NVidia GeForce GTX 560Ti on Linux?
+Two functions in Mininero to derive Monero address from hexadecimal seed?
+Monero GUI wallet not syncing
+How can I calculate the Monero network hashrate?
+How are the other inputs chosen with MyMonero?
+Is the communication between wallet and remote node encrypted?
+MoneroX wallet! Trouble with connecthion
+How to strengthen a light/mobile wallet such as MyMonero
+How do I connect an AppVM running the CLI to a separate AppVM running monerod in Qubes?
+Mining aeon but the balance is still zero
+I need a manual how to mine aeon with daemon
+Number of confirmations and node location
+monero-wallet-rpc not working for curl
+How to send a raw transaction directly without sanity checks
+Transactions without outputs
+Can a One-Time public key be used for more than one payment?
+Is a mnemonic seed wallet just as secure (random)
+How does the back-end of the upcoming MyMonero app look like?
+MyMonero architecture question: blockchain scanning put into backend mainly to save CPU in the app, or to save bandwidth?
+Why is the dynamic blocksize relying on the median blocksize rather than another metric?
+Can ring signatures be aggregated in blocks to save blockchain space?
+How can I check the balance of a Monero paper wallet?
+Is it possible to reset the blockchain with a new genesis block for efficiency?
+Does Monero have zero-conf?
+My wallet won't connect to the daemon, re downloading doesn't help either. Can't reach my funds!
+How does RingCT work?
+GUI Wallet History Intact but Zero Balance?
+Is it possible to set the priority / fee multiplier below 1?
+Open Alias address resolve error
+Why do the current mobile MyMonero builds use Cordova 6.5.0?
+Ubuntu 16.04 LTS 64bit systemctl doesn't work
+Can someone spend my xmr if they steal my Wallet folder?
+What is the minimum number of nodes for a private I2P testnet?
+Where can I find a tutorial on how to mine with Monero?
+What is the total supply of Monero and when will it be finished mining?
+Where can I find examples of txout_to_script and tx_out_to_scripthash Transactions?
+Do Transaction version 2 (ringct) have a different hash function or different input for computing tx hash?
+Descriptive tutorial on mining Monero and information on files as per "Monero-v0.10.3.1"
+MoneroPool help
+How can I check my balance in mining pools that dont have an login/account option? like XMRpool
+Can the same input appear in a block multiple times?
+How can I set up cold storage and sign transactions offline?
+How to create a wallet from my own seed?
+Monero and warrant canary
+How is the commitment for a previous outpoint computed (tx v2)?
+Impact of Range Proof Optimizations on M_O
+chunk size error when import blockchain file using monero-blockchain-import
+How does the recent patched key image exploit work in practice?
+How to extract data from local blockchain
+Does setting the maxDiff on my private pool to a relatively low number hurt my pool's chances of solving a block?
+Where are wallet files located (Mac OS)
+Why is there a multiply by 8 in the hash_to_ec and derivation_to_scalar functions?
+How can I set a payment ID of 64 characters hex on wallet cli?
+What is the mining reward equation?
+Cryptonote bug question
+Configuring Iptables for cpumulti
+How to Connect a a Monero Wallet to a Monero-Based Website and How to Keep it Safe?
+Export Last N block
+You may now start monero-wallet-cli. What should do I next?
+What significance does the wallet public spendkey and public viewkey have in a transaction?
+Cold Storage, to Hot, to cold?
+Why does monero have higher transaction fees than bitcoin?
+Any way to reduce daemon verbosity?
+failed to load wallet
+Newbie, tracing/understanding transactions
+Running monero service on WIN10 with custom --data-dir
+http://xmr.llcoins.net/checktx.html tool does not work
+Error in synchronisation with monerod
+How can I delete the last X blocks from my local copy of the blockchain and retrieve them again from the network?
+Which is more profitable if I have big hashrate?
+What cryptography primitives/concepts, other than the basic ones, does Monero use?
+What happend to my transaction
+How to create my own miner?
+Monero Wallet For Raspberry Pi 1? (ARMv6 I think)
+Blockchain synchronization fails, bus error
+restore deterministic wallet from specific date (YYYY-MM-DD) - Error: specified date is in the future
+I only see a part of the transferred amount with my viewkey
+Build/Install Instructions for MyMonero App on Android using node/npm
+Failing unit test for full node. How serious is it?
+After downloading the blockchain from scratch overnight, the daemon stalls with 118,508 blocks. What can I do to resolve this?
+Could a DDoS attack on the hardcoded seed nodes bring down the Monero network?
+Error when launching (--rpc-bind-ip) monerod with external IP address: Failed to bind server
+What does Monero's scaling roadmap look like
+What is a payment ID, and why is it used?
+Recommended configuration for wolf-xmr-miner xmr.conf with R9 290
+Is there a website like blockchain.info but for Monero?
+When did Monero convert from a 24 to a 25 mnemonic seed standard?
+How can I test fluffyblocks?
+How do I use the start_mining command?
+What are factors to consider to choose the best mining pool?
+synchronization going backwards
+Has a Monero GUI ever been hacked and the coins stolen?
+From "Pending balance" to "Total paid"
+GUI Beta 2 error on login: std::bad_alloc -
+Converting the network identifier to text
+Monerod is syncing 1 block at a time seemingly backwards?
+Monero sync too too slow
+Is it private pool mining efficient?
+Hiding TCP traffic for Monero miners
+Verifying GUI Seed is Correct
+Warning when restoring from seed
+Monero GUI Beta 2 Window Covering Entire Screen (Linux, Arch x64)
+Help with cryptonote-universal-pool for use with other cryptonotes besides Monero
+Several good CPUs with a very bad hash
+Monitor connection for GPU mining
+Internet access lost due to DNS problems every time monerod starts
+Will the MyMonero app support Android versions older than 6.0 (Marshmallow)?
+How can I tell if "monerod" is working?
+Clarification with cryptonote-utils BEGIN_SERIALIZE() macros
+GUI wallet stopped syncing
+Can I spend from multiple wallets in a single transaction?
+How do I get Monero if I am in USA and don't want to do ID verification with SSN etc?
+What are the potential attack vectors of doing a kind of "quick sync" by just asking for/validating the last X blocks?
+How to build MyMonero wallet for Windows?
+Can a node I am connected to with monerod cause any damage to me if it is malicious?
+do i need to remember the password for wallet recovery?
+Cannot login to mymonero
+Is it possible to get the wallet address from an integrated address?
+Why is Monero GUI stuck when it says it's syncing?
+Monero GUI on Linux Mint - how to open wallet file from a separate device / USB stick
+Can someone show an actual example of a Monero transaction that uses two distinct private keys?
+Monero GUI 2 on tails os text not visible issue
+how to cpu mine on arch linux after installing monero-v0.10.3.1?
+Mining pools overseas and the impact on the hashrate
+monerod does not start to sync via my dsl connection, but it continues to sync when I start via other connection
+Is it ok to use same wallet on multiple devices
+Cryptonote SHA3 bigger than 64byte? (Scratchpad Initialization)
+Error mining has not been started :possibly lost conection to daemon
+How can I really run a remote node?
+My blockchain is stuck, how do I "unstuck" it?
+What does output of running ccminer for mining monero actually means?
+Bytecoin wallet stuck on sync
+Multiple Users Per Node Via JSON RPC
+Why were Monero Disposable addresses dropped?
+Does a node that is more geographically centered in the Monero network have a higher chance of mining a block?
+Monero mining software
+Hash rate of CPU is the same as that of GPU
+How can I Mine Monero using a Processor in Memory PCIe Card?
+Proof of payment method comparison
+Mining Monero with NvidiaGTX1080
+Monero mining speed?
+Are 0-output transactions possible?
+MDB MAP FULL error when syncing
+What is XMRdotTwo?
+What is the reserve_size parameter in getblocktemplate?
+How to install CryptoNote-Lite pool mining software on macOS?
+Is there a fork of node-multi-hashing that is able to compile with nodejs > 0.10?
+Syncing Monero blockchain and get error not sure that the problem is. Error posted below
+Is the Monero blockchain database portable between 32 and 64 bit architectures, and little/big endian architectures?
+Monero double spends in the txpool
+GUI Wallet not syncing and Coins not appearing in wallet
+Monero GUI Changing from host node to local node
+monerod doesn't connect to peers
+What is the meaning of wallet2::transfer_details::m_global_output_index?
+What are the 'Login (optional)' fields for in the GUI settings?
+About the actual implementation of the **mix-ins** construction process
+How do I start the monerod daemon as a remote node with a username and password requirement to connect to it?
+How do i statically build Wolfs cpuminer-multi?
+What does the "default" priority (priority = 0) do in monero-wallet-cli?
+Is a 50-60 H/s hashing speed normal for an Intel Core i5 4200?
+How do I manually decode outputs?
+Any thought on the Minergate hard fork of Dashcoin? Is it a 51% attack?
+How to setup autostart of monerod in Ubuntu 16.04?
+Problems with daemon syncing past block 1341326
+Installing GUI on top of CLI
+Why does my monerod always consume all the RAM?
+How does the dynamic blocksize and the dynamic fees work together in Monero?
+Does the monero gui client use the GPU to sync with the blockchain?
+What is churning?
+Is there a sample javascript code of how to generate a monero adddress from a string of characters?
+I have a private key for a monero address. Which application lets me load in a custom private key to spend from?
+What makes monero different from other anonymous coins?
+How do key images really work?
+Moving LMDB from Laptop to SBC?
+Is the 10-block lock time a protocol rule? What rules accompany it?
+Number of possible Monero wallets and seeds
+Raspberry pi 3 set and forget
+What would we call Monero users in Esperanto?
+Does moneromooo have a direct donation address?
+If I compile from source, how can I change default wallet and daemon 10-block lock time?
+How large is the Monero's sync file?
+Mnemonic seed creation in "pseudo code"
+Is there a simple Monero price lookup API?
+Bitfinex asks for 64 character payment ID to withdraw, but the wallet generates shorter ones
+What are the chances of discovering a block solo mining with my current hashrate?
+What determine the transaction size of Monero?
+wolf xmr miner v0.4 configuration gpu
+monero blocks explorer
+Sent to wallet address before synchronization?
+XMR deposit from Monero GUI wallet is not showing up on Poloniex
+Connecting Monero Light Wallet on Tails with Remote Node
+What changes are planned for the September 2017 hard fork?
+Problem starting mining using Monero GUI wallet? ("Couldn't start mining")
+What Android wallet options are there for Monero?
+What is the reason why its so hard to implement Monero into current wallets?
+Do you have to download the entire monero blockchain when using the core wallet? And how big is it?
+Scratchpad Initialisation : What is the input to Keccak?
+Spending partial amount of funds from a paper wallet created with moneroaddress.org and then deleting it from the cli wallet?
+how do you sign a message with your monero private key?
+How is monero different from byteball with being anonymous?
+Anyone have experience with using AMD and NVIDIA GPUs on the same rig?
+How to Use Monero Multisignature Wallets (2/2 & 2/3)
+How to generate a new genesis tx?
+How does Monero's multisig work under the hood?
+Explanation of monerod `status` command
+Stealth address, is there a static part at the end?
+Anybody tied High Throughtput Mining with NVidia GPGPU - Planning to buy a server
+What is the transaction id and how its calculated?
+Unable to run a cryptonote forked coin, what are node seeds
+Size requirements for different "pieces" of a Monero transaction
+ccminer hashing speed not onpar with minergate-gui
+Is the 'pseudoOuts' of 'rctSig' the commitment on input amounts for simple RCT
+When attempting to install Windows 10 64 bit GUI: This application failed to start because it could not find or load the Qt platforms plugin "windows"
+How does a light wallet function?
+Started monerod on cli but it just hangs, or am I not suppose to see anything happen while downloading ?
+Wallet transfer/disbursement after death
+Official GPU Miner
+Physical vs. virtual mining
+How Do I Use XMR to Keep My Privacy?
+Do multisig addresses share the same space as regular addresses and produce the same types of keys?
+CPU and GPU Mining
+Buy with Address instead of integrated address - monero wallet GUI
+Can a full Monero node be restricted to run only at specific times?
+How can I contribute to Monero as a software developer
+Backward compatibility and updates
+Is there a way to set a worker name with xmr-stak-cpu?
+A Miners Future
+How can I save the destination address of my transaction?
+Is CryptoNight the hash function which plays the role of the "random oracle"?
+Replay attack and Cryptonotes
+How do I constrain memory usage during initial blockchain sync
+What is the most common way currently being used to create web based wallets?
+how to run monerod as service on ubuntu 16.04
+Where is the global array of outputs of type txout_to_key?
+Is there a way to compile an AMD based miner for use on a mac?
+How exactly is a pool mining reward distributed
+How do transactions and outputs/inputs
+Why excludes the transaction bodies in the structure of the block?
+What other coins have similar implementations of Kovri to hide IP addresses from the sender?
+How much funds or runway does the Monero foundation / marketing department have?
+Is there a rich list of addresses of who owns how much of the Monero supply?
+As of August 2017, how much monero has been mined out of the total supply?
+How big is the monero development team?
+Why is monero mined coins called tail emissions? Why not just call it "mined coins"?
+How do I move the Monero blockchain files safely?
+Is there a benchmark results for mining with monero using different cpu and gpu's?
+How to sweep the contents of a specific output?
+Using same blockchain with more OSs
+Moving monero from Poloniex or Bittrex to a paper wallet
+How can I see my hash rate?
+Why Brick and Mortar Merchants should support Cryptocurrency
+Kovri operational security example(s) - file permissions
+Forgot to use Payement ID when transferring eth to Monero
+How Monero pool work?
+Are there options for `show_transfers` to change the date format?
+Changing block-sync-size within GUI or running monerod
+How to build a APK miner for android
+Why is AEON wallet not working on Bittrex?
+How to check balance of Cold Storage Monero Wallet, easily, when privacy of balance is not an issue?
+How do I allow incoming connections to my node running on Tor?
+Is there an example in another language or even curl on the binary daemon calls?
+Is there a monero-wallet-rpc call that can sign/verify a message?
+i send my monero without payment id
+GUI Wallet never seems to connect (OSX)
+Monero never arrived (Poloniex->GUI wallet)
+Help! Trouble syncing daemon on mac wallet
+I exchanged some BCC and LTC to my Monero GUI Wallet via Shapeshift, and my funds wont show
+Running monerod with --block-sync-size 10 syncs a lot faster, why?
+Are there any security concerns with running two daemons on the same host, with one for remote purposes?
+Why is the wallet-GUI Payment ID field not accepting an ID?
+Difference between --rpc-bind-ip 0.0.0.0, or loopback, or actual IP
+Does recipient of monero see wallet address?
+How do you confirm payment via a JSON RPC call?
+Sync takes forever?
+How do I start accepting monero at my restaurant/store?
+installing Aeon on Ubuntu
+Will Monero need SegWit to implement the Lightning Network?
+How is the block hash encoded?
+Download Monero Blockchain data and the official client
+Invalid config file for xmr-stack-amd
+Need specific instructions on using formula to calculate Monero's current block reward
+Help to Setup a Monero mining farm $4000 Budget
+With the Monero Wallet GUI is it suppose to start synchronizing every time you open it even after it completed synchronizing the 1st time i opened it?
+What is the blobdata txs within the block_complete_entry struct?
+Problem with speed of synchronization
+How to create spend key and view key from public address
+I forgot to enter a payment ID
+How many active nodes currently are there mining daily in monero？
+Transaction: 6 hours and 0 confirmations
+Miner enquiry for exchange bought crypto
+Why are pools not mining large blocks?
+Transaction from suprnova to local gui wallet failed
+Mining with monerod vs xmr-stak-cpu
+Mine to Exchange implementation
+Pool mining using monerod.exe
+Blocks added when mining monero
+2-factor authentication key format for Kraken
+What is the proper Freenode IRC channel for my needs?
+monerod.exe socket error connect 0
+How can I delete my wallet?
+Installed the monero gui client for windows. How do I join a pool to mine?
+Error on initial monero daemon start with *:WARNING,net:FATAL,net.p2p:FATAL,net.cn:FATAL,global:INFO,verify:FATAL
+In Monero GUI Beta 2, is rewarding the solo miner automatic?
+Moving the monero blockchain data to another directory on windows 10
+How to build and run xmr-stak-amd on linux
+How/when does the --db-salvage flag get used? What's it do?
+Why some coinbase transactions have very long extra field, and some short?
+Are sub addresses implemented yet?
+Can't find $HOME/.bitmonero in MacOS
+What features allowed Monero to rise to the top and overcome Bytecoin?
+Low hashrate on some CPU instances
+A pool didn't find a block since 4 days, is it normal?
+Can a copy of the blockchain hold private information?
+Does using seed to restore a wallet change its address?
+What all information we can gather from a Monero wallet address?
+How can I validate a cryptonight algorithm implementation?
+How to calculate how much GPU power to mine 1 coin a day for any cryptocurrency?
+how to calculated how much H/s can my GPU do for different types of cryptocurrencies?
+Getting solo GPU mining to work under Manjaro Linux OpenRC edition
+Block height for v6 fork
+XMR sent from Kraken not visible in wallet
+How to access Monero GUI desktop wallet in MyMonero web wallet?
+How can I run an open node with RPC restricted only to localhost?
+How to set up xmr-stak-nvidia to solo mining
+How to remove the GUI wallet on Mac?
+Monero GUI won't show funds
+Using Monero as a C Library
+What changes are in the Monero 0.11.0.0 release?
+How to run a local daemon with GUI?
+monerod get stuck while loading blockchain from folder, but only offline!
+mnemonic seed recovery tool - missing word location unknown
+xmr-stak-nvidia completely freezing computer
+Download Link Monero 0.11.0 (Helium Hydra) broken
+Where is the line for solo mining?
+How to calculate exact Monero transaction fee?
+xmr stack cpu closes without any error
+node-cryptonote-pool v0.99.3.3 Mining into Exchanges
+Compile (or download binary) XMR-STAK-CPU for armv8
+How can I run a node with fluffy blocks enabled?
+What is StringCT?
+Monerujo deamon adress
+Does running a full node becomes harder as the blockchain grows?
+Is it safe to leave "back ground mining" on as long as I want too?
+What does ‘divide CPU cache by 2’ mean?
+What happens to transactions sent via old software after hard fork?
+Why does the block reward have multiple inputs?
+Monerod has stopped working
+Who gets monero transaction fees?
+How will Lightning effect the privacy properties of Monero?
+Problem with GUI update
+What is the most effective Operating System and tool to reduce power consumption in a mining rig?
+Is there a config file for monero on ubuntu / linux installs?
+Running monero in its own virtualbox, performance issues?
+Upgraded to v0.11.0.0 on MacOS
+Errors when running monerod on ubuntu -- ERROR cn src/cryptonote_core/cryptonote_core.cpp:1127
+Started monerod on the command line in ubuntu, how to connect to it via the gui?
+Why can't a pool find block after the hard fork
+What's a quick way to view my Monero Balance without downloading the blockchain?
+Why Monero address is converted to base 58 in blocks, instead of all at once?
+What is the 'base point' (G) from the whitepaper and how is it represented as a single hex value?
+Compile any miner into assembly for WebAssembly
+Bunch of errors when running monerod. ERROR cn src/cryptonote_core
+How do I upgrade my software to v0.11.0.0?
+How to implement a java script version of monero CPU miner
+Demon won't start
+What is the difference hashing power when running the JS Monero Miner via a browser vs Running solo Mining with the cli?
+How can I change the wallet password?
+How do I export my transaction history from wallet CLI in a usable format (.txt, .csv, etc.)?
+Do all coins using CryptoNote provide untraceabilty?
+ring size three transactions in txpool after v6 fork
+Desktop GUI wallet not syncing
+How does the payment id appear in a transaction?
+How private is this transaction sequence?
+Does anyone know what this message means
+Its 2017-09 the monero blockchain is 21 GB, what proposed ways are there to reduce this size?
+What is the the difference from spendkey vs the viewkey in Monero?
+What is the command in monero cli to send some coins to an address or multiple addresses at once?
+Using the monero cli or gui, how do you sweep all the coins from a private key into your own address?
+How to sign a message with my public monero address and verify it using the cli / gui / javascript app?
+Is it possible to attach a message to monero transactions?
+Bus error (core dumped): v0.11.0.0 monerod on Ubuntu 14.04
+Win10 64-bit - Wallet not restored after upgrade to 0.11.0 Hydra GUI
+Borromean signatures in monero commiting to an empty string？
+What is the walletname.unportable file?
+What is the lowest fee one can pay to make a monero transaction?
+Are atomic swaps possible between Monero and other altcoins or Bitcoin?
+Safely stopping Monero daemon sync (monerod)
+xmr-stak-cpu on Ubuntu 14.04 compilation issue
+Answer to pool request
+Private Block chain App
+Upgrading APK version of Monerujo with Google Play Beta version
+Monero-wallet-gui: while synchronizing, blocks remaining number increases
+What is the proper format for a wallet-cli transfer since 0.11.0.0?
+How do I, as a sender, verify that my transaction actually arrived?
+How do I, as a recipient, verify that my transaction actually arrived?
+How can I rename the wallet?
+Troubleshooting monerod segmentation fault
+How to connect to my own remote node?
+Where can I get information on network congestion?
+How to configure two daemons to use the same database?
+What purpose is served by the file p2pstate.bin?
+Error Failed to commit a transaction to the db: operation not supported
+Monitoring an address for activity if you have the private view key
+Monero GUI connected to remote node takes long time to sync
+When generating a random payment id, why doesn't the integrated address also change in the receive tab in the gui wallet?
+What plans are there to lower the monero fees to under 10 cents?
+Coming from bitcoin, are there change address with monero?
+Is there any way to turn a payment id into a readable message and not randomness?
+Sign a message with a cold wallet private key and then verifying it with their monero address
+Can monero-wallet-cli be run as a light wallet?
+How do I "background mine" on CLI for Helium Hydra v.0.11.0.0?
+Can you view the payment id in a monero block explorer?
+If a monero transaction has two inputs and one output, is it possible to partially sign the transaction of just one input?
+I set up a remote node for moneroworld.com 3 days ago but I'm not seeing it in the DNS
+Where can I find the p2pstate.bin file so I can delete it?
+Error: internal error: real output not found
+Why is the poolstate.bin file missing?
+How to backup the blockchain file?
+How does the daemon determine the recipient address of the mining reward?
+Coins Not Appearing (GUI Wallet) - Transaction on Blockchain, Wallet Synced, Cache Deleted
+Doing both CPU and GPU mining on a machine?
+bootstrap import data dir command not working
+Cold transaction signing with GUI
+What is the best mining card with hash to power consumption ratio for monero mining as of 2017-10?
+Can I pool-mine with the default monero daemon?
+XMR Blockchain NOT syncing beyond a particular Block 1400001
+How to run (and debug) the xmrig project on my Windows machine
+Monero GUI quits within a few seconds after launching
+How do I install the Monero GUI on PureOS?
+Security differences between using Monero on PureOS and QubesOS
+How To Restart New Blockchain Sync?
+Generated wallets on testnet receive no transactions
+Transfers from 3 days ago still "locked" in Monero GUI wallet
+Sent monero to the wrong address
+CPU getting more hash than GPU
+How to filter all transactions with a payment id that converts to a message?
+GPU Driver Support How Many GPUs?
+I am new to crypto currency mining, from where I can get Monero wallet?
+Thought Gui wallet receiving problem solved, but now have other problems
+Is Monero in I2P secure now, and how do I do it?
+Does the --hide-my-port option reduce traffic?
+Error trying to compile Monero on Fedora 25 - makefile:62: recipe for target 'release-all' failed
+XMR withdrawal from Bittrex not showing up in GUI Wallet
+Having trouble compiling bytecoin on ubuntu 17.04
+Getting "Unauthorized Access" with RPC (using Python Requests)
+Monero project for charity/non-profit
+Is the payment ID the equivalent of the op_return in bitcoin?
+What is the maximum length of the payment id in Monero transactions?
+Which multi currency/token wallet exist for ETH, BTC and XMR?
+What is meant by "Diffie-Hellman exchange" in the official CryptoNote paper?
+Making an address transparent to public view
+Copied blockchain and gui still saying syncing for aeons
+Are there any plans to make monero addresses shorter?
+Monero Fork (Genesis Block)
+Monero Helium Hydra - Segmentation Fault
+Monero - Checkpoint Validation Failed
+Spending partial amounts from a Monero paper wallet / priv send key using the Monero cli without another computer?
+About CoinLink.cc
+AEON Blockchain sync problem
+Where to find my XMR Wallet Address?
+Why Monero used to split amounts by denominations?
+Are reserve_size bytes really related to mining the final nonce?
+How do you make sure a sender isn't sending bogus funds?
+mining at 0 H/s
+Reward always Zero
+Connecting to monero daemon
+Using remote node still syncs blockchain?
+Is it easily provable by a third party that the key image used in a transaction is associated with the spent output without revealing the (P,I) pair?
+Are there any plans to add Hardware Wallet support to the core Monero software?
+Anyway to watch my own monero address without installing the full monero wallet?
+setting up multiple GPU's to mine
+Can you make a send transaction with a monero remote node setup?
+Outputs on xmrchain.net show that I have a balance but command line says no balance
+xmr-stak-amd and Ubuntu
+Transaction not showing in my wallet, it's been two days. Failed to connect to seed peers error
+How does inner key generation work?
+How to run xmr-stak-nvidia on Ubuntu 17.10
+XMR cpu mining importance of number of threads?
+Monero Custom Genesis Block
+Syncing Error on monerod
+How to change the total coin supply in monero?
+How does one change Monero's block reward for chosen blocks?
+How will payment metadata be incorporated into the range proof?
+Mining drops to 0 H/s for hour
+Why can't Monero use kovri as default for all connections?
+I have this problem Checkpoint failed
+Funds not reflecting in GUI
+What is the error Failed to get unspent outs from mymonero?
+Maximizing privacy when dealing with pre RingCT outputs
+Monero CPU mining, how much memory to include in a new build
+How do I upgrade my software to v0.11.1.0?
+xmr-stak-cpu as a service on ubuntu
+How is Emmy Noether related to Monero?
+"Error: One of the destinations is zero" on Monero CLI wallet when trying to send a transaction with >6000 ring signatures?
+How do I obtain a wallet address and pool password for my config file?
+In Javascript, how can one verify a signed message using a provided monero address?
+Where is a good gauge of the development activity and discussions for Monero?
+What is the "prep work" for android / ios development in monero .11.1.0 release?
+How can i retrieve XMR sent to my Monero wallet without a payment ID?
+Confused about the RingCT protocol
+How can I sync my blockchain using only other computers on my LAN?
+EXCEPTION FOR BLOCK 202612 , from what's it bassed and where it was fixed?
+How to get the entire block blob for submission after mining nonce
+block 202612 , how been findet this value?
+Why is the number of total block confirmations different in different pools?
+How is the "account" command used in the CLI?
+How to change the standard port for monero on linux and windows?
+Does core_rpc_server::on_submitblock need full block blob?
+Monero Hash, how does it work, C++ basisc
+Error while loading shared libraries
+connecting wolf`s miner to monero daemon
+PPS reward per share
+Network fees and light-wallet options
+Monero wallet stuck synchronising and I don't understand the "unstuck" guide: please clarify
+Monero Pool job contents, blob length
+‘xmr-wallet.org’ FRAUD
+Why is my Monero transaction not appearing in wallet?
+Monero wallet stuck synchronising at 39680 using windows
+Gui never updates. Data.mdb will not sync. Need handholding guide. Please help
+Monero GUI will not build on Debian 8
+Monero transaction from kraken to bitfinex stucks in status confidential transaction
+Installation and Update of monero cli and gui
+monero-miner.com "minimum withdrawal amount"
+Resolve and Send button are ghosted
+Is there a limit to the number of PIDs in a transfer command?
+Setup Monero mining pool using mpos
+Low Hashrate for Some Nodes in Pool
+Are Confidential Transactions in Monero perfectly binding or hiding?
+Is there a monero address monitoring service?
+Help-Sent Monero From Changelly and did not received funds
+Running Monero Remote node
+Setting XMR-STAK as startup service in Ubuntu 16.04
+Why is it taking so long for GUI to Sync? My balance is still at zero
+Monero log error messages ("transaction extra has unsupported format")
+Raspberry pi cold wallet safety
+Solomining if not fully synced yet?
+When sending monero to an address. Does my wallet keep track of the history of where it was sent to?
+Official encrypted wallet generator
+Does the reward for mining with a certain amount of hash per second stay the same over time?
+Money not received in Exchange from Wallet
+Backup and upgrade
+Where can I exchange GBP to Monero (XMR)?
+Is it possible to tell apart real and testnet Integrated Address
+If Monero was sent to an address, do I have to wait to actually "see" the funds before transferring
+In the CLI wallet, how can I send to an address book contact?
+Where to find my private key on monero gui?
+Is my hot wallet the only view wallet and my cold wallet the one created offline?
+How to sweep coins from an existing monero address if you have all the keys?
+What is the password for monero.hashvault.pro pool?
+How to pronounce Monero correctly
+Try to send XMR to Bittrex
+how come my Monero wallet's unlocked balance is zero?
+Daemon shuts down on startup ("MDB_BAD_TXN: Transaction must abort, has a child, or is invalid" error)
+Did somebody hacked my wallet?
+Do not come coins to the GUI wallet
+Additional keys/commitments for MLSAG
+Creating multiple XMR addresses in a single XMR GUI wallet
+Should I keep monerod instances active on mining rigs?
+monerod advertise different external ip
+Mining from multiple machines on a LAN
+How to make an integrated address based on a subaddress?
+Writing my own Monero miner
+Can't load wallet in CLI v0.13.0.2 or GUI v0.13.0.3 (error: std::bad_alloc | error: basic_string::_M_replace_aux)
+Daemon Failed to start error
+Why does the num_unspent_outputs decrease to 1 in Monero wallet?
+Relationship between a pool and local wallet
+Can auditor restore transaction dates/times/amounts?
+Preventing reuse of a stealth address
+Stealth addresses: where do they come from?
+Wallet out of sync
+Do any Monero wallets have the ability to create a transaction without broadcasting it, and then broadcast it later?
+running monerod on background thread always stops after some time
+How to get network hashrate from monero daemon via RPC?
+Can i receive payment from bittrex without payment id?
+I am missing (not seeing) a transaction to (in) the GUI (zero balance)
+How to know when does I get paid from mining Monero
+How many hashes are needed to solve a Monero block of difficulty 1?
+Transaction stuck as "pending" in the GUI
+My GUI feels buggy / freezes all the time
+The GUI uses all my bandwidth and I can't browse anymore or use another application that requires internet connection
+I did not receive 0.37 Monero sent from FreeWallet on my iPhone to Monero-wallet-GUI (on MacBookAir)
+Where is the original CryptoNote Java implementation?
+I used Shapeshift to transfer BTC to Monero about 18 hours ago and it is still not showing in GUI wallet?
+Correct Monero address but wrong payment id - MyMonero wallet
+Wrong block height?
+Low XMR-STAK hash rate on two cards in a 8 card Linux NVIDIA rig
+Stuck at "creating transaction"
+Where and when was Monero started?
+GUI / wallet stuck on block 1400001
+How to get a Wallet
+Empty destination field in transfer history
+Disk space required nowedays?
+Transaction Error (Wrong Amount) through MyMonero Wallet?
+XMR-stack optimization. beginner troubles
+Hardware update required on Monero mining
+Claymore Mining (CANNOT ALLOCATE MEMORY)
+MINING AT LOW HASH RATE
+Mining from monero-wallett-cli
+Set up miner R9 290X
+Is my wallet really valid?
+Can't find the .bitmonero directory to set up the blockchain.raw file in Ubuntu 17.10?
+start-mining with monerod doesn't seem to turn on mining
+Wrong monero wallet adress (claymore, nanopool)
+Monero cpu mining handling huge number of machines
+Monero CPU mining sofware for Solaris 11 OS
+mymonero problems
+How does input reference the output of some transaction?
+Coinhive script to mining
+Scam Shapeshift site
+Algorithm for Generation of Wallets
+'monerod status' mining hash rate
+Monero daemon causes 100% disk utilization on Windows with new wallet install.
+THE 2MB per process is that exact or will it change
+CryptoNight Miner in Python?
+Byte reversing (nonce and resulted hash)
+Show header in show_transfers
+Are there any lightweight Monero wallets?
+XMR-STAK [CUDA] Error: the launch timed out and was terminated
+How Ed25519 curve relates to Borromean Ring Signature scheme?
+Where is the blockchain saved in Mac?
+Can't Find Transaction
+What are bulletproofs?
+Problem Restoring Wallet from the Monero GUI, Right Arrow Greyed Out
+Discrepancy CNS006 and CryptoNote whitepaper one-time key generation
+Commitments for RCTTypeSimple transactions
+Error using "import_outputs": failed to authenticate ciphertext
+5-party Ring Signatures still being implicatory for sender?
+GUI Beta 2 Error Message (sync stuck and unable to send funds)
+How to Generate a Blob for PoW Hashing
+Reading Signed/unsigned tx files
+Am i destroying my pc by mining?
+What is the difference between Monero (XMR) and Verge (XVG)?
+Any android apps for mining monero?
+Potential mistake in trying to secretly transfer from one bitcoin wallet to another via monero - Theoretical
+My name contains a special (non-ASCII) character (e.g. é, ø, â, Ö) and I can't create a wallet with the GUI
+I am using the GUI and my daemon doesn't start anymore
+how to use coinhive java script with GPU?
+Why are do some addresses on the Monero testnet begin with '9' and others with 'A'?
+How to reset xmr-stak configuration?
+Ring signatures and the long view
+How to start my own altcoin based on Monero code?
+Graphic card and general questions
+Windows users, do you want to prepare your OS to use full node wallet, solve some sync issues and make your chaindata less likely to be corrupted?
+xmrMiner does not detect RX 580 gpus
+Bitfinex to Poloniex - Payment ID
+Is there any PHP script for mining monero on webserver?
+What does getblocktemplate return?
+Monero Javascript Library
+CPU does not have AES-NI, which is required
+For Monerujo, is writing to internal storage or to an SD card better for phone longevity?
+QUESTION : is it safe to use a remote monero demond (monerd)
+Could I use a Raspberry Pi to mine Monero?
+What Linux flavour to use for AMD GPU mining?
+What is the impact on performance of the Monero network by using Kovri
+(Non-ring) Wallet signatures
+C/C++ - What is nonceptr in scanhash_cryptonight function?
+Why is the monero GUI synchronization starting from zero every time the daemon boots up?
+Can I recover my wallet?
+How to use my 13 word MyMonero mnemonic seed with the GUI/CLI without accessing MyMonero?
+Difference between disposable address, integrated address and subaddress?
+No matching key/data pair found ("Error finding txpool tx meta: MDB_NOTFOUND: No matching key/data pair found" error)
+MLSAG adaptation?
+What is the height used for when creating a View only wallet in monerujo android app?
+Is my monero core wallet seed password compatible when using android monerujo app?
+Monero wallet on Linux Elementary OS
+Priority among transactions with same fees
+Several basic questions about Monero and maybe crypto currency minning in general
+How did it happen that there is a monerod process started by root on my laptop?
+Transactions Bitfinex <-> Wallet not going through since 24 hours
+How does difficulty impact on cpu small mining?
+How can I achieve over 1 million hash rates with minergate?
+Starting monerod v0.11.1 Exception in main! Failed to initialize p2p server. Failed to deinitialize core
+How to autostart monerod in Windows 10?
+Error: basic string:_M_replace_aux
+Selfish Mine paper mistaken?
+Why Are Mining Passwords 'x'
+Why aren't there any miners written in assembly for x86 / x64 etc?
+Scanning of View only wallet with monejuro shows different balance
+Monero mining compiler error
+Intentionally reveal unspent transaction outputs (UTXOs)
+Monero wallets with native xmr.to integration
+Are mobile wallets downloading the whole blockchain as the regular wallets?
+Fundamental question for monero: how to mine myself
+Starting a new pool. questions about payout levels
+fundamental question: creating a transaction
+Will CPU mining cause high power consumption?
+Monero v0.11.1.0 CLI Permission denied
+Mining intermittently throughout the day
+The process has no code signature
+Floating point exception during mining (monerod)
+What is the difference between Monero (XMR) and Nav Coin (NAV)?
+Why is sc_reduce32 needed?
+Where can I find some test inputs and outputs for the CryptoNight (Monero PoW) hash algorithm?
+JSON RPC with digest auth
+How long does it take for the coins to go from cold storage into a hot wallet?
+How to connect to a node with cpuminer
+Livecoin doesn't credit my balance after missing Payment ID
+0 - 100 % GPU spikes when mining [NVIDIA GTX 750 TI]
+Where does Curve25519's limit occur?
+Monero cli transfer command set lower transaction fee
+When sending monero with a payment id, is the transaction still 100% anounymous?
+Using Monero as proof of funds
+CoinHive javascript doesn't seem to work
+mymonero.com x number of blocks behind can i use the wallet?
+My monerod server will not sync fully
+Tweaking our Private Monero Pool
+Lower the Locked Balance Limit
+xmrpool.net Correct Address?
+What are the differences between the slow hash, fast hash, and tree hash on the monero github?
+Why is Monero GUI missing November 5th 2017
+Can't get Biostar TB250 motherboard to recognise RX Vega 64 GPU for Monero mining
+Monero withdrawal from Bitfinex to Binance sent 12+ hours ago
+XMR-STAK - Does it detect CPU/GPU heat?
+ViaXMR payouts time length
+CryptoNight Algorithm Keccak1600?
+This address received 94.502 monero, with 550 confirmation(s)
+how to login on xmrpools.net
+How can I set monero-wallet-rpc default password
+Socket Error Connecting to Nanopool with xmr-stak
+Block height and notification procedure for v7+ forks
+Clarification on Server Messages
+Will Monero suffer the transaction fee problem like Bitcoin?
+Is my ccminer working?
+What is Monero current communication protocol?
+Xmr-Stak miner constantly crashes
+Mining on Linux server, are there security risks?
+Forgot Monero Private Key and Spend Key
+Bootstrapping Monero blockchain via clearnet?
+AMD and Nvidia Same Computer XMR-Stak
+Proving amount of Monero - Range Proofs
+Cold wallet - got the 1 and L mixed up in private view key
+Socket error after running xmr stak
+Error when trying to reach own remote node
+Small pool concerns
+Transfer using cli and choosing lowest fee?
+How to go back to previous command when using monero cli?
+MyMonero still safe?
+Monero Gui syncing... is this supposed to take this long?
+Monerod rpc method getblock - blob data
+Best method of sweeping monero private keys without rescanning the blockchain for a balance?
+Why limit the CRC by a modulo of 24 rather than 1626?
+How to show fees paid on show_transfers command in monero cli?
+Generate an integrated address using javascript in the browser?
+Can Monero miners be picky about adding transactions to blocks
+Is there a way to force sync on Monero GUI?
+How to ask a running monerod instance for mining hashrate when restricted-rpc is enabled?
+What data does the Monero client write as it processes the blockchain?
+How do I check if monerod is up to date
+How to setup own remote Monero node with maximum security / anonymity?
+monero-stratum private pool error
+What is the purpose of running a Monero node?
+Is there a way to get the latest blocks from monero rpc
+Best method to query address balance of 10,000+ monero private keys and store it in a mysql database?
+where does "my pending balance" stay until I receive my payment in mining pools?
+Cannot run private testnet with more than 2 nodes
+Unable to run multiple instances of monerod
+Does the ARM v6 have enough power to be a Monero node?
+Why are there many Monero addresses starting with 4JUdGzv...QvVCjZb?
+Cryptonight mining on Raspberry Pi
+Creating a genesis block, but it doesnt work, for an entire day
+Does the block effort matter when mining in a pool? How does it impact earnings?
+Would this be considered good OpSec?
+Does fluffy pony really own and run MoneroDice website?
+cpuminer-multi error when mining cryptonight on Linux
+Accept payment for digital goods
+What is the default behavior of monerod concerning the --max-concurrency flag?
+I just bought monero payment ID help
+Best new cryptocurrencies to mine using CPU
+GUI Monero Balance: 0
+Sent Monero to Shapeshift
+MinerGate mining Monero cryptocurrency with ArubaCloud
+Do coinbase transactions use stealth addresses?
+View only wallets only shows incoming transactions only. How to see outgoing aswell?
+CPU at 100% while the CPU miner is off
+How could Monero be transmit under the purview of a hostile state actor?
+How do I move the blockchain (data.mdb) to a different directory during (or after) the initial sync without losing the progress?
+How can I invest a low amount of Moneroj?
+When mining in a pool what does current effort actually mean?
+Changing to new computer - can I avoid having to download the blockchain again?
+Restored wallet from seed, but balance still coming up 0
+How to determine number of used subaddresses after restoring from seed?
+Would a fixed ring size improve anonymity?
+Compiling the Monero GUI from source for Ubuntu 16.04?
+Monerod - monero Daemon Manager - Monero wallet hangs debian
+Is there a way to make unsigned transaction, sign and submit manually using wallet RPC?
+What determines who gets the block reward
+Where can the wallet address prefix be set
+Who pays Transaction fee?
+Does the Monero wallet distribute the blockchain?
+Can there be something other than block verification that slows down synchronization in the end?
+What are hardware requirements to run a small mining pool?
+Solo mining Monero without downloading blockchain
+Failed to parse transaction from blob; failed to validate transaction from daemon
+Are range proofs output specific?
+Failed to import outputs: Transaction extra has unsupported format at index 17
+Ubuntu 16.04 : Monero wallet stopped working
+Can't create transaction: failed to get random outputs to mix: failed to get random outs
+XMR Claymore Low Hashrate Gigabyte R7 360
+Mining with xmrig on monero.hashvault - I want to understand what I see on the command line
+What are spans (as seen in the output of sync_info)?
+How can I submit a transaction created in --do-not-relay mode?
+Who controls the servers behind the IP addresses used for bootstrapping nodes for (initial) peer discovery?
+Would sharding Monero work with tahoe-LAFS as storage?
+Monero Wallet Gui not connecting to remote node
+Will we eventually get rid of "locked" and "unlocked" balances?
+Does the miner program used affect the hashrate?
+Trusted Daemon Issue
+In Monero can you sweep a wallet if you *ONLY* have the private spend key?
+How to speed up balance scanning of addresses?
+When using a foreign remote node does the transaction signing happen on my wallet or on the node?
+Can a remote node know my wallet address?
+Mining on an old Radeon 5830 with xmr-stak
+If I download a monero client for windows - am I running a full node?
+What does the Monero wallet do during I/O bound initial sync?
+Monero wallet doesn't connect to local daemon
+Does the Monero default client deduct the fee from the sent amount?
+What am I doing wrong?
+dev pool socket error
+Issues mining on a HD 6850
+Failed to update txpool transaction metadata on local Monero daemon
+Pool Shares Formula
+If I re-sync the blockchain will I lose my coins and wallet address?
+Is solo mining nonviable on non-specialized rigs?
+Use payment ids/integrated wallets in web applications
+Best practices to keep Monero wallet secure
+What is the use of the locked_transfer command in the cli?
+What happened at Monero difficulty from Nov 2017 to Jan 2018?
+Which is the unit of the global difficulty?
+Move blockchain folder on Windows
+monero was not received into my MyMonero wallet
+Can't get AMDGPU-PRO drivers working with R9 290x and xmr-stak
+How to authedmine.com mining 24/7? (Coinhive)
+More than one real input per transaction?
+Calculate The Reward Per Hash
+Which password limitations do exist?
+I see my monero block was processed on blockchain but not showing up in wallet
+I want to view addresses that I've sent payments to in the past?
+How do I sync 'monero.exe' and my wallet?
+Radeon Blockchain Drivers not Installing on Vega 64
+XMR not showing and more issues
+Formulas for calculating current target and difficulty
+Can I copy the .bitmonero folder?
+How do I change the language of the 25 word mnemonic seed in the GUI or CLI?
+Vega PPT/Bios reset before moving to a rig?
+How can I make a coin using Monero?
+Error message: failed to allocated device memory for long state
+CcMiner monero mining GPU utilization
+Getting my Monero off Kraken
+How to achieve uniform hash rate
+How to connect to a remote node from NodeJS?
+Is there any documentation for json rpc methods for supportxmr pool?
+Multiple different wallets connected to same monero node
+Is there an easy way of creating a transaction in NodeJs?
+sending XMR with MyMonero, to low fee, long time stuck
+Mining XMR - upgrading my graphics card hd 6950 to gtx 780
+How to have visitors mine on my websites and is it legal?
+never received monero yet shows on the blockchain?
+How could you lower the risk of accepting zero confirmation transactions?
+Can view-only wallet create unsigned tx via RPC call?
+Can you mine on an Ubuntu USB drive using xmr-stak-cpu with no swapfile or swap partition?
+Wallet-RPC can't connect to remote node
+monerod logging of hashes submitted
+Is it planned to implement Hashed Timelocked Contracts (HTLC) through the monero multisig wallet?
+Was the reasoning behind the large tx extra in minergate's transactions ever revealed?
+Does Aeon have a web wallet?
+Monero mining set-up with GPU 8*NP106
+Monero wallet RPC don't work
+Are mining pools necessary?
+C++ program to generate mnemonic seed, view/spend keys and wallet address?
+How necessary are transaction fees?
+Trying to better understand monero mining
+Pool live tracker showing different hash rate than the miner log
+Monero setting up a testnet wallet in terminal, can't sync
+How to pay the import fee from MyMonero.com for a paper wallet?
+Can't transfer Monero coins, strange error message (Error: not enough outputs for specified ring size = 5:)
+Is it possible to use samba share as blockchain data location?
+How to communicate programmatically with the Monero CLI wallet using php?
+How to run monero-wallet-rpc in background without revealing my password to the server?
+Calculating the circulating supply using daemon RPC
+How can one list out all the payment_id's that has received funds?
+Can you use an integrated address when withdrawing from bittrex or other exchnages?
+How to move/copy monero wallet and data
+Is there a way to check if wallet sees monerod over the LAN?
+How to setup Monero RPC authentication?
+An academic "hello world" on Monero
+Can you input the blockchain through remote web server?
+ZK-STARK vs ring-ct size and verification
+Can I use Coinhive to mine Monero without problems with Google Safebrowsing?
+4 threads, minimum usage
+Monero GUI - See the mining in progress
+What are the differences between incoming/outgoing connections?
+Is there a way to know how many people are using my public remote node?
+Why are only 8 bytes of the hash compared with the target?
+What is the normal rate of failing to submit a block from pool mining Electroneum
+What is the minimum length of a payment ID?
+What is the XMR Withdrawal field for when there is another address field on top for Binance?
+Best method of speeding up Monero downloading / syncing of the xmr blockchain?
+Why are web miners mostly mining monero?
+Starting with Monero - verification?
+Transaction fee using RPC for non ringct transactions
+monero-wallet-qui removing from PC
+Please check your wallet and daemon log for errors. You can also try to start monerod.exe manually
+MyMonero is down again, how do I get my money out?
+Is there a service for recurring buying of Monero every 2 weeks?
+How can I stop Monero wallet safely?
+Question about Moneros privacy
+How to set up password on xmrpool.net mining pool?
+Please help - Monero-Universal-Pool Admin Wallet Fail { }
+Can monerod run stable on a Raspberry Pi 3 with microSD as storage?
+I can't setup a monero pool on current software
+Possible lengths of Monero addresses?
+From how much hashpower one may consider starting a public mining pool?
+Distribution of number of inputs and ouputs per transaction over time
+Monerod failing at/after block 1383366
+Looking for a paper describing Monero
+Is there a cn_util implementation for python
+Unable to get any transactions from walletd JSON RPC response
+How to close a wallet without stopping the RPC server?
+Will I/O speed or swap space effect the hashrate?
+RPC method to translate key_offsets
+Could not find Boost libraries or Version is too old
+What is the relevance of the restore height?
+How fast can a 16 core threadripper rescan your monero address for an updated balance?
+CPU is better for monero mining than GPU?
+What is the public spend key used for?
+Help me setup a good mining rig on my high end gaming computer
+Monero mining equipments can mine Zcash as well and have the same hashpower?
+How to avoid antivirus to delete monero miner?
+Income from CoinHive Monero ads
+Will there be security vulnerable if you left your wallet address and password in public?
+Help I forgot to enter a payment ID help
+How to generate Monero wallet without displaying keys/seed on the screen?
+How do I fix build error about fPIC?
+My hash rate is low and volatile and my wattage is high?
+What is MoneroV, and how is it different than Monero?
+What is the easiest way to get a notification for incoming transaction?
+How does check_hash work in difficulty.cpp?
+How is m calculated when generating subaddresses
+What’s the difference between sharding and pruning?
+"Insufficient disk space" - but it's not true
+Minimum amount of keys needed to recover funds?
+Monero withdrawal from gate.io on showing in wallet
+Linking transactions when using XMR.to to send bitcoins?
+What's the tip for protecting your laptop from damaging during mining?
+More cores are better for Monero CPU mining?
+How to know when I would get any profit by Monero mining program?
+How does remote node work?
+Monero GUI, cant sync wallet
+What does the mining-proxy do?
+Hard disk space usage using Helium Hydra on Windows, 64bit
+Shares accepted by pool but no due XMR
+How to transfer from paper wallet
+Wanna Use this library for a small project
+Local Wallet did not receive XMR
+Export a list of Integrated Addresses from GUI (or monerod)?
+Why AVs reject miners?
+Which is better for Monero mining: AMD Threadripper or Intel i9 7900x?
+Different view key and spend key after importing private key?
+How the receiver knows the amount that he received from the sender?
+Having trouble getting Bitcoal network to accept submitblock
+Does the receiver need to be online in order to complete a transaction?
+I've setup Monero Core Gui 0.11.0.0 on my old laptop with location to E:Drive for blockchain. How to move to new laptop
+Transaction structure: Question about ecdhInfo
+Is there a monero pruned blockchain mode like how bitcoin core has a pruned blockchain?
+How the sender recover the transactions that he spent?
+Restore old account 39c
+How can one check the blocks found on PPLNS pool, such as xmrpool.net?
+Which Monero release should be used on Asus Tinker Board?
+How to convert monero's curve25519 basepoint to bouncycastle
+Can't connect to remote node (GUI)
+Ephemeral cryptocurrency with hard limit of blocks
+Are there any extant implementations of the groestl that Monero PoW uses that utilize AesNi instructions and byte-slicing?
+How to validate cryptonight result?
+How does Ring Confidential Transactions work?
+Transferred Monero from Shapeshift, want to send to different address
+Wallet did not finish creating node and cannot connect to daemon anymore
+How to create multiple addresses in a single wallet using Monero-JSON-RPC?
+Sapphire RX 550, differences in models and consequences on hashrate
+Bulletproof txs in testnet
+Beginner: Monero mining in a rented student bedroom with free electricity
+How to mine monero genesis block reward (monero fork)
+Trying to 'make install' xmr-stak
+Duplicate output keys
+Why have i lost my monero money? my wallet is fully synched and no sign of it
+How are the Monero ARMv7 CLI binaries built?
+Monero address generated by Kraken
+RPC will not connect to daemon
+Non RingCT transactions since RingCT mandatory
+Monero GUI goes from connected to still downloading?
+Where can I find the POW hash of blocks?
+How to set up a node to V7 Hard fork in testnet?
+Solo, own pool, monero, need help
+Can you use the same 24 word seed from other wallets like ledger nano s to generate a monero address?
+If a business or REIT wanted to purchase Real Estate and keep the owners anonymous could it use Monero to do so?
+Portable mining device
+How to receive balance change notifications?
+Add an address to the wallet CLI with a payment ID
+create transaction
+Transferring monero from Binance to my wallet
+Monero Dev XMR Address
+Which directory does monero-blockchain-import, by default, use to store the imported blockchain?
+Do I need to redownload the Aeon blockchain for the rebased software?
+Withdrawal of Monero from Binance to wallet missing
+How Monero transactions related with mixins
+Explore Monero Blockchain in Ubuntu
+What is the fee when using xmr.to service to send xmr to a bitcoin address?
+Understanding MLSAG in Monero transaction
+What is the base 58 monero alphabet used to create an address?
+Non-WebAssembly browser miner?
+Error: Problem fetching info -- Error checking for updates
+Balance not showing
+Hashrate clarification
+How can a View Wallet be implemented in code?
+Is there any pre build nvidia - cpu miner for Centos
+How can individuals safeguard themselves and the community against a key reusing fork?
+V7 hard fork inputs sorting
+Why does Monero use a 256 bit seed?
+Is there a stratum like protocol for Monero mining pools?
+Error when running GUI Wallet on Ubuntu (core dumped)
+Monero April 6 Hardfork guide?
+How are Monero blocks found and confirmed? (solo mining)
+Any way to test my pool connection from the command line?
+Force daemon to a specific hard fork version
+Is there a Javascript implementation of the CryptoNight algorithm?
+Am I understanding PPLNS correctly in this example?
+Send monero with Payment ID but public address, not intergated address
+GUI adress and Integrated adress are 79 Characters
+How to download the monero blockchain testnet?
+Explaining result report at XMR-STAK
+What does the "hashes" field mean in an authentication message received from a pool?
+Theoretically, is it possible to send a value of 0 to someone?
+Is there a pool that will tell you the real time shares you've submitted?
+Calculating subaddresses
+Don't have Mnemonic seed from https://moneroaddress.org/ --- Can I still access funds that I sent to offline wallet?
+Where can I learn about the cryptography used in Monero?
+How do "Time Locked Proof of Non-ASIC work challenge reward" algorithms work to deter ASIC production?
+How does the CPU RAM affect the hashrate?
+Sell Monero like in iqOptions
+Why does the option "--verify 0" for monero-blockchain-import not work?
+Does using a remote node provide risks to anonymity?
+Why is my monero signed signature different everytime I click on sign?
+What are Ring Members?
+Where can I get a printable version of a Monero Paper Wallet to be used as gifts?
+Connecting to remote daemon in testnet is not working
+Generate a integrated address using a subaddress
+Is there a monero vanity address generator?
+How can I choose addresses to create a ring signature for a transaction
+Started back after completion
+Is the high transaction fees problem addressed in the upcoming monero v7 upgrade?
+What exactly has been changed in PoW algorithms in the v7 fork?
+Do you experience much more crashes/restarts of xmr-stak with the latest 2.3.0 version (Vega 64 rig)?
+Is there a easy to follow tutorial on how to get multi sig working for Monero v12 via console?
+Are payment id's publicly viewable on the block explorers?
+Any interest for Java based (but using OpenCL for the mining) monero mining software?
+What effect has the increase of minimal ring size from 5 to 7?
+How to nodes discover other nodes?
+How does a Monero pool confirm/reject a submitted nonce?
+What is the status of web mining?
+Are mining pools shares based on prescribed difficulty or the actual difficulty you hash a block with?
+Downloaded monero v12 GUI How do I verify the hash of the download on Ubuntu command line?
+Monero GUI startup (on Linux) getting *** Error in `./monero-wallet-gui': free(): invalid pointer: 0x00007f2afd1b9c60 ***
+How to create an integrated address with a payment id on Monero v12 GUI?
+Install latest Monero GUI before fixing corrupted blockchain
+How do I figure out how much a share is worth in the PPLNS world?
+What happens to XMR sent to an unexisting address? Is it sent back?
+How to use the sweep_all command with options like ring_size or priority
+What was the difference in hashrate power when the March 2018 anti-ASIC Hardfork occurred?
+Get Transactions from payment ID
+How does the difficulty adjustment for monero work?
+Post-upgrade issue: blockheight stuck at 1546200
+How do I sell Monero for USD if I start from the Monero in my wallet?
+Ledger Nano S hardware wallet instructions for using Monero?
+I forgot to upgrade (from CLI or GUI v0.13 to CLI or GUI v0.14) and, as a result, accidentally synced to the wrong (alternative) chain
+How do I upgrade my software to the newest version?
+I forgot to upgrade (from CLI or GUI v0.13 to CLI or GUI v0.14) and created / performed a transaction on the wrong (alternative) chain
+TAILS - GUI v0.12 does not connect to the daemon (monerod) that is already running
+WINDOWS - GUI v0.12 does not launch / start
+LINUX - GUI v0.12 does not connect to local or remote node (std::bad_cast error)
+XMRig-Proxy Performance
+blockheight unconfirmed
+Is it possible to fake the date of arrival of funds?
+Why is the Monero hash rate so low after the v7 fork compared to other Monero forks?
+Is there a coin time lock ability in Monero like the one in Bitcoin?
+Where to find the Monero blockchain by itself?
+wallet cli v0.12 : " Error : Failed to import Key images"
+Monero forked into 4 separate chains. How can one claim them, and where can one dump them?
+How do I use the Cryptonote inflation glitch?
+How can I change gui wallet display locale/language
+Error when trying to run monero-wallet-rpc with docker-compose up
+On xmrchain what do the l, e and - pID symbols mean?
+compiled executables not working on the server
+Mininig on CentOS 5
+Where is the code that generates stealth addresses and matches them with view keys?
+XMR-stak CPU and GPU hashrate optimisation
+Mining on testnet
+Mixing Etiquette?
+Why is the mining reward lock time set to 60 blocks?
+Private key generation?
+Wallet RPC (transfer): Empty Transaction Key (tx_key) received
+Where can I find the random public key R=rG in a Tx?
+Does Monero still use the Cryptonight algorithm since the fork?
+Clarification on updating to v0.12
+How do the privacy mechanisms of Monero (ringsig, ringct & stealth addresses) affect the implementation of a second layer, like the lightning network?
+How much I "deanonymize" transaction when I put my address into "extra" part of a transaction?
+Which keccak algorithm does Monero use in its initial has function?
+Download version (v0.12.0.0) is a mess on my OSX.
+Are the developer's guides outdated?
+What's the scratchpad for?
+How do miners attempt to avoid duplicating nonces of other miners? Do they try?
+Offline Signing 2/3 Multisig
+Upgrade from 11 to 12 not working solo mine
+How to mining on Ubuntu 18.04 with AMD cards
+What is "aes_round" in the Monero hashing algorithm?
+My Monero have never arrived from Kraken to my Monero GUI wallet. Please help!
+Using old HDD laptop for storing blockchain - slow synchronization - would an external SSD help?
+Recover an XMO transaction
+Monero Gui didn't create .keys file for wallet, it crashed, wasn't able to restore wallet, is it lost?
+Is a transaction from Exchange to Wallet to Exchange traceable?
+monerod is sync or not?
+With a Churn: does it increase privacy more to do 1 TX with RingSize14 or 2 TX with RingSize7 or is it exactly the same?
+What is the "SpendProofV1..." or "OutProofV1..." in the details of a sent transaction in the GUI?
+How do I create a subaddress with the cli wallet?
+How to make a symlink to an external drive?
+What is "output" in block?
+monero-wallet-rpc: Transfer from sub-account?
+Can't copy/paste in GUI
+is the Bitmain X3 compatible with Monero
+Did not receive a transaction after a day from supportXMR
+What is src/blocks/checkpoints.dat and why is it not plaintext in the source code?
+How to run Monero-wallet-rpc on windows?
+Recovering monero wallet files on drive that was previously dualbooting Windows and linux. Now I only run linux
+Clarification about old generated addresses?
+Cryptonight V7 mining issues
+Improvements on generating monero wallets securely?
+Old node that is still on monero v11 - Is this on a fork now? Is this considered Monero Original and Classic?
+monerod block height is 1,500,000 - How do i pop off 100,000 blocks and start syncing at 1,400,000 instead?
+Monero cli transfer all funds from my wallet to a new address?
+When is monero "unlocked balance" updated?
+Is there a step by step tutorial on how to compile from source for Monero cli on ubuntu 16?
+Monero 11.0 worked now I can't get 12.0 to load it crashes
+Confused about the monero hardforks that spawned xmc monero classic and xmo monero original?
+Transaction from GUI wallet to bittrex account never arrived. PLEASE HELP
+How to use the electrum seed password in monero-wallet-cli?
+Script for Monero Auto mining
+send (all) from command line
+Proper usage of 'unlock_time' in Monero Wallet RPC
+How to get a Monero Transaction Hash to check incoming deposit on MoneroAddress.org generated address - without CLI or GUI wallet?
+Create monero browser mining module
+How to run xmr-stak with AMD gpu on Ubuntu 18.04
+Does it make sense to run two nodes in order to disguise your identifiable information?
+Simple website to check Monero balance
+How to execute HTTP request to daemon's *.bin endpoint like http://localhost/getblocks.bin
+Recent Transaction Cannot Be Found
+monerod crashes after several minutes with no errors
+What is the block header's minor_version for?
+MyMonero Import fee - payment from import?
+How can I use monero-blockchain-blackball to improve my privacy?
+What is sc_check function checking?
+Using a Subaddress on ShapeShift for receiving
+What does "rings used by outputs spent on Monero on a key reusing chain" mean?
+Which is the more reliable coin after April 2018 network upgrade?
+Where can I download the entire Monero blockchain in one shot?
+How many characters can be missing or mis-typed in a Monero address to still be valid?
+When using the android and iOS monero wallets. How does it not send the private spend key to the node to scan the blockchain?
+I created and executed a transaction to shape shift on the incorrect block chain, can any one help me?
+Monero deposit did not arrive on binance
+Remove accout in cli
+What's the purpose of email address in pool mining config?
+Can a DEX like bisq.network profit from Kovri?
+Does Monero use rfc6979 for signatures?
+Are there improvements to enable spending of change funds faster?
+Are Cryptonight lite and Cryptonight lite v1 the same?
+Did the upgrade after transaction and still nothing ...how to solve this now?
+new windows computer, trying to sync my wallet from OSX
+I did not receive 20.87856619 Monero sent from Upbit to Monero-wallet-GUI
+Lithium Luna CLI no connection to Daemon unable to transfer
+Orderd Monero before update
+add_address_book does not save after closing wallet
+Obtaining coinbase transaction signature
+Have Windows 64, and Norton won't let me download Monero 12
+Error: not enough outputs for specified ring size = 7 in monero 0.12.0.0 Lithium Luna
+print_tx TXID doesn't print ring
+What does "Can't create transaction: internal error: Known ring does not include the spent output..." mean?
+monero-stratum Error When Compiling
+Is there a library similar to bitcore?
+Can't connect to daemon in monero GUI
+MyMonero blockchain is behind
+monerov windows wallet gui.exe showing up as Trojan
+What is the maximum value for x in the command "monerod --db-sync-mode fastest:async:[x]"
+monerod v0.12.0.0 can't synchronize
+How to parse transaction extra field to extract pubkey
+"Daemon failed to start- please check your daemon log for errors" message
+Differences between Masari web wallet and Mymonero
+How can I see my balance?
+Can I send monero, even if it doesn't appear in my wallet?
+Restored wallet in Qubes Monero client showing "not connected to daemon" despite being connected to daemon
+Genesis transaction explanation?
+XMR not showing up in my gui wallet after refreshing wallet
+Multiple CPU miners with low hashrate vs single CPU miner with high hashrate
+How can I be notified of important updates/news to the Monero software?
+Mining and not seeing anything so for at 500H/s
+Can you only allow certain miners on a cryptonote blockchain?
+Can I confirm that someone payed me only by transaction ID?
+How do I back up my funds?
+Personal Node on Server 2012 R2
+create a coinhive fork
+Are there any proposals to create a view only wallet that lets you see outgoing and incoming funds?
+Explanation of the Monero Daemon running arguments
+Do signed exported key images prove that the key images provided are legitimate?
+How do I multiply 2 public keys?
+SSL usage in Sumokoin/Monero
+How do I compile monero with debugging symbols?
+Are mnemonic seeds possible in right-to-left languages?
+Seeking to port XMR to PPC64 - PlayStation 3
+Is there a paper available on Monero?
+Can anyone explain the working of CryptoNight?
+Monero GUI wallet stuck/increasing while syncing blockchain
+What is an airdrop attack?
+Method not found using Monero JSON-RPC in PHP
+Monero comparison wiki states zcash is not "decentralized": why?
+blockchain.raw download for the testnet?
+Recover XMO. ltc-xmo through changelly but in XMR wallet
+Password to join xmrpool
+Is more cores or more RAM better for mining?
+Is there an RPC call to get the txFee of a block?
+Multiple outputs & expected reward from coinbase transaction
+Can't generate new wallet using Ledger Nano S on Mac OS 10.13
+How do I make my macOS detect my Ledger Nano S when plugged in?
+Implementing Cryptonightv1 PoW algo change but miners are able to mine with both Cryptonightv0 or Cryptonightv1 now
+How does the wallet software choose mixins (decoy outputs)?
+Are deducible monero transactions blackballed by default (or is there a need or plan to do so)?
+How to get miners transaction size?
+Wallet JSON RPC methods
+Sending Monero to multiple integrated address
+Do stealth address only work with elliptic curve cryptography ?
+XMR send from Monero wallet GUI ending up on XMO chain
+Using downloaded raw blockchain Setting up XMRig CPU miner (Monero)
+Are mixins now officially called decoys (and when did that happen)?
+What is the proper way to monitor payment to a monero address
+Monero original giving me this strange line saying upgrade
+How can I get my own genesis tx to use in my monero fork?
+Syncing my full node - only connects to 1 peer
+How to make a debug build of monero on mac os x?
+Monero Testnet Faucet
+Could proof-of-stake be implemented in a privacy coin, even in principle?
+Anyone know if CoinHive uses the new Monero hashing algorithm?
+Permission denied error for monero-blockchain-blackball
+Monero Genesis transaction & nonce
+How can I tell what difficulty my solution is?
+Does anyone have test data that illustrates the CryptoNight 7 algorithm?
+How to simulate (or set up) localhost as a mining pool for XMRig miner?
+Steps to Fork Monero
+How do I generate a Ledger Monero wallet with the CLI (monero-wallet-cli)?
+Alternate Coins Implementation in this pool
+lost my phone with 2FA code
+Why are there transactions in the Mempool that are invalid or over 50 hours old?
+Does monero v12.2 work on a raspberry pi zero wireless?
+What's the relationship between the pool's advertised difficulty and the target of the jobs it sends out?
+Monerod finished syncing but now never catches up in GUI wallet, monerod still syncing
+Getting balance of my address connecting to a remote node via RPC API?
+XMO missing in my GUI wallet
+Cannot build OpenCL program for GPU 0
+What is the latest version of GUI: 0.12.2.0?
+Setting up monero blockchain explorer on unbuntu 16.04
+How does nicehash perform share validation?
+Getting notified about a new block on the Monero blockchain
+I can't stop monerod (monero daemon)
+Is CryptoNote.org dead?
+monerod system time
+Monero blockchain explorer compilation not working ubuntu 16.04
+Genesis TX varint
+Detecting the real output in ring signature
+Though I increase number of cpu, hash rate does not increase
+Are monero addresses always 95 characters long?
+More detailed explanations for the db-sync-mode parameters? (i.e. safe, fast, fastest; sync, async; and nblocks_per_sync)
+Torsocks server failure when running monerod with Tor on Tails
+How can I build a specific branch of Monero?
+How can I set a wallet to use no-coinbase mode before syncing?
+How to include libboost into the executable? (Ubuntu)
+Error building monero-stratum on macOS
+monerod v0.12.2.0 does not start on Linux because of "./monerod: error while loading shared libraries: libpcsclite.so.1"
+How to create more outputs?
+What is the monero stagenet?
+What is the 'bootstrap node' when creating a monero wallet via the GUI?
+Is the connection over Tor between client and remote node safe?
+How to restore access to wallet in Monerujo with restore password
+A simple hashrate test in web browser
+What is the difference between Monero (XMR) and Enigma (ENG)?
+What is the difference between Monero (XMR) and CloakCoin (CLOAK)?
+I tried to use aeon . But my first transaction to wallet is in the blockchain but not in my balance
+reject reason: Low difficulty share
+Mitigating Risks of Forking Monero
+Migrating Monero Fork from Test to Production
+Backup and Disaster Recovery for Monero Fork
+Monerujo Send Pword Reset?
+Monero Forking Guide
+Why low hash rates doing SHA/CryptoNight algorithm?
+Subadderess transaction. How to receive?
+Genesis block successfully created but not visable in wallet-cli
+Building Monero Fails but works?
+Building Monero From Source on Windows 10 Pro
+Mining a custom coin based on Monero
+MyMonero wallet compatible with CPUminer/MinerGate
+Changing difficulty levels, pre mining etc of Monero Fork
+No hashrate when mining with CPUminer
+How to increase CPU cache on Raspberry Pi?
+MoneroWorld Remote Nodes Not Working
+How to tell if start_mining is mining
+monero-wallet-cli mining hash rate
+Does monero p2p protocol use magic bytes?
+Monero Fork Seed Nodes
+monero-wallet-cli Remote Mining Intermittently works
+What are the hex representations of the small subgroup curve points on Ed25519?
+Is the operating system changing the hashrate(when mining with cpu)?
+0 hashrate - issue when mining Monero with CPUminer
+Compiling from source on ubuntu 16.04
+monero-wallet-cli Error message: refresh failed
+monero-wallet-cli Wallet asks for password on Ubuntu but not Windows
+Merkle Tree Root for Empty Block
+Trying to get private view key from hash seed generated from mymonero mnemonic (13 words) in python
+How do I, on Windows, generate a Ledger Monero wallet with the CLI and subsequently use it in the GUI?
+Monero hashrate falls dramatically on Azure Windows 10 Pro
+How do I, on Linux, generate a Ledger Monero wallet with the CLI and subsequently use it in the GUI?
+How do I, on Mac OS X, generate a Ledger Monero wallet with the CLI and subsequently use it in the GUI?
+Pool mining to local wallet
+Mining from multiple servers to local wallet
+Error starting monerod
+Automate mining on windows
+Exchange for Monero Fork
+make release-static-win64 Error Forking Monero
+Pre-Mined Monero Fork
+CLI wallet on Mac unable to connect to local node on RPi
+Can't connect to my full node outside my local network
+error first running new monero fork build
+How to create a Genesis Block
+Unauthorized access when calling monero-wallet-rpc
+Monero wallet balance still zero after transfer
+Check balance of an address by Monero RPC
+Monero RPC send transaction from address
+What solutions are there to do a refund of a transaction when sending monero xmr?
+Why the syncing of the wallet is very very slow?
+Restoring Wallet from Keys file
+How GPU gets its mining work and nonce range?
+Do I need mod approval to get my "idea" moved into the funding required phase on the getmonero.org forum?
+How to programatically validate Monero address
+Is mining monero to a subaddress supported?
+V Fork happened yet?
+Wallet Creation Height
+Where is the code that compute the stealth address
+I've sent real Monero from Coindirect to my stagenet wallet address, not my mainnet wallet address
+How to generate a Monero wallet address with the API?
+Is deanonymisation via propagation analysis possible for Monero?
+What’s the point of wannacry for exchanging Bitcoins to Monero?
+JSON-RPC Not Working as Shown in Wallet Guide
+Hosting a Remote Node
+Altcoins to Monero payment buttons for website?
+CryptoNight can mine monero?
+Check the Balance of Cold Storage Address - Block Explorer
+Is the tx-extra field publicly visible?
+Monero GUI isn't synchronizing
+How is Keccak calculated in Monero?
+how to estimate profit from pools?
+Can I run monero desktop wallet over Tor?
+X-Wallet IOS restore wallet
+Support for a Ledger Nano S Recovery Plan B?
+RecursionError in ed25519.py
+How to update algorithm to cryptonight v1
+How much traffic does the simplewallet use?
+Are there Monero developers who also contribute to the development of Bitcoin?
+Formula to calculate mining earnings (PPLNS/PPS)
+Any ways to increase hashrate?
+Universal pool configure mining wallet
+When will Kovri be launched (approximately)?
+Balance does not match transactions
+Cold multisig wallet
+Is there a monerod config file to change certain settings when you run monerod in linux?
+One more question about sign transaction on cold-wallet node via wallet-rpc
+What is a .bitmonero.conf template for setting up a public remote node to be accessed with the monerujo android wallet?
+Monerd error on rpc-bind to make a public node
+When scanning blocks via the android mobile wallets like monejuro and cakewallet, does scanning happen server side or clientside?
+Node connection failed: check username / password on android monejuro monero wallet
+Run monero only in local network
+The exception unknown software exception (0x40000015) occurred in Monero Wallet
+How to hash a blob from monero pool?
+Transactions appearing out of nowhere when running monero in local network
+How to buy monero for cash?
+Errors setting up a Monero pool
+How can I check if a transaction is mined into the blockchain?
+Wrong chain, maybe - maybe not - no transaction possible, wrong balance... please help!
+Implementing monero accepting for online merchant with monero-python
+How do I generate a Ledger Monero wallet with the GUI (monero-wallet-gui)?
+What would happen if monero were to switch to RandomJS mining algo?
+What is the Monero Messaging System Used for?
+Using exponentiations instead of ECC multiplication in computing Stealth address
+Step by Step tutorial to mine RandomJS on Wownero?
+What is the current supply of wownero as of 2018-08-01
+Monero Genesis transaction & nonce - clarification
+Suspicious connections - Having issues with the GUI under Debian by connection to a public remote node - PC hangs
+Is it okay to host a node that connects on the clearnet?
+What is Kovri and which other cryptocurrencies are implementing this feature?
+what method and way and any technology is there for use GPU for coin-hive mining?
+Kovri network analysis - Monero vs non Monero usage
+Are multiple base points or generator points used for the ed25519 curve in monero / CN?
+Hardening a mining pool
+When is it safe to confirm the transaction?
+Can I disclose transaction id of a transaction to the customer?
+Question about incoming/outgoing merging of transaction identity
+Multiplication over an elliptic curve using the monero cryptographic libraries
+Privacy implications resulting from lack of xmr.to multiple output function
+Monero transaction rpc call doesn't return any result for the payment ID
+Helper functions for ECC operations in Monero
+Can the sender find an address of the receiver of the transaction when not using GUI wallet?
+Can the sender of the transaction find out via any blockchain explorer, how much money he sent?
+Can I use the same Monero miner on a 32bit and 64bit os?
+Accidentally added a receiving monero address, How do i delete?
+What keys are being used to create the key image and how is it verified?
+Troubleshooting GUI After April 6 Upgrade (Still Popping Blocks)
+Who receives the change from stealth addresses?
+monerod --test-drop-download vs --fast-block-sync
+How does key images work when you create a transaction using two or more of your previously unspent transaction outputs?
+How to Generate monero wallet on server-side(node.js) or locally?
+Why are Monero fees visible?
+Is there a block explorer that shows raw blocks?
+Generating one time use 2FA accounts error
+Computing division of ED25591 scalars
+How does the get_reserve_proof command work?
+Cannot get version 2 transactions to work on private testnet
+Buying Monero and saving to Ledger
+Multisig one to many transaction
+Can you add a payment ID to a subaddress during an exchange withdrawal?
+Multisignature - get one signed transaction, send another, use first signed transaction
+Could a blackballs list be used maliciously?
+Can known spent outputs be pruned?
+How hard would it be replace the PoW checks for something else?
+Can a message be encrypted with a Monero address and then decrypted by the address's owner?
+What's the appropriate place to add additional validity checks for transactions?
+Can the receiver determine the value $r$ from the stealth address?
+Do all blocks that end up in the main chain pass through handle_block_to_main_chain at some point?
+Couldn't connect to daemon: 127.0.0.1:18081
+Identifying the *real* public keys of ring signatures
+How can I import a blackball database to improve my privacy?
+What makes decoding the total sent amount using the viewkey potentially inaccurate?
+How can I convert a blackball LMDB database into a wallet-readable format?
+Decrypting payment Id of integrated address
+What is the function of decompose_amount_into_digits and its components?
+Does the miner transaction (of a block reward) get sent to a miner's stealth address?
+What do I need to change/add in order to add a field to the block struct?
+Is there any way to lower the difficulty in order to mine faster on a testnet?
+Daemon terminates when trying to load lmdb from new location
+Can monero include actual spent input as previous transaction output?
+Meaning of monerod status command output
+Syncing stagenet daemon
+Why does sending Monero coins out once prevent me from sending more of my remaining XMR coins immediately?
+How to put username and password to connect to remote node in the Monero v0.12.3?
+Getting transaction hash / ID from the raw data
+Format of QR code URI scheme to add a Payment ID and do monero mobile wallets read it?
+What takes the most computing time in a monero wallet?
+I'm looking for a Monero miner written in Java
+Would a long-time block target be annoying?
+What are the changes in CryptoNight v2 PoW algorithm?
+Dual (merged) mining (no additional hashpower) by guessing?
+Help please wallet seed restoration
+Is it true that ledger nano s can only store monero and one other coin?
+Generating an integrated address using only the Monero address
+How to compile monero quickly after code modification
+What is the concept of Refund Transactions from the MRL?
+How to check balance of monero paper wallet from nodejs?
+How CryptoNote derived coins get balance from secret keys?
+Difference between "Wallet" and "Account"
+Removing private view key from computer after exporting from ledger?
+What to do about "Please check your wallet and daemon log for errors. You can also try to start monerod.exe manually." in the GUI
+Transaction to sub-address missing in GUI wallet
+How do ring signatures work when there are multiple UTXOs from which you have to collect monero coin?
+Need a payment ID - using Monero GUI 0.12
+Did the Silk Road coins of 110,000 Bitcoins actually moved into Monero XMR during 2018 Sept?
+Where can I find the selection of the decoys (stealthy addresses) when constructing a transaction?
+If I received XMR in a sub-address, will my balance correctly reflect this transaction in a wallet that does not support sub-addresses?
+I have repaid XMR to OKEX trading platform for 3 months. I haven't arrived. Please help me
+I cannot type the password in the PowerShell, it just doesn't type anything. What should I do?
+NetworkByte for Monero Stagenet
+Double spend trying to use cold signing
+Compiling the Command Line Wallet
+Newbie questions about XMRig
+Transfering from multiple accounts?
+Querying wallet RPC about whether a wallet is view-only?
+Running private monero mainnet
+What is the difference between Monero (XMR) and Electroneum (ETN)?
+What is the importance of 'save' command in monerod?
+Who Generates parameters G & H for Pedersen commitment in Monero?
+Hiding transaction values using pederson commitments and range proofs in accounts model
+Funds received from subwallet are not showing
+Is there a way to make a public message where anyone can see on the monero blockchain using payment ID?
+Monero blockchain size requirements
+How do miners verify the Ring Signature of a transaction?
+How the H_p(x) (Hash to a point on the curve), is calculated in Monero?
+How can I change the proxy settings of the official GUI / CLI?
+get_bulk_payments - Method not found
+How does mymonero monitor so many Monero private keys and update its balance?
+Can monero be compiled/linked statically?
+Upgraded Monero GUI, but getting an issue with "update needed"
+Error with `import_outputs` : `"Failed to decrypt outputs: Failed to authenticate ciphertext"`
+How does one query the OpenAlias DNSSEC to return an XMR address in Javascript?
+Which wallets or services currently support OpenAlias?
+VIRT 100G usage of monerod; Is this expected?
+What is cloud mining?
+When does validation of blocks occur
+Anyway to pick which monero subaddresses one can use?
+Monero-Proxy for JSON RPC
+Error building on Windows 10
+Monero wallet not working with Ledger on Mac High Sierra (was working previously)
+Mining at pool: All results are rejected
+Monero wallet balance
+We are quite new into Cryptonote technology! We are looking for a web wallet!
+How synchronization with a remote node works?
+Why does the ledger HW doesn't support getting the tx keys?
+What is the transaction fee?
+Monero to Bitcoin transaction XMR.TO
+How to generate integrated addresses without a node?
+An example of transaction with at least two subaddress destinations
+Installing XMR-stak CPU only on Ubuntu 18.04
+Monero Wallet RPC: tx_blob is always empty
+Questions about tx_description field in URI
+What exactly are bulletproofs replacing in monero?
+Can pool miners update early and then the pool software will automatically ask its workers for new POW when necessary?
+P2P, RPC and Server related code
+Would it be possible to use PoS on Monero without corrupting privacy and if possible how?
+Implementation of monero on other curves
+Does change appear as an output in a transaction?
+ed25519 point structs
+The entire lifecycle of an XMR transaction with RingCT
+Correlation between transaction vout key and an address
+Location of merkleroot per block / block header
+Auditing incoming transactions in Monero
+Why are all build statuses on Monero's Github failing?
+Auditing outgoing transactions in Monero
+How are transactions validated in monero vs bitcoin?
+How does the ring sig work: practical explanation?
+Why must each input have a separate set of decoys?
+Understanding get_block Blob data?
+Using the monero cli on ubuntu. How do I set it to use a remote node?
+What is a scenario when the other members of the ring signature would have multiple keys?
+Using crypto library from wallet
+How does signing the hash of the public key show that the signer knew the private key?
+Going through customs in a foreign country. I want to delete my monerujo app. Can I re-download with everything intact?
+How do I find the value behind the pederson commitment?
+how does monero schedule an algorithm update?
+I run a full monero node, is there a way to see my node on the network? Can I mark my node some how?
+Base58 prefix, network id and wallet address prefix
+What is monero-blockchain-ancestry?
+Does the Key Image leak privacy information?
+Syncing several wallets in the same ledger with local node. (start again switching)
+How does having a negative number in a Pedersen commitment, create money out of thin air?
+Is this Monero python implementation complete & trustworthy?
+Where does the actual decryption of the recipient stealth address occur?
+Issue when updating to 0.13 - Monero GUI Wallet - Network Status - Wrong Version
+Command for returning transactions in json format to external code
+Monero Ring Signature data
+Creating a wallet from the command line using monero-cli command?
+What is the proper way of scanning a bunch of monero private keys to get an updated balance?
+Error while loading shared libraries: libhidapi-libusb.so.0: cannot open shared object file: No such file or directory
+GUI / monerod v0.13.0.3 does not start on Linux because of "./monero-wallet-gui: error while loading shared libraries: libhidapi-libusb.so.0"
+GUI v0.13.0.3 does not start on Mac OS X (monero-wallet-gui cannot be opened because of a problem - Library missing)
+How would I exploit the fact that I knew the scalar used for H in the Pedersons Commitment w.r.t G?
+Daemon after update to v0.13.0.3 gives ERROR output
+Where in the PoW block header is the variant version?
+Why do we use different H values in a vector Pedersen Commitment?
+Monero fees are .0000456 after bulletproofs. Will it get smaller as more transactions go into a block?
+Was there evidence of any ASICS after the new POW upgrade in october 2018?
+After bulletproofs upgrade, is scanning of the blocks faster for a balance update?
+Creating a wallet in non-interactive mode using monero-wallet-cli?
+Maximum optimal transaction fees and max transactions per block after bulletproofs upgrade?
+Ledger Nano S Transaction Error: unexpected error: Wrong Device Status : SW=6911 (EXPECT=9000, MASK=ffff)
+monero blocks /min , too many, should be just 1 every 2 min
+Relation between monero jobs (blob) and new blocks
+Consistency failure in amounts received
+Monero Not connecting to Daemon after upgrading to v0.13.0.3 on Windows 10
+Transfer stuck for 2 days with "Unconfirmed incoming transaction found in the txpool" message. Why and what can I do?
+Does bisq have a monero premium when buying?
+How to unlock a PENDING order in Monero Wallet GUI?
+Can't create transaction: internal error: Daemon response did not include the requested real output
+concatenate in the monero world
+XMR to XMO (Recovery)
+Monerod and wallet fully synced, not recognizing transactions made before the fork as valid
+Replacing an older version monero-wallet-gui.app with a newer version
+Unlocked Balance 0 , Balance is correct.
+XMR Withdrawal issues
+RingCt Is It Less Safe to Send the Whole Amount
+monerod getting killed, out of mermory possibly?
+Connect to remote node using moner-wallet-cli with --daemon-address with a password?
+what's the monero burning bug details
+monerod v0.13.0.4 being killed / crashed randomly it seems
+Key Image and Ring Member
+Finding mixins with daemon RPC call
+Hangs on "Forking to background..." ( `monero-gui-v0.13.0.3` on Ubuntu 18.04 LTS )
+How are coinbase transactions masked so that they fit the ringCT protocol?
+Trying to update a small analysis, does anyone have a source on current median transaction sizes?
+How to understand Monero source code?
+Logging into moneropool
+Where can I find the step by step new user's install guide to windows 10 gui?
+Does /get_transaction return ring signatures or key image?
+Can xmr.to work without javascript?
+Unrecognized TXN format, incorrect balance v0.13.0.4
+Can you determine the change transaction sent back to you?
+Signatures instead of rct_signatures in a transaction
+How do I connect the GUI wallet to a TLS remote node?
+Hard fork versions
+How does concatenation occur in crypto_ops::derivation_to_scalar
+Why do I have to export the private view key every time I use my Ledger?
+If the Monero started with rCT, would it be needed to have any part of the codebase handling dust?
+RPC throwing "method not found" error when I'm trying to call from curl
+CryptoNight detail. Why this kind of multiplication?
+Why is it necessary in confidential transactions to have two generators?
+allow access to the daemon for everyone
+Explanation of how exactly the pederson commitments in monero work?
+Use bip39 mnemonic to generate monero keys
+Running the GUI wallet connected to a daemon on my home network - How do I mark the daemon as 'trusted'?
+Reasons for the way the mask/amount is calculated?
+Why is it necessary to have such long addresses?
+Does Monero (XMR) or Pirate (ARRR) offer better privacy and security?
+How is the used Pedersen commitment kept secret?
+Unable to connect to monero-wallet-rpc from code
+Monero GUI Crash on Launch "api-ms-win-core-libraryloader-l1-2-0.dll is missing"
+What do these two lines in electrum-words.cpp do?
+Trojans and generic suspicious malware blocked by MalwareByte while downloading blockchain
+Is a mnemonic for view only wallet possible?
+Unable to send amount below one (.x) in Mac OS and Windows OS GUI
+How to save wallet after create_address?
+Fix "[P2P0]WARNING: no two valid MoneroPulse DNS checkpoint records were received" in systemd file
+Why there are four parameters for hard fork?
+Why does Monero use epee in the crypto module?
+How to switch the algorithm according to hard fork height?
+How do bulletproofs work?
+Churning and subaddresses
+I cannot start monero-wallet-rpc. I receive the error: no connection to daemon
+Why does the Bulletproof prover always have T1 = rct::scalarmultKey(T1, INV_EIGHT)?
+Can any one please tell me where I can find the latest python implementation of monero RingCT?
+Monero GUI: How do I switch back to my Ledger Nano S wallet from my original wallet
+Global index of output
+onion-monero-blockchain-explorer together with Apache webserver
+API call for ring members
+dual wallet confusion
+Run monero only in LAN
+Invalid rpc-bind-ip address when using a bash script to pass node IP to the --rpc-bind-ip argument
+Please help noob to start monero wallet recording deposit or withdrawal events
+How do I restore / recreate my Ledger Monero wallet?
+How does the miner know the public key for the signature in the block?
+What is the monero-wallet-rpc/deamon-rpc?
+How to call get_hashes.bin RPC method?
+If I delete the .bitmonero data.mdb, will it delete my wallet or the ability for me to access my wallet?
+What is the logic behind sc_add?
+Differences between Monero and CryptoNote?
+I want to mine Monero but I do not have money for a better GPU / equipment
+Go or Rust library to use Monero
+Can an output public key appear more than once in the blockchain
+What is the block height from which RingCT was implemented?
+What would be the process for creating a Monero transaction on paper?
+How can someone verify funds in a XMR wallet usint public viewkey?
+output_tx on Genesis Block
+Monero GUI is unable to finish the synchronization
+I can't tell if monerod is mining. Log says "idle percentage is 63%, miner percentage is 38%"
+Generate an integrated address from a different wallet's standard address
+What should I do if a refund from XMR.to did not include a payment ID
+How to restore Monero RPC Wallet from seed
+How can I buy 'Mastering Monero' via XMR?
+RPC binary request with Python
+Can miners see sender's information?
+What are some reliable public monero nodes one can connect to using their Monerujo app?
+Does Monero have a mining reward halving like how Bitcoin's mining reward gets cut in half every 4 years?
+Can't seem to reconstruct hashing blob for old block
+How to create a Payment ID with the Monero RPC Wallet?
+Running a Monero Node on Linux (Ubuntu 16.04) with no incoming connections
+How are subaddresses and account addresses generated from master wallet keys?
+What happens to a transaction inside an orphan block
+Problem with the Monero GUI Wallet and multiple transactions
+Opening Port 18080 for Incoming Connections on Router
+Monero GUI is unable to start monerod on Ubuntu 18.04
+Is it better to mine Monero on solo mining or joining a mining pool?
+How does the Beam mimblewimble project compare to monero?
+What is the best way to help the Monero network?
+Monero wallet issue with multiple accounts
+How is the number of ring members selected?
+Where and how to start to understand Monero?
+How to convert Bitcoin mnemonic to Monero mnemonic?
+Is it safe to use a remote node?
+Accounts got deleted from the wallet
+What stops testnet & stagenet coins from acquiring monetary value?
+Can I copy the Windows C:\ProgramData\bitmonero folder to my linux ~/.bitmonero folder to be used with Monero gui?
+Should I use sub-addresses more?
+Which is the best way to integrate Monero in a e-commerce website?
+Where is the best place to propose ideas for Monero
+Monero GUI wallet address in combination with the Ledger Nano S
+What is the difference between v7 and v8?
+Is it possible to solo mine Monero (XMR) using AMD and Nvidia GPUs in the same rig?
+Are there separate view keys for each account in a Monero wallet?
+How is the number of key images for a transaction selected?
+Can the Monero daemon bind to a UNIX socket?
+Multiple accounts in the same wallet
+Why did I get an 'using an untrusted daemon' warning?
+Tutorial on how to make a trade on the Bisq Decentralized Exchange using Monero to Bitcoin?
+Why has my Monero daemon failed to start?
+CryptoNight heavy vs CryptoNight light
+Why does the Monero difficulty increase?
+Will the Multisig Messaging System improve Monero security and performance?
+Is there a javascript implementation to generate your Monero subaddresses without giving out your private-spend key?
+I set up my public node to use port 18089, but why does monerod keep trying to connect to port 18081?
+How does the code for scalar reduction work?
+What should users, node operators and honest miners do in the event of a suspected 51% attack?
+Should I use a hardware wallet?
+Why did I get an error -18 whilst attempting an RPC transfer?
+At what dates did the Monero blockchain version update?
+What are the main advantages / disadvantages between proposed RandomX to ProgPoW?
+How does one burn and provide a proof-of-burn in Monero?
+Minimum and maximun number of mixin right now?
+How was the generator H for the RingCT scheme chosen?
+Is it possible to create a Monero miner in Python?
+Nano Ledger S in GUI won't sync, blocks remaining keeps resetting
+How does the mixing work?
+Where are the signatures of a ring coming from?
+Can't open GUI wallet with Ledger Nano S after 1.5.5 firmware update
+My antivirus (AV) software blocks / quarantines the Monero GUI wallet, is there a work around I can utilize?
+Calling MyMonero API with generated parameters
+Why does the Monero GUI wallet not save the daemon flags?
+How do I check my public facing remote node is up and running via a web browser?
+Why does imported wallet not show correct balance?
+What is the best Python library for hashing Cryptonight?
+Do all Monero private spend keys start with a 3? What other patterns are there?
+Are there other URL parameters when querying a Monero node's get_info method?
+Error: not enough outputs for specified ring size = 11
+Unable to send coins from freshly forked monero
+I'm trying to create a Python miner, can I get some guidance please?
+Which fork version is the py-cryptonight hash library using?
+How can I configure a node for use by Monerujo?
+Why can I not recover my Monero wallet?
+Monero block explorer, xmrblocks, build failing
+Monero fork wont mine blocks after height 3062
+How does one craft a Monero transaction locally, sign with their private key and then broadcast using javascript?
+Is there a written document or resource about CryptoNight v2?
+Problem with Ledger Nano S and Monero GUI: Invalid password
+Monero fork: block creation time fluctuation
+Can someone show me how to hash with CryptoNight in Python?
+How can I generate the blockhashing blob for my Python miner?
+What are some proposed solutions to preventing ASIC's from mining Monero?
+Acquiring greater than 51% of the Monero network can pose what kind of risks?
+Are there any neat tricks to enable SPV like functionality for Monero?
+What exactly do miners communicate with a pool?
+Which CPU/GPU Monero miner for macOS?
+Is Monero really decentralized, if the dev team can easily change the POW algorithm to fight off ASICs so easily?
+Why did the Monero GUI fail to generate a new wallet with the Ledger?
+Will I need to update wallet and miner after the next upcoming (March 2019) fork?
+Low security sync mode?
+Monero Fork: Blocks are not mining for more than 20 Hrs
+Monero Fork: Transaction hash is not generated from the wallet RPC
+Which is the most efficient way to run a Monero full node on a bare-metal hypervisor?
+How to check a detached daemon without a wallet?
+Can I generate a spend-proof with a cold-wallet?
+How is CryptoNight variant 4 increasing the CPU to ASIC performance ratio?
+How can I churn or send an individual Monero input?
+Who created the Monero ASICs during 2019-Jan to 2019-Mar?
+Daemon sync questions
+Where can I find the transaction amount checking logic in the source code?
+What are the differences between Cryptonight-R and Cryptonight v4?
+Are Monero hashes generated based off of the block header?
+Understanding the structure of Monero's LMDB and how explore its contents using mdb_stat
+How do I convert my old v0.13 node to a v0.14 pruned node when I already have the full 65gb downloaded?
+Which part of the daemon RPC is restricted?
+Simulating stealth address construction with JavaScript
+Monero daemon log rotation
+ShapeShift from Monero to BTC
+Is there a service to enter in Monero private view keys to see current balance?
+Building a service to hold Monero private keys. I need to update user's balance every 1-3 hours
+Making a public Monero node with RPC open so I can connect to it from my app
+Why not, on the next Monero fork upgrade, start fresh with balances intact?
+What does the restricted_rpc option actually restrict when running monerod?
+Are there any test input and output vectors for the variant 4 PoW of Monero out there?
+Error calling RPC method create_wallet with curl
+Monerod crashes on startup - Failed to create SSL certificate
+How can I back up my node efficiently?
+What year will monero be fully mined?
+Does the Coinomi wallet have a copy of your private view key? How do they make transactions?
+Stable coin on Tari?
+Implications and remedies of fixed 'H' in Pedersen commitment
+How to run a local daemon with android?
+Possible to turn off CLI Wallet logging?
+Wrong Device Status: SW=6e00, EXPECT=9000, MASK=ffff
+How can one solo-mine Monero using their laptop?
+How to access Monero functions on Android?
+Monero wallet says sent 25 XMR, other wallet says 0 received!
+How to check payments and process new deposits
+Error using monero-wallet-rpc: No wallet file
+After a fork, if a user opens an incompatible GUI/CLI, what information is presented to the user which says they are using old software?
+Monero wallet code base dependencies and APIs?
+Ledger and Monero GUI v0.14 transaction problem
+What are the key differences from the LOKI project which was a fork of monero?
+Are there any Monero devs involved with the LOKI project?
+Is there any enforcement on a transaction output being associated with an address?
+How do I stop locking my balance when executing transactions?
+How can I create a million blocks in regtest or testnet?
+What's the difference between the CryptoNightR and RandomX algorithms?
+Recovering Cake wallet from a lost iPhone to MyMonero on Android
+Is automated churning of XMR bad for privacy?
+My Ledger Monero wallet shows an incoming transaction with a value of zero (0), how do I resolve this issue?
+How do I use long payment IDs in CLI v0.14 / GUI v0.14?
+Android Monerujo - Node connection failed! Check Username / Password
+Is there a bitmonero.conf file where I can hard code a --daemon-address for use when running monero-wallet-cli?
+Command to transfer XMR from a subaddress via the monero-wallet-cli command?
+Is there a way to tell if a Monero node is on, even though it is not public facing and behind a router?
+Does the Monero executable for Windows not have a code signing certificate?
+Building an integrated address from a regular address and old-style payment ID
+What does "Enable Sales tracker" do?
+Post quantum signature scheme integration in Monero
+Which two strings I need to get from tx_json, if I want to determine whether output is mine or not?
+Where is the monero conf file in the portable binaries version?
+Are there any CryptoNote Monero forks that have a company backing the project?
+How to generate a Monero wallet programatically?
+How to use the --extra-messages-file option?
+Daemon stopped syncing
+Connect to a LOKI remote node when using the CLI wallet
+How do I make a monerod RPC call in Python? (e.g. /get_transactions)
+Using monero-wallet-cli to do a transfer after version 0.14+
+Sent some monero with the cli using the transfer command. How can I get the key to view proof that I sent it using an monero explorer?
+In LOKI, how do you tell how much loki is being staked?
+In Loki, Can you stake more than the requirement in a service node?
+Transaction stuck pending
+Can a new participant be added onto a multisisg 2/3 scheme?
+How can I check the network usage of my Monero node?
+Does the monero-powpy miner check if it has a new job?
+Time from the block added to the pool to time it gets executed
+Generate Monero Private/Public Key using PHP Only?
+transfer fails with invalid output
+How many destinations can there be for a single transaction?
+Would an attacker knowing the block-heights of my wallet's transactions weaken my privacy/security?
+Difference between Wallet Sync and Daemon Sync
+Transferring to multiple addresses issue
+How does address recovery work?
+monero-wallet-rpc while running GUI?
+Generating key derivation in construct_miner_tx
+How to cross compile monero to a ARMv7 target on a x86-64 host?
+I want to run a node. Is it better for the community for me to run it at home, or on a VPS?
+What is the difference between Monero (XMR) and Ryo (RYO)?
+What is the difference between Monero (XMR) and Beam (BEAM)?
+What is the difference between Monero (XMR) and Grin (GRIN)?
+Monero Fork syncing problem
+How does a node maintain its anchor peer list?
+Adding additional output field in transaction for output validation
+Monero still in my wallet as unmixable
+Using Trezor, trying to retrieve tx_key
+Minergate CLI mines only XMC but not Monero XMR
+How does commitment to zero work?
+How to calculate Monero addresses for different account numbers?
+How does Monero use DNS to discover seed nodes?
+How do multisig wallet seeds work?
+Determining the private view key by observing the exchange of MultisigV1 strings
+Commitment to zero vs one-time public key signature
+Is it possible to change the mnemonic seed of a monero wallet?
+What is the significance of monero switching the G and H points in a Pedersen commitment?
+Trying to understand how RCTTypeSimple works
+Why does a node try all grey peers to create a connection?
+How do I manually generate a base58 private key from my secret spendkey?
+Get public key of tx that currently in txpool
+Doing a Send Transfer using monero-cli v0.14.0.2 with long payment id enabled, still getting errors on send
+Received monero, how many confirmations do I need to wait before fully confirmed?
+Correctly retrieving the tx_pubkey from a transaction
+Background mining + monero-wallet-cli + pool?
+Relationship between pseudoOuts and Real outputs
+Why not use bLSAG for one input instead of MLSAG?
+Different MLSAG implementations across papers
+Monero hard fork - cant mine new transactions
+How to get the time at which a transaction was added to the pool?
+Pool of very different PCs
+How can I use Monero RPC via Python
+Key image forgery
+What would the space saving difference be if MLSAG was applied over all inputs?
+Any quick way for me to test my browser's hash rate for CryptoNight v2?
+Block Structure Of Monero
+How do you force create a new monero address on coinomi?
+Where is the ring-signature article by luigi1111 referenced in the multi-part stealth-address steemit post?
+How is there no key image for the commitment to zero in MLSAG?
+My balance just disappeared
+tool that convert decimal amount to variant and create tx hash
+What PoW hashing algorithms did Monero historically use?
+Transfer with wallet RPC
+Transfer RPC 401 Unauthorized
+Digest Authentication in monero-wallet-rpc
+Wallet RPC transaction notification
+Bitfinex seems to be cutting off the last 3 chars of my 95 char Monero address
+Can a Monero account get blocked?
+How are fees computed?
+Failure of Daemon to connect
+What is the impact of having perfectly hidden but only computationally bound commitments?
+How long would it take to get the monero blockchain size to over 100 GB and 200 GB at today's usage rate?
+Is there any discussion about creating one-time use Monero addresses?
+How can I get outgoing connections with pfSense as my router?
+When setting up Monero wallet with Ledger nano S, what are the options 'restore height' and 'subaddress lookahead' for?
+Transaction not received on ledger s nano
+Unable to see my 25 word mnemonic seed?
+Blockchain frozen during sync on Qubes+Whonix
+Running a full node on Tails
+In which order does a node select peers to create a connection?
+Is there a transaction time lock mechanism in Monero?
+List of transaction hashes in chronological order?
+Should Monero use ElGamal commitments instead of Pedersen commitments?
+Monero Wallet in "livecoin.net"
+Just mined with an old version v0.13.0.4 and upgraded to v0.14.0.2. Reward now missing
+Kovri / Sekreta development status
+Need help allowing my node to go remote
+SYNCRONIZATION MONERO GUI WALLET
+Using monero-php, I am getting "Method not found" when calling open_wallet
+How to generate a unique deposit address for a Monero wallet
+Ledger Nano S and Ledger Live Desktop not showing XMR
+Ledger Nano S and seed words
+Monero transfer privacy
+Generate Integrated Address JS
+Help! - 1.5 XMR Bounty
+LEDGER WITH BTC AND MONERO WALLET
+LEDGEE NANO S WITH BOTH BTC WALLET AND MONERO WALLET
+How to get the base transaction hash from the blocktemplate_blob
+How do I handle "WARNING: You may not have a high enough lockable memory limit, see ulimit -l"?
+Where is the encrypted mask value?
+Monero GUI upgrade problem
+Code a mining pool from scratch
+How to enable installation of monero gui, blocked by windows 10?
+Are transactions with multiple real inputs bound to require all the real inputs
+Is there a way to use CLI wallet non-interactively?
+Can someone help me understand the dynamic block size in Monero?
+What are the current staking and mining rewards for the Loki Network as of 2019-May?
+Steps to generate a job for miners using a mining pool
+Using sneurlax/monerojs and I'm having a problem connecting to wallet
+Is userland running monero gui possible and safe?
+Is Monero compatible with Windows Subsystem for Linux
+transaction verification failed on monero-blockchain-import
+Ledger Monero wallet
+RESTORE MONERO GUI ON OTHER DESKTOP
+Does using a remote node compromise the whole wallet?
+How can we be sure that there is no bias in calculating H?
+Is there a monero wallet that can do a range proof?
+How can I accept Monero payments from my classifieds ads website with unique client information
+Static compiling dependencies
+Validate the result of a job sent by a miner
+Monero Wallet RPC stops responding to Monero Python module after some time
+I can't reproduce a hash sent from a miner [javascript]
+How to identify sender when they send monero?
+Remote peers and mining question with playground network
+How can I use the SpendProofV1 to prove I sent Monero to an exchange?
+"Error writing wallet from hardware device" on Monero GUI v0.14.0.0 and Ledger Nano S updated to firmware v 1.5.5 running on Windows 7
+Withdraw XMR from exchange EXMO, and deposit to Monero GUI
+How does the seed offset passphrase affect entropy?
+How does a wallet check when their output has been spent from the keyimage shown in a tx?
+Can I create multiple wallets using the same hardware device (Ledger Nano S is this case)?
+Missing Node tab on Monero GUI app v0.14.0? How do I set the daemon host?
+Is it possible to connect to multiple remote nodes?
+Do I need to wait for the entire blockchain to download before daemon will connect to wallet?
+DIFFICULTY IN WITHDRAWAL XMR FROM EXMO WALLET
+does current monero support submitting signed transactions from file?
+How to create wallets using monero-wallet-rpc?
+Daemon thinks it's connected but keeps saying "there were 0 blocks in the last 90 minutes..."
+Withdrew XMR, Still Missing 5 Days Later
+How do I generate a Trezor Monero wallet with the CLI (monero-wallet-cli)?
+How to enable pruning in the command line of the monero blockchain in version v0.14.1?
+What is the best way of monitoring if monerod is still running on a VPS server?
+Can I copy my pruned blockchain .bitmonero folder to another computer and start syncing?
+Getting "Error retrieving blocks, missed (#) transactions for block with hash" while running pruned node
+Errors in creating view-only wallet in Monero GUI v0.14
+Web wallet for Monero where I can use view-only wallet and generate offline transactions
+Is using a remote node more private than using Electrum on Tails
+Using remote note on v0.14.0.2 - takes forewer to sync
+Missing functionality / screen controls in Monero GUI app v0.14.0
+Where can one download the entire Loki Network (Monero Fork) blockchain without syncing from scratch?
+Monero GUI app v0.14.0 not showing mnemonic seed and secret keys may have 'filler' values
+Can I identify the true input of a transaction as the spender on an explorer?
+How do I operate the Monero GUI as a 'cold' wallet from an air-gapped computer?
+Uptime proof for your Loki Network Service Node?
+I sent a transaction on an out of date wallet. Have I lost my XMR?
+"Segmentation Error" in monerod on TAILS in previously synced 0.14.0 GUI. Am I screwed and need to start over?
+Missing Monero in My Monero-GUI wallet
+Trouble setting up Local Node on Tails
+Why are the Monero GUI components (exes) flagged by AV as malware?
+Android mobile app 'cold' wallets that allow cold signing TXs, saving the file to an SD card and loading updates into it by file?
+Monero missing from pool payout to exchange wallet
+How payment proof is used?
+Possible to mine XMR on Nvidia P500 Pascal Mobile?
+Are Monero transaction types versioned?
+What is the difference between RCTTypeBulletproof and RCTTypeBulletProof2?
+Why are there 4 types of range proofs in the Monero code base?
+How does a Monero node know to reject Borromean range proofs
+What is the difference between tx version 1 and RingCT version 2?
+Why do we have MLSAG when we only need two keys?
+What is the difference between simplewallet, wallet and wallet2?
+Digest authentication with monero-wallet-rpc
+What is key64 data type supposed to represent?
+How is Poloniex keeping track of their user's Monero balances when they do not use any Payment ID's?
+Creating an integrated address from an exchange's monero deposit address with their payment id
+When constructing a change output, must it be destined for the main public address?
+What is the best way to implement a deposit system with Monero's RPC calls?
+freezed computer -> force restart -> monero created address disappeared (but already sent coin to this address)
+Can someone suggest a better way to test transfers for development testing?
+Can a pool keep blocks for itself without giving out rewards to miners?
+What are the different commands for `balance [detail]` in monero-wallet-cli
+How do I generate a Trezor Monero wallet with the GUI (monero-wallet-gui)?
+Using Monero as a payment source for my business
+Is it possible to mine on your CPU and GPU at the same time?
+Monero GUI hacked? Transaction 'To:' field says "Unknown recipient" & did not receive sent amount in other address
+Does a CPU or GPU mine better on the RandomX algorithm for Monero mining?
+How many hashes does an AMD Threadripper 1950X do on the RandomX Monero mining algorithm?
+Which exchanges have implemented subaddresses for deposits and phased out payment IDs?
+Opening Ledger with wallet v0.14.1.0 Boron Butterfly
+How do I restore / recreate my Trezor Monero wallet?
+How do I utilize blockchain pruning in the GUI (monero-wallet-gui)?
+Is there a way to see all the transactions coming through my Monero node?
+How much memory does monerod take on a Ubuntu server?
+How to construct a transaction with multiple inputs (joint payments)?
+Listing payments on subaddresses
+Transferring from Monero to MyMonero Wallet
+What other cryptocurrency has implemented the RandomX PoW for mining?
+Monero GUI self-hosted node issue with Ledger - it keeps requesting password
+Can the monero-wallet-rpc handle multiple requests at the same time?
+Is the upcoming release of the Monero GUI v0.14.2.0 or v0.15.0?
+Updating Your Loki Service Node using the Loki Launcher
+Is “restore height” necessary when I use hardware wallet（ledger）to restore my account？
+Creating a Monero Wallet using Ledger device
+How can I sync the blockchain from scratch, gently in the background?
+How do I create a Monero testnet wallet address and account?
+How to interpret the output from the 'print_ring' command in monero-wallet-cli?
+Using the wallet RPC method create_wallet, how do we find our wallet address?
+Monero wallet stuck
+Is there a way to see the blockheight at a specific point in time?
+Is the wallet address and generated account address the same?
+What is the optimal configure.json setting for mining Random XL using xmrig on Loki?
+How to generate Genesis TX for custom fork
+Resource: Monero based forks adress prefix list
+Questions regarding Monero wallet keys file, RPC transfer method, fee estimate and account index
+Fork GUI not building
+Integrated Address generation gives 16 bit randomly generated payment ID
+Rescan Ledger wallet from 0 in the GUI?
+genesis varint limit
+Missing transaction. XMR sent to Monerujo wallet
+Can Monero support smart contracts
+How to get the balance of an integrated address?
+Why don't the XMR-Stak Linux release binaries support NVIDIA GPUs for cryptonight_r?
+Why does Monero create two or more inputs for transactions?
+How are Monero seed nodes selected?
+Monero sent to own wallet by accident but it doesn't show up?
+How much "Earned uptime credit" do I get when staking Loki on a Service Node?
+Loki Daemon Node Crashed with Error Adding Block with hash and stuck at 99.99% sync
+How to mine Aeon after compiling source locally
+Zero balance on wallet cli
+Aeon K12 update, ASIC resistance and mobile mining
+Why are I/O bound instructions not used as part of a hashing algorithm to thwart ASICs
+Syncing new GUI and laptop restarted midway through, now when I load it says: Couldn't open wallet:std::bad_alloc
+Monero RPC - Failed to parse transaction from daemon
+How does Monero protect users from inflation bugs if the blockchain can't be audited?
+Where are the input keys stored for a transaction (understanding vin field)
+Scanning and updating Monero balance with private key using only monerod rpc?
+Enable Loki Network Node for public access and also to view /get_info using loki.conf file
+Pregenerate 1000 subaddresses from your monero private key?
+Balance is 0.00 or zero not showing up when gui is synced
+Monero Pegged Token on other blockchain networks
+I made up a payment ID when sending, will it go through?
+What's the maximum amount of transactions returned by the get_transfer RPC method?
+Pool vs proxy for 1000 users?
+Monero wallet RPC transfer issue, intermittent problem
+Swiping an NFC implant / chip
+How do I purchase Monero when I live in US?
+Is running a full node on an HDD bad for the network?
+monerod sync suddenly got slow, how to speed it up?
+Can a xmr proxy mine without a pool?
+monero-wallet-gui v0.14.1.0 will not fully sync on local node
+How do I run a remote node on windows (so I can connect mobile wallets to my own node)

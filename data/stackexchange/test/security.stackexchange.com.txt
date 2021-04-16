@@ -1,0 +1,2000 @@
+Courses on "Secure Software Development"
+Rails - protection against code injection and XSS
+Does an established HTTPS connection mean a line is really secure?
+Is filtering of user input data enough, or should it be parsed?
+How to perform a security audit for a PHP application?
+Which web server is more secure, Apache, nginx or lighttpd?
+Should I use Suhosin for PHP?
+ASP.NET MVC Security Check List
+What tools are available to assess the security of a web application?
+Computer Forensics: what is in your toolbox?
+What methods are available for securing SSH?
+Good session practices
+How to Securely Implement a "Remember Me" Feature?
+What is the best option for setting up a several sites supporting SSL on the same IP?
+How to disclose a security vulnerability in an ethical fashion?
+How to keep a shared web hosting server secure?
+Is an IP address blacklist good practice to prevent website attacks?
+What are the best practices for mitigating zero day attacks?
+Best practices for Apache Server hardening?
+What cryptographic algorithms are not considered secure?
+Feeding /dev/random entropy pool?
+Does it matter which Certificate Authority I source my SSL Certificate from?
+Professional certifications for IT Security
+Is Google Chrome a more secure browser?
+Password management/synchronization?
+How can I check that my cookies are only sent over encrypted https and not http? 
+Is it secure to connect to a remote Windows Server using Remote Desktop only?
+What are the pros/cons of using a threat detection system?
+What is the best way to verify the SSL configuration of my web server?
+What techniques do advanced firewalls use to protect againt DoS/DDoS?
+How to determine whether site is secure from common user's point of view?
+Can I detect web app attacks by viewing my Apache log file?
+Is there a benefit in using Oracle's WRAP to obfuscate PL/SQL Code
+Is there a list of default, standard or third-party "users" for Oracle?
+What free tools or techniques exist to discover anomalies in network flows?
+What are some good website security scanning solutions?
+Do secure phone lines exist?
+How long should the maximum password length be?
+What kinds of SSL certificates are usable for encryption?
+What is the right way of storing database connection strings from the security point of view?
+Do you know any crawler/spider software, which is able to go through an ASP.NET site?
+How does using OpenID affect webapp security?
+What are a few good lists of threats to use to kick-off conversations with others about what worries them?
+What type of content better not to transfer by email?
+What is the correct way to implement anti-CSRF form tokens?
+How do you defend specifically against attackers utilizing any or all of the commercial exploit kits?
+New XSS cheatsheet?
+Creating tunnel with most ports closed?
+If I suspect my server is compromised then should I disconnect it immediately or not? From Power or Network?
+Encrypting a disk that has stuff on it?
+Vulnerable OS's?
+Online SQL Server database for a Business app. Security considerations
+How to securely hash passwords?
+Is external vuln scanning sufficient?
+White-box vs. Black-box
+Automated tools vs. Manual reviews
+Startup security
+When a sysadmin leaves what extra precautions need to be taken?
+How can I intercept and modify HTTP requests?
+What steps should be taken to validate user uploaded images within an application?
+Defending site against being abused by phishing
+How can a Software application defend against DoS or DDoS?
+Recently had a virus, can I use backed up files on clean system?
+Does a webserver need an antivirus software installed?
+Are browsers still vulnerable to Cross-Site Cooking?
+How do I get started using ESAPI WAF?
+If I am obliged to store a password/certificate on a client side, how can i make sure that it is protected?
+What are the pros and cons of site wide SSL (https)?
+How effective are reverse proxies as a web application security measure?
+What is the benefit with using encrypted RAM?
+Resources to learn about security
+Management Network Best Practices
+How to test against DDoS in a controlled enviroment?
+Malwares source repositories. Where?
+How does a crypter for bypassing antivirus detection work?
+Are online password managers secure?
+How to open a file from the Internet in a secure way?
+What security features should be present in every web-based CMS?
+Vulnerabilities common only in mobile solutions?
+IPsec (Internet Protocol Security)  facts
+Antivirus, antimalware and antispyware software. What is the difference?
+Which files are more insecure than others?
+Advantages and disadvantages of Stream versus Block Ciphers
+What benefits does Nessus have over OpenVAS?
+What steps do you take to keep both your computer and internet browsing secure?
+What are security issues which are specific to cloud computing?
+What is the difference between RBAC and DAC/ACL?
+Pitfalls of using OAuth for mobile Applications
+How much money does it take to equip a fully funded black hat team? How much money to defend against such a team?
+What are a few good analogies to describe the benefits of a strong security program?
+What information should a error log record?
+What does the Local exactly mean in CVSS?
+Open-source penetration-test automation
+What FOSS software do you like to use to build intrusion detection stacks?
+How many people are required to build your own 24x7 security operations center (SOC)? Rough costs?
+What are the security risks in enabling ipv6
+Is null-byte injection possible in Java filenames?
+What are rainbow tables and how are they used?
+How does OWASP ESAPI protect against direct object reference vulnerabilities?
+What tools are there to inspect Flash SWF files?
+How can I test my web application for timing attacks?
+What are the most important security checks for new web applications?
+How to properly generate and use (m)TANs?
+What is a Web Application Firewall?
+Is it ever appropriate to fight back?
+What issues are most important to cover in Corporate Security Policy?
+What risk analysis methodologies should I use?
+What key metrics should a CIO rely on to gauge the extent of IT risk exposure?
+How should I distribute my public key?
+How secure are my passwords in the hands of Firefox using a Master Password?
+If an XML document is not validated as "Well Formed" or checked against a schema, what are the risks?
+If you could have only one book on web security, what would it be?
+Is the law the only thing stopping many sites from being hacked/cracked?
+RBAC model: user in two roles access dilemma
+What are the areas to focus on to protect users and devices?
+Are signature based antivirus or antimalware effective?
+How big is the risk, to enable scripting in the Web browser?
+Risks of Using Google Native Client
+Is a "security measure" that doesn't provide a security benefit actually harmful?
+Ways to secure yourself from Firesheep kiddies and other sniffing
+Stop software updates after the system is "stable"?
+How can I protect a WordPress installation?
+Is there a guide of general/common IT vulnerabilities?
+Why do sites implement locking after three failed password attempts?
+What are the security risks of letting the users upload content to my site?
+What are good ways to educate about IT security in a company?
+The AES Crypt implementation hashes a password 8192 times to generate the key. Is this necessary?
+What does defense in depth entail for a web app?
+Powerful security tools to use in penetration testing
+What shell binary should I use for the root account on a Linux system?
+Hints for safe passwords that are easy to remember
+Retrieving OSx Keychain passwords
+How effective is the Mac Open Firmware password protection?
+Database Encryption Security
+Do stored procedures prevent SQL Injection in PostgreSQL?
+Tools and methodologies to share pentest and/or source code analysis results
+What are the best practices for hardening a php.ini file?
+What security resources should a white-hat *developer* follow these days?
+What security settings are likely used in Obama's Blackberry?
+What was the issue the UAE had with RIM/Blackberry and what was the outcome? What countries have similar agreements?
+Encrypting a Database's Primary Key when sent to the browser
+Was the ASP.NET Padding Oracle exploit exposed in an ethical manner?  What could have been done differently?
+How effective is iPhone 3GS and 4 device-at-rest encryption?
+How should I escalate a vulnerability that is dismissed by the vendor?
+Why is FireSheep such a big deal?
+What protects cookies?
+What is the corrupted image vulnerability? How does it work?
+How is UAC a security improvement?
+How is the password prompt going to protect me from ruining my computer?
+Which languages are better for attacks against websites?
+Is randomizing cookie names a good idea?
+FrameBusting script
+Does outsourcing infrastructure services reduce risk (and improve security)?
+Does PCI compliance really reduce risk and improve security?
+What is considered the simplest (or lightest) secure development lifecycle?
+What policies maximize incident detection (and compromise detection)?
+How does an attacker approach a website?
+Why do people say that PHP is inherently insecure?
+Is it necessary to protect user data if they know and agree to it being insecure?
+What's involved in taking over someone else's domain name?
+How does a website owner decrypt ASP.NET's Viewstate, and cookies
+How can I decrypt ADFS-based SAML/p or WS-Trust claims?
+What is the exact difference between SAMLp and WS-Trust?
+How does LiveID work? Is there any documentation on the LiveID provisioning site msm.live.com?
+What is your way to create good passwords that can actually be remembered?
+What policies maximize employee buy-in to security?
+Strategy against browser exploits on Windows?
+Is it possible to take down a site using javascript in the URL bar?
+Multi factor authentication on Ubuntu workstations, where to start?
+"Fingerprinting" and human error
+I am looking for feedback on Secure Development Lifecycle for Scrum that has been tested?
+What are the biggest unsolved problems in IT Security?
+Best website to learn computer security basics?
+What are the differences between the versions of TLS?
+What security requirements are a defacto standard in the Financial Industry?
+What International laws should one in the InfoSec industry we be aware of?
+What risk do International Domain Names (IDN) pose?
+When should a DNS entry be cached? What conditions should not be? How do I determine the TTL?
+How do the root servers get updated with my name server? Is WhoIS information always in sync with the root?
+Does DNSSec have any benefit if used with IPSec-enabled IPv6?
+Is SOCKS secure?
+What features do you look for in an Enterprise Log Management solution? 
+What are the security risks of the Service Bus, and how do you mitigate them?
+What does a court need to successfully prosecute a hacker?  Please cite previous cases if possible
+Is it possible to change the admin user/password remotely on a router without logging in?
+Should we configure all devices to never request SSL 2.0, and reject it if offered?
+Is WCF or Java Metro security configuration in-scope for your security department; should it be?
+Password Management within an Organisation
+How does basic HTTP Auth work?
+How secure is Keychain on OS X?
+Egress filtering on an office network?
+What tools are available for distributing and syncing firewall rule-sets to multiple devices?
+When would you support the storage of Security & Application event logs in the Cloud?
+What does a MCSE need to learn to be proficient regarding *nix security?
+Managing a team of IDS experts; how would you organize your team?
+What security requirements do you have for Domain Administrators?
+How to secure a WiFi network?
+Anyone using Asirra in production? Are there similar alternatives?
+For users that does not use PGP, what would be the other channel to securely send them a document?
+Benefits of secure code review in-IDE vs. fatapp vs. webapp
+Reporting vulnerable sites
+How can I securely authenticate the client application sending me data?
+How to set up a single sign-on for multiple domains?
+How to keep an eye on upgrades, patches and security issues for used open-source libraries?
+How much does a security audit cost?
+Why is Firesheep Unable to Session Hijack over SSL?
+Is there any recommended Java library for penetration testing?
+Anonymous web browser. Is it real?
+SFTP, FTPS and SecureFTP differences and security implications
+What are the resources that an auditor would need to access in read mode?
+Persisting and comparing NMAP scans
+Is Stonesoft's "advanced evasion technique" a major problem?
+Do you know any .xry reader for MacOS/*BSD or Linux?
+Getting a manual security code review done - What to watch out for?
+Are GUIDs safe for one-time tokens?
+Are there security issues with embedding an HTTPS iframe on an HTTP page?
+Is it practical and worthwhile to alternate penetration test vendors?
+What criteria do you use for evaluating Client-Side / Endpoint security products?
+Secure hard drive disposal: How to erase confidential information
+Are NTFS Alternate File Streams considered a security risk in your organisation; how is it mitigated?
+Does IT policy apply to the Board of Directors? What policies do apply?
+Blocking insecure iPhones from accessing ActiveSync
+What personal traits and characteristics do you look for in a IT Security pro?
+Finding security consultant for doing in-depth code review?
+What is your approach to handling Guest Internet access?
+What should be included in a jump bag and how often should it be reviewed?
+Popularity of Anomaly based IDSes
+Should iPhone backups be encrypted? Is this in-scope for Corporate IT if the device is linked to a home pc?
+How to protect against brute forcing
+MS-SQL Password Storage
+Citations for inadvisability of globally unique password
+What questions would the Joel test for Infosec professionals consist of?
+Malware known to use port knocking to evade detection by network scanners?
+Security of rails user access/permissions plugins
+Is BASIC-Auth secure if done over HTTPS?
+Hardening Linux Server
+Anyone use the International Domain Name (IDN) security mitigation API's? Is there a wrapper for .NET?
+Are there any tools to detect JavaScript-based WCF/AJAX calls?
+How can I keep my programmer collegues informed about security issues?
+How do you handle log analysis?
+What security risks does IP spoofing bring?
+What is the state of Security in Comp Sci Programs
+Can Javascript/Flash verify the SSL connection to prevent "SSL Inspection"?
+How can a company reduce exposure to packet spoofing? What solution should exist, but doesn't?
+How do I identify an unknown port/protocol that my IDS picks up?
+How much can I trust Tor?
+What is your experience with AlertLogic?
+Why don't ISPs filter on source address to prevent spoofing?
+Are there valid reasons for spoofing an address?
+What security implications should I consider in relation to mcollective?
+Detecting attempts to attack a website?
+Any comprehensive solutions for binary code protection and anti-reverse-engineering?
+Does an ORM framework such as Hibernate completely mitigate SQL injection?
+What is a "pre-play" attack?
+Scripting a search through php files for dangerous calls for manual review
+Forced into using a static IV (AES)
+When brute-forcing DES, does knowing something about the plaintext help?
+iOS Encryption Details
+PHP mail() Header Injection Prevention
+Isn't openid with http an issue?
+Can I block based on MAC address?
+GnuPG/OpenPGP Key Practices
+On iOS, what's the benefit of OpenSSL over using CFStream, CFNetwork etc. for secure sockets?
+Practical DRM for pdfs
+MySQL Server Hardening
+Network Forensics - what is in your toolbox
+Retaining institutional knowledge of a complex infrastructure (checkpoint, juniper, etc)
+Are Windows security updates audited?
+What techniques and tools do you use to relate security events?
+What is the potential impact of the alleged OpenBSD IPSEC attack?
+Where to get an SSL certificate for personal website?
+JUNIPER Junos Pulse - how to apply policy to device
+A firewall without any extra features
+Is there a security risk running web apps in debug=“true”?
+What were the specific security flaws with OAuth 1.0? How are they being addressed in 2.0?
+Establishing routines on what to do if a PC gets stolen
+Port Knocking is it a good idea?
+SSH Brute Force Dictionaries
+Firewall Reviews - What is in your Toolbox?
+Are there any decent web app security scanners that can integrate with a build server?
+(SoHo) Multi-Factor Authentication for Remote Desktop Gateway
+Securing an E-commerce site
+What are the pros and cons of outsourcing an organization's PKI?
+Is there a method of generating site-specific passwords  which can be executed in my own head?
+which site do you use to view details of vulnerabilities?
+Bell-LaPadula and Biba Together
+Whitelisting DOM elements to defeat XSS
+War dial research
+Securing the security guy's home office: what should we do?
+Session Hijacking - regenerate session ID
+Best practises for preventing SQL injection?
+What are the weaknesses of this password-generation-method? How can it be improved?
+Fortify360 - Sinks & Sources - Vulnerability count
+What is secure enough for web applications?
+What good, standard digital signature / timestamp verification clients are widely or easily deployed?
+Video Conference Systems - Security Testing
+What do you see as the emerging threats for 2011
+How to exploit the "PHP_MAGIC_QUOTES ON" vulnerability in order to cause max damage?
+Security papers or material focusing on the industrial control systems (SCADA)
+Copyright issues with encryption algorithms
+Verify Mac firmware is not hacked...how to do?
+Security review: "HTTP header user-agent has been set to (something)"
+Can you secure a web app from FireSheep without using SSL?
+Escaping JavaScript constants
+logging requirements for PCI for web applications
+Storing third-party auth info securely
+Protecting an IIS web site hosted at home
+GET with additional parameters leads to "code injection" in html displayed
+What tools are available to identify which country a specific IP address is located in?
+UNIX Servers: Possible intrusions or attacks that do not use any of the open listen sockets
+How does XSS work?
+Where can I find good dictionaries for dictionary attacks?
+Disable insecure/dangerous PHP functions
+Any good free SSL proxy on windows?
+Circumventing a "freemail" account form filter
+How to get into RFID auditing?
+What prevents this exploit from working (unix SUID)?
+PCI Encryption Key Management
+What common products use Public-key cryptography?
+Wireless Activity Monitoring for PCI DSS Compliance
+What is the risk of a packet being sniffed when travelling over the internet without SSL/TLS?
+Is anybody using client browser certificates?
+What is the difference between an X.509 "client certificate" and a normal SSL certificate?
+Do any of you who are *really* dealing with APT have any recommended intelligence feeds for SIEM/IDS/etc?
+What FDE (with hardware encrypted drives) for OS X works?
+What's the standard way to encrypt a file with a public key in Java?
+Backing up sensitive data - pitfalls and best practices
+How to address XSS security issues in FCKeditor / CKeditor?
+Prevent acccess to the C drive on Windows systems
+What is the difference in security between a VPN- and a SSL-connection?
+How should one properly dispose of a printer or fax which is used for sensitive documents?
+HIPAA Compliance or What measures would you recommend to secure PHI for devs?
+Dealing with expired or revoked signing certificates with Infopath documents
+Is L2TP as secure as IPSEC for VPNs?
+how to configure edit-restricted mediawiki
+How to ensure that cookies are always sent via SSL when using ASP.NET on IIS 7.5?
+Is visiting HTTPS websites on a public hotspot secure?
+Issues with the use of network surveillance tool in your company?
+Why do some websites and programs restrict password characteristics?
+What is your default umask set to?
+Cisco ASA Security Contexts: Any Real World Installs?
+Access to a router's GUI
+IP reputation services – valuable tool for detecting compromises?
+Why do people tell me not to use VLANs for security?
+What's are the advantages of L2TP/IPSEC over plain IPSEC?
+3DES vs DES for VPN connections
+I'm using a Cisco ASA as a VPN endpoint. Where do the VPN clients get firewalled?
+Windows mandatory access control: How to remove “mandatory level” label from the file?
+What is the proper priority/mix of (people, tools and technology, processes) to optimize defense?
+How to convert IBM Domino SSL keys (private key) to the OpenSSL format?
+What are the problems with encrypted but unsigned data?
+How to define security requirements to ensure that developers... do not provide security by obscurity?
+dealing with small businesses and security issues
+Given SSH access, what should I do to protect a server and monitor (dangerous) user actions?
+What is the difference between SSL vs SSH? Which is more secure?
+spam with my own domain
+Tutorial for SecurityCritical SecurityTransparent and new .NET 4 feature: Level 2
+Are MAC Address Filtering and SSID Hiding still worthwhile?
+How can I authenticate a client connection in a secure way?
+IR Jump Bag - What kind of bag/container to use?
+Nessus vs third-party scans
+How much protection does the Kill-Bit provide for ActiveX controls?
+How to create your own RBL DNS Blacklist to prevent spam
+How do Intrusion Detection Systems (IDS) work?
+Protection against account lockout DoS
+is there any solution to manage network forensic, SIEM and intelligence analysis and investigation in a enterprise network?
+One Time Passwords. Using OTP at Windows, Ubuntu and internet sites
+What particular concerns should one bear in mind when wardriving?
+Is there software available for two-factor, biometric authentication to the OS?
+Non-OEM Biometric Software?
+Biometric versus other Two Factor Authentication Mechanisms
+Does hashing a file from an unsigned website give a false sense of security?
+Is posting from HTTP to HTTPS a bad practice?
+If someone breaks encryption, how do they know they're successful?
+User "home directory" on iPhone, Android, Windows mobiles and Blackberry
+How to prevent CSRF if you want to include Flash plugins in your form like Uploadify in your form?
+Storing private asymmetric key in application binary?
+Possible to use CAPICOM to extract current SSL certificate?
+What is the vulnerability in my PHP code?
+Where to report malicious URLs, phishing, and malicious web sites?
+Servers for penetration testing
+Safe implementation of sharing encryption secrets (username, password) in the cloud
+How do I use C# to encrypt/decrypt data where the private key is on a smartcard, hardware security module, TPM chip etc
+How does RSA encryption compare to PGP?
+What are the realistic, and most secure crypto for Symmetric, Asymmetric, Hash, Message Authentication Code ciphers?
+Why does Bouncy Castle have a separate download for the IDEA algorithm?
+What can one define as quality criteria for an XML Schema?
+How can I enumerate all the saved RSA keys in the Microsoft CSP?
+Which PCI SAQ would you say to use if you are neither a merchant nor service provider?
+Data loss protection in software artifacts
+I see entry level security skills as a problem for industry - what can we do about it?
+What are the advantages of sequential signing
+How does an SSL server prove its identity?
+Most informative DEF CON talk?
+How to achieve non-repudiation?
+Reverse engineering malware/viruses
+Doing a demo about open wireless networks exploiting with Firesheep
+How is PowerShell's RemoteSigned execution policy different from AllSigned?
+Why should one not use the same asymmetric key for encryption as they do for signing?
+Master thesis topic - mod_security
+Relative importance of CHROOT for web servers
+Does using many XML parsers (XDocument, XMLDocument) from the public Internet increase attack surface area?
+Does the Ophcrack LiveCD require hash collection via programs like pwdump?
+Is SSL key generation client-side, server-side, or both?
+What is an intermediate certificate authority?
+Create a certificate signing request
+When does one need to be concerned with leaking timing information in .NET?
+Clark Wilson Integrity Model: Rules
+Encryption decryption time
+Protect file in a web site
+3 way authentication
+Can anyone suggest good open source tools for scanning source code for vulnerabilities?
+Is Facebook Connect or Twitter OAuth PCI Compliant?
+SSL Certificate revocation check
+Does the compiler feature of Closures decrease member variable security?
+What a programmer should know before their web service's client audit
+Certificate chain
+Personal digital certificate how to verify
+Renew digital certificate
+SSL vs IPsec what's the difference
+Whats the difference between MAC vs hash
+What kind of encryption is a one-time pad?
+where can find sample coding for use of Bouncy Castle(java)?
+What type of cipher is RSA?
+Initialization vector with cipher block
+Good (preferably free) resource for CISSP practice questions
+Why triple DES used in EDE mode?
+What security risks do unauthorized mobile hotspot (MiFi) devices on company proprerty pose?
+Good Security tool for PHP- Suhosin vs Spike vs PHPIDS
+Security attacks on PHP web applications
+Classical Cryptography Tools
+PKI solution vendor selection
+Can anyone provide references for implementing web application self password reset mechanisms properly?
+Concerns and Gotcha with Secure Programming Standards Development
+What firewall settings on a Macintosh are the most restrictive, while still permitting casual internet use?
+DHCP vs. Static IP Addressing
+What's the real reason behind blocking the social sites? Even legitimate sites like Twitter which acts as a knowledge repository?
+Where are some Security Policies that are actually in use?
+Security Services on Edge Router vs. Standard Firewall
+How can my country's legal/telecoms environment protect against cold-callers conning a remote-access session to the victim's computer?
+Are there any smartcard/hardware-tokens for certificate-based authentication which are easily destroyed?
+What lessons about Denial of Service can we learn from Egypt's "experiment"?
+How long should a random nonce be?
+Malware nomenclature
+How can TOCTTOU vulnerabilities within the Windows OS be mitigated?
+How can I ensure that default passwords are no longer in use?
+To firewall or not to firewall?
+Automated tools for Cisco IOS config auditing?
+Tools to identify and report hacking attempts originating inside reputable organizations?
+Windows hardening
+FOSS Enterprise Password Management Solution
+Disabling windows firewall remotely
+Bypassing Address Space Layout Randomization
+What is encryption method for the 3rd part of the Kryptos text?
+Books about Penetration Testing
+What authentication system (OpenID, Facebook, etc) permits Javascript-free and/or Cookie-Free operation?
+Protecting websites from outdated browsers and plugins via a whitelist/blacklist combination?
+Problems with avoiding JSON hijacking with MVC3's AntiForgeryToken, or similar token validation
+What are the implementation details and rationale of ASP.NET MVC3's AntiForgeryToken?
+What browser plugins (ActiveX, or those for Chrome/Firefox/Safari etc) pose the most risk for your company?
+Does WebDAV pose an unreasonable risk in IIS7.5?
+Snort's great, but BASE isn't. What are some alternative front-ends?
+Does PA-DSS apply to a SaaS eCommerce system?
+CEH resources for exam prep
+Is PBKDF2-based System.Cryptology.RFC2898DeriveBytes() "better" for Unicode Password hashing than traditional methods?
+Multiple VPN clients in parallel
+How do you estimate the costs of a security breach?
+Replicating javascript actions from different website (XSS?)
+Altering a $_SESSION variable in PHP via XSS?
+Should CSRF 'Double Submit Cookie' technique have a different seed value for the cookie versus the HTTP POST?
+What is an appropriate auditing standard for a law firm?
+What is your process for wiping a lost Blackberry or similar device?
+How to hijack a session?
+Is this enough to tackle script / malicious code insertion in GET, POST requests?
+SQL injection for a username/password form?
+What chars should I not allow in passwords?
+How useful is CISSP to a recent graduate?
+How to do Ajax securely?
+intel wireless 5100 AGN adapter to support injection
+How do I apply a security baseline to Windows 2008 R2?
+What can one do when encryption methods fail?
+Options when defending against SSLstrip?
+Is 2008 Server Core installation the most secure deployment?
+BlackBerry client authenticating to Java Web Service
+Should I use AntiForgeryToken in all forms, even login and registration?
+What should I ask a prospective security consultant?
+Reference implementation of C# password hashing and verification
+CloudFlare benefits or drawbacks
+Detecting Steganography in images
+How can I secure a network share from the insider threat?
+Whitelisting applications in Windows7
+Do mobile OS's provide crypto-quality randomness?
+What tools exist to manage large scale firewall rulesets?
+Force AV Scan of USB drive vs. File-Access Scan
+Wireless Access Point security with TEW-638APB
+Testing PHP form injection
+How to track a laptop after theft?
+Suitable cipher for SMS encryption
+Blackberry + RIM Bluetooth-based Smart Card Reader
+What boxed solutions exist for taking care of Authentication? Mostly focused around websites
+Best way for a hacker to hide a file on Linux?
+Lessons learned and misconceptions regarding encryption and cryptology
+Security impact of using a public password for free WiFi
+Mature CIRTs gather intel on their attackers. What sources & methods are used for this?
+Suggested reading list: OS exploits
+What key attributes indicate candidate potential for future success in a security career?
+Why is it difficult to catch "Anonymous" or "Lulzsec" (groups)?
+What CSS is considered Safe or Unsafe within a multi tenant website?
+How can I mitigate the threat that DPAPick poses to my DPAPI protected data?
+How to convince the boss of an Acceptable Use Policy
+Which is more secure: develop a mobile app in its Native language or using cross-platform UI?
+Safely changing text links to HTML anchors
+Where can I find a solid BURP tutorial?
+How feasible is it for a CA to be hacked? Which default trusted root certificates should I remove?
+What compliance framework is appropriate for firewalls
+What is the equivalent European organization of NIST, especially in the Security Computer Division?
+access control to data-center using rfid
+Software vs Hardware Firewalls
+MD5 display format
+List of good security blogs one should read
+What are the differences between MD5, SHA  and RSA?
+IIS and SQLServer Hardening
+Pen test cell-phones
+2 factor authentication - cost effective solution for a web startup
+plugins to lengthen short urls for security purposes
+How do I secure my SaaS startup?
+Intrusion Prevention Logs
+Video Tutorials resources for IT Security
+Should I bother teaching buffer overflows any more?
+Should RSA public exponent be only in {3, 5, 17, 257 or 65537} due to security considerations?
+How to demonstrate SQL injection?
+Code Analysis: Binary vs Source
+Should I go for Master of Science by GIAC SANS and what to do with my expiring GSEC cert?
+Best Security Conferences?
+Checkpoint NGX IPS & NAT
+How to ensure account security when accessing emails when overseas?
+Is WPA2 WiFi protected against ARP poisoning and sniffing?
+Is there a real risk of exploitation in java code where a null pointer is dereferenced
+Why do we authenticate by prompting a user to enter both username and password? Does prompting the password only suffice?
+packet sniffers and segments
+TLS replay attack - requirements of the serverHello nonce
+Is a large number of RSA-encrypted files a vulnerability?
+Different strategies for online anonymity and their +/-s?
+Some good resources on viruses/worms?
+tripwire report - inode number
+If I login using browser X, will CSRF work in browser Y?
+Why do some sites block pasting into username or password input fields?
+Replacing windows shell for everybody but the system administrator
+I'm leaving my job and want to erase as many personal details etc. as possible; any tips?
+The valid role of obscurity
+License key / Serial number generator and checker
+Using javascript, is it possible to iterate through all cookies saved in the user browser and send them to me?
+Why do botnets use IRC but not a web service for communication?
+Security Architecture - Settings to drive UI and Privileges (Rights) - Role-Based, per User-Account
+Caller ID Spoof and Text Spams – How do they work?
+Storing users cookies in a database on a server
+How to make a report after a ddos attack? what information do I need to write on the report?
+Effectiveness of Belarc Advisor
+Verifying server software integrity?
+How can I prevent someone from accessing a Windows XP system via boot disk?
+Wireless keyboard sniffing risk
+Is AJAX fundamentally insecure?
+Possible to use "Blackberry Protect" in conjunction with a BES IT Policy?
+Monitoring a specific application for creation or modification of files
+Keyboards immune to signal monitoring?
+Known security vulnerabilities in JBoss 4.x.x?
+How can Network Disconnect be implemented for RDP on a Windows system (2003/XP or later)?
+How do you erase a Blackberry without having direct access to the server?
+Is there a way to accept signed requests without storing client's password in plaintext?
+Key management in cloud datacenters
+PostgreSQL Security Audit
+Certificate authorities for a PKI
+In inSSIDer, what is the difference between WPA2-CCMP and RSNA-CCMP?
+When should I not use CSRF protection for a form?
+Generating OpenPGP key pair with restrictions
+What are some good, free tools to run automated security audits for PHP code?
+How to apply FIPS to Microsoft Access database with custom VBA
+How to improve VPS security?
+Is there a need for a simple SAAS security risk assessment application?
+Insecure Cookies Because of Load Balancer
+How can I prevent viruses/malware from infecting my flash drive?
+What SSL key should I make for IIS: RSA or DH? What bit length is appropriate?
+Should the bit-strength selection of a child certificate be influenced by the CA or the chain?
+Setting DHCP lease time to very small time increases security?
+P3P HTTP Headers and Session ID's
+Are there any security measures that are resistant to a brute force attack?
+I'm Trying to Find how to Exploit my SQL Code
+How to use VNC with SSH tunnel - "is this howto secure"?
+Is disabling auto-run enough to protect against malicious code from removable media automatically infecting a machine?
+Can you have 2 promiscuous (sniffing) ports on a single machine?
+What factors do you use to choose data loss prevention techniques to use, if any?
+Anybody have additional information on the EMC RSA SecurID compromise?
+Evaluating the entropy gathering in a PRNG
+OpenSSO and Basic Auth together
+How can I keep a roommate from seeing my web activity?
+How to find out if a connection encrypted?
+Firewall rules to block unwanted protocols on given ports
+Can you pass C|EH without any hands-on experience in hacking tools
+sslstrip vs. privoxy redirect rule on clients
+Real-time Operation systems and attacks
+What are the risks of connecting to my company network from outside?
+Is clipboard secure?
+Encryption and the "security time decay" of prior encrypted data
+How do you properly make a backdoor shell with netcat using UDP?
+Enterprise and Open Cryptographic Systems/Applications?
+AntiXSS for ASP.NET 1.1
+How do I configure nmap to verify my firewall is performing stateful packet inspection?
+Is Skype secure enough to transmit passwords?
+Thunderbird - what happens if Gmail SSL cert gets spoofed?
+Download Windows 7 security updates and patch offline
+How reliable is a password strength checker?
+Tracking a user account
+Setup and record outbound traffic from a botnet in a sandbox/secure environment
+Malicious Websites
+Where can I find a list of un-patched CVEs for a specific piece of software?
+Windows Honeypot user account for tracking laptop
+OpenBSD vs. NetBSD security
+Exploit-db like websites, where people can search for security bugs
+When you make a revision of rules on a firewall, how do you add credibility/customer satisfaction to your final consideration?
+OpenBSD 32 or 64bit installer?
+xp_cmdshell: should it ever be used?
+How would I implement "Broadcast Encryption"?
+What is the correct crypto to use for a "Password Wallet", where decryption of the secret is needed?
+Starting with sandbox development
+Can anyone give me more info on this sketchy url I recently visited, is it an attack site?
+Privacy issues with email providers
+With reference to using Gpg4win, which is better: OpenPGP or S/MIME?
+Wireless auto-join on laptops
+Is Content Security Policy an approach that is worth to support?
+Are there any serious problems with this technique for generating symmetric keys?
+how unsafe is it for Windows webserver IIS to have domain privileges
+Web server file sniffing
+What perils are there in allowing user input of parts of an ODBC connect string?
+Are there ways to protect the guest kernels at the hypervisor level?
+How can an IPS be fingerprinted?
+Is it possible to have authentication without state
+Can a kernel exploit compromise an OpenVZ host?
+What is the difference between a penetration test and a vulnerability assessment?
+What is the correct way to assess and compare Certicom's products to the alternatives?
+What is the benefit of combining different web log files with different formats?
+How to detect hosts running in virtual machines with nmap?
+Security Conferences in United Kingdom
+Is this a good way to manage Incident-Response
+Renewing Microsoft Certificate Services Root Certificate
+Moving from a one tier to a two tier Microsoft Certificate Authority hierachy
+How to use and create attack graphs
+Is there any advantage to splitting a password?
+Does (J-)SOX Forbid the Use of Open Source Software?
+How to scan a PDF for malware?
+High concentration of UDP traffic, good or bad?
+Doubling up or cycling encryption algorithms
+What is the "Australian Failure"?
+Has anyone else seen commands embedded in an ICMP echo request?
+Practical non-government uses of Biba, Bell-LaPadula, etc. models
+Can my company see what HTTPS sites I went to?
+Can a mobile phone battery contain malware?
+Why doesn't the client's web browser need to be PCI compliant?
+Is it possible to make one processor look like another?
+Does using an http proxy completely hide my real IP address?
+what to do after suspected intrusion on hobby webserver
+What are the chances to generate the same ssh key?
+Cisco ASA Default Route Issue
+Generating one-time tokens from API-key?
+Naming convention based exploits
+What should I look at in the event of a major vendor suffering compromise with unspecified impact?
+Can RSA (or any public/private key algorithm) be repeated for large amounts of data?
+Lightweight Live Pen-test OS
+Web Security Cheatsheet / ToDo list
+Looking for example of well-known app using unsalted hashes
+Identify client based on computed hash
+How should passwords be stored if they must be recoverable?
+What is the use of a client nonce?
+Does default ModSecurity protect enough against XSS?
+Giskismet query, how to select specific data?
+Complexity of web certificate attacks
+DNS access limitations
+How do Azure ACS 2.0 security features compare to ADFS 2.0?
+Encrypting with Mongo
+Command line Nessus/OpenVAS or NSE to find specific vulns?
+How does the "Service Identity" feature of Azure ACS compare (and contrast) to a real IDP?
+Is Steganography considered encryption and subject to USA export restrictions?
+Data Encryption and Key Management in C#
+Why can an encrypted private key be brute forced?
+Security Risk of Disabling forceguest in non-AD Environment
+How can I detect users that have requested AD Administrators to reuse an expired password?
+Patent free symmetric-only key exchange protocols?
+How secure are virtual machines really? False sense of security?
+strongswan setup for ipsec environment
+Is storing a private key in a device as it was done in AirPort Express the right solution?
+How to protect data on a thumb drive
+Are there consumer-grade VPN services that support two-factor authentication, like SecurID?
+What is more secure: Many subdirectories, or many subdomains?
+Linux wireless hacking book
+aircrack-ng under Win7 -- possible?
+Topics for SecureCoding course in C
+Security Operation Center (SOC)
+How to submit credit card info to a separate server/website (PCI)
+How To - Learn basic hacking skills?
+List of good security podcast one should listen to
+Anyone know of security tools utilizing google's prediction API?
+Should one sign and encrypt using the same key? The Azure Training Labs are taking this approach
+What is the solution to Schneier's Law?
+Encrypting files in a windows environment
+Is Schneier's "Applied Cryptography" current?
+MIME sniffing protection
+Legal process for suing joejobber?
+MySQL OLD_PASSWORD cryptanalysis?
+Is there an organization that reviews/approves crypto implementations?
+What indicators did OWASP use to end up with OWASP Top 10?
+Collision rate for different hash algorithms
+Ranking of web security conferences
+Question about the SessionLock paper
+Password History/Password policy
+Patching Mechanism and security holes
+Can we still provide confidentiality when cryptography is outlawed?
+HMAC - Why not HMAC for password storage?
+How can IA-5(1)(b) be enforced on Windows systems?
+How can a system enforce a minimum number of changed characters in passwords, without storing or processing old passwords in cleartext?
+How can IA-5(1)(b) be enforced on non-Windows systems?
+Securing clients side scripts
+Information gathering before deploying a Network IPS
+What kind of IT security applications do you guys run on your laptop/desktop?
+Code Review Strategies
+Comprehensive book to study about wireless technology
+Computationally simple, lightweight replacement for SSL/TLS
+Do you detect/react to DNS tunnelling?
+Secure memcpy for pure C
+What are the good use cases for disk encryption?
+Is there a way for a consumer to report PCI non compliance?
+PCI Compliance - If am eligible to self certify - do I need to use a QSA company in this context?
+Thoughts on Tiny Encryption Algorithm (TEA, anyone)?
+Where can I find some "real time" discussion forums for security issues?
+Recommended policy on password complexity
+What do you do to protect data on a Macbook in the event of theft/loss of the device?
+Are all security requirements expected to be testable?
+Howto seed the PRNG in OpenSSL properly?
+How can I find a CVE ID for "No Translation Available" entries in Foundstone or McAfee Vulnerability Manager?
+Why does the ★-property rule of the Bell-LaPadula Model allow information to be stored in objects with HIGHER sensitivity labels?
+Brute force vs other methods of recovering passwords from shadow file
+Password Hashing: add salt + pepper or is salt enough?
+Reasons behind MAC Spoofing on a corporate network?
+Reject IP packets with an ICMP error, or just drop them?
+Can you provide loss values on security breaches? 
+Encrypting a fixed format message?
+Why re-verify with CAPTCHA on failed form entry?
+REST specific security weaknesses
+Feistel Block Cipher
+Possibility of undetectable encryption system
+Surfing anynomously
+Should I obfuscate passwords before hashing?  Should I pre-hash them on the client?  What about salts?
+How can IT audit for installation of IIS Express?
+How do you manage security-related OCD (i.e. paranoia)?
+Are passwords in memory?
+How to securely store my passwords?
+iPhone Tracking debacle - risks and countermeasures
+"Phishing" red flags and countermeasures
+How do you make sure a pdf is deleted after being viewed in the browser?
+Is strong cryptography legal across the internet?
+Biometric authentication in the real world
+IPV6 Cryptographically Generated Address implementation
+Stretching a hash, many iterations versus longer input string
+Different MySQL Users Security Benefits
+IP Conflicts / Spoofing
+Is it feasible to encrypt customers personal data? (name, address etc...)
+Cisco IOS question - password management, service password encryption types
+How do you address a social engineering and or software weakness/concern in a company or organisation?
+Problems during Pen-testing of SCADA systems
+What is the "openssh-blacklist" package? Is it related to the Debian OpenSSL bug?
+How is OpenSSL related to OpenSSH?
+Wireless hardware with limited range?
+Is random data inserted into an encrypted stream easy to retrieve?
+(custom software) Security rules on each record when using user-groups per application
+Firewall demo - iptables
+how long does it take to actually generate rainbow tables?
+Is there a way to negotiate a secret between 2 parties with no prior knowledge?
+Password manager vs remembering passwords
+loadbalancer, 2 webserver, 1 webserver hacked , how to tunnel out?
+How to tell if Firefox Home (iOS) is using Data Protection API?
+It is safe to buy a domain if I get this message in Firefox?
+How can I secure my log files?
+Is CentOS a good choice from a security perspective?
+TLS at layer 4 BUT 802.1X EAP-TLS at layer 2?
+Encrypting a fixed format message with commands and transmitting over the internet
+Diffie Hellman c# implementation
+OpenBSD-based LiveCD/LiveDVD - is it secure? is it offical?
+vt-d Virtualisation and Trusted Execution Technology
+Phishing virus found on server
+time to crack file-encryption password - more than just iteration
+The new CCMP attack against WPA/WPA2 PSK
+How to optimize compressed file cracking?
+Is it correct to consider Task Based Access Control as a type of RBAC?
+OBSD X11 as non-root?
+Can ECC be used without infringing on patents?
+IP Address spoofing?
+Are there any tools for automated penetration testing of Silverlight applications?
+Books on Cryptography, with a focus on application to Network Security?
+ip-fragmentation and mod_security?
+What is the value of encrypting a payload when it will be transferred over sftp anyway?
+Effect of Source Code Leakage of a security suite on security
+How to step through malicious JavaScript?
+What is War Dialing?
+How does the padding scheme impact the security of encryption
+SIPR, NIPR and Centrix Military systems
+Cryptography notation
+Is it correct to consider audits as exclusively "detective" in nature?
+Facebook spam / phishing attempt?
+What is an active attack?
+quizrace.com - Malware or just a game?
+Security track record of SSHD on Windows machines?
+How do you compare risks from your websites, physical perimeter, staff etc
+Passive and active attacks via X11. Is Wayland any better?
+What "hacking" competitions/challenges exist?
+Has SHA-3 Arrived?
+TCP / UDP port monitoring programs for mac?
+Standards for hiring trusted personnel - American or Canadian Government?
+CAM table attack in 2011?
+What steps can I take to identify what type of compromise of my computer has occured
+Certificate based authentication vs Username and Password authentication
+what is a good public available iptables script for ddos mitigation?
+extract from pcap all protocols found
+Is the Gmail activity log still missing activesync?
+SQL injection -- why isn't escape quotes safe anymore?
+Protection against synthetic queries
+Smartcards for Dummies
+Suggested Steganography Program?
+How to persuade average people that security matters?
+How to find out that a NIC is in promiscuous mode on a LAN?
+security of PKI, Certificates, certificate authorities, forward secrecy
+Is flash or javascript a bigger security concern?
+Question about dictionary attacks on GnuPG symmetric encryption
+symmetric encryption session keys in SSL/TLS
+SSL replay attack when client/server random is missing
+What is the real function and use of a DMZ on a network?
+Incorrect use of HTTPS?
+Long running SMTP session
+What malicious things can happen when clicking on links in email?
+How to best defend against Targeted Attacks?
+distributing files to VPN partners
+What are the main issues and best practice security controls when exposing SIP and H.323 to the Internet?
+How are browser saved passwords vulnerable?
+How to review code for backdoors?
+RDP vs. VNC when looking them from security side
+Are GIAC exams open book (Unlike CISSP)?
+Is there a way to identify the host of a malicious VM from across the network?
+How would you reason with and work with the security paranoiac on your team?
+Browser hijacked - how to fix and prevent?
+In what ways does Full or Partial Homomorphic Encryption benefit the cloud?
+Access to other local files from a local HTML file
+Peer review of C# cryptography for Azure Table security
+Additional security of keyfile on top of a master password for KeePass
+How does LastPass' grid multi-factor authentication work behind the scenes?
+What's the difference between an access control method, security model, and security policy?
+What is this spam used for?
+CEH or GIAC - Which one should I pursue?
+How does the Windows "Secure Desktop" mode work?
+How do I learn Cryptographic/Mathematical notation
+Recent Facebook XSS exploit details
+What are the career paths in the computer security field?
+What is a practical example of an action that violates the non-interference model?
+Getting self-signed SSL certificates for all https connections made from some premises
+How can I export my private key from a Java Keytool keystore?
+How to check the integrity of my BIOS?
+What applications are at risk from "Backwards Unicode Names" and what are the mitigations?
+Which real time cross-platform chat applications exist with end-to-end encryption?
+How is "something you have" typically defined for "two-factor" authentication?
+How does Diaspora work?
+How to find out the Chaff packets of WEP?
+Looking for an open risk assessment methodology
+Is there a strong challenge to be made against the startup executive that believes security must be delayed?
+Next steps after webmail account was compromised
+Can you get virus just by visiting a website in Chrome?
+Can a file contain its md5sum inside it?
+Can a HTTPS connection be compromised because of a rogue DNS server
+Does sandboxie "grab" all the system calls?
+Non-repudiation in Exchange/Outlook without Digital Signatures
+What abuses can an infected webpage do to me if I'm using Chrome and Flash is disabled
+Is using a public-key for logging in to SSH any better than saving a password?
+How to protect from new Javascript Injection technique that doesn't use eval()?
+What Partial Homomorphic Encryption implementations exist and how do I leverage them?
+What differences are there between built-in Administrator and other Administrators?
+Verify SAML Response is from a Trusted Source
+What are the risks associated with relying on IPSec IP Filtering?
+How do I clearly distinguish between groups of formal and informal models?
+Appropriate password requirements for a login (OpenID) service/provider/delegate/thing
+Did someone really plug an iphone in, or are these symptoms of an exploit attempt?
+How to defend vs. Image Remote File Inclusion, e.g. RFI using a .gif file (Apache/PHP)?
+Why do some people really hate security via client-side?
+Is a rand from /dev/urandom secure for a login key?
+How to protect off-the-shelf web applications?
+SQL Injection in a Non-Web Application
+What are effective ways to prevent targeted phishing?
+Methods of mitigating threats from keyloggers
+Does Fedora 15 still use suid bits?
+Risk of configuring MySQL for remote access with a dynamic IP address?
+Recommended # of iterations when using PKBDF2-SHA256?
+homomorphic encryption and DARPA
+OS Kernel Hashing
+How do I pick a VPN provider?
+Are malicious relying parties able to abuse OpenID logins?
+Honeypot on home network to help me learn
+Could an Encrypted VG/Image compromised?
+Keystrokes to text converter method? (from an audio file, from previously recorded sounds of keystrokes)
+OSes that are mathematically proven to be 100% (or 99%) secure?
+How to determine what type of encoding/encryption has been used?
+Status of Trusted Computing and Remote Attestation deployment
+How to implement non-password authentication in a web site
+How to detect Meterpreter and similar malware?
+How to store my contacts encrypted?
+Do security questions subvert passwords?
+Isn't OAuth, OpenID, Facebook Connect, and others crazy from a security standpoint?
+How valid is the concern over narrow pipe hash function designs?
+SSL handshake failure modes
+Firefox Add-ons not using HTTPS? Security bug. (?)
+Why isn't OCSP required by default in browsers?
+Are there any security problems with Google false start for TLS?
+OCSP: What is "hackedirl.files.wordpress.com"?
+How should I protect in-app Android payments when using a separate server?
+How can one easily determine which IT Security related regulations apply?
+What tools exist to help me monitor OCSP certificate validation failures?
+IIS IP Address Restriction - can I rely on it online?
+Changing policy to allow USB drives. Why should I try to stop it?
+Which companies facilitate payment in return for vulnerability disclosure?
+How can I ensure that I connect to the right wireless Access Point?
+Attack vectors in POSTing variables from one php script to the next?
+How to ensure that VirtualBox guests can't break out of the vm to get access to the host machine?
+How to disable Firewire in OpenBSD/Linux to prevent attacks through Firewire?
+Progress in market approaches to software vulnerability disclosure?
+New credit card security standards regarding PA-DSS Compliance
+Files for download and their hash numbers
+Checking whether a password is derived from previous passwords
+Secure Development costs
+Question of importance of FIPS in security implementations
+Can I reclaim ex employee gmail account?
+Firewall Configuration Audits
+Resources for physical security questions
+Secure Linux Desktop
+Any useful tools for Android source code review?
+Recommendations for honeypot software
+Recommend Keylogger for Ubuntu
+Primary Key as Salt?
+IPTables default security rules for a gateway/router?
+Where to download OpenBSD release ISO's over HTTPS?
+Shouldn't GPG key fetching use a secure connection?
+What might be the legal and policy consequences of traffic sniffing?
+Theory behind RSA SecureID/Lockheed attack
+Open source centralized authentication for heterogeneous network
+Secure mount options + partitioning on Ubuntu
+Browsing exploits with Metasploit console
+Can a bad guy be judged for gaining access to sensitive information?
+PKCS#5 Salt privacy?
+Security implications of storing the password hash along an encrypted AES key
+Is it illegal to read an e-mail that was accidentally sent to you?
+Elaborate websockets security
+What evaluation criteria would you use for an Oracle scanning tool?
+xml library vulnerabilities, regarding post-exploitation
+wlan security - why is it not possible to protect against deauthentication flooding
+Suggestion setting up a SQL injection honeypot
+Best practice for creating an initial IPS policy
+Bypassing a reverse proxy/NAT
+How should I secure a contact form that appears on every page of a website?
+Should security question answers be case-sensitive?
+General Question on FIPS requirements
+How reliable is a write protection switch on a USB flash drive?
+Secure access to a Microsoft Access Database
+WPA significantly less secure than WPA2?
+Attacks against HIDS software running on the same machine
+Determining vulnerable software on client machines
+Windows network specific attacks
+What risks are inherent with connecting to an untrusted public key server?
+Cracking a linear congruential generator
+Determining network topology from the outside
+Bypassing hidden SSID and MAC filtering "protection"
+Is the level of traffic normal against my blocked ports?
+Most widespread use of PGP after 20 years
+Why shouldn't I run other applications on a Firewall?
+How can a "server" know that what browser i'm using besides the user-agent?
+Are the encryptions "broken" with great computing power?
+Strange 400 requests in webserver nginx logs (possible exploit scan?)
+Help on interpretation of FIPS-140 paragraph
+How to implement a "Remember me" on a mobile app?
+The impact of the Sony attacks on the security industry
+Found some malicious Javascript - how did it get there?
+Attacks against windows kiosk software
+Does my PGP key really need to match the e-mail address for which I'll be using it?
+Techniques for ensuring verifiability of event log files
+How do security questions work?
+Firefox Desktop Shortcut Being Renamed
+Is the OpenPGP private key inherently password-protected?
+Store To Store communication through MPLS VPN
+How to choose/compromise between data protection, and device recovery?
+Vulnerability Assessments - Vulnerability Taxonomies?
+Gmail account hack prevention and recovery
+Enterprise security incident response and detection
+Can you pick up any device specific information by monitoring bluetooth signals?
+Does OpenID, SAML pose a threat to Tor's anonymity? How can I protect from a compromised .exit node?
+Why is HTTPS not the default protocol?
+incoming packets in server
+Oldest security feature still in active use
+How to operate a honeypot in the cloud?
+Are URLs viewed during HTTPS transactions to one or more websites from a single IP distinguishable?
+How to manually check for rootkits on a server
+Best practices for securing an android device
+Is the argument really over on SSO?
+software to keep a list of IP that try to access ssh over a set of rules and feasibility
+Sony Attacks, what would you do?
+Trace large volume of web traffic, stopped at VPN
+Public XSLT & XML playground (with PHP DOMDocument, etc.) Security Risks?
+Simple way to encrypt files on Linux and decrypt on Windows?
+How do you Secure VOIP in a large organization
+Is there a web application firewall equivalent of virustotal?
+How to secure identity after someone dies?
+How to prepare for protecting identity after death?
+Private Tor networks: what are the benefits, and how would it be accomplished?
+Are there any hardware encryption solutions for my notebook?
+Using TPM for full disc encryption?
+Can my /boot be compromised if I Suspend my notebook?
+Is denying login after incorrect attempts ineffective?
+Windows task manager can see all processes as non administrator without permission
+Any advantage to securing WiFi with a PSK, other than to keep out unauthorized
+Spamming exploits without user detection
+Is there a digital "safety deposit box" equivalent?
+Security risk of PING?
+Open Source vs Closed Source Systems
+Help me find a lightweight threat modeling framework
+Is it a vulnerability to display exception messages in an error page?
+Threat assesment for a captive portal
+How can citizens prevent government-led Internet blackouts?
+Ensuring a web-service only processes requests from specific computers
+Resolving an IP address of a Remote machine to its MAC address
+How to get hold of and use WPA session keys?
+Verify a website user is behind corporate firewall?
+Modeling vectors of an unknown exploit
+WLAN Router authentification
+How to estimate the time needed to crack RSA encryption?
+How to exchange RSA public keys safely between two parties?
+Profiling attackers via adaptive games: "Strange game, the only winning move is not to play"
+Testing SQL injection using sqlmap
+In what scenarios is relying on source IP address as a security control acceptable/unacceptable?
+A phone call hack
+How does varying character type increase strength of password?
+How many iterations of Rabin-Miller should be used to generate cryptographic safe primes?
+How do you discover what permissions an AD group has, if you have no documentation?
+What problems does this "recover account" procedure have?
+Cross site scripting verification on a field which does not accept more than 20 characters
+Is a 2047-bit prime weaker than a 2048-bit prime?
+Hiding user account names from unauthenticated RDP sessions
+How does WikiLeaks(Julian Assange) get the US Embassy cables?
+Obtain credentials by spoofing WPA/WPA2 Enterprise network?
+Using Secure Remote Password without embedding the modulus
+Using Secure Remote Password without sending the username in the clear
+Differing scrambling parameter generation methods in Secure Remote Protocol
+Why is it always `HASH( salt + password )` that we recommend?
+Encryption strategies for multi users access in production systems
+Implementing Secure Remote Password: Constructing the verifier
+How to choose a stream cipher
+Digital Forensics and Pentesting: what now?
+Tool or Process to check for AES-NI support on processor?
+When using AES and CBC, can the IV be a hash of the plaintext?
+Optimal variable sizes in the Secure Remote Password protocol
+Tips for a secure iptables config to defend from attacks. (client side!)
+Is using a local DNS cache server more secure than using a DNS server from a router?
+Secure communication between applications using SSL Certificates
+Is this how to implement CTR around a system that only implements CBC, CFB, CTS, ECB and OFB?
+Linux command logging?
+How does external authentication work?
+Oligomorphism vs polymorphism vs metamorphism in malware
+How secure are the default ASP.NET membership and role providers for Sql Server?
+Secure implementations of G2/G3/G4 cellular technology
+Which authentication at the end of the Secure Remote Password protocol?
+A method for securely sharing centrally-stored documents among a changing set of users?
+Simple example auditd configuration?
+How can we accurately measure a password entropy range?
+Do non-keyboard characters make my password less susceptible to brute forcing?
+Is it a security issue that Thunderbird only logically deletes emails?
+Are there DRM techniques to effectively prevent pirating?
+Why are people saying that the X Window System is not secure?
+Is PCI DSS applicable to other solutions than those dealing with payment cards?
+Programmer to Security Professional
+Spam fighting idea
+How do DoS/DDoS work?
+Should I restrict access to the username and passwords in a web app?
+Is this login security enough?
+What is the benefit to using a two-pass AE scheme rather than one-pass?
+How to secure an application under iOS against jailbroken devices
+Are salted SHA-256/512 hashes still safe if the hashes and their salts are exposed?
+OMAC: multiplication in a finite field - how can I compute the correct polynomial
+What is the purpose of AEAD?
+How to perform penetration testing on a Flex application?
+Choosing an authenticated encryption cipher mode without associated data
+How does changing your password every 90 days increase security?
+How can I prevent SESSID stealing?
+Vigenere Cipher - help with decryption (by hand)
+Should usernames be kept secret?
+Two questions about learning Linux exploit development fundamentals
+Forensics on a SOHO router
+PCI restrictions on using using (hashed) credit card number to identify a repeat customer?
+Collision attacks on OCB?
+moving from MD5 to SHA-512
+Web Application encryption key management
+Pursuing a career in Malware Analysis
+How can I detect and block bots?
+List of notable security breaches
+SQL Injection on URL, not on parameters
+Can ipopts be used to circumvent a pf or iptables firewall source IP based blocking?
+Detection and analysis of unknown malware
+How to handle security issues of someone else's website
+Do any security experts recommend bcrypt for password storage?
+Most secure password hash algorithm(s)?
+Sharing passwords and credentials between founders and employees
+Can home routers get infected?
+Mod_security for Apache2 blocks cURL!
+Theorical question on encryption methods
+How bad is the leaking of Internal IP addresses through external DNS
+How do some sites (e.g. online banks) only ask for specific characters from a password without storing it as plaintext?
+How to "get in sync" with what is happening in the security scene right now?
+How does FaceNiff work?
+How can you become a competent web application security expert without breaking the law?
+Help me find the right Security Consultant for the stage our organization is in
+HSM track records?
+MySQL AES_ENCRYPT key length
+Would this kind of encryption be good at anything?
+Government / State cyberwarfare organizations
+Use RSA keypair for PGP encryption and decryption
+Store PGP keys in HSM
+Email Spoofed. Explain?
+Using computer random number generators to produce keys, it is secure?
+Virtualization as a layer of security for desktop computers?
+Is vlan considered a security feature?
+I want to be web security consultant?
+Hard disk forensics - Format & Image tracks
+Initial steps of network mapping
+Solution to allow JavaScript input but prevent XSS
+Warn about specific CA in Firefox
+Is it possible to secure a web app without HTTPS?
+What to transfer? Password or its hash?
+Is displaying what server I am running on the error pages a security risk?
+Will using unicode chars in my password increase security?
+Securing my web-server / website
+Using password hash as session ID?
+GOST cipher test vectors
+Placing a firewall—without creating a new subnetwork
+How can I avoid sending passwords in plain text when logging into a website?
+Applications of probability/statistics in IT security?
+Is a rand from glibc's rand secure for a login key?
+Deploying a campus WiFi network that authenticates against an AD LDAP
+What is best practice for separation of trusted zones from a DMZ with a single firewall?
+Is NTP vulnerable to DNS poisoning or spoofing attacks?
+NoScript: How to determine which sites/scripts to whitelist?
+Secure jquery ajax calls from a non secure page
+zero knowledge proof and its protocol
+Which Master degrees offer the most web application security courses?
+Is it a bad idea for an information holder to e-mail a user their password?
+Webserver logs show someone is trying to hack my site, what should I do?
+Identity-Based Encryption - how secure is it?
+Hashed passwords - How many variations of rainbow tables?
+How do we protect our server from anonymous hacker?
+DUKPT - how does the receiver verify the transaction counter?
+How do I protect myself against the attacks in this php script?
+What security risks exist in cell phone apps' data transfer?
+How to secure all my passwords with Kee Pass 2 or something else?
+How to evade a signature to detect "xp_cmdshell" for SQLi?
+SCADA Operating System & Security Exploits
+Pseudo-Hadamard Transform in SAFER K-64
+How to protect ftp account information in the source code of a program
+What is gained by hashing the last block on-device?
+Paypal IPN, SSL and man-in-the-middle attacks
+testing for 'Dangling Cursor'
+Does Windows really still use unsalted MD4 for password storage?
+Is the DES "mangler" function invertible?
+Three-Factor Authentication for Windows
+Asynchonous Linear Feedback Shift Register : test vectors
+iOS/Android authentication and security
+Cell phone voice mail hacking
+Security of passphrase-protected private key
+Safer k128 key schedule
+When should I use Message layer encryption vs transport layer encryption
+Question on information retrieved from systems that could potentially lead to exploits
+TCrypto - Comments about design decisions I made?
+RSA vs. DSA for SSH authentication keys
+What's the mathematical model behind the security claims of symmetric ciphers and digest algorithms?
+What are the best ways to fake a web server
+Android API/development security pitfalls
+Nonce construction for CTR mode (Mcrypt)
+Ignoring broadcasts to 10.0.0.255 using iptables
+Can Windows malware harm a Linux computer when it's executed with Wine?
+How do Cisco devices identify routers?
+What's the difference between SSL, TLS, and HTTPS?
+LDAP vs MySQL for Usernames and Passwords
+Attack where browser URL appears valid
+What is preventing the widespread common use of MAC-type systems?
+How does openid implement Single sign on?
+Challenge Response across several hops
+Can I block the true IP address using X-Forwarded-For header in IIS?
+Is there any advantage of bcrypt over multiple iterations of SHA-x/MD5?
+Can .htaccess and .htpasswd really protect me?
+For LUKS: The most preferable and safest cipher?
+when people say a file has a checked md5 hash, what exactly does that mean?
+Which private-key encryption should I use for server to server communication?
+How secure is SSL?
+Design proposals for enhanced security for parts of Internet, e.g. for banking?
+Strange STP traffic in my network, possible MitM attack?
+chosen plaintext attacks against MD5 and SHA1
+Salting password with the first 8 bit of the password itself
+How does System Memory Dump work?
+Reversing an entry card - How to find out what type of RFID hardware I need to read the chip?
+Which access rights should be chosen for doku wiki?
+Can DES-based hashed password be recovered if salt is known?
+Public key length
+What kind of nefarious deeds can IP address Spoofing be used for?
+Protecting yourself from a malicious VPN
+OAuth User revoke token
+Alternative approaches to using DMZ for securing communication to and from external web server outside firewall
+Unknown malware, how to report it and whom to report it to?
+mathematically / theoretically, what is the chance that 2 different inputs would have the same results of 2 different hash functions?
+Is it better to hash n*x times in sha1 or n times in sha512 on the client side?
+Is this prime number large enough / too large for a Diffie-Hellman for AES-256?
+Why do malware creators use such clever technologies for such silly purposes?
+Data categorization: Critical or not
+What happens when an Intermediate CA is revoked?
+How do I use Skein's Stream Cipher?
+Where do I get prime numbers for Diffie-Hellman? Can I use them twice?
+Export laws on the cloud (key size)
+Is there a typical step-by-step A-Z process for testing a Web site for possible exploits?
+What's a good way to trigger a hidden 'distress signal' in instant messaging?
+I can receive all PADI packets for PPPoE connections of my ISP, is that a problem?
+SIEM and Windows Event Logs
+Is it insecure to have an SSH server on a workstation?
+Which HTTP status codes are interesting from a security point of view?
+Appropriate defense for 404s in my logs - persistent web scans from one region
+open source software security rating -- 3rd-party authority
+Where/How is an ODBC password stored when 'saved' in Access?
+How difficult is it to modify an ISO image and still have the old md5 check sum?
+How can I protect my phone voicemail from being hacked?
+Encryption Algorithms with an error code for wrong password
+What are the downsides of BrowserID/Persona compared to OpenID/OAuth/Facebook?
+Best practices for securing an iPhone
+Encrypting data by parts vs encrypting the whole data
+What is sandboxing?
+Resources for data on security incidents
+How do I select a switch that protects against CAM attack?
+Compute the AES-encryption key given the plaintext and its ciphertext?
+Dropbox vulnerability details
+What happens with a subpoena and a system designed to protect itself from you?
+What are the security considerations for setting up a basic security testing environment?
+When is it posible to sniff VPN traffic?
+What are private key cryptography and public key cryptography, and where are they useful?
+What are the main advantages and disadvantages of webid compared to browserid?
+Are there any "real world" implementations of secret-sharing encryption schemes?
+Is MediaWiki viable for sensitive information?
+Security Concerns on clientside(Javascript)
+QR codes that can't be copied - possible?
+Sun ILOM / Out of band management security concerns
+Is it safe to attach a potentially malicious hard drive to a Solaris machine?
+Statistics on purposes of viruses/malware
+Does compiling from sources "kinda" protects from buffer overflow attacks?
+How secure is a Windows password protected zip file?
+Hash/Digest of string; multiple clients and reverse lookup must be impossible
+Which type of encryption algorithms android supports, and which would be better?
+How do I securely exchange server logins with remote developers?
+Security policy for system administrators
+What is the validity of the article which claimed that IE is more secure than Chrome?
+How to find out the IP address of email sender in Gmail
+Storing sensitive information securely
+Which cipher suites with AES cipher provide forward secrecy?
+Security of LastPass together with YubiKey
+Is 1024bit Diffie Hellman key exchange secure?
+What is behaviourism and heuristic control in anti-virus software and how does it work?
+What are the most common password salting methods?
+Viruses on video cards?
+SSL Session resumption and IDs
+Managing website passwords for small team
+SSL TLS renegotiation vulnerability - current situation in clients
+What is important when selecting a VPN provider?
+What advantages and disadvantages do Palo Alto firewalls have, compared to others in the market
+How can one gain additional privileges from being able to read kernel memory?
+Comparing penetration testing suites
+Need to secure (and add SSL?) RPC port 443 on Win2003 server
+Is it OK to tell your password to an admin?
+Is it OK to tell your password to your company's sysadmin?
+Oracle Internet Directory (OID) hardening
+Best ways to store a password Server side
+Is this security/encryption scheme secure?
+how to secure Android Market public key
+SANS training - worth it?
+Protect application from being modified
+Strict Transport Security -- max_age value
+Definition of Software Security
+Is there a security problem accessing my laptop via WIFI?
+Why do people think that this is bad way to hash passwords?
+Whistleblowing, business ethics and credit card data
+NSA CAE/IAE courses
+Are there more modern password hashing methods than bcrypt and scrypt?
+How can I determine the encryption strength of an SSL connection
+What are the chances of a database being hacked?
+What password-based encryption to use with standard Java 6?
+Does two factor authentication prevent social engineering attacks
+Is XSS dangerous in application without database?
+Solaris: IP Spoofing Across Ethernet Ports
+Attacker reinjecting form options?
+How do I secure my login page?
+NSA crypto Suite B - historical
+RSA Key Pair generation with Javascript
+self-signatures using SHA1
+Increase security without using "dynamic" kernel modules?
+How secure is isolated storage on Windows?
+Is it enough to only wipe a flash drive once?
+Where can I learn cryptography/cryptanalysis the hard way, without going to school ? Any good book?
+Securing WCF service with X.509 cert
+Where can I find a mentor/teacher in computer security?
+AES for key encryption
+Why limit passwords to ascii printable characters?
+Locking down web-based admin areas with personal SSL certificates
+I just discovered major security flaws in my web store?
+Best way to get "into the security industry"?
+Distance Education Programs in Digital Forensics
+Recommendations for Changing the Default Shell For Service Accounts
+Using AD authentication in a publicly accessible webapp
+Security Risks Involved in Deploying Win Server 2008 on a Linux host
+Building a security framework
+Is Steganography a safe method to store secret data?
+Is Access Control Through MAC ADDRESS a practical/secure solution
+How can I reliably erase all information on a hard drive?
+Has anyone achieved PCI compliance on AWS?
+Aren't permanantly logged in accounts inherently insecure?
+DUKPT - Sample data other then in X9.24
+security implications of NULL dereference
+Do we really need an antivirus? if yes, what for? And how do they activate and enter in a PC?
+Secure Internet Polling
+How do you exploit Directory Traversal to traverse from one drive/share to another?
+Are some uncommon TCP ports scanned less than others?
+Pages restricted to certain IPs, safe?
+Am I wrong to believe that passwords should never be recoverable (one way hash)?
+How to detect "forged" SSL certificates from the webserver end
+Remote return into libc attack
+Is cascading cryptographic algorithm better than using a single one?
+Are there any independent organizations doing (publicly available) IT security research?
+Security Implications of setting passwd as suid
+Looking for botnet IP address feeds to protect against DDoS
+Native rsync protocol security
+DHE exchange and client authentication
+Wordpress online pharmacy hack?
+Is there something similar to DNSBL's for protecting against forceful browsing?
+Is the following authentication scheme secure?
+Is there any legal reason to save a cleartext password?
+Testing clean urls with sqlmap
+What happens if a pro-censor ISP has Telex key(s)?
+What are the security implications of people downloading addons, wrongly thinking that they are safe?
+WebServices Security
+Browsing on a USB OS (Linux) safe from malware?
+OSSEC New Install: Scan and analyse full log?
+Can a Firefox add-on or plug-in access the user's websites' saved passwords in decrypted mode?
+How to write an email regarding IT Security that will be read, and not ignored by the end user?
+Learning the role of intruder legally
+Slow client key exchange in TLS?
+Zone elevation protection in Google Chrome
+Web browser password management security
+Facebook account keeps getting hacked, can't seem to figure out why or how?
+Frameworks or any Solutions for authentications/security/ login management in Java Web Applications
+What are the security implications of enabling WINRM on all domain members?
+Truecrypt hidden partition deleted original drive data
+Is it necessary to encrypt an ASP.NET view state hidden field when using SSL certificate?
+Convergence - an SSL replacement?
+Network policies under AppArmor/SELinux
+Which encryption algo should be best for an Android application
+How can I assess the trust worthiness of a browser add-on? 
+Security Manager job description
+What did Blackberry do wrong?
+Is there a viable open source antivirus for OS/X?
+Where do I securely store the key for a system where the source is visible?
+How do researchers "gain control of an attacking PC" and not themselves be considered attackers / criminals?
+Smartphone / GSM Sniffer
+Outsourcing security evaluation
+How many iterations of fuzzing is enough?
+Geographic equivilent of RFC 3161 (X.509 PKI Time-stamp Protocol)
+Is doing credit card transaction via 3G secure?
+Bruteforce attack on my FTP server
+Dictionary Attack on Wifi
+How can an access point spoof me into connecting?
+Is finding vulnerabilities in the major browsers easy or not?
+Server to server encryption: Key rotation over the air. Can it improve security?
+How to verify new accounts against a known persons database?
+Security logs on Linux, Solaris and Windows
+How large blocks does AES-cbc use with a 128 bit key and with a 192-bit key?
+"Real" Salt and "Fake" Salt
+Is "real salt" the same as "initialization vectors"?
+Are jailbroken iPhones an enterprise security risk?
+Worthwhile from security standpoint to limit database server user for ASP.NET website to only EXECUTE on stored procedures?
+Is it possible to securely store passwords using reversible encryption?
+How to see whether the pcap contains RTP traffic?
+Is there a common name for a software defect that leads to unexpected transfer of secret over the wire?
+What is the attack tree to intercept traffic on Wimax?
+Do Flash memory (SSD) architecture impacts encryption techniques?
+White list or black list sanitation for international input?
+XKCD #936: Short complex password, or long dictionary passphrase?
+What should I do when classified information stayed on a unauthorized laptop?
+How can I store downloaded video securely to device's sd card?
+How can I choose a strong password that is easy use on a smartphone?
+Use a Common Firewall for two Different Subnets
+Web service that converts HTTP GET to POST?
+Paypal Account created using my gmail account
+What password cracking software is commonly used?
+Best method of retiring hard drives
+Amount of simple operations that is safely out of reach for all humanity?
+How can I protect my computer from my potentially malicious colleagues?
+Are the iPhone "connect the dots" passwords secure?
+Are there password/passphrase guessers/crackers which can utilize facts supplied about the target?
+Are there lists of most common words or ngrams used in passwords and passphrases?
+Where can I practice web-security or network-security?
+Which resources can help me learn how to use metasploit?
+Security issues with allowing Dropbox installations on client PC's in our organisation
+Storing account numbers and sort codes online
+Does signing out of a website ensure no-one can cookie hack?
+Encryption on mobile phone - myth?
+Beginners materials for web security
+Is this algorithm for a random string cryptographically secure?
+Learning Network Security
+Running proprietary software on Linux safely
+Is there any asymmetrically encrypted file system?
+Is there a compelling reason to ssh tunnel RDP connections?
+Tamper-proof BIOS password & settings storage with Trusted Platform Module?
+Can you tell if an attack is successful by looking at IPS logs?
+Password auditing
+Safe way to authenticate (multi-factor authentication?) while being monitored?
+Any risk in using the same salt for several hashes on a user?
+What are the SQL-injections issues of parameterized queries?
+What useful things can I do with the html5 "keygen" element?
+Are there some good papers (or discussions) on using Markov chains or Hidden Markov Models for password auditing/cracking?
+How can I avoid my password being harvested by key loggers from internet cafes?
+Should I have a maximum password length?
+How is it possible that people observing an HTTPS connection being established wouldn't know how to decrypt it?
+Are there state-of-the-art techniques or theory specifically for attacking passphrases over passwords?
+How do a firewall's rules for individual programs work?
+SSD (Flash Memory) security when data is encrypted in place
+How can I be sure that an intranet app is absolutely not accessible from the internet?
+Is this an example of XSS attack?
+Detecting OAuth malicious Implementation
+Which encryption algorithms will be used to replace RSA when quantum computers become common?
+Why do we even use passwords / passphrases next to biometrics?
+At what point does "hacking" become illegal? (US)
+SSL verification of host name of https server
+How is "anonymous" getting ahold of all these plain-text passwords
+What are common/official methods of reporting spam/phishing/nasty-grams to organizations?
+How is it possible that anonymous members still post on Twitter but aren't busted?
+What security implications are there for allowing outbound SSH traffic?
+What to add to a repeating security checklist?
+Google Chrome Browser - Privacy Concerns
+Can the loopback interface be hijacked?
+Preventing users from tampering with replay data
+Could Stock Exchange be shut down by HFT attack vector?
+How can I restrict access to network data by an unauthorized computer that connects via Ethernet?
+Secure Web Password Fields + http to https redirect
+What would one need to do in order to hijack a satellite?
+SSL, SSH, OPENVPN, etc which one?
+Is this set-up PCI-Compliant?
+What should one do when he/she wants to protect him/her home--computer--?
+How to browse the Internet safely?
+Can an attacker sniff Mac addresses on a wifi?
+Do these ports mean anything?
+Security of SHA256 and Bitcoins
+Open source web application penetration testing community
+Google hacking - why "numrange" is so dangerous?
+Is OpenVPN secure in this way?
+Who is responsible for the strength of user's passwords?
+Malware - are removal tools acceptable or is bare metal re-install the only safe option?
+What steps do Gmail, Yahoo! Mail, and Hotmail take to prevent eavesdropping on email?
+What are some secure methods of sending email from your server?
+Should passwords be truly random?
+Best password strength checker
+AES ECB Mode for single block/random data encryption
+Combat Apache Killer
+Is TDEA (TripleDES) invulnerable to the weak keys of DES?
+Security of passwords remembered by Windows
+Battling Malware without spending money
+What should be included in the ground rules for an attack review?
+NFS and encrypted File systems
+IT Security Learning Path
+Sharing wifi at a business - Bad Policy?
+Are there known hacks or security problems on broadband USB dongles?
+Why does Facebook serve several SSL certificates?
+Working of WAF/IDS/IPS payload normalization schemes?
+How to respond to attack made from my dedicated server?
+Are PHP Sessions based on cookies or a cookie-IP pair?
+Does setting a WiFi AP to channel 14 avoid the most common detection methods used in Europe or the Americas?
+Pokki Sandbox architecture. Is it secure?
+Is it possible to see if a script on a website steals session cookies?
+Power friendly home router, firewall, IDS/IPS setup?
+How to best set up public WiFi without giving access to the rest of my network?
+Can someone steal money from my bank account if they know my IBAN and personal details?
+How does a BlackBerry handheld connect to BES?
+How do WPA/WPA2 cracking programs know when the PMK/PTK is correct?
+Vulnerabilities of RFID Smartcards
+How secure is the traffic with Sql Server Management Studio?
+How can I decrypt data with Java, without hard-coding the key?
+What to do in response to a source code and/or database leak by a third party hosting provider?
+Pre-hash password before applying bcrypt to avoid restricting password length
+The Creation of Secure Software Development Environments
+Why do some online banking sites (and others who desire secure login pages) sometimes add autocomplete="off" on their login page input fields?
+Is there any added security benefit to username complexity requirements?
+MiTM - Non-HTTP TLS
+Applying file deltas to an encrypted file
+Advice for writing my first application security review
+BLP Lattice-structered system from Access Control Matrix
+"Who the entity knows." I've Googled for weeks and can't find results
+What alternatives do email services provide when an account is hacked?
+In what ways do some banks inadequately advise their customers on online security?
+Accessing a site (which is) under a DDoS
+What encryption (if any) is used on electronic credit cards?
+Embedded System Communications Security
+Shortening Diffie Hellman key size through pbkdf?
+Cellular phone cloning
+Passwords - any statistics on user behavior?
+Password entropy in layman's terms
+Brute-force heuristics used in password cracking
+Attack vectors for brute-forcing website passwords
+What kind of certificate do I need to be able to make and sign my own digital signing certicates?
+Monitoring file access on Windows
+Does the SSL encryption strength or validation level of a website really matter?
+LDAP Security problems?
+How would you store a 4 digit pin code securely in the database?
+What function(s) to be used to generate Salt on Windows Mobile 6
+What is the difference between authenticity and non-repudiation?
+Web Certificate invalidation - You might be connecting to a website that is pretending to be [Site name]
+How protective should we be of an SSL client certificate?
+What is an SSL certificate intended to prove, and how does it do it?
+Flaw in encryption through pseudorandom number stream (from PGP documentation)
+Mobile numbers capture and transmit data
+Can a survey website viewed in Firefox trick the user into sending stored passwords?
+Using RFID-only on door lock to house?
+Mobile phone security eavesdropping based on data transfer
+Deleting a Java Object securely
+How to patch against RefRef's DOS attack
+Can webcams be turned on without the indicator light?
+Trustworthiness of kernel.org post attack
+How Reliably do mail systems transmit Encrypted PDFs
+How does Convergence (CA replacement) prevent its notaries from being MITM'd as well?
+Beneficial to rename MySQL root user?
+I had SSL certificate on my site but still it has been hacked...how to prevent this from happening?
+Is Common Criteria (CC) a suitable standard to certify web applications
+How safe is it to install XAMPP on my home computer to test PHP code?
+What are the risks of a Certificate Authority hack for 'the average user'?
+Certifiable standards for server security, besides PCI-DSS?
+Can I improve website security by storing SSL Keys in DNS? Is DNSSec required? Are threat models available?
+How easy/difficult is it to spoof DNS? Are some scenarios safer/more risky than others?
+booting from linux CD and visiting https website only
+Ways to sign gpg public key so it is trusted?
+Is using HMAC to transmit a password OK?
+How are possible uses for X.509 (SSL) certificates denoted?
+Can apps be trusted when requesting your credentials?
+What is multi-path malware?
+Randomizing MAC addresses on bootup
+Can a wildcard SSL certificate be issued for a second level domain?
+Something is changing my hosts file without asking
+I see two different sets of certificates for Google websites when I am at work and when I am at home
+WPA vulnerabilities for pentest
+Is there a particular security weakness from using server-side JavaScript?
+Reverse Proxy Secure Configuration
+SOHO router intrusion
+Reverse shell connections
+Leveraging a shell from SQL injection
+Multiple CAs signing a single Cert/CSR?
+Why are CA's signing keys available on the internet
+System image that does not allow for recovery of deleted files?
+Literature about IT security from a hardware standpoint
+How can I manage multiple sets of passwords accessible by different users?
+How to detect infected machines on my wifi?
+How safe are copies of Firefox that are on various Mozilla mirror sites?
+Is it possible to get all the data I send through wifi?
+How should I make diceware passphrases more memorable?
+Storing credit cards for automatic payments?
+Length of CSRF Token
+How should I configure OS for fuzz testing?
+How should I compile program for fuzz testing?
+What are the likely threats to a public-facing DB instance?
+Best way to triage crashes found via fuzzing, on Linux?
+How should web app developers defend against JSON hijacking?
+enable browser caching with HTTPS
+US export control on open source libraries
+Need an overview of web service / web site security world, where do I start?
+Is it possible to test for Postgres BlindSQL injection using pg_sleep() in a WHERE clause?
+Recommendations for a Certificate Management tool for Linux
+Is it safe to use different derived keys but from the same passphrase for AES CBC encryption followed by HMAC SHA256 hashing?
+How to tunnel all network communication?
+Sending temp password when users first registered - is that good for anything?
+Company sending Master passwords in unencrypted emails
+I just send username and password over https. Is this ok?
+/dev/random security holes
+Securing sensitive data in a DB,is using H2 worth it?
+Securing an area both physically and technically
+How can files be deleted in a HIPAA-compliant way?
+Authentication between multiple systems/platforms within the same web application context
+How to find and protect against the exploited vulnerability in a PHP application based on the logged URL?
+Information on the phpMyAdmin probe?
+php.ini security setting after attack
+What security features should a PHP framework have?
+Do I really need all these Certificate Authorities in my browser or in my keychain?
+Getting rid of a large quantity of paper
+when is it safe to click through an SSL warning message?
+Carrying out a professional IT audit procedure
+Android application level encryption cracking
+Can the following .htaccess rules prevent this attack?
+What is the difference between encrypted data and data sent through an encrypted tunnel?
+Security reason why one should upgrade old web server to modern Java EE Web Application Server
+What to do about websites that store plain text passwords
+Are there Linux rootkits circulating that directly modify the kernel (without modules)?
+There's a lot of spam, and hacked sites are often used to distribute it
+How can I protect my saved passwords in Chrome?
+folder and file permission shared host advice
+Online backup : how could encryption and de-duplication be compatible?
+Disclosing security vulnerabilities to paying customers first
+Penetration testing by ethical Hackers/Crackers should be trusted?
+Is forcing users to change passwords useful?
+C# Encrypting string in DES 3 CBC mode
+Protecting data on a laptop with linux
+How much security is compromised if we accept other characters as login (other than the original password)?
+Does the Mebromi BIOS flashing rootkit mean APTs for personal computers are here?
+Cryptographic Security of Dynamically Generated, Non-Random Salts
+Is there any way to set up secure email for Network Solutions domains?
+Doesn't imposing a minimum password length make the password weaker by reducing the number of possible combinations?
+Checking if notebook is clean of hardware spyware
+Is making a clean install enough to remove potential malware?
+Best practices for physically securing a notebook
+Asymmetric vs Symmetric Encryption
+what is the fastest and cheapest way to crack this kind of hash - md5(md5($password) + salt))?
+Scan for common web applications?
+Scan for mobile phones?
+Dangerous hardware ports?
+It is possible that brute force attempts are successful before the worst case, correct?
+What is a Flash drive by download?
+Can viruses actually inject their code in other processes?
+Would you go with SSD or Disk Hard Drive?
+Server side data de-duplication + client-side encryption with private key. Possible with "convergent encryption"?
+Is there any way to write-protect a USB or hide its contents from deletion without hardware modifications?
+Virus detection with Process Explorer
+What programming language does this code use?
+Random number for HTTPS Message Authentication Code (MAC)
+Security of using passwords or even passphrases to encrypt files
+How can the impact of cold boot attacks be minimized?
+Any flaws in this security model for a REST web service?
+Guarding against rogue certificates
+Payment gateway integration, any security considerations?
+Which forensic techniques should I use to identify intrusion or monitoring of my computer or cellphone
+Is my Company Tracking Me?
+Criteria for Evaluating Static Analysis Tools
+Is a "SAS 70 Type II" audited host SEC compliant?
+How effective have statistical methods been at breaking encryption?
+Are there any statistics about webservers and browsers TLS support?
+Is this much distrust really necessary?
+What are SSDP notify requests and where can I find out exactly what this traffic is?
+Why can't the SSL handshake be done in one step?
+Are there any websites that gather hash sums of different disk image files?
+How should I determine if an application transmits my credentials securely?
+Appsec Standards Organizations?
+Servers: Why a separate device for a firewall, aside from reduction in IP spoofing or increase in performance
+How to properly encrypt a communication channel between a client and a server (without SSL)?
+Secure Session Cookies
+Is it possible to have a key for encryption, that cannot be used for decryption?
+How can I recover encrypted files after system reinstallation
+What can I do about TLS 1.0 javascript injection vulnerability on my server?
+How do the processes for digital certificates, signatures and ssl work?
+Which is the easiest secure file transport protocol to implement (SFTP, FTPS, HTTPS, FTP over SSH, FTP over IPsec)
+What are some good resources for learning how to hack my website?
+SSL Breach - Does the latest BEAST vulnerability mean SSL Issuers now have to worry about integrity?
+Benefits and drawbacks of giving an Administrator two accounts for elevated rights and another for daily use, such as email
+What ciphers should I use in my web server after I configure my SSL certificate?
+Where can I find a collection of Threat Models?
+How do you know your server has been compromised?
+TLS 1.0 JavaScript injection vulnerability (BEAST): what to do client-side?
+Is security increased by using a subdomain per customer in a web-app?
+Reading about security by design?
+Services Like McAfee Secure
+Where and how do operating systems save passwords for user accounts?
+Minimum credential for WMI parameters Monitoring?
+How secure is asking for specific characters of passwords instead of the entire thing?
+Requiring Authentication to Exit
+Risks of ssh to an untrusted host?
+Is there a simple example of an Asymmetric encryption/decryption routine?
+Why would someone want to block images in email?
+ICMP redirects and source routing in the wild?
+Using file extension and MIME type (as output by file -i -b) combination to determine unsafe files?
+"Extended Protection" primer and implementation guide to prevent MITM
+How long to brute-force WPA password?
+Benefits to using EV certificates with a privately hosted Certificate Authority
+Why do law-abiding citizens need strong security?
+How will users know if their session is DNSSec protected or not?
+Would suggesting a random passphrase during sign-up hurt overall security?
+Any value in a web-server closing connections on bad requests (or bad pages)?
+How eavesdropping will be performed how can I prevent from eavesdropping
+What organisation(s) is able to recommend a baseline technology set for safe, secure, web browsing?
+storing the third party credentials in the database/some secure place
+What programming language is Stuxnet written in?
+Where can I find good resources on reversing web malware?
+Google App Engine Security
+Google App Engine Security
+How to Get and Set Digital Signatures with FDA 21 CFR Part 11 Standards
+How to secure a MongoDB instance?
+Is email more secure when not letting any zipped content through?
+How secure is a https website?
+POS still PCI compliant after Single Sign-on?
+Can Central Authentication Service (CAS) do authorization?
+Inspecting a TLS Certificate to determine RSA Key Usage restrictions
+Which is better: MCTIP vs. CCNA
+ How does sound signature recognition work and how to override it?
+Is it normal that my new VISA debit card has almost the same number as the old one? Is it secure?
+Adding an alternative password change scheme to passwd using PAM modules
+How do you organize a code review / static analysis report?
+New Certification: C|CISO. Where it stands?
+Is replacing all apostrophes with two apostrophes sufficient to prevent SQL-injection on MSSQL?
+If a website allows another person to get a list of the site's users passwords, how likely is it that the passwords are stored in cleartext?
+Security fields: AppSec vs. InfoSec vs. NetSec, etc
+What questions should I ask a vendor that provides hosted encrypted email?
+Why does one need a high level of privacy/anonymity for legal activities?
+Freelance security work
+Is the service join.me actually a huge security risk?
+Looking for signs of forensics - Assuming they didn't do the smart thing
+Protecting cellphones from USB attacks (a.k.a. Juice Jacking)
+Clarification needed for NIST's whitepaper "Recommendation for Password-Based Key Derivation"
+What should I know before configuring Perfect Forward Secrecy?
+Beginner level security for a CS student
+How to Prevent This `Intrusion.Win.MSSQL.worm.Helkern`?
+kadmin problem: "Client not found in Kerberos database while initializing kadmin interface"
+Cheap to validate yet expensive to compute hashing algorithm
+Implications of Trace/Track Methods on Apache
+Does SSL/TLS (https) hide the urls being accessed
+Any non-commercial certificate authority issuer for web applications?
+OpenSSL RAND_poll 'good enough'
+What is the impact of certificate validation level (or class) on deployed web applications?
+Should I ignore the BEAST SSL exploit and continue to prefer AES?
+How to improve as a security expert
+Why have export controls for cryptography?
+How does the mobile security technology APNS and 3LM work?
+Which Domain Administrator created file X on a Windows 2008 R2-based server?
+How do I use Windows 7 virtualization features to prevent transitive trust of admin credentials?
+Should I include a random padding in every HTTPS request and response?
+Can wildcard certificates hide/obscure the hostname in a TLS connection?
+Books to study for GCIA (GIAC Certified Intrusion Analyst)
+Should a closed source website keep a secret key in its source?
+What useful security reports can be extracted from a Windows-based machine and its related logs?
+What does a switched network protect us from? What does it not protect us from?
+What is the proper way to view the sourcecode of a website?
+How can I force certain the webclient to honor or remember certain parameters from the webserver?
+How practical is a certificate's "basic constraint" property in protecting my HTTPS / SSL session?
+What devices support the permanent addition of an ARP table entry? What tools are available to manage this?
+Why does Microsoft Security Essentials remove Chrome in some situations?
+Limiting the root certificate chain
+Guidance for implementors of HTTPS-only sites (Server side)
+How do we encrypt a password using another password?
+Should I only disable, but never delete an account from ActiveDirectory?
+How easily are keyloggers foiled?
+Can someone tell if you delete deleted files?
+Keeping secrets from root on Linux
+What ways are there to elevate from a non-priv account to system on windows?
+Decrypt AES 128 CTR without IV (Counter)
+GSEC or GCIH, for a Security Analyst?
+Is IPv6 with NAT less secure than IPv4?
+Email SSL security?
+Atypical DRM situation: distribute pictures to select partners, then prevent them from reusing them
+Software suggestions on building a "passive" and "active" WAN simulation and fuzzing device?
+Some questions about penetration testing distribution Backtrack 5
+What risks should I be aware of before allowing advertisements being placed on my website?
+How does IE's Privacy options affect javascript's ability to save cookies?
+What are the risks of using a CDN to speed up my website? How do I avoid them?
+Is there any way to use Nuget securely?
+How to know the windows security dialog asking for username password is genuine?
+Designing a Capture The Flag target and game management system
+How secure is Goodlink for mobile phones when compared to Activesync?
+When are HTTP session cookies at risk over Wi-Fi?
+My DNS Name Server does not support DNSSec client queries, what alternatives do I have?
+Should Windows 2008 R2 be used as an externally facing DNS name server?
+Potentially unsafe files on second hard drive, how to get my files back?
+What risk can untrusted WS-Federation metadata pose?
+How does PGP differ from S/MIME?
+How to evaluate different solutions for security tokens?
+What implications does IPv6 have for internet worms and script kiddies?
+Is it still unsafe to email credit card number nowadays?
+How to deal with tunnel applications such as TeamViewer on the corporate network
+How does a flash pathogen manage to act as a key logger?
+Physical laptop lock
+How to encrypt an entire portable HDD, so that it cannot be read/written without the password for it?
+Fraud Mitigation - Card Present Transactions
+What kind of attacks against home router's NAT do exist?
+What does it mean when a message's contentes are replaced by "Malware name: 'EngineError'"
+How to secure test/dev environments from outside world?
+How is tunnelling SSH through Proxytunnel/HTTPS different from doing it through SSL with Stunnel?
+SysAdmin to InfoSec
+Tools needed to setup a paranoid remote backup server
+Do blackbox penetration tests make sense if a whitebox audit would be possible as well?
+Microsoft Windows RPC (135/tcp) security risks
+Is it possible to decrypt a SSL/TLS session without doing a MITM-attack?
+Does the practice of blocking an off-site "Referer:" HTTP requests improve website security?
+Known Password Lengths and security considerations
+I'm getting lots of unfamiliar connection attempts, what do I do?
+Email header IP address
+Detecting Key Loggers
+HIPAA compliance in web forums?
+Need assistance diagnosing hacked website
+Is the Facebook login form using SSL without https in the URL?
+Is a JavaScript implementation of AES any less secure than other language implementations?
+What browsers support encryption or decryption using local certificates, or smartcard readers?
+Creating username policies and best practices
+Essential things to think about before outsourcing authentication with OpenID, OAuth, or SAML
+How to secure a ActiveMQ?
+Recover EFS encrypted folder after wiping system partition
+Check photos for geotagging and remove lat/long data
+How to implement multi factor authentication using a token generator?
+When is an intermediate page needed before directing a user off my primary website? What is the best implementation?
+What should be used as a salt?
+Fraud prevention on online transactions
+Does mysql_escape_string have any security vulnerabilities if all tables using Latin1 encoding?
+Has The IE8 XSS Filter XSS Flaw Been Fixed?
+How does the digital signature verification process work?
+Why AES is not used for secure hashing, instead of SHA-x?
+Spoofed IPv4 and IPv6 addresses over the internet
+Is Windows Firewall suitable for running in a production environment?
+How to simulate DDoS attacks from the Internet?
+The Economics and White Hat Nature of NSS ExploitHub
+When unlocking an encrypted drive, how does the unlocking program know it was successful?
+How does the predator network prevent outside control by an attacker?
+AES-256 OR RSA-2048 for web application security?
+Should we be checking password restraints on log in forms?
+Same User, Different Access Points, different passwords?
+Good resources for learning cryptography and OpenSSL?
+Is it possible to forge a post request?
+Using AES with a hex key/iv, what mode of operation is the "most secure"
+What are the risks of self signing a certificate for SSL
+How to inject executable, malicious code into PDF, JPEG, MP3, etc.?
+It's really that insecure to have POP3 enabled in my gmail account?
+Who sells IP reputation data sets?
+How do experienced users test stateful firewall?
+What is considered a reasonably high iteration count?
+What does it mean when a webpage says refresh is disabled?
+What configuration will allow another computer in the internet to probe my computer's ports?
+Need example and working Security Token Service (STS)?
+Is using Gmail and encrypted documents enough for secure email communication?
+Does https prevent man in the middle attacks by proxy server?
+What on earth is this log entry in Apache?
+German police malware "Staatstrojaner" general question
+Cons of disabling live CD in bios
+Too many passwords?
+Alternatives for DNS resolution
+Why are hand-written signatures still so commonly used?
+Consequences of compromised /etc/ssh/moduli
+Why was the BEAST attack previously considered implausible?
+When to move from Container managed security to alternatives like Apache Shiro, Spring Security?
+How do I ensure that my computer is 100% worm-free?
+How can PGP and openPGP be compatible?
+What's wrong with storing private keys in the cloud?
+Preventing Attacks Scanning for PHPMyAdmin etc
+Data Protection in EU for usage of personal documents
+Looking for a taxonomy of anonymization or re-identification properties
+What practical uses are there for the AD feature of "Confidential Attributes"
+What files should I download or check on a Windows system in case of Local File Inclusion (LFI)?
+Remote Connection Tampering
+How and when should I use OpenSSL for IT Security? How do I understand the output?
+Staying safe, but still connected, at security conferences
+My MP3 file is blocked, but still playable?
+What vulnerabilities could be caused by a wildcard SSL cert?
+Is silverlight and Java running on the web browser capable of saving "state" into the user's local machines?
+Am I protected from USB autorun malware on Windows 7?
+Should I prevent sending of GET requests for urls that are normally operated with POST request?
+Under what circumstances can two computers receive packets at the same public IP address?
+Is there any drawback of using OAuth "pseudoauthentication" as opposed to OpenID?
+What are the implications of omitting the username in Secure Remote Password's verifier?
+Laptop was stolen, they tried to log into my facebook from their location on my laptop
+GPG File size with multiple recipients?
+What is a good enough salt for a SaltedHash?
+PCI Scanning and authenticated user pages
+Fastest way to "lockdown" CentOS and have network intrusion detection, firewall, etc up and running?
+JavaScript written only with brackets?
+Why is the same origin policy so important?
+Downloading suspect files into quarantine?
+OS with encrypted RAM?
+Why would configuring a Blackberry to turn radio off when charging help with security?
+Is there something like a “Windows Sandbox software Wrapper”?
+Can I expect my e-mail to be routed securely?
+IT Security and Ethical Hacking
+How serious are XSS attacks
+How secure is NTFS encryption?
+Java vulnerability applicability
+I'm having a DDoS attack, my hosting company is not giving me a solution, and I need to know what is hapening
+Secure cleaning of deleted files
+Is it legal to log passwords from failed logins?
+What are the consequences for deceptive practices against stated privacy policy
+Is the OData Protocol susceptible to Insecure Direct Object References?
+How to get informed in metasploit when a user does a reverse shell to my computer
+Security of unencrypted wireless networks with authentication page
+Are Windows password hashes salted with the user name?
+What key exchange mechanism should be used in TLS?
+What file formats are known to be unsafe?
+Does an exposed XMLRPC API in a web application pose a threat?
+Protect access to an SD card
+Are SSL certificates from a CA necessary for secure communication?
+What is the status of forced HTTPS everywhere (Strict transport security) via DNS? I only see the July 2010 draft
+Is hacking legal when a friend allows you to attempt to hack their system?
+Is there a reason to disable root login, if SSH connections are restricted to a single IPv4 address?
+Generate a PGP key with  more than 4096 bits?
+Password system, possible solutions
+Implications of using DNS Forwarders instead of Root Hints
+Expired SSL Certificate Implications
+Social Engineer Toolkit (Cloning Sites)
+Best password storage scheme for high entropy, unique passwords which is failure resistant
+Preventing information disclosure from browser back button/history?
+What Gmail features should be Opted-Out to prevent PII from being indexed?
+Which graphic image formats contain revision history?  Does the image editing software being used matter?
+Decent programmer looking to learn to Hack
+Is it "standard" to SMS passwords?
+Are Google Chrome Extensions vulnerable?
+Securely signing a container package
+Tools to scan for PII
+Is there any conceivable reason to prevent a password change in an authentication system?
+How can I help catch an email scammer who is contacting me?
+Securely building a local pentest lab in a VM
+How should a web page respond to a CSRF attack?
+Is it possible to speed up WPA/WPA2-PSK cracking using a rogue AP?
+How far can we go in preventing videos from spreading out using P2P networks like BitTorrent?
+How to defend against SSL-Exhaustion attacks?
+Preventing 3rd party DNS Servers from being used
+Bypassing a captive portal with tor
+How difficult to crack keepass master password?
+Inconsistencies found in OpenID Provider's HTTP Headers. Which one is the most secure that I should imitate in my STS, and Relying Party?
+Should we store meeting minutes on an iPad?
+Possible Rogue Admin
+Wrapping system call (in reliable and secure way)
+Monitoring system calls (in a reliable and secure way)
+Should anyone support / implement P3P policies? Do they matter? Are they legally binding?
+What does a Yadis / XRDS discovery session "look like" to the end user? How does it work? Is it relevant?
+SSL certificate fails to adhere to basic constraints and PCI compliance
+Can a virtual machine program view a host machine's connections?
+Websites that interactively test browser security (XSS, CSRF, Javascript, etc)
+Can we protect domain name by law?
+Are there any strange things with google.com over HTTPS?
+Have anyone tried to extract the encryption key from a SSD?
+How can I restrict what an application can do with my computer?
+Looking for a tutorial on meterpreter extensions
+Which SSL/TLS ciphers can be considered secure?
+How do you remove the Security Sphere malware?
+Is there a superior approach for threat modeling?
+Is Facebook allowed to sell/give your information away to anyone willing to buy it?
+How do I deploy AD in a hostile location? What are the security implications between Domains, Forests vs RODC's in Active Directory?
+Why banking websites always ask me to authenticate my PC even after I'd chosen to "Remember my Computer"?
+Android security without updates
+Why do Chrome extensions need access to 'all my data' and 'browsing activity'?
+What types of background checks of employees are state-of-the-art?
+Digital Certificate deployment: using two certs for each user?
+Am I required to hash passwords
+RSA 4096 with AES 256 Encryption Process Using PyCrypto
+How can http data be compromised on a secure network?
+Firewall design for big enterprise business
+Risks with Amazon S3 and costs
+How can I be protected from pictures vulnerabilities?
+Are WPA2 connections with a shared key secure?
+https security - should password be hashed server-side or client-side?
+How serious is InstallIQ?
+Detecting malware-infected USB drives
+How quickly can these password schemes really be beaten?
+Should there be an anti-virus used on client provided files?
+Why is there no Domain CA?
+What encryption prevents the tampering of Windows Identity Foundation (WIF) FedAuth cookies?
+Detect spy software on Symbian
+How does DNS work?
+How do I check if a gmail/gtalk SSL certificate is valid?
+Is it safe to store and replay user-provided mime types?
+How to make a certificate encrypted flash drive?
+Where's the security when a payment gateway let website handle Credit Card detail
+How is WEP/WPA2 key derived?
+Duqu and other reference material for security people
+Can suPHP lead to security issues due to hijacking people's accounts?
+Do any crypto libraries take advantage of Windows GPU API "Direct Compute"?
+Why aren't applications sandboxed in Windows?
+Bell-LaPadula imlementation example
+Facebook login on HTTP?
+Convenient cross-platform help on checking secure hashes like SHA-256
+What is the purpose of EICAR?
+PHP/JavaScript with RSA
+CSRF protection needed for clients that don't accept cookies?
+Keepass client on Android (reliable one)
+Concerns of data being on the cloud
+Save private messages encrypted in database
+Benefits of identifying clients based upon the "X-Forwarded-For" or similar HTTP header in addition to Client IP
+Should I ask a user to re-authenticate if the browser thumbprint changes?  Is a server side library available?
+Hubs, Switches, and Bridges - Flaws and Security Superiority
+What would you define as an "advanced" hacker attempt?
+Does ASP.NET Viewstate implicitly prevent CSRF attacks? What does this mean for MVC?
+Vuln research: reverse engineering, debugging or fuzzing?
+Amazon EC2 security compared to a standalone server
+Star property in read/write access
+OpenID Session Fixation with CSRF
+SQL injection with AND 1=1
+What does Amazon's S3 Server-side encryption protect against?
+How important is NAT as a security layer?
+Is it possible to easily retrieve Thunderbird's passwords with access to HDD?
+What threats does a stateless web application have?  (as opposed to a  "state-full" sessions)
+Finding an up to date website with detailed information on viruses
+Penetration Testing Silverlight Applications
+Is it possible to trace fellow nodes on a DSL internet connection?
+PHP functions for preventing XSS
+IP address filtering vs web application security
+What is the background of the Reference Counter Overflow in Microsoft TCP/IP (MS11-083)?
+Saving connection parameters in an RDP file
+would preparing for CCNA add "significantly" to my knowledge as a penetration tester?
+Creating a Private Key using Human Intervention

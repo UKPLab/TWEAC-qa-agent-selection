@@ -1,0 +1,2000 @@
+Are there any advantages to using ~/.emacs.d/init.el instead of ~/.emacs?
+Different indentation styles for different projects
+Fastest way to move code block to specific line
+Search for text and navigate between the occurrences
+How to add a prefix to every line?
+How to clear a cell in an org-mode table?
+M-x sometimes doesn't show me the right options (smex?)
+How to scroll through all available matching interactive (M-x) commands using Helm rather than just my history?
+How to delete the first few n chars of every line?
+Re-open *scratch* buffer
+Using daemon mode in Gnome 3
+How can I use my local Emacs client as the $EDITOR for remote machines I access over TRAMP?
+Safe way to `enable-local-variables`?
+Put all backups into one backup folder
+Start two separate emacs daemons for console and GUI
+Configure jabber without writing password in plain text
+Align vertical columns of numbers on the decimal point
+How to view and edit pdf files in emacs?
+Edit file with super-user rights
+ctags over tramp
+Creating permanent fixed buffer for CLHS lookup
+Automatic deletion of backup files
+Let Emacs move the cursor off-screen
+Hide *compilation* window
+How can I suppress certain messages from being echoed in the echo-area?
+How to auto calculate the begin and end lines when including source files in org-mode?
+Automatically re-indenting elisp code when adding or removing code before an indented block
+How can I test and use a Perl regular expression interactively?
+How to save a keyboard macro as a Lisp function?
+How to convert a series of lines into a working HTML list?
+Exporting beamer with org-mode
+How can I quickly toggle between a file and a *scratch* buffer having the same major mode?
+Predictive mode, Auctex not playing nicely
+How to overwrite a copied rectangle instead of inserting it (which is the default behavior of yank-rectangle)?
+How do I search Info for help on a given keyword or function?
+How to sometimes but not always add a note to an Org TODO state change?
+List of GNU Emacs enhancement requests, bugs, and milestones at any given time
+Overriding fill-paragraph in LaTeX mode
+How can I create an Org link for each email sent by mu4e?
+Advantages of setting variables with setq instead of custom.el?
+How do I disable ffap (find file at point) when the first two non-space characters in a line are '//'?
+Actionable code folding in Emacs fringe
+Per Frame Buffers
+Is there a mode for viewing keystroke lossage in realtime?
+Why does ERC add ` to my nickname
+How can I use Gnus to access Gmail IMAP through http(s) firefwall?
+In dired buffers, place point on the most important file of that directory
+Emacsdaemon and Emacsclient on Mac
+Stop dired opening second window of already open directory
+What are some built-in packages with nice source code?
+Set up Emacs on Windows to start a single instance and open files in the existing instance
+How can I get a ruler at column 80?
+Emacs function to convert an arbitrary ORG PROPERTY into an arbitrary string (namely, a LaTeX label)?
+Automatically add recipients' mail address to the BBDB database
+Configuring Emacs and especially undo-tree-mode for tiling window managers
+Prevent whitespace-mode from overzealously highlighting blank lines at end
+How do I reload a file in a buffer?
+controlling display of latex equations in org-mode
+Magit on Windows: "searching for program: permission denied, git"
+fill-paragraph marks file as changed, even if it didn't do anything
+Can I avoid outdated byte-compiled elisp files?
+Close all dired buffers
+Why is my function not identifying the end of the region correctly?
+How to find out what a key sequence really does
+Is there a way to use query-replace from grep/ack/ag output modes?
+How can I preview TeX formulas inline in arbitrary modes?
+Proper TERM type for eshell
+How to bind C-i as different from TAB?
+Is it possible to sort dired tabs in tab bar-mode by directory structure?
+Speed up TeX-insert-macro on \input
+How can I draw in unicode with artist-mode?
+How to proceed on package.el signature check failure
+Aligning multi-lined equations and tables in latex-mode
+Run ssh-add from Emacs and enter a passphrase
+How do I create a simple syntax table for a major mode?
+What are all the ways of launching a shell from inside emacs and what are their various properties?
+How can I reclaim "nth" for bash in eshell?
+How to search and replace in the entire buffer?
+Line height with unicode characters
+New line in Title of an org-mode exported html document
+Override `show-trailing-whitespace` in `diff-mode`
+How can I download a web page's source from Emacs?
+How to auto-save buffers when Emacs loses focus?
+What are the practical differences between the various Emacs Package Repositories?
+What is the difference between Aquamacs and other Mac versions of Emacs?
+Dired "quick-view" key to preview the file at point
+How do I display line numbers in emacs (not in the mode line)?
+How do I get a fancier mode line that uses solid colors and triangles?
+Command that formats (prettifies) Elisp code
+Synchronized scrolling in two windows
+How to call pdflatex under TeX-PDF-mode?
+What is catdvi used for in AucTeX?
+What should/shouldn't I do when keeping .emacs and .emacs.d in version control?
+How can I run an async process in the background without popping up a buffer?
+How is the GNU Emacs source code organized?
+describe-face character not under / unreachable by the cursor
+Tracking when variables get updated
+TOC of tables for org-mode long tables
+Using DeskTop for basic project management
+Switch window split orientation, fastest way
+Only doing whitespace-cleanup on the lines touched
+How can I edit Google Docs from Emacs?
+How can I block a frame from being split?
+How to override keybindings for `term`
+How can I look up help for a key sequence that I can't type
+How can I find the path to an executable with Emacs Lisp?
+What are the best resources to learn Emacs?
+Preserve window arrangement for secondary windows
+How can I set Emacs up for iOS development with Swift?
+How to override major mode bindings
+How can I hide/display LaTeX section just like org-mode does with headlines?
+Better debugging of crashing Emacs?
+When should I use autoload instead of require?
+How do I make 'org-beginning-of-line' move cursor to the first text in heading body
+How do I use emacsclient to connect to a remote emacs instance?
+Character encoding when copying some text from somewhere to Emacs and saving to a file
+Handling text files with mixed encodings
+"Symbol's value as a variable is void: defun" when reloading .emacs?
+What functionality is missing in GNU Emacs when compared to XEmacs?
+Command to automatically define a resource variable in an Android project
+Why does preview-latex not show some equations?
+How to prevent emacsclient starting a new frame every time?
+Display PDF images in org-mode
+How to change the cursor type and color?
+dired: is file under point local or remote?
+How can I send Super from my Mac to my Emacs instance?
+What compilers are used during installation of a package?
+See LaTeX code and math preview at the same time with preview-latex
+Synchronize packages between different machines
+How does emacs manage its packages?
+Copy and paste between Emacs in an X terminal and other X applications
+Tree-based directory browser?
+M-x-helm Interfering with sql-sqlite
+Setting and activating the default input method
+Is init.el used for emacs, when emacs is viewed as an editor or as an interpreter of elisp?
+What is the significance of Emacs buffers having names with *earmuffs*?
+Opening a new file whose parent directory doesn't exist yet
+Emacs EIN vs IPython shell
+How to change default minibuffer message?
+How do I delete duplicate messages in mu4e?
+Is there a command `describe-command', similar to command `describe-function'?
+Why is dired-find-alternate-file considered confusing?
+Editing files with one-sentence-per-line
+What is the easiest way to search all useful files inside a single project?
+Intelligent spell-checking in org-mode
+Efficiently call remote processes
+How can I suppress emacs' display of the final newline in a file?
+How to automatically kill Helm buffers I don't need?
+Configuration of eshell. Running programs from directories in PATH env variable
+Search and replace with case preservation and plurals
+How to debug Helm
+DocView clashing with global keymaps
+Using Emacs as a full-featured C/C++ IDE
+Recognizing sentences that don't end in two spaces
+How to make Emacs render HTML without having to save the file?
+How do I automatically save org-mode buffers?
+magit-push hangs on Windows
+How to widen helm buffer names in `helm-buffers-list`?
+magit: how to set default username?
+How to truncate buffer information in helm list
+Multiple Emacs instances each with their own server?
+Finding and executing org-babel snippets programatically
+How do I "group" hooks?
+Debugging a frozen Emacs
+How to configure specific Java indentation?
+Dired as an FTP client
+org-mode with predictive mode key conflict
+Key bindings specific to a buffer
+Turn off jabber notifications when Emacs has focus
+Delete some matches of an incremental search
+Inserting/updating source file header comments
+How do I measure performance of elisp code?
+Magit pushing / pulling show progress
+how to detect if inside a LaTeX math environment?
+exec-path and $PATH
+How to have org-publish automatically publish generated images?
+Tramp: killing all buffers
+Get Emacs to indent fluent builder inside argument list
+How can I toggle displaying images in eww without a page refresh?
+Elisp function to see a date for next Wednesday
+How do I reduce spacing between lines to less than zero?
+Inconsistent point when inserting into a buffer that is visible in another frame
+Inadvertent paste when correcting spelling mistakes using flyspell
+How to Change size of split screen emacs windows?
+Split Window at outermost border
+Show breakpoints when debugging Matlab
+How to implement Markdown style link IDs in org-mode?
+Best ways of generating UML from within Emacs
+How do I prevent extremely long lines making Emacs slow?
+How to diagnose why semantic-imenu does not correctly parse a file?
+Problems installing packages via elpa that require cl-lib-1.0
+Evil: map keybindings the vim way?
+Recursively open files matching regexp in marked directories
+Creating permalinks for sections in HTML exported from org-mode
+Batch loading binary files
+Set column widths in `ibuffer`
+ESS indentation of parentheses after =?
+Cycle between windows in all frames
+Prevent abbrev-mode from expanding on underscore
+How to run a previous command in an Emacs shell?
+What's the fastest way to reload my .emacs file when I make changes so all my affected buffers will pick up those changes?
+How do I automatically load a mode for a specific set of file extensions?
+How can I restart emacs and preserve my open buffers and interactive history?
+Make helm window the only window
+How can I find out in which keymap a key is bound?
+Are there any pre-existing benchmark suites for Emacs itself?
+Why do sql-mode and sql-interactive-mode not highlight strings the same way?
+Difference between posix-search-forward and search-forward-regexp (need example)
+yasnippet: how to expand a snippet from a string and have the fields recognized?
+What is the best way to reload git stashed changes you've popped while file is open in buffer?
+Supporting images/diagrams in exported org-mode presentations
+How to gracefully handle errors in init file
+In what circumstances will edebug produce different behaviour?
+elisp widgets: Modifying an editable-field's value real time when changing another one
+Listing SCHEDULED headlines from an org file ordered by date
+How to better control Emacs buffers in StumpWM?
+How to remove alias from the eshell?
+How can I customize the compile command?
+Asynchronously wait for output from a comint process
+Can I modify whitespace mode to distinguish hard and soft newlines?
+Get content of a buffer
+What are possible real use cases of the Emacs "psychotherapist" mode?
+project specific init file
+How to use global prefix command key in define mode-map keybinding?
+How to prevent tramp locations from interfering in history?
+Make AUCTeX compile each \include to a separate file
+What are the differences between autocomplete and company mode?
+Recursively find all files from a folder containing a regexp in the filename, using helm
+How to know when or when not to use the single quote before variable names?
+Can I toggle fringe-mode when entering / exiting edebug?
+How to control in which window a buffer is displayed?
+How can I use the SE flavor of Markdown in emacs?
+Truncate beginning of right-aligned column in org table
+How do I bind Caps Lock to Control on Windows?
+How do I switch buffers quickly?
+How do I list all key-bindings available in a given buffer?
+How do I connect to IRC using Emacs?
+How do I find text across many open buffers?
+Fundamentals of multiple-cursors
+How to search the Emacs Lisp Reference Manual?
+For what languages is `syntax-ppss` appropriate?
+Add operating system clipboard to kill ring
+how to detect if inside a matched pair?
+Adding table headings to #+RESULTS: tables
+Preview fields in org table
+Why does emacs come packaged with games and amusements?
+Closing all pending parenthesis
+Interactive pop-up dialog?
+Recording a GIF screencast of Emacs
+How to get intelligent auto-completion in C++?
+How to get a major mode to open full screen
+How do I speed up org-mode agenda generation
+How can I fill the entire line number bar with a custom background color?
+Profile a command by wall time
+Projectile not showing all files under my Git project
+Why do some commands terminate when leaving the minibuffer (isearch) while others don't (find-file)?
+How to setup default windows at startup?
+How to check whether a buffer is visiting a file?
+Selecting text without moving the cursor
+Make Buffer List take focus?
+How should I configure irony-mode if my project has no "compilation flags"?
+Inserting org-style links from external program
+What's wrong with my org-mode capture settings?
+time value in org-table formula
+How to bind a key to a specific agenda command/list in org mode
+flycheck/bash - i'd like to declare that the next line was intentional
+How to tell eshell to use the os-specific tools if available
+How can I practice searching and replacing with regular expressions interactively in Emacs?
+improve doc-view display quality
+Using evil-mode with a function that does not work well with evil-mode
+How to save multiple buffers
+find-grep-dired equivalents for ack and ag
+How can I convert hexidecimal values to base 10 in hexl-mode?
+install multiple packages from my .emacs file
+Detect when a key is rebound to another command
+How can I have an agenda timeline view of multiple files?
+Is there an Emacs mode convenient for writing poetry?
+How can I connect to a Jabber group chat through a bookmark with jabber.el?
+Ubuntu/Debian preempting me and running code before me
+Why does local-key-binding return a 1 for a key with no local binding
+How do I inherit from prog-mode, whilst still supporting older emacsen?
+How to apply overlay or text properties to text matching a regexp?
+Trigger a function when a key is held down after X seconds?
+Emacs and OS X Menu Bar
+Match a string that includes a space in Helm
+Using ELPA in batch mode on Windows fails
+Origin of some modeline indications: Git:master [i,#]
+Writing portable Elisp
+Show unbound keys
+Unable to load color "color-235" when using `gruvbox` theme
+Simulating mouse operations with keyboard
+Argspec or arity of a bytecode function in Emacs 24
+How to view and edit large delimiter separated value files?
+Terminating ibuffer incremental search
+Getting number of occurrences, during incremental search (C-s / isearch-forward)
+How to integrate SLIME with MIT Scheme?
+Shift+Up isn't recognized by Emacs in a terminal
+How do I save a cursor position?
+Treat symbols as words in prog modes
+What is the right way to install tab bar?
+Differences between setting major mode keys with a hook versus adding them to the mode map
+Defining the window pointed by "other-window"
+How to make sure currently selected text gets deleted when typing new text?
+Create table for existing data using org-mode
+What are the differences between autopair and smartparens?
+How to use SLIME as a proxy between Common Lisp program and Emacs Lisp?
+Problems with keybindings when using terminal
+How do I enable auto-complete globally on my init file?
+What does "less-than" key "greater-than" mean in terms of keybindings?
+Regexp replacement: difference between \([[:digit:]]+\) and ([[:digit:]]+)
+Setting (or *simple* mode) for editing tab-separated columns
+Mark and open multiple files with Helm and Projectile
+How can I set different font sizes for buffers and for the mode-line?
+Debug why a function is removed from post-command-hook
+How can I see total time today on _all projects_ in the modeline?
+Interpret where error is from --debug-init when trying to require go-mode
+How to debug startup problem, if `--debug-init' has no effect
+Copy region from emacs without newlines
+emacs24 Mac - Mouse works but keyboard input stays in terminal
+単 does not show up in Emacs, how to fix?
+How to modify bindings to match ECB window numbers?
+Make a buffer-local variable become global again
+Make comint-mode behave more like term-mode
+Why does hook to set up C++ mode indentation not work?
+Customizing the layout of gdb-many-windows
+How to display the content of minibuffer in the middle of the emacs frame?
+What's the difference between words and symbols?
+How can I quickly delete the trailing pathname component in ido-mode?
+Turn off automatic backups for specific files
+Persistent environment for M-x compile
+Org Mode: Prevent editing of text within collapsed subtree
+Predicates in ibuffer saved filter groups
+Different themes for terminal and graphical frames when using Emacs daemon
+How can I find out exactly what my modeline is telling me?
+“terminal is not fully functional” over ssh in a *shell* buffer
+How do I disable key-chord-mode in the minibuffer?
+Run application in cwd on remote host from within eshell
+How do I make a bug report or feature request against GNU Emacs?
+Calc won't fit any curve to any data, complains “Model expression is too complex”
+Why does load-theme reset the custom-theme-load-path?
+Is there a way to automatically install the relevant package when opening an unknown file type?
+Absolute fold level in Emacs?
+How to insert text after point?
+How can I make Dired buffer names include the full path?
+Case-insensitive filename completion in `shell-command'
+Prevent inserting text at the beginning of a buffer that starts with read-only text
+Why is `let' faster with lexical scope?
+What is the mode for displaying auto-updating values of s-expressions in an emacs-lisp buffer?
+Press F5 to save, compile, and run current rust file
+Is there an auto-align package or mode for Emacs?
+How to open and rename several multi-term buffers on start-up?
+The C-x C-j binding for dired-jump stopped working
+When are org-mode attachments preferable to file hyperlinks?
+Automatically move installed packages to site-lisp to benefit all user accounts
+Projectile does not show all files in project
+What options are there for doing spell-checking in emacs
+What options are there for writing better non-programming text in Emacs?
+What are the major features planned for GNU Emacs 25?
+How can I make ibuffer auto-refresh the list of buffers?
+Filter Helm buffers by mode in ibuffer
+ibuffer: how to automatically create groups per project
+Have org-mode's exported HTML use CUSTOM_ID when linking to sub-sections in TOC
+How can I prevent a command from using specific windows?
+copy contents of current buffer in a temp buffer and operate on that
+How do I force a specific buffer to open in a new window?
+What are overlays for, and how do they differ from text properties?
+How can I copy and paste characters displayed with compose-region?
+Hook that indicates when the cursor has been moved by scrolling
+I want to have the <kbd> tags for my blog written in org-mode
+Auto-complete looks funny around bold fonts
+Track "TODO" items when writing code
+What's the difference between the different vim implementations?
+Running Emacs from Windows taskbar
+Show current function in header line
+How can I make encrypted messages readable in my sent folder
+How do I run elisp code on a filtered email in Gnus?
+Prevent org-mode from swallowing file-local variables
+Show siblings of visible headers after hide-other
+Applying major-mode font locking to exported org-babel snippets
+How can I change Org-mode time format for one buffer?
+Highlight abbrev upon expansion
+Are there Emacs tools for the visually-impaired?
+Sleep in an kbd macro
+Emacs flickers when I run certain commands (gif screencast included)
+How to export top-level headings of org-mode buffer to separate files?
+How do I ediff a buffer against a revision?
+How do I keep all emacs dotfiles in one directory?
+Are there any benefits of compiling Emacs with one graphical toolkit opposed to another?
+how to prevent faces from bleeding onto surrounding areas of buffer?
+How do I get my initial frame to be the desired size?
+Equivalent to --no-wait for emacs
+backword-sentence and forward-sentence are moving over paragraphs
+Attach to running remote shell with eshell/TRAMP/dtach
+Have table.el insert space after vertical separator for reStructuredText
+Org-mode -- sub-TOCs for individual sections?
+What can I do to speed up my start-up?
+How do I create a dynamic regexp with rx?
+ESS plot directly to an Emacs buffer?
+Change syntax highlighting without changing major mode?
+How to show the sticky(lock) window status in the mode line?
+How do I force re-evaluation of a defvar?
+Making an image (ie. image-mode) auto reload changes from disk
+Alternative Org Mode Implementations
+query-replace in keyboard macro
+How do I set `gnutls-verify-error` to not check if certain hostname matches the certificate?
+Can functions access their name?
+Info: Display the current node name in the buffer-list or uniquify *info* buffers
+How can I have Org use `sidewaysfigure` in LaTeX export?
+How to run multiple versions of emacs for package development?
+Can I change the background color of the inactive minibuffer?
+What is the difference between setq-mode-local and setq-local
+Using Org Babel to tangle to a variable file name
+Add more symbols to haskell `haskell-font-lock-symbols-alist`
+How can I set face for echo-area message
+How can I display the parent directory of the current file in the modeline?
+Kill or copy current line with minimal keystrokes
+How to toggle fullscreen in Emacs GUI mode (`Full Screen` option is greyed out in Kubuntu)?
+Can a function or macro specify byte-compiler warnings?
+Make web-mode always indent with spaces
+What is the function `purecopy` needed for?
+How to get colors in Magit diffs on Windows?
+Is there an equivalent to sed-style substitution commands from vim?
+How to use skewer-mode?
+Org Mode: Using table formula outside of a table?
+org-mode ignoring category filter on export
+Browser not opening when exporting HTML from org-mode
+Org Mode: org-lookup-* functions missing
+How to search for lines not containing some text?
+In table-mode, how do I change the face used for cells?
+How do I configure moving by and deleting words in ansi-term?
+Code-block specific interpreter in Org Babel
+Swap columns in a mediawiki table
+exporting org-mode nested blocks to html
+how often is the official Emacs manual updated?
+How can I know which built-in emacs package needs to be 'require'd?
+How can I use Emacs to edit questions, answers, and comments here?
+Returning org-babel results from an asynchronous call
+Choosing files and directories from widgets
+Open edit-server files from emacsclient in a specific frame
+Moving the mode line and minibuffer to the top
+Behavior of '-e' option during emacs invocation
+How to choose between nil and 0, or t and 1 when setting variables or enabling modes
+How do I auto-refresh eww pages?
+How to test REST API with Emacs?
+Example of drawing rectangle in picture-mode
+Emacs dot files & packages List for user switching from sublime and not founding a starter kit tailored for them
+How to handle next-line in keyboard macro?
+Shrink/Zoom/Scale images in image-mode
+Dropdown Menus fail on mouse click with 'Wrong type argument'
+Insert and strip helpful comments from vc commit message buffer
+Elfeed: mark all messages as read
+Dired: only reuse buffer for directories
+have flycheck override eldoc faster
+Using virtualenvwrapper in Eshell
+In Gnus, for a specific group, can I have all incoming messages automatically marked as read?
+Rapidly preview files
+How can I simulate an arbitary key event from Elisp?
+How to disable completion-at-point in emacs shell (i.e., so I can have my `TAB` key back)?
+Referring to the org-babel src block name from within the script
+how to reveal function names that are bound to mouse buttons (eg <down-mouse-1>)?
+Emacs as a CAT (Computer-Assisted Translation) tool
+package-install reports "no match"
+Error while installing emacs-eclimd "Cannot open load file: auto-complete"
+how to switch to a new buffer with ido without needing to confirm?
+how to get buffers (not just files) to honor auto-mode-alist?
+How can I set default font in Emacs?
+How to insert a specific number of newlines in org-mode
+Highlight \n and %s "inside" strings
+How can I prevent python-mode from occasionally highlighting everything as string
+How to get org-agenda to prefer split-window-right
+Do I evaluate "(require 'eclimd)" successfully?
+Organize the content of ~/.emacs.d/init.el and ~/emacs.d?
+Global key binding overriden by undo-tree
+How to prevent Emacs from opening error buffer
+How can I prevent flycheck-mode from checking certain files?
+How to define additional mode-specific pairs for electric-pair-mode
+Defining key-bindings within `helm-map`: getting a `void-variable helm-map` error
+elisp: retaining data structure after inserting string representation to buffer?
+Best (minimal keystrokes) method of jumping to the start of a function and then back to current point?
+How do I search in search results
+installing Emacs 24.4 from source on CentOS5 with libpng12
+Helm: search within buffer feature?
+Programmatically insert files into Dired buffer
+Problem "<dead-acute> is undefined" appearing when typing Greek stress ( ' )
+Error in post-command-hook during org-agenda-todo
+What emacs communities exist?
+How to make shell-command run using shell profile and current directory hooks (ex. direnv)
+Concerns regarding uninstalling packages
+make org-agenda-mode always have (org-agenda-follow-mode) toggled on
+Haskell Interactive Mode Setup - cabal unrecognised command: repl
+Confusion with line numbers
+Flymake: no buildfile (Makefile) found
+Make ispell automatically clear minibuffer when replacing word
+How to make org-mode understand alternate day/month abbreviations?
+Automatically identify obsolete variables in init-file
+Why doesn't auto-complete work in ruby-mode?
+Where to find missing dependencies (imagemagick and m17n)
+problem of loading a package at emacs startup
+Advice on setting shell's character set
+How can I make nrepl-ritz-jack-in work remotely over TRAMP / Emacs
+Debugging server related warning message
+Opposite of fill-paragraph
+How to use Dired marked files as arguments to arbitrary Emacs Lisp functions?
+Gnus, send PGP encrypted message to address distinct from the one registered with the key?
+Flycheck and OpenMP pragmas for GCC
+How to disable copy on selection with evil-mode (Mac/24.4)?
+How can I go from a key 'code' back to its keyboard equivalency?
+Undesired auto expansion with company-mode and python-mode
+How can I get lint warnings when I've forgotten to require a package?
+Don't reposition Org Agenda buffer when starting TODO
+How can I permanently rebind keys?
+Specify major-mode for files with multiple extensions
+Understanding of emacs align-regexp
+Why does (require 'use-package) fail from my init file, but succeed interactively?
+Get all filenames in current Dired buffer with Elisp
+How should I write inline equations in Org Mode so they export to LaTeX properly?
+hierarchy of modes
+How to display the list of functions in iMenu and collapse/uncollapse functions in angular js file
+Where should I include a lazy initialization?
+syntax highlighting in source blocks
+Controlling the order of output with Org-Babel
+Is there a way to set the global agenda sorting?
+How can I get fuzzy code completion
+How to indent back one level when writing a newline?
+Remove entries in Dired buffer without deleting actual underlying objects
+TeX-doc doesn't recognize most symbols and packages
+How to remove 'SCHEDULED' timestamp when changing TODO state to WAITING
+Only allow kill-ring-save if there is highlighted text
+Why does elisp not have namespaces?
+Relative path link to .xls file from org-mode
+Switching between window layouts
+How can I draft an mu4e message using the contents of an org subtree?
+Why does my *vc-log* buffer start with "Summary:" in Emacs 24.4?
+How would you explain Emacs to a non-technical person?
+dired-listing-switches -- time-style format (with a space)
+How to define a keybinding with a key-down/up (Alt-Tab-like) behaviour
+Are there any libraries for input fields in Emacs?
+Using Emacs to send Tweets or Queets
+How to format/fill poorly-formatted bullet items in org-mode?
+terminal emulator for ncurses applications
+Sorting an org-mode table with horizontal lines
+Trouble sorting customized priorities in org-mode
+Difference between shell and term
+Make fill-paragraph in python docstring leave the triple-quotes on separate line
+Problem with line number limit in linum-mode
+How can I reset the prompt of my machine before using tramp without having this setting being permanent?
+Is there a mode for phpBB?
+Preset search isearch-string from command line
+Jump to documentation buffer with company-mode
+Elisp: Added one key-binding to dired-mode and lost basic dired functionality
+Any functionality differences using a two-space vs one-space convention at the end of a sentence?
+Auto-Complete stops working with C files
+Helm and LaTeX mode
+Promoting and demoting headers in orgstruct mode
+Using both fixed-width and variable-width font in org-mode
+How to get the function help without typing?
+Is it possible to auto-correct spelling “on space”?
+How can I create an function to build a table of contents at a marker?
+org-mode: task sequence by categories
+Emacs won't load theme on startup
+function calls from command line, using emacsclient
+What does `mac` in `utf8-mac` mean?
+Effectively using the mark ring
+How to copy or move code in current scope to end of another file
+Match two spaces with incremental search
+Creating function to move top-buffer to other window
+ido-find-file: lists of results in wrong order
+How can I unbind all symbol definitions with a certain prefix?
+Automatically formatting brackets
+How to make Helm always add ^ to the input pattern
+void-function when loading ido-mode in Emacs24
+Save current file with a slightly different name
+How can I access an LDAP-Server to autocomplete address headers in message-mode/GNUS
+How do I fully uninstall/erradicate powerline?
+How to configure org-mode to respect system-specific default applications for external links?
+Proper approach to providing external programs along with packages?
+How to force evaluation of a statement in my `init` file?
+Emacs on a tablet?
+"Symbol's function definition is void: cl-macroexpand-all" when trying to install php-mode
+How should I change my workflow when moving from IDO to Helm
+What's wrong with `find-file-noselect`?
+Turn a list or data structure into an org document
+How to control SCHEDULED indenting
+Keeping my .org files in sync across multiple computers
+Composing a regexp to highlight folder extensions differently
+Any way to make prompts and previous-output uneditable in shell/term-mode?
+The old "how to fold XML" question
+Is there a better way to handle multiline docstrings in elisp?
+Kill buffer when frame is deleted
+How to make `truncate-lines` nil and `auto-fill-mode` off in magit buffers
+Projectile project in folder without write access?
+Recursive load error in csharp mode on upgrading to 24.4
+org-mode and reftex giving this error: reftex-using-biblatex-p: Stack overflow in regexp matcher
+Password/Key Management for multiple machines in emacs
+god-mode: swap keys
+TAB does not auto-indent lines anymore
+How to turn off "error" highlighting in emacs-lisp-mode for Emacs 25?
+How can I turn [1..10] into [1,2,3,4,5,6,7,8,9,10] in calc?
+How to disable eldoc for `eval-expression`?
+"Making tag completion table" Freezes/Blocks -- how to disable
+Babel doesn't wrap results in verbatim
+Focus-hook: attenuate colours when losing focus
+How can I determine if a file is compressed from Elisp?
+How can I bring back `nil`?
+Helm color theme gets mixed results
+eldoc in python-mode
+Calling the calc stack from babel: displaying percentages
+Interpretation of tabs in text copied from Emacs and pasted in other programs/editors
+org babel eval with no confirmation is explicit: :eval yes
+Is there a 'local undo' extension for Emacs?
+`url-inhibit-uncompression` is ineffective; emulating curl with url.el
+What are good tools for Emacs package development?
+Can I include a common code block in two different code blocks in Org mode?
+Display errors and warnings in an org-mode code block
+How to customize background color for some web pages opened with eww?
+How to customize syntax highlight for just a given mode
+How to know my buffer's visible/focused status?
+How can I map over a vector and get a vector?
+How can I get Cask or Pallet to automatically install packages on startup?
+Is it possible to use both MELPA and MELPA-stable at the same time?
+Override syntax highlighting with color of hex code.
+How should comint-derived modes keep track of buffers and processes?
+Is it possible to alias an internal command?
+How does one define a widget of type editable-list with validation?
+How to remap Company's select next and select previous keys?
+Using 'create-image' with data, not a file
+Killed buffer still shown by an earlier Ctrl-x Ctrl-b
+Some warnings and unexpected indentation with SMIE
+How to maximize my Emacs frame on start-up?
+How do I pronounce Emacs?
+Indentation after braces in C
+How can I bookmark Info page to continue reading later?
+How to detect keystrokes which don't edit the buffer?
+Reset custom variable to default value programmatically
+Greek characters in graphs produced by org-babel and gnuplot
+Temporary text in window location with no text to propertize/overlay?
+How do I change a key binding which also has its own prefix key?
+How to know if emacs is running as a daemon?
+Using a different font for each major mode
+Convert regexp list so that each member has word boundaries
+apostrophe in org-babel export to latex and beamer
+Helm and custom commands
+How can I use eww as a renderer for mu4e?
+Auto-inserting last used sub-/superscript values in math formulae
+Persistent effects on overwriting faces
+Dumb indentation
+How to stop mu4e from inserting line breaks?
+Recently opened files in ido-mode
+How do I use TAB instead of Enter for completion in ido-mode?
+How to use keybindings containing @ in MacOS X?
+Why are double quotes not escaped in the replace-regexp command?
+How to use AUCTeX and outline-minor-mode together for folding?
+Customizing indentation in makefile mode?
+Practical benefits of new advice system in Emacs 24.4
+How to indent items in LaTeX/AUCTeX itemize environments?
+Elisp reimplementations
+How can I create a dired buffer listing all open files?
+How to navigate a JavaScript project?
+How to get sauron-org to work for org-mode events?
+Simple project management---org-mode, or another tool?
+How can I add characters to an input method?
+How to use an external program as the default way to open PDFs from Emacs?
+git-stage the current file-visiting buffer?
+How to reset color theme?
+How to avoid losing selection with Helm
+How to display a message in echo-area only
+Class Browsing in C++
+Name of the commands in keymap creation
+Make the cursor stop at the last character of a line instead of the newline character
+Modifying Java indentation style
+Built-in way of decoding HTML entities (i.e. &quot; or &#39;)
+Can I use org-mode to structure my .emacs or other .el configuration file?
+Display the beginning of a scope when it is out of screen
+How to non-interactively dump list of open buffers, associated filenames and saved/unsaved state?
+Fuzzy completion when inserting Unicode characters
+How should I get the filename of the original buffer in an indirect cloned buffer?
+Clock Table Details in Org Mode
+Custom C-M-; key binding
+Function to open my init file for editing or return its path
+How to copy killed rectangle to the kill ring
+Repeating a command n times
+Weird behaviour of M-; (`comment-dwim`) in Autoconf-mode
+How to make org-mode DWIM when it reads times in timestamps?
+Org-mode: Can't display inline images when openwith-mode is turned on
+Why does bmkp-desktop-jump change colour scheme?
+How to change the mouse pointer colour?
+Scrolling seems to add an unwanted chunk into my kill ring
+Best way to retrieve values in nested assoc-lists?
+Invoking "Icicles"
+Highlighting text in open (displayed) buffers/windows -- searching for text from one buffer in another
+How to understand this recursion code?
+Prevent emacsclient from blocking other instances
+Reload init.el without restart, with CEDET
+How to resume an INCOMPLETE keyboard macro recording?
+Customizing c-mode indentation behavior in Emacs 24.4
+How to include the output of a shell command in org-mode source code block?
+Keep Emacs packages after reformatting
+Emacs keeps highlighting the word 'fix' in every context - how do I turn it off?
+Byte-compilation of a multi-file package: "the function is not known to be defined"
+What does a byte compiled Emacs file contains and how is it executed?
+How to make mode-line text look like a link/button on hover
+Kill-buffer prompt with option to diff the changes
+projectile minor mode is enabled even though all projectile related is commented in init.el
+Define an emacs function to take arguments in the same way as something like M-x goto-line
+Why did I get an error message: wrong-type-argument stringp user-init-file
+Invoking "dired+"
+Warning about modification of files which should be static
+Convert a normal key into a modifier key
+Monkey patching a function
+How does autoload cookie work on non defun form
+Orgmode insert link from clipboard?
+Make emacsclient open multiple files in separate windows
+Can I have the git-log "--all" option be initially selected?
+What are the advantages of building Emacs from source?
+Why don't major modes just inspect the faces?
+live refresh of inline images with org-display-inline-images
+`muse-publish-this-file` makes Emacs hang and use 95% of my RAM
+How to debug inability to load library `auto-complete`
+Difference between load-file and load
+Certain symbols resulting in really tall line (and cursor)
+Keyboard macro repeats indefinitely
+org-mode goto last heading?
+org-mode skip to next headline?
+python auto indent problem
+Is there any way to run a hook function only once?
+Problems reading emails with rmail
+YASnippet: How to resume (or reactivate) snippets after exiting them
+`find-file-hook` problem for large buffer that is just one long line
+How to reopen just killed buffer, like C-S-t in Firefox Browser?
+Semantic occur?
+How to extract key from hash-table
+"S" key throws error in Evil mode normal state
+How can I nest one syntax table in another?
+Select *Help* window buffer after C-h f
+How can I get undo behavior in Evil similar to Vim's?
+How can I get C/C++ context-sensitive completion with Company?
+Emacs TAGS file in Windows?
+How to shift vertical column of windows left and right in a frame?
+emacs --daemon frozen when started with emacsclient file
+Coloring indentation levels
+How do I get comments in a noweb expansion?
+Set the background of org-exported <code> blocks according to theme
+Loading bibtex file in org-mode file
+How can I prevent yasnippet from breaking when I update my packages?
+How to scroll up when expanding a section in magit-status?
+How to display several pages of a PDF simultaneously in Docview?
+How to enlarge latex fragments in org mode at the same time as the buffer text?
+How to reset a counter if `C-g` is pressed
+Bind C-e C-j and C-a C-o TAB to single key, aka insert and jump to newline
+How to replace an element of an alist?
+Keybindings with AltGr
+How to navigate quickly to my installed packages?
+How to comment options in org-mode export to beamer?
+Portability of bytecode between Emacs versions
+In org mode, how to export slide with bibliography?
+Launching in daemon mode crashes emacs while loading configuration from .org file
+How to switch back and forth between two locations in a buffer
+Running all tests in a leiningen project?
+How to support multiple extensions in Deft?
+Display images in eshell with `iimage-mode`
+Stop Yasnippet from autoloading
+Customize newline-and-indent function
+Removing smart quotes automatically
+Where is this cruft coming from in shell-mode and term-mode?
+"cannot set terminal process group" error when running bash script
+What's the correct replacement for flet on new emacsen?
+package status in *Help* doesn't refresh after install
+How to bash command output that isn't STDOUT from babel shell command
+Suppress new buffer when running typeset command (C-c C-c) in AUCTeX
+How to switch between windows quickly?
+Open a frame for the first time (using `emacsclient -c`) showing other buffer than *scratch*
+What minor mode prints opening paren in the echo area?
+Why does Emacs org-mode ask for master file?
+windmove keybinds are not loaded
+Org-mode: Exclude specific headlines from TOC when exporting
+File mode specification error: How to find syntax problem: Missing :END: line in org-mode properties?
+Remove *.bak files from ido-mode minibuffer
+How do I maintain a history of ido-read-filenames?
+Define Control+Shift keys without kbd
+How to count all of the windows in a frame?
+When switching buffers, prevent emacs from automatically switching frame
+How to wrap given text around region
+Why is `gnus-group-prepared-hook` never called?
+How can I rotate window configurations among frames?
+Starting SLIME in a pop-up frame
+How should I dim the header line of inactive windows?
+Bongo music player won't play next track in sequence
+How can I bind the Ctrl-} key for a LaTeX command?
+How to ensure lines are always displayed in groups of 3?
+How to use different fonts based on the language of the currently active keyboard layout?
+How to make M-x and C-h f share the history?
+How do you run pry from emacs
+How to right align region and/or line?
+Is there a more convenient key binding for RETURN?
+Typing two quote characters in a LaTeX document?
+How to change key bindings for Calendar mode?
+How to debug errors in sentinels and during font-lock
+How to prevent shr from making network connections
+Why is emacs attempting to connect to remote bookmarks after I deleted them?
+What is the difference between a function and a command?
+How to switch keyboard layouts for different languages?
+How can I enable my modifications to a library/package without modifying its source?
+auto-insert a skeleton and run a function when creating a new file
+Emacs won't enable auto-indent-mode at startup
+In regular expressions, what's the difference between [:blank:], [:space:], and \s-?
+Emacs client starts in no windows mode
+How do I pass all the output of process to a function?
+Detect whether a new file has been visited by user or by lisp code
+Sporadical change of permissions of file being edited
+How do I specify a custom face with font-lock-defaults?
+Problem with installed color themes
+How to display a visual seconds clock counter -- 10, 9, 8, . . time's up!
+Splitting windows on startup
+Move cursor with respect to indentation
+When to sharp-quote a lambda expression?
+Recognize LaTeX partial files (with no preamble) as LaTeX
+Problems with font in the Startup Screen
+How to install auto-complete via package system?
+How can I make documents 'portable' between Emacsen?
+Can I set a particular file to automatically and silently accept changes?
+Get irony-mode to automatically load .config_clang
+Copy multiple lines?
+Launch emacs with ediff-files (of ediff-directories) from command line
+make `delete-duplicate-lines` ignore blank lines and certain words
+Use a different color theme for eww buffers
+after-init-hook vs eval-after-load/with-eval-after-load
+Detecting variable changed outside customize
+Using emacs with thunderbird to compose and respond to mail
+Can Occur center the found text in the buffer?
+How to retrieve docstrings from functions and variables?
+org :PROPERTY: "read only" and "no spell check"?
+How can I fill-paragraph a string according to its value rather than its input syntax?
+How can I make customize use single quote for quotation?
+How to know the first and second level heading above the cursor?
+Macro with defcustom leads to "Symbol's value as variable is void" error when byte-compiled
+Compose key in Emacs: <Multi_key> is undefined
+message-mode: delete recipient easily
+How can I refer to an already open eww buffer without knowing its current name?
+filename completion using company-mode
+How to properly change defcustom prefix key
+How to act on rectangles beyond the end-of-line?
+Python-emacs communication broken
+What are the options to play music from within Emacs?
+Emacs on Windows 7 very slow when computer is outside company network
+How to make org-mode timestamps understand a new abbreviation for "tomorrow"?
+Is there a package that can bind S-S (shift-shift) to an interactive function?
+How to make vc-* and magit treat a symbolic link to a real file in git repo just like the original file?
+How to enter view-only mode when browsing Emacs source code from help?
+Python mode - bypassing dialogue on C-c C-c, and having Python appear in its own frame
+Finding the place where auto-fill-mode is getting enabled and disabling it
+How to force the current line to be always in the middle of the screen
+Use standard keybindings for copy, paste, cut, etc. as in other software?
+How can I add default shell commands for various file types?
+What algorithm does sort use?
+selecting files with regular expression using ido-find-file
+Undefine prefix binding
+highlight breakpoints with pdb
+display in the mode-line the number of characters in the selection
+How do I handle multiple string delimeters in a major mode?
+Python and aggressive-indent
+Calculations à la Emacs Rocks -- with `multiple-cursors`
+how to make HELM stop when TRAMP asks me for my password?
+Why is the `buffer-undo-list` excluded from `(buffer-local-variables)`?
+How to transfer special characters like äöü in the command line to emacsclient?
+How do I bind keys in ido?
+Keep moving to the end of lines
+Is there a variable to toggle Emacs 24.4 elisp return "noise"?
+How to actually scroll with popup-tip :scroll-bar t?
+Emacs flickering when using before-save-hook with gofmt
+how to move region to other window?
+Is there fully-automatic fill-paragraph-mode for code comments?
+How to disable line wrapping in Spacemacs?
+any tools for making UI-based or email-based DEADLINE notifications in org-mode?
+org-capture files entry under wrong datetree
+prettify-symbols-mode character replacement regex
+Regexp to parse Hy errors for Flycheck
+Org's Capture: annoying duplicated date tree outlines
+Test variable is bound and non-nil
+CC-Mode - Javadoc Comment Colors in C/C++
+How to explain this strange comint behavior?
+Is there a shortcut for \mathrm in AUCTeX?
+Dependencies of installed packages
+A comprehensive list of shortcuts provided by AUCTeX
+How to view diff when emacs suggests to recover this file?
+How do I turn-off smartparens when using prelude?
+Is it possible to make flycheck-mode and company-mode play nice together?
+How to specify default header arguments in orgmode code blocks
+Indented multi-tiered lists (and headings), with org-indent-mode?
+html-mode and custom backspace keybinding
+How can I remap keys in the minibuffer?
+How to block highlighting of certain nicks in ERC
+How to enable ido-ubiquitous globally
+SBCL and Slime do strange things when I try to use Serapeum
+How do I make pressing <RET> in helm-find-files open the directory?
+Most recent files visited
+How can I detect compilation-mode is waiting for input
+Is there something I should do about "package assoc is obsolete" message?
+Accessing resource files in ERT tests
+Indentation of newlines
+What is the hook used by company-mode to perform autocompletion?
+Key translation
+Org code block receives table without header
+A faster method to obtain `line-number-at-pos` in large buffers
+Dired show specific files in default omit-mode
+What piece of code in Emacs makes `line-number-mode` print "??" as line number in buffers with long lines?
+How to add a key-chord escape in Evil for input in other languages?
+Why does lisp-interaction-mode exist, and do we ever need it?
+Make Jabber.el stop alerting me when new messages are written on MUC, unless I'm highlighted
+Extract file(s) to hard-drive from `archive-mode`
+How can I draw pixel- or vector-based UI elements in Emacs?
+Good methods for setting up alarms (audio + visual) triggered by org-mode events?
+How can I use ERC with an IRC offered over SSL?
+Which version of CEDET should be used with EMACS 24.4.1 for java development?
+How can I use two hooks with overlapping usecases?
+convert fraction to decimal in org spreadsheet
+working setup for ipython in babel
+Defining key-bindings within `helm-map`: getting a `void-variable helm-map` error [continuation]
+Org-mode on the phone or on Evernote?
+Context sensitive skeleton triggered by abbrev stuck in loop
+file-notify support on OSX
+Mac OS Keychain with SMTP email password
+How to truly unbind ALL global keybinds?
+Easiest way to install Emacs Windows support libraries
+Hi-lighting common grammar mistakes in all prose across modes with English text
+UnicodeDecodeError in my Inferior Python buffer
+changing the role of the underline and the minus-sign just in LateX-mode
+Bind f-key in use-package
+How to preserve the visual height of the cursor after an operation?
+How can I make `--verbose` flag be enabled by default in magit commit screen?
+Changing the compilation mode current directory automatically?
+How to checkout ours/theirs on a file in magit?
+Command to visit Github pull request of current branch with Magit
+"Error in process sentinel: Selecting deleted buffer" when exiting Emacs?
+docview: suppress "File X is too large, really open?" confirmation
+shortcut for \neq in AUCTeX
+define-error for older Emacs?
+Access menu-bar using keyboard on Mac OS X
+Force using fixed-width font in org-mode
+Indispensable emacs modes for rails?
+Emacs ZNC-ERC: How to make Customize save my preferences for all sessions
+Paredit: paredit-forward and paredit-backward don't work
+Change the way CC-mode font-lock the C++11 `auto` syntax
+Hide list of minor modes in mode-line
+Make isearch skip folded content in org-mode
+Org - show checkboxes in Agenda?
+Performance differences in comparing symbols and strings
+What is the proper MIME type for .el files?
+When typing, automatically transform SPC SPC into PERIOD SPC SPC
+Eshell doesn't reuse TRAMP connection for remote subprocesses
+Trouble with file-cache
+fixing auto-capitalize to work with org-mode headings and lists
+Omnisharp not making helm integrations available
+Scroll other window (doc-view) -- by page -- with mouse wheel
+Buffer widening not working in Org-mode
+Select images in auctex with preview
+Remove TAB trigger from auto-complete
+Flush all output in shell buffer (and *Messages* too)
+Use two major-mode-maps in the same buffer
+What's the point of delaying SCHEDULED items from displaying in org-mode Agenda?
+Yasnippet prompt when using commands interactively?
+org-mode warning when scheduling task on top of another task?
+How to type Org Mode's `M-` bindings in Emacs for Mac?
+ibuffer: how to filter ruby and rspec buffer into separate groups?
+Make `return` key more powerful
+Is it possible to have the entire org-table use math environment?
+Simplest way to add-text-properties without overriding existing ones
+How to copy links OUT of org-mode?
+Do not auto-capitalize when editing an equation in AUCTeX or org-mode
+Make org-mode export to Beamer keep temporary files out of the current directory
+How to extend the <ESC> => M- translation to non-character keys?
+Make buffer read-only on a per-file basis
+How to remap control up in org-mode
+How to fix markdown-mode's fill-paragraph?
+Saving and restoring highlighting patterns
+How to move point to new window, within a function?
+interactively edit emacs variable in buffer
+I want company-mode to show completions list after the second character
+How do I use company-mode in some buffers and auto-complete-mode in others?
+Managing Emacs key-bindings in other applications?
+Quoting a replacement string for a regular expression
+Reduce the space between elements in modeline
+Interrupt evaluation and observe current stack in the emacs-lisp debugger?
+Adding a new project type to Projectile Mode
+How to set a fractional font size in Emacs?
+AucTeX: can I hide comments?
+Closing parenthesis on own line unacceptable?
+Hexl-mode with colors?
+projectile-rails: run the current test
+Simulate vim splash screen
+Modify org-mode's definition of comment lines?
+Best way to make org-mode reload in-buffer settings
+Automatically update packages and delete old versions
+Prevent Emacs from asking "kill anyway" when only text properties have changed
+Repeat last text insert
+Global semantic summary mode not enabled at startup
+Replace a two-line string not ending in digit with a one line string
+Debugging an emacs font configuration problem on OS X
+evil mode - make helm quit with the escape key
+How to get the raw data for an org-mode agenda without an agenda view?
+Pulseaudio and `shell-command` calls in Emacs
+helm-semantic-imenu doesn't identify pointers and references in C++ code
+emacs 24 lag problem
+How to have C-g *not* cancel emacsclient eval commands?
+Strange cursor behavior with text property invisible
+ielm, bound to a certain buffer
+Emacs 24.4 no longer highlights keywords in `M-x run-python`
+Set mark when jumping from emacsclient
+CSS code completion as in Firebug
+How to set up Emacs with Clozure CL but without SLIME
+Can I configure eww to use pdf-view-mode (from pdf-tools) for PDFs instead of DocView?
+org-mode cannot find pdflatex using Mac OS
+Trouble setting up Emacs SLIME on PowerPC Mac
+emacs major mode for INF files
+How does AucTeX display superscripts?
+Why must I set and reset `buffer-multibyte` to correctly view multibyte buffers?
+Using the count of coincidence from a regexp as replacement text?
+How to put TODO faces in the file?
+How to distinguish between TODO and WAIT in org-summary-todo?
+Is CUA Mode good over usual Emacs Cut and yank commands
+Execute external script upon save when in a certain mode?
+How to use new version of a mode instead of the default built version?
+Centering text in emacs window is unresponsive
+Problem assigning variables
+How can I programmatically get the canonical unicode name of a character?
+How to hook into buffer modified state?
+Getting the key binding for the current command
+How do I make ido switch to the buffer suggested by the tab-completion candidate?
+ido mode not previewing buffers names on switch buffer C-x b
+Can't run Python shell in Emacs 24.4 due to a space in the path
+Switch to next buffer under certain circumstances
+Three days ON one day OFF schedule in org-mode?
+*Org Src file.org[ R ]*: C-c ' is undefined
+How do I use Emacs as a feedly.com client?
+Mode not enabled when Emacs starts, but working fine after M-x eval-buffer on .emacs
+How to show the message age in Wanderlust's summary buffer?
+emacs gdb *gud* "window" undisplayed/deleted after command
+Parsing parentheses: smie vs syntax table
+Moving list item that contains a code block in org mode
+How can I run a keyboard macro in selected buffers from Ibuffer or selected files from dired?
+Sync Facebook events and org-mode
+How can I configure incremental search to put my cursor at the start of whitespace rather than the end?
+Emacs 24's python.el + ipython cannot complete module names
+Unable to disable binding defined by undo-tree
+How disable "unexpected" scrolling behavior in small frames
+How can I read a single character from the minibuffer?
+Editing a string with lots of escape characters
+Is there an easy way to detect how many `C-u`s a command was given?
+Non-existent line numbers flickering
+"Format Code" like in Eclipse
+How can I ask for a web server to serve their "mobile friendly" version of their web pages with eww?
+Making skewer-repl work on external sites
+Strip text properties in savehist
+Access minibuffer history without using arrow keys
+How to define backslash as keybinding in AUCTeX
+How can I turn a string into its literal representation?
+Can I accept a prefix argument based on another argument within an `(interactive ...)` form?
+Why does C-c C-x look like an empty keymap?
+What steps are necessary to start contributing to Emacs proper?
+How to get a list of all the buffers in elisp?
+Do not align nested calls when using ruby-smie
+Using ido or helm to auto complete email addresses in mu4e
+Debugging - emacsclient: error accessing server file "server"
+How to compile emacs with debug symbols?
+How to save part of a regular expression during search and replace?
+How to modify a buffer without undo noticing?
+Save all open files in current folder and subfolders
+Remembering history between sessions in Inferior Emacs Lisp Mode
+Dead keys not working in Emacs-Lisp mode *only*
+How can I apply faces interactively under `font-lock-mode`?
+Only enable whitespace mode in certain buffers
+Function matcher with font-lock-keywords anchored highlighter
+Cannot edit a file as root if ~/.authinfo.gpg file exists
+How to prevent Emacs from breaking hard links?
+Moving line with move-text-up doesn't move point
+Enabling a minor mode with a file-local variable prop line
+How to fix problem with fuzzy matching in helm-recentf
+`package` does not delete old version on update
+hippie-expand disturbes paredit
+How to start emacs with a custom user-emacs-directory
+Check whether a line is in the middle of a block comment?
+How to get rainbow-delimiters/rainbow-blocks to highlight in-line math in LaTeX equations
+How to remove line breaks but retain paragraphs
+'Symbol's value as variable is void' in callback from url-retrieve
+How can I have a second .dir-locals?
+What does customize: Set for Current Session do?
+Stop at beginning of a word on `forward-word`
+Correct markdown-format tables with orgtbl-mode?
+Exporting from org-mode to markdown
+Emacs theme won't change
+How to use backspace to erase last character in search string?
+Editing Fortran90 in a fixed format mode
+Any way to get a working separator line between fringe/line numbers and the buffer?
+What are the potential pitfalls of enabling lexical-binding for a buffer?
+Questions regarding auto-save
+How to force an org-babel session to reset or initialize?
+How to run interactive bash command from Emacs?
+Reading mailing list archives in Emacs?
+Find elisp origin of warning
+How to force emacs to open a file always as a new frame rather than a new window
+Is there any way to order helm results by commonly used?
+Shell-mode conditional execution
+GROUP BY + COUNT over lines in a region
+How to determine which variable controls indentation offset for any given mode
+Text alignment in org-mode numbered lists?
+Variables not shown in company-mode
+Automatically closing #ifdef block when editing C code
+Tell Dired to ignore file-at-point when invoking `ido-find-file` (`C-x C-f` in Ido mode)
+How can I split paragraph into one-line-per-sentence but still keep it wrapped visually?
+Hide mode-line for minimap buffers
+Helm-mode-dired-do-rename change name of file to a prefix of itself
+Why does typing '<<<' instead produce '<<EOF\n<' when in shell-script mode?
+How do I set the fringe colors to whatever is the background color?
+Green lines are invisible in diff output for some files in *shell*
+Make siunitx.el automatically recognize values and unit of unformatted text
+Better indentation and navigation in assembly source code
+Optimizing font lock performance
+Emacs 24.4 in OS X 10.10 is not restoring windows configuration (desktop)
+Can't get a Node REPL with swank-js
+Make org-mode display images from the Internet in your org file
+Recompile tex file without modification
+Proper way to enable minor mode
+How can I troubleshoot a very slow Emacs?
+Use thing-at-point for isearch and minibuffer commands
+Centered figures in org-mode LaTeX export
+org-mode sans arrow keys
+How to change Emacs windows from vertical split to horizontal split?
+How can I disable quail input methods in LaTeX formulas?
+practical limits on org-mode file size?
+How can I install eww or shr in Emacs 23?
+Show org-mode hyperlink as plain text
+Correcting and maintaining org-mode hyperlinks
+marmalade refused my handshake
+Show free blocks of time in org-mode's agenda
+How to tell Ido to get out of the way when I can already just paste the file name?
+Fontify a region of a buffer with another major mode
+How to defalias lambda?
+Are macros expanded when the file is compiled?
+Company and shell-mode path completion
+How to kill a buffer when it causes Emacs to stop responding?
+Different results using color-theme-select versus color-theme-<theme-name>
+How can I make flyspell ignore urls?
+How is the variable scoping for macros determined?
+GitHub Markdown Mode
+Function to return a quoted function for a given key binding
+How to activate whitespace-mode for a cc-mode buffer from .dir-locals.el?
+Restart emacs from within emacs
+Org-mode doesn't seem to be exporting listings/minted correctly
+org-drill isn't letting me drill
+How do I modify a frame once it's created?
+Function to merge two property lists?
+Auto-Indenting \if statements with AUCTeX
+Function to delete all comments from a buffer, without moving them to kill ring
+Could ediff-buffers re-use the current window configuration?
+Terminal warning when starting emacs
+Is it possible to reset the state of the Emacs Lisp interpreter without re-starting Emacs?
+Match Perl identifier using re-search
+How do I force kill Emacs?
+before-save-hook for cc-mode
+Send pylint warning to bottom of list
+How can I use an interactive function in a script?
+How to clear regexp-replace history?
+Starting a virtualenv for emacs to use
+Fix org-fontification error
+How to migrate Markdown files to Emacs org mode format
+Invalid date: 01-Jan-2055
+Flexible org TODO dependencies?
+How to install a color theme for Emacs 24?
+Where is the python.el documentation?
+increasing the time of search-forward using sumatra-forward.el
+Is there a simple way to use all org-files referenced in a main file for the org-mode clock table
+Debugging a "binding stack not balanced" bug?
+Is there a variable with a list of languages supported by Org-mode src-blocks?
+Helm: override C-h
+Ropemacs default refactoring
+Setting `ido-ignore-buffers' doesn't cause buffers to be ignored, where's the error?
+How can I determine the width of characters on the screen?
+Get TRAMP working with cygwin sshd
+IPython shell theme
+Sort org-mode links by descriptive text?
+TRAMP over mosh
+How to start ediff-ing a file that has git conflict markers in it?
+Make forward-sexp recognize blocks defined by keywords, not just parentheses
+Creating a custom Yasnippet with conditions
+Custom follow mode
+Enable follow-mode for PDF in doc-view/pdf-view-mode
+How to assign a certain font for each input method/language in Emacs 24?
+Unwanted escape sequences in shell mode
+Customizing a default indentation style for C++
+Is there a way to daisy chain .dir-locals.el files?
+How to change octal sequences into utf-8 text
+How to right align some items in the modeline?
+Viewing answers in StackExchange for Emacs
+How to use the calendar
+How to make ordered lists collapsed by default in org mode
+How to prevent slow-down when an inferior processes generates long lines?
+Why is `user-full-name' returning “”?
+Emacs on Android - org-mode - error - `(wrong-type-argument stringp (require . t-mouse))`
+Async shell process buffer always clobbers window arrangement
+Wildcard in org-agenda-files
+Why does GUI emacs take longer to start?
+Why do regular expressions created with the regex builder use syntax different from the interactive regular expressions?
+Disable mic-paren in the minibuffer (or at least in ido)
+Display list of words along bottom of frame?
+org-capture crashing Emacs
+Disable minor mode in all open buffers
+Easiest way to set keybindings for strings
+Are there color pickers for Emacs?
+How to copy command output in ansi-term mode?
+What tool shall I use to make a personal note book?
+Automatically update default-directory when PWD changes in shell-mode and term-mode
+org-table alignment issues in osx
+How can I perfectly simulate an automatic package install?
+Restore desktop frames for Emacs server
+How to quickly copy/move file in Emacs Dired?
+Variables in Babel evaluation with SQL blocks
+How to fill (wrap) an org mode heading?
+How to let eshell remember sudo password for two minutes?
+How to turn off iedit-mode quickly after finishing an edit?
+How to convert lines to an org-mode checklist?
+Emacs indent with tabs to 2 columns
+Keep ERC buffers in the background on reconnect
+Autocomplete environments like in TeXStudio
+Using ESS in console Emacs
+js2-mode customizations not applying
+How to input number-series (with appointed amount) in Emacs?
+when installing a package with package.el, How to never show the compile log buffer?
+How to prevent ispell from checking inside mathematical formulae
+Display battery information only when unplugged?
+How to input special character, such as Celsius symbol, and common greek letters?
+Sort file names (numbered) in dired
+How do I use org-mode's checkboxes?
+restclient errors "failed with code 111"
+Shell bash completion window
+Find out backend used in company completion
+Programmatically controlling the order of functions within a hook
+Unicode characters with same font produce different results in GUI and terminal
+Can org-babel replace code with code output on html export?
+What is the standard way to install packages for Emacs?
+How to interactivelly pass a `listp arg` to `yank`
+How can I keep dired in sync with a shell buffer?
+How to get human language-specific numerals?
+Evil-mode text objects not working in python.el's python-mode
+Force a single font for all unicode glyphs
+in term-mode, how do I run regular emacs commands?
+Org date from spreadsheet
+Sending application/x-www-form-urlencoded data with restclient
+Variable-width font in info- and help-mode with correct text width?
+Alias doesn't work for aptitude search in Eshell
+Fixed-width space character with a variable-width font?
+ORG-MODE - Trigger TODO status on a certain date?
+Emacs got frozen when open pdf file
+Has anyone else encountered gui-get-selection: (error "Timed out...") bug?
+Use Super in emacs -nw in linux
+Prevent DOS prompt when using emacs as an 'alternate editor'
+Simulating before-minibuffer-hook
+After (set-buffer-modified-p nil), the first undo command doesn't set the buffer modified flag to true
+How do I add a keybinding to a keymap that is on a prefix key
+How do I demote/promote selected subtrees?
+Is there a template to create a project of directories and files?
+What's eshell's syntax for command substitution?
+Quicker way in Find-file with helm?
+package-install doesn't pick up dependencies that are already in site-lisp
+Split a string without consuming separators?
+How to force the variable 'bidi-paragraph-direction' taking the value 'left-to-right' in a math environment in LaTeX-mode
+How to strip invalid UTF-8 characters from a string?
+Temporarily set the `default-directory` for `start-process`
+Recompile a .gz file in emacs' progmodes directory
+How to quickly format selected code in org-mode?
+do not keep org-agenda-files open after generating agenda
+Open buffer in a specified frame
+using ace-jump-mode inside shell in Emacs
+emacs font/theme issues in osx (cocoa client)
+Map a key to act like a combination of modifiers
+call-process and Hunspell (in Emacs 24.4)
+Installing evil-mode: ad-handle-definition 'evil-mode' got redefined
+What to do to make orgmode faster?
+How to get the arguments of an advised function?
+How to view files ordered by extension in dired?
+How to programatically retrieve help strings for mode-line % constructs?
+Emacs Sunrise Commander only with name-size-time display
+How to change helm's highlight color
+Install haskell-mode failed via el-get-install
+Is there a place to look for statistics on most useful packages?
+How to convert DOS/Windows newline characters to Unix format within GNU Emacs?
+Which version of magit am I installing?
+Weird Prompt: file has changed since visited or saved. Save anyway? (yes or no)
+Reload configuration for a package when using req-package
+Reloading files from disk in frame with emacsclient
+writing tests for a post-self-insert-command hook
+Debugging a custom find-function
+PHP intellisense in emacs
+How to save a copy of a buffer to a file?
+Show the *Completions* buffer automatically when starting completing-read
+How to deal with packages when manage .emacs.d file with version control system?
+Why do I have to add each package to load-path? (or Problem with require 'package in my init file)
+Curiosity: What does progn stands for?
+What's the differences of binding key?
+Matching any printable character but whitespace
+Org headlines are never exported to \paragraph in LaTeX
+Using with-editor
+Regular expression to match text within quotes
+How to auto-format the source code block in org-mode
+How to set default program to open a file in helm?
+Openwith doesn't work in dired
+How to set up Emacs to never split windows?
+What Emacs feature is nearest to Vim's quickfix?
+Easy way to insert Org options?
+Is there a way to know which keys or functions I used most?
+Keeping track of a pdf viewer spawned via AUCTeX?
+Adding an action to helm-for-files
+Find in Project with Ack
+How can I prevent GNU Emacs from splitting windows on startup?
+How can I only show different lines in ediff?
+Global Unset Key: Backspace
+Setting minimum time between consecutive reparses by semantic
+How to highlight text permanently in org-mode
+Line break/word wrap setup for writing a book/journal
+Load all org files into buffers?
+Why does the alt+enter combination only work sometimes in org mode?
+move-beginning-of-line broken in comint mode
+How can I view the hierarchy of TODO keywords in org agenda mode?
+Force twittering-mode links to always open in a specific frame?
+Is it possible to rgrep *.el.gz files?
+Underlining in org-mode links with multiline descriptions?
+post-command-hook and prefix argument
+Is there an Emacs mode which highlights differences from the committed version?
+Why aren't these two otherwise identical forms `equal`?
+Template for latex export in org-mode?
+Is it possible to open .iso file in emacs dired?
+org-capture : how to choose the target file at the end of the process?
+Is it possible to make the echo area next to cursor?
+How to sort file list in helm-find-files
+multiple files in LaTeX?
+Partial function application
+How to make auto-complete work in AucTeX mode?
+How to disable auto-indentation of new lines?
+Backup saved buffers to Dropbox (or other specific directory)
+How to set magit remember git passphrase on Windows?
+Is there a transparent theme?
+Export latex-pdf and loose references: how to fix?
+Setting fill-column for reStructuredText mode
+How can I skip a test if another test failed?
+What's the best API to use to interrogate the size of the underlying window system?
+Rename scratch buffer and ask confirmation to kill non-file buffers created by user
+Send process output to *Messages* buffer, but bypass the echo area
+Semantic not parsing Elisp files
+Save lock-files to a directory instead of disabling them
+smartparens insert single versus paired character?
+Additional binding for keyboard-quit doesn't work with minibuffer
+How to use 'interactive' arguments when calling the command from code
+Emacs regex replace while re-using part of the expression in the replacement
+Setting class attribute for html table in orgmode export
+How to make electric-pair-mode buffer local?
+How can I keep Customize value menus from running too long to select?
+Hide long GPL copyright notice at top of file
+Regex to check for a markdown link at point
+Emacs doesn't display JPEG files correctly
+syntax highlighting and auto-completion for CSS?
+loading a new init file within Emacs
+Search and replace through a multifile project in AUCTeX?
+Are there any Emacs libraries for encoding protocol buffers?
+Can Emacs detect the path of its executable?
+Is it possible to transform emacs to something like bpython?
+org-mode: Is there a description markup like in LaTeX?
+How to use the highlight-chars.el package?
+Change a branch's upstream with Magit
+How to use Emacs to open an eshell from Terminal at a specific path
+Git: is it possible to stage a selected region directly from the file buffer?
+Is it possible to execute a function or command at a specific time?
+Replace "ﬂ"like two-letter combo with two letters
+Haxe-mode broken in Emacs 24.4
+Emacs bind key to prefix
+Specify the order in which `defcustom`s are presented in the Customize UI?
+How to redefine the allout prefix keybinding
+How to delete a LaTeX macro while preserving its text content?
+tree command in eshell on Windows
+Display emacs shortcuts inside emacs, like conky
+Fixing forced indentation in shell-script-mode for tcsh
+How to set the glyph of a unicode character?
+How can I make `string-rectangle` show the changes I'm about to make to the buffer?
+Switch sections in Helm
+How do I enable allout minor mode on Emacs starts up
+How can I find the date ten business days into the past from today?
+How to display time in seconds in the mode line?
+Where is the org contrib directory?
+Hard and soft links (junctions) under Windows
+How to add more fontify rules
+Prevent buffer from being displayed
+setenv in shell-mode
+Is it possible to figure out which package/script takes most of the startup time?
+What coding system should I use for one Emacs configurations for both unix and Windows?
+How to make this RegExp less greedy?
+Magit split hunk into two hunks
+Double click on a web link results in visiting the link in the default browser
+Open an empty, brand new file in a new Emacs window, from terminal
+Idiom to default a setting for most modes, except specific others?
+how to tell helm switch-to-buffer to make new buffer option last?
+How to find out what my AUCTeX version is?
+How to invoke Emacs from MS DOS prompt with a function with argument?
+Using cmd-N and cmd-T with emacs
+Reload environment variables
+How to set proper smtp Gmail settings in Emacs in order to be able to work with `M-x diary-mail-entries`
+Error installing emacs24
+Typing quickly when Control, Alt and Esc are hard to reach
+Emacs typing backwards
+What's the easiest way to implement a function like format-time-string
+How do I highlight certain words between double quotes with font-lock?
+use-package syntax: how to set-face-attribute?
+Fullscreen emacs and narrow column of text
+Collapse sections in markdown
+"Pop" a window into a frame
+How to avoid window scrolling after completion list shows up in company-mode?
+Run command in new frame
+How to determine the AUCTex TeX engine?
+AUCTeX's pdf viewer doesn't open when Hebrew is the default polyglossia language
+How do I use a numeric prefix to repeat a list of numbers?
+How to map a function over several values?
+Org table: aggregate each column (but not the header column)
+how to use the STRING parameter in put-image?
+Get all regexp matches in buffer as a list
+Is there a way to detect that emacs is running in a terminal?
+Open a file from the desktop in a single window (without home screen splitscreen)
+How to debug org-mode export to Beamer?
+Emacs very slow on one machine
+Emacs doesn't let me exit without selecting a coding system
+How to define custom compile commands in auctex?
+Wrong type argument: markerp
+paste html into org mode
+transparently find file over ssh in *shell* directory
+Check the modified time of #+RESULTS file before exporting, then evaluate the code blocks selectively to save time?
+How to bind a key inside the completing-read prompt?
+Can't get grep search in helm-projectile working?
+Trying to connect to a MySQL database using SQLi with no luck
+Remove Org-mode tags from ASCII but not LaTeX export
+where are emacs lisp files?
+Running out of L:/ etters: shortcut for path needed
+Copy and paste to system clipboard in tmux
+How to replicate the "~/"-to-home & "//"-to-root behaviour in ido-find-file but for a custom directory?
+How can I normalize sentence-endings?
+how to programmatically load packages in .emacs file
+How to set the y-coordinate (in pixels) of the current line
+Indirect buffer in image mode (main buffer in text)?
+Remove linebreak arrow and move last word to next line
+Collapse src blocks in org-mode by default
+Keybinding conditional on cursor location?
+How can I create dizzee services programatically?
+How can I open the current buffer in an alternative editor?
+Why is auto-revert-mode not working?
+Managing multiple windows and buffers?
+Visual selection highlighting invisible (with Evil and color-theme)
+can TAB behave like M-i?
+Nice TTY window borders in 24.4
+How to automatically encrypt orgmode files?
+(setq yas-snippet-dirs ...) not working
+Specify the type "mode" for defcustom?
+`:cache yes` makes the settings on `#+RESULTS` erased whenever executing the block
+Info file emacs does not exist
+Enable any outline mode for markdown
+Enable mode association with backup files as well
+Enable Emacs column selection using mouse
+Emacs detect terminal Unicode coverage
+in org-mode, how to insert timestamp with today's date?
+Idiomatic way of extending keymap for inserting unicode symbols?
+package.el asks whether I want to save modified files before package installation. How to disable this?
+Include original position from searched buffer in occur buffer
+Simulate Vim's virtualedit and nostartofline
+Input-methods in the insert eval expressions
+How can I make backward-kill-word stop at special character such as paratheses and line breaks?
+Org: Add front cover for LaTeX/PDF export?
+What is the key LFD?
+How to modify-face for a specific buffer?
+Manually installing a multifile package to “elpa/”
+"Unable to activate package" when starting Emacs
+disable tabular output for code block in org-mode
+Why cannot thumbnails be created by image-dired?
+Problem with nil element in load-path in Emacs 24.4
+How to set the 'name' of an agenda file
+Multicolumn cells in org-mode tables
+Use 'open' command on OS X from eshell
+Disable "now" line in org agenda view?
+How can I comment a block of CSS or HTML in web mode?
+Define key to toggle between javascript implementation and test file
+How can I automatically generate an index from headings in org-mode?
+Turn a non prog-mode derived major-mode into a prog-mode derived major-mode
+How to add new markup to org-mode HTML export?
+Who is "juergen" and why can I see the value of his exec-path?
+Send custom commands via psql interface
+How to make eww default browser in Emacs?
+Customize agenda view with no headers
+Link to password-protected FTP server in org-mode
+Properties inheriting in org doesn't work
+How can I connect the configuration of emacs-x32 of cygwin and windows emacs
+The version number of the Emacs after 24.4
+Reshape a list into rows
+Linking to c++ libraries in babel code block
+Make profiler report columns wider
+Preventing mouse clicks in inactive windows from repositioning the cursor
+Ways to unobtrusively vary text rendering?
+Strange error probably UTF related
+How to access command switches in Magit
+Code-folding extensions for json
+How to show a diff between two buffers with "character-level" diffs
+How to display date in Julian in the mode line?
+How can I stop emacs from highlighting whitespace?
+Eshell prompt regex
+Use spaces instead of tabs with use-package
+Stray trailing 4m before prompt with Zsh in M-x ansi-term
+Can I format cells in an org-mode table differently depending on a formula?
+Named string substitution?
+shell-mode prompt?
+How to change the reminder/announcement times for `appt`?
+Is there some pitfalls if I define aliases for `cdr` and `car` functions?
+What's the difference between push and add-to-list?
+How to get an value from a buffer local variable
+Can Magit do git format-patch?
+How can I determine which function was called interactively in the stack?
+overlay and buffer content
+Evil cursor change by state
+How to learn the stroke order of a kanji (or kana) character using Emacs
+Is there a generic toggle-previous-window function?
+Generating output in a different language with org mode
+Define a main window and then close all others
+What's the mode hook for dired's minibuffer?
+How to customize org-mode indentation?
+Why don't insert-in-front-hooks run?
+Make visual-line-mode more compatible with org-mode
+Unable to get backtrace for error
+Fetch configuration from remote (e.g. Github) at startup
+Automatically Capitalise i to I
+How to include other .org files programmatically (ie not from main .org file)?
+Export results of codeblock, then later export the source block (e.g. as for a code-listing in a document appendix)
+Mouse problem in org-mode export window
+Append region to the end of the lines of another region of same length
+Parse command line arguments in interactive session
+How to set the engineering notation as default in calc?
+Take a bitmap screenshot of a window
+How can I see the changes made to a modified buffer since the last save?
+Send email with gnus via ssl port 465
+case-sensitivity of word completion using dabbrev
+How to have emacs format/indent javadoc comments correctly?
+latex-mode-hook or LaTeX-mode-hook?
+Change focus to *Help* buffer after running describe-mode
+Recursively go up to find Makefile and compile
+How to evaluate the variables before adding them to a list?
+Restoring windows and layout after an Ediff session
+cocoAspell + Emacs 24 + Mac OS X Yosemite
+Where is the default color / custom theme defined?
+Is possible to execute a key binding in a function?
+Is there a package to simplify clickable text?
+M-x command completions to all occurrences of a substring
+Adding abbrevs in ess-mode
+Detection inside general LaTeX (not necessarily Math) commands
+Why are my compilations executed in the parent of `default-directory`?
+Attempt at remapping evil only remaps some of the keys
+Issues setting up Java code completion in CEDET. Cannot find semantic/db-javap
+How can I detect if the current character is a comment character for that major mode?
+Antialias in windows? (emacs 24.4)
+how to use helm-do-grep to search within subdirectories?
+How to define key bindings for major mode extensions?
+run-with-timer error: "Invalid or unitialized timer"
+Exporter for Org: can quote-block get headline's property?
+Different scroll margins at top and bottom of window?
+doc-view-mode-hook?
+Sorting headings in an ORG file
+Locally added file under the Git version control system
+Why does this url package request receive a different response than the 'equivalent' curl request?
+Disable org-mode keyboard shortcuts
+Sorting words with hyphens (e.g. in a Lisp mode)
+Set region to include enclosing parentheses
+Collapsing undo history
+Disable auto overlay prompt in AUCTeX?
+Make use of an empty echo area to display information
+Format a HTML paper with Org-mode
+Interrupt ELisp interpreter from outside Emacs?
+Use font-lock mode on only part of buffer
+How to cancel the minibuffer from the main buffer
+Why save-excursion doesn't save point position?
+How to toggle between previous buffer in a given window (e.g toggle-previous-buffer-in-window)?
+Can helm filter files by mode
+Transiently adjust text size in mode line and minibuffer?
+Repeat replacement until not possible?
+Orgmode - scheduling recurring events without using sexp or +-syntax
+How can I list available tags in Magit?
+Tab indentation for kernel editing
+How do I refactor across a project in emacs (change method name everywhere)?
+Comment lines in org-mode with clean view
+Configure.ac options when building from source
+How to load all .el files at start-up
+What is the point of quote with single argument and comma? (quote ,arg)
+Export :PROPERTIES: blocks with org-mode?
+How to display at the same time occurrences of two different words?
+Add a constant decimal value to a column of numbers
+How to programmatically execute a command in eshell?
+The syntax highlight and indentation of source code block in exported html file for org-mode
+Tramp file encoding for Unix
+Projectile only sees project related to current buffer, if the buffer belongs to a project
+Advising evil-forward-char seems to trigger advice twice
+How to Detect Current Workgroup in Workgroups2?
+Semantic does not reload c-preprocessor symbols from file
+ERT with Emacs23
+How do I edebug a function defined in a use-package block?
+Wrapping Python code with %cpaste and -- to send to iPython in elpy
+How to open a external terminal from emacs
+Elisp code to check for internet connection
+How can I open a specific revision of a file with Magit?
+Dired: can't create a regexp to hide all the necessary files
+Query dimensions of main window
+How do I make tramp+eshell use my environment customized in the remote ~/.bash_profile
+What is the syntax for a subshell in eshell?
+"Marker does not point anywhere" error when using (message)
+Pasting text into Emacs 24 search command buffer
+Get width of an image
+Emacs: How to enable toolbar mode and menubar mode only under a certain mode?
+order of settings in init file
+How does forward-list work for "<>" in c++-mode?
+How can I automatically insert a prototype in foo.h from foo.c?
+Make a new frame with only mode-line
+How to make org-export give more messages when it fails
+Can I safely clean up the .emacs-mail-crash-box and how not to store mail localy?
+Which variable gives the value of the current character?
+Detection of a LaTeX math syntax error at Emacs level
+Trying to refactor the code where I customize faces
+Org Mode exclude subtree from agenda views
+Are there any libraries in Emacs or the wider package system for automatically persisting variables
+Bind multiple values directly from list without binding the list itself
+regular expressions: matching all words containing a specific list of letters
+Make emacs lock display of the first line of a file
+Open .cbr files
+Autosave *scratch* to a directory
+How to search *just* the current line
+How to remove individual sources from auto-complete's ac-sources in a specific major-mode
+Why are leading spaces colored before comments in makefile-mode?
+ChangeLog mode indentation breaks when pressing return
+C++ Incorrect Enum Indentation
+What is the easiest way to open the folder containing the current file by the default explorer of the OS?
+whitespace-mode ignores whitespace-line-column
+How to get correct indentation for the closing parenthesis in cperl-mode?
+How does package.el handle changes in macros when updating?
+Why can't I use a variable when defining the color to draw a box with
+org-mode : in a table, calculate a person's age based on their birthday
+Face color attribute incorrectly applied
+Replacing columns in a delimited region of a file
+Use the command key in Terminal on OSX?
+Why does one argument need to be quoted but not the other?
+Drag the weblink of a file to a dired folder to save in that folder
+Specify name on emacsclient first frame
+deactivate saveplace.el for filetype
+How to run iso-tex2iso in batch mode?
+Defining a macro that exists only in one .el file
+Full path figure export to LaTeX error in org-mode in Windows 7
+Tags show conflict when I use visual-line mode and fold the headline
+How would one fake kerning adjustments in propertized text?
+How do I write a Flycheck predicate that checks for the checkers config file
+Find the next occurence of lines with matching prefix
+Programmatically add files to existing Dired buffer
+Can I make links in Org Mode that contain brackets, [ or ]?
+How do I catch signals?
+How can I test an idle timer with ERT?
+Capitalizing letters that follow colons using 'replace-regexp-in-string'
+When to use symbol properties?
+How to match the function name in a function call?
+How to use ediff with (hg) changesets?
+How can I disable an individual snippet when in shell-script-mode?
+Evaluate paragraph in cider
+Default commit comment for magit
+Visual Basic mode doesn't work after update
+Automatically saving the current file after typing a certain number of characters
+Heredoc or equivalent multiline string syntax in Elisp?
+How do you return from a function at an arbitrary point?
+Is there a simplified version control system appropriate for non-coders writing in Emacs?
+eval-expression that shows the current character
+How to bind C-[ for real?
+Signal a buffer was evaluated in an inferior process?
+org-mode: have flycheck resolve relative config while editing code blocks
+org-habit - do a repetitive task certain days of the week only?
+Regexp not working
+Show line number on error
+Gradually learning the keybindings provided by AUCTeX
+How to turn a heading into a list item in org mode?
+Helm command in `emacsclient -c` does nothing
+How to return to the place of the last inserted character?
+Emacs freezes using Sweave and ESS
+Inserting electric braces in AUCTeX
+Show colors in mode-line for minor modes
+Make Org report: "Bob's 21st birthday" like imported diary entries do
+unable to restart or update a timer
+Removing all overlays with duplicate values
+How to store Tramp passwords permanently
+What is the easiest way to check if a character belongs to a particular set of characters?
+How to return the selected cons cell using completing-read?
+The time of the last change of the current buffer
+org-plus-contrib and org with `require` or `use-package`
+Highlighting and keyboard-quit
+How do I prevent one subprocess from starving others?
+Company Completion Within Yasnippet Snippet
+Email Code Snippets through Emacs (with Mutt)
+How to check for new messages on thread before sending with gnus' message-mode?
+emacsclient of 24.4 does not work on Yosemite
+Ways to open the compiled pdf file of the current tex file
+How to make yasnippet and company work nicer?
+helm-ag (or similar) find in javascript files only
+What does the M in MR stand for in the first column header of *IBuffer*?
+Optional argument in AuCTeX definition of environment
+Helm Projectile file limit
+Embed a font definition in an emacs theme?
+Control+Meta key is not working
+Opening frames from emacs-daemon
+detect if inside a LaTeX footnote and get its bounds?
+How do you select under emacs the key you sign/encrypt with when using mml?
+Why isn't (TeX-current-macro) a member of '(chapter section)?
+AUCTeX/Preview PDF2DSC sentinel error
+How to set the `auto-mode-alist` for `*.el` files when installing packages
+How to do font-lock of double quotes in AUCTeX?
+Using UTF8 encoding as default when writing emails
+Viewing & editing Excel spreadsheets and csv files in Emacs
+zsh EXTENDED_HISTORY corrupts shell-mode history
+universal argument can not work in this function?
+How to do searches in MediaWiki mode?
+Calculating cursor position excluding the overlay after-string
+Emacs lisp forward-sexp: Scan error: "Containing expression ends prematurely"
+How to define a variable which gives the last inserted character of the current buffer?
+How do I stop emacs open certain files in conf-mode?
+helm-projectile-ag : How can I refine the grep results further?
+Can Gnus nnimap split articles to other imap server?
+how to expand a yasnippet snippet after punctuation?
+how to modify default command for TeX-command-master (ie, C-c C-c)?
+When to use transaction queues?
+How to save expansion state of org-file?
+Global minor mode not global?
+How can I view the full `package-alist` value (without the truncation characters "...")?
+How to determine where a face (as it appears on the screen) is defined?
+Getting `:distant-foreground` face attribute to work
+Looking for a Fedora 21 repository for current GNU Emacs development code
+How can I delete all the gdb related windows/buffers after `q` in gdb CLI window
+How to search an Arabic word in text without its diacritics/accents?
+Is there a way to resize margins when exporting PDF in org-mode?
+How to change comment string used by comment-region?
+Change order of symbols for «sort-lines»
+Is there a yasnippet producing a prepopulated doxygen comment?
+Sharing *compilation* window with other compilation-like commands
+Unicode character escape sequences instead of text upon mouse-2 paste from other windows
+Helm alt-tab-like function
+multi-term terminal messages configurations not working as expected
+Does Emacs Lisp functions return objects by reference or by value?
+How can I save eshell alias settings when using prelude?
+auto-complete mode performance is awful in nxml-mode
+How to use autoload?
+Is there a possibility to have multiple agenda views open at once?
+How to move by whole line rather than within a wrapped line (emacs 23.1+)
+Configure indentation logic to ignore certain lines?
+Why is TAGS table setting persistent?
+why is emacs indenting when I type an open paren
+Define a keyboard macro to indefinitely execute another keyboard macro and then do something else
+How to implement the piping operator %>% in ESS mode?
+How to use function update-file-autoloads and and variable generated-autoload-file?
+org-refile to a known fixed location
+Does autoload load all functions in the file or just the one specified?
+Is there an equivalent of `M-x check-parens` for finding unmatches braces or ['s in any buffer (not a particular mode)
+ESS Syntax Highlighting for Negative Numbers?
+How to implement comments outline in ESS similar to that of Rstudio?
+Trying to enable keybindings for 'outshine': "set before outline-mode is loaded"
+how to give optional arguments to commands
+Helm swoop on all project files (not just current buffers)
+sr-speedbar width size options on start not working
+How to obtain the statistics of the frequency of characters in a buffer
+emacs on terminal does not recognise option as alt-key on mac
+Elisp: How to exclude sensitive information from an init file? (ie login credentials)
+Does elisp have regexp literals?
+Projectile with caching doesn't like new files
+Emacs crashing on OSX, no crash log file
+how to set environment variables={EDITOR, VISUAL} to prefer running emacs?
+Emacs Can't Find Theme File
+How to get buffer position given line number and column number?
+Get widget at point
+How to use a fixed desktop save directory name with desktop-save-mode?
+Arrow and M-n M-p don't work with company mode in terminal when ESC aborts completion
+How can I get the tags for a headline in a clock report formula?
+How to disable DocView as default command in AUCTeX?
+How do I filter kill-ring contents?
+Emacs-native solution to searching files
+Elisp revert add-face-text-property
+Helm not working on remote project (Tramp over SSH)
+Is there a mode to indent doxygen type comment block with function parameters?
+Is there a mode to automatically update copyright years in files?
+Is there a way to search/replace with regexps interactively using rx syntax?
+How can I quit entering keywords when I auto-insert with Helm?
+How can I build a regexp insensitive to case?
+Emacs is blurry on scaled Windows displays (eg. Surface)
+Make completing-read respect sorting order of a collection
+Mapping equivalent local files to remote files when using tramp
+normal-erase-is-backspace-mode does not work over ssh when included in .emacs
+Automatically inserting an space when inserting a character depending on the previous character
+zs and ze from Vim?
+Pure elisp spell checking in Emacs
+ESS major modes keybindings do not work
+Using TAB key for indentation in Python REPL produces strange indentation problems
+Why does *compilation* buffer show control characters?
+What's the fast way to navigate to MAC OSX "Finder"?
+Customizing name of "Help" buffer opening by package-menu-describe-package
+Reusing previous inputs (old or new) for query-replace
+Using desktop-mode with Emacs Daemon
+Show done items in current calendar week
+Use a variable to determine let bindings
+Powerline separators on Windows -- create XPM image?
+How to prevent window split in a single frame
+Make org-agenda show only first occurrence of recurring task?
+Encode non-html characters to html equivalent?
+How can I run Emacs 24.x app on Mac OS X in daemon mode
+How do I start a shell automatically after starting emacs
+Not getting notifications with rcirc-notify in OSX
+Where do DLLs go for Emacs 24.4.1 on Windows 7?
+Set fill-column in org-export
+how to use org-plus-contrib?
+detect if inside a LaTeX ``quote'' and return its bounds?
+Prevent TTY fallback when X fails
+aspell exited with signal Trace/BPT trap: 5
+mode-line in title bar?
+untracked ".#file" in a git repository?
+Hook for mode-line changes?
+How can init file tell if running under X11?
+In an orgmode clock report table, how do I sum a column that was computed with another formula?
+crypto-newbie: how to securely sign outgoing email with `smtpmail` (or simplest alternative)?
+Why does `helm-find-files` change behavior depending on my current location?
+Major mode map in emacs
+Color-code a new generic character combination
+How to increase the number of displayed digit decimals in Emacs calculator
+How to use {est+} field?
+Elisp, can I pull-in (provide) a function & variable from a library without changing library?
+How to make the custom font lock keywords not override the default major mode font lock?
+Polymode installation on Windows machine
+Clear secondary selection without using mouse
+Remove Task state keywords (TODO/DONE) from clocktable reports?
+Dired: hide "Omitted N lines" message
+Emacs wrongly indent else expression in Python code
+How to get the default input value in minibuffer and edit it?
+Debugging Tab command in emacs, js2-mode
+How to make fill-region/paragraph identify a paragraph prefix?
+Polymode appears in minibuffer but does not weave into a file on Windows, why?
+Where is my Emacs install?
+How to customize font-backend for /usr/local/bin/emacs in OS X?
+org-mode and taskjuggler export
+Newbie trying to understand emacs filing system
+js2-mode on, still emacs hunts for javascript-mode
+permanently change buffer mode of a file?
+Repeat regexp from isearc-forward-regexp on a subsequent replace-regexp?
+How to determine if the current character is a letter
+How to set window size programmatically (and without guesswork)?
+mixing automatic abbrev expansions with explicit-only expansions?
+How do I set up my .emacs.d folder on Windows?
+Tag buffers according to project
+Run (async-)shell-command in view-mode
+cygwin/emacs (v24.4.1) behind firewall proxy package install 0 sized files
+Running code on emacsclient connect
+helm-project-switch-project in other window
+Auctex align-current does not properly align table in Aquamacs - what's wrong?
+Is using require multiple times on the same symbol idempotent?
+Insert one character 2 chars before end of string
+How to globally disable `shell-dirtrack-mode` after `(require 'shell)`
+How do I set the header cell for a custom formula column in a clock report?
+js2-mode with flycheck and jshint
+Writing Emacs Packages in Java
+Default name for dired copy and rename
+Change local holiday calendar
+Set default language for code-blocks in orgmode
+Is it possible to have word-wrap as standard but truncate some lines in a buffer at the same time?
+How can I tell align-current to align multicolumn cells properly?
+Mongo console doesn't behave properly in ansi-term
+In undo history, how to separate abbrev expansion from self-insert?
+Untrack file without deleting it?
+meta-data related to the current buffer
+How can I quit ediff immediately without having to type 'y'
+Get git repo root directory, preferably with magit
+Looking for a simple way to update an alist without introducing degeneracies
+Mark package to never be considered for upgrade
+How does one use flyspell in org buffers without flyspell triggering on tangled code blocks?
+Exporting the results of code evaluation in org-babel by default
+Open file by name matching recursively from current folder
+Auto-refresh files when using tramp
+How to update frame-title-format and also the current frame title?
+Pasting in evil-mode when there's an active selection copies the selection
+How can I change the color of a \enquote quotation inside Emacs?
+How to install a package manually
+domains read by melpa's JavaScript
+Can I checkout a given commit from magit's log view?
+How to repeat the last n keystrokes?
+How to specify a printer?
+convert a text buffer to a pdf file?
+Error when opening IPython notebook list using EIN
+Auto indent plain list content?
+How to control which iESS process gets a code evaluation?
+Tuareg mode indentation after the first open clause
+How to Persist Evil Markers?
+rotate between abbrev expansions?
+Change Default Compiler Within Emacs?
+Map a Key to an Evil Operator and to Other Things?
+emacsclient can't open display :0
+Why is Emacsclient inserting quotes around output strings?
+Create a keybinding to call a function using the universal-argument
+How to change the name of a variable in a function within a selection?
+Go to item that links to id of current item?
+How to reveal all nodes containing a given substring?
+Global goto regex?
+How to convert this add-to-list call into a function
+Is there a way to modify or redefine a type of org-link locally?
+See Org Mode links in Org Mode comments
+How to make a code more legible
+Interaction between package, use-package, and quelpa
+How to make org prompt for a timestamp, when changing state of a TODO?
+How to look up documentation for a minor mode?
+How to configure org-mode properly after upgrading from 7.9.3
+helm help mode can not search or select
+disable helm mode for find files
+Mouse 1 doesn't follow footnote in org-mode?
+Pick a window for ido-find-file-other-window and ido-switch-buffer-other-window
+org-mode clock-in in column view doesn't work on first clock-in?
+Replace org-open-link-from-string failure format
+abbrev table inherit properties from other tables?
+detect minor mode activation
+Yasnippet minor mode working in lisp-interaction-mode but not in emacs-lisp-mode
+Simple JDEE Setup for Existing Java Project
+How to shift a selected area of text in Emacs by a certain number of spaces?
+What is the file local variable mangle-whitespace?
+Org-mode: Source block doesn't respect parent buffer indentation
+Let statement throws error on assigning a form to a variable
+condition-case-unless-debug code study
+New Emacs 24.4 problems in org-mode
+How to define an image as a display-table entry
+How can I jump to a file and line number from a list in a buffer?
+Custom Major Mode - Regex to find word before equal sign and set font-lock-variable-name-face
+Package manager encoding error
+How to use helm to complete sources which are lines in a buffer?
+Is it possible to export content of subtrees without their headings?
+How do I search and replace over a set of files?
+emacs cscope integration basics
+Category based clock report?
+How can I visualize VCS status in dired?
+Why does multiple-cursors use the same char for all cursors with iy-go-to-char, but not with zap-up-to-char?
+LaTeX-aware sentence endings?
+Is there something like brace expansion in eshell?
+Why does the buffer get garbled?
+How to find the unicode control string received by emacs for a command?
+How to pick colors using Emacs to generate a 3-element vector
+Colored git output in eshell
+Turn case sensitivity off in regular expression replacement
+What is happening when my uncommitted changes temporarily disappear from magit?
+Extending autocomplete for Go to insert function arguments
+Make reftex-mode work with a different citation format
+Is it possible to remove '\emsp' from clock report but preserve indentation?
+Is it possible to do helm-org-in-buffer-heading with matching of inherited tags?
+How can I get an org-mode outline in a 2nd buffer as a dynamic table of contents?
+Speedbar and org-mode only shows subheadings, but not 3rd level+ subheadings?
+How to jump to a mark using Elisp
+Move to other cloned buffer to same point? (sync position of indirect buffers) (org-mode)
+Single mode line for all windows
+Replacing every empty line with a string, i.e. inserting strings to empty lines
+Interface with Sqlite
+Ragged menu in company-mode
+What is the regex to match a newline character?
+Function that returns parent directory absolute path
+How to use find-file with wild-cards non-interactivley?
+Org-mode: org-export-as-html is detected as XML, not HTML
+Macros prefixed with 'with'
+Return heavily indents previous line
+AUCTeX: Inserting and deleting matching pairs of parentheses
+Set variables based on path without using directory-local variables
+cl-block Vs let form in elisp
+Enable whitespace-mode with Prelude in C++-mode
+How to use the echo area to display useful information?
+Re-arrange columns in agenda clockreport?
+Removing tool bar oddly slow
+Managing packages using use-package
+How to treat underscore as part of the word?
+org: How to sort headings by TODO and then by priority?
+OTF ligature support in Emacs
+Load a file into a buffer without changing the display
+How to display type of C variable in a curses type menu?
+KBD macros defined in emacsclient disappear when client is closed
+How can I override a pre-defined face for light and dark backgrounds?
+setq with lambda argument sets symbol's variable cell (or) function cell?
+Can I make the projectile chosen project sticky and not follow the current buffer
+Does org-mode has a assembly highlight?
+Is it possible to copy /paste multiple lines of text into cells of org-mode table?
+List-packages requiring me to select coding system
+How to find what causes ESS to run very slow?
+clockreport, total productivity by day?
+Tell a dash (-), an en-dash (–) and an emdash (—) apart
+Using find command on windows
+How do I turn off highlighting for $...$ in tex-mode
+What is the difference between TAB and <tab>?
+Where is `helm-pdfgrep`?
+Using different theme on tramp buffers (and buffer-related themes in general)?
+org-present mode makes asterisk characters invisible
+How to fix browse-url-firefox for firefox 36.0 in linux?
+rectangle-insert in Emacs 24.4
+Could not load package flyspell with use-package
+How to create :keywords?
+Open new emacs frame that steals focus from other apps?
+Change default behavior of numeric key row?
+Unable to remap key bindings involving meta under iTerm2
+A simple overlay program

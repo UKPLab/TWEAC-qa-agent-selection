@@ -1,0 +1,87 @@
+---
+out_dir: "PATH_TO/results/iterative_extend"
+cache_dir: "PATH_TO/data/cache/training_data"
+transformer_cache_dir: "PATH_TO/data/cache/transformer"
+base_model: "PATH_TO/START_MODEL/best_model/model.pty"
+all_agents: # !!! Order here defines order of classifier !!!
+  - nintendo
+  - Music
+  - jobs
+  - pcgaming
+  - france
+  - zen
+  - socialism
+  - Conservative
+  - furry
+  - houston
+agents_extended: 1
+base_model_exclude_old_agents: False
+folder_name_prefix: reddit
+model:
+  version: v2
+  max_length: 80
+  model: albert #albert #electra #bert
+  model_name: albert-base-v2 #albert-base-v2 #google/electra-small-discriminator #bert-base-uncased
+  classification_dim: 256
+do_train: True
+sampling: simple # Comment out to not use our half-and-half sampling.
+train:
+  freeze_extend: False
+  freeze_bert: False
+  batch_size: 32
+  gradient_accumulation_steps: 1
+  epochs: 10
+  learning_rate: 0.0001
+  warmup_fraction: 0.1
+  max_grad_norm: 1.0
+  weight_decay: 0.0
+  base_path:
+    - PATH_TO/data/reddit/train
+  truncate: 512
+  extend_truncate: 512
+  epoch_resample: True
+  agents:
+    nintendo: nintendo.txt
+    Music: Music.txt
+    jobs: jobs.txt
+    pcgaming: pcgaming.txt
+    france: france.txt
+    zen: zen.txt
+    socialism: socialism.txt
+    Conservative: Conservative.txt
+    furry: furry.txt
+    houston: houston.txt
+dev:
+  batch_size: 64
+  truncate: 512
+  base_path:
+    - PATH_TO/data/reddit/dev
+  agents:
+    nintendo: nintendo.txt
+    Music: Music.txt
+    jobs: jobs.txt
+    pcgaming: pcgaming.txt
+    france: france.txt
+    zen: zen.txt
+    socialism: socialism.txt
+    Conservative: Conservative.txt
+    furry: furry.txt
+    houston: houston.txt
+do_test: True
+test:
+  batch_size: 64
+  truncate: 512
+  base_path:
+    - PATH_TO/data/reddit/test
+  agents:
+    nintendo: nintendo.txt
+    Music: Music.txt
+    jobs: jobs.txt
+    pcgaming: pcgaming.txt
+    france: france.txt
+    zen: zen.txt
+    socialism: socialism.txt
+    Conservative: Conservative.txt
+    furry: furry.txt
+    houston: houston.txt
+

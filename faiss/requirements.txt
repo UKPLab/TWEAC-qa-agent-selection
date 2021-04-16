@@ -1,0 +1,6 @@
+elasticsearch==7.5.0
+numpy>=1.19.3
+sentence_transformers>=0.4.1.2
+tensorflow_hub>=0.8.0
+tensorflow>=2.1.0
+tensorflow_text>=2.4.3

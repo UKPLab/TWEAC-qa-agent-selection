@@ -1,0 +1,916 @@
+What is the current state of the art for platform modeling?
+When is applying reverse engineering techniques acceptable?
+Is there a good reference for COM object signatures?
+How is a structure located within a disassembled program?
+How are x86 CPU instructions encoded?
+What hints in machine code can point me to the compiler which was used to generate it?
+How can I analyze a potentially harmful binary safely?
+Reverse engineering a Solaris driver
+Checking if an .exe is actually a .jar wrapped in an .exe
+What safety steps are to be followed when opening up an unknown piece of hardware?
+Decompiling Android application
+Anti-debug techniques on Unix platforms?
+Usage of FHE in obfuscation?
+Can I create an object file using gcc that cannot be reverse engineered?
+Obfuscating JavaScript with zero-width characters - pros and cons?
+What are the essential IDA Plugins or IDA Python scripts that you use?
+Is reverse engineering and using parts of a closed source application legal?
+What is a good tools to reverse the effects of Minify on JavaScript?
+Unpacking binaries in a generic way
+Are there any open source test suites for testing how well a disassembler performs?
+Is there any way to decompile a .NET assembly or program?
+Reversing an FPGA circuit
+Static analysis of C++ binaries
+Get used jQuery plugins from website
+Identifying variable args function
+Equivalent of IDA FLIRT signatures for GDB?
+How can I analyse an executable with no read permission?
+AMD64 compiler optimizations with register manipulations
+How can I turn .deb files back to .tar for reuse with other Linux distros?
+Unpacking binary statically
+What kinds of steps can I take to make my C++ application harder to reverse engineer?
+How to manage/revert to specific OS versions for effective patch diffing?
+How do I figure out what is burned on an Arduino ROM?
+Get code from protected PIC
+How does one reverse engineer a SWF file?
+Tracing message passing instead of a call stack
+Can you decompile Actionscript 3 on a Mac?
+Should I keep parenthesis information while source modeling?
+How do you reverse engineer an EXE "compiled" with PyInstaller
+How to check if an ELF file is UPX packed?
+Is it possible to hide the details of which compiler was used?
+Viewing MSSQL transactions between closed-source application and server
+Are hardware dongles able to protect your software?
+What is a FLIRT signature?
+Obfuscating Windows Executables
+How do I add functionality to an existing binary executable?
+Are there any metrics for code obfuscation?
+What kind of information can i get from reverse engineering an integrated circuit package
+How can I analyze a program that uses a JIT compiled code?
+What different UPX formats exist and how do they differ?
+Where can I, as an individual, get malware samples to analyze?
+Canonical method to circumvent the ZwSetInformationThread antidebugging technique
+Decryping TLS packets between Windows 8 apps and Azure
+How should I go about investigating an IC's functionality without destroying it?
+How to see what compiler made PIC ASM code?
+How do I identify the content management system used by a website?
+How to differentiate from different hex files of different families of microcontrollers?
+How does GDB's process recording work?
+What is the purpose of 'mov edi, edi'?
+How should I go about trying to figure out the programming language that was used?
+What is a correct disassembler?
+How to reverse engineer a proprietary data file format (e.g. Smartboard Notebook)?
+Where to find (free) training in reverse engineering?
+Reverse engineering apps for Windows Phone 7 and 8
+Are there ready-to-go reverse engineering VMs?
+How to recover variables from an assembly code?
+Determining RS232 bus settings
+Determining communication protocol
+Exposing the connectors in a package on package
+Treating independent code as a function in IDA Pro
+What are the qualitative differences in reverse engineering x64/Win64 code versus x32/Win32 code?
+Reverse engineering XKCD 1190
+Secure RE-ing a PHP script
+Why are machine code decompilers less capable than for example those for the CLR and JVM?
+What is your vulnerability discovery process?
+How should I determine the format of this audio file?
+Importing external libraries in Hopper scripts?
+Find out a Java class file's compiler version
+Automated tools for file format reverse engineering?
+What is the scalability of state of the art static binary analysis techniques?
+Safari windows debugging symbols
+Tools to work cooperatively on the same binary
+Which format/tool to store 'basic' informations?
+How to investigate function calls across a batch of targets?
+Encrypting text in binary files
+REIL Implementations and Adoption?
+How do you deobfuscate Java classes?
+What is a good Java decompiler and deobfuscator?
+How do I identify and use JTAG?
+State of the Art Fuzzing Framework
+What happens when a DLL is added to AppInit_DLL
+How can you reliably unpack a Windows driver manually?
+What are good Windows anti-debug references?
+Decent GUI for GDB
+Firmware-Mod-Kit Increases Size
+Debugging EXE with TLS
+How can I reverse optimized integer division/modulo by constant operations?
+How to prevent use of Resource editors
+How do I determine code coverage when fuzzing
+Context-Free Grammar from Samples
+Available tools & techniques for locating sections of interest in a binary executable
+Thread Injection on OSX
+Malware Hooking INT 1 and INT 3
+Determine Encryption Algorithm
+What is the state of art in LLVM IR decompilation?
+Analyzing highly obfuscated JavaScript
+Draw circuit of a multilayer PCB
+How do I acquire SoftICE?
+How can I work out which PCB layer a via goes to, without destroying the board?
+Is there an easy way to detect if the SSDT has been patched from a memory dump?
+Are there any tools or scripts for identifying compression algorithms in executables?
+3D control-flow graphs in IDA
+How does BinDiff work?
+How common are virtualized packers in the wild?
+Reverse engineer an old DOS QBasic executable
+What techniques are used in reverse engineering a serial protocol?
+Open source GUI tool for decomposing a PDF
+What is "overlapping instructions" obfuscation?
+Where to find a hard crackme
+INT 2D Anti-Forensic Method
+Linux protectors: any good one out there?
+What techniques are used in reverse engineering embedded firmware?
+Where to find information about a file format?
+Is it legal to sell clean room engineered products?
+Reverse engineering flexlm license management
+How to create an API for a web application without its source code?
+IDA Proximity viewer not finding obvious paths?
+What are the best practice methods for documenting research into the reverse engineering of a file format?
+Where can someone interested in the topic learn more about Dynamic binary instrumentation?
+Where can I learn more about black-box fuzzing of small embedded systems?
+Possibilities for reverse engineering an ipa file to its source
+Are reverse engineering and decompilation the same?
+Reverse engineering a Visual Basic p-code binary
+Windows API reference for OllyDbg
+How can I check I've moved outside the stack without triggering a protection fault?
+Determining if a file is managed code or not
+Server-side Query interception with MS SQL Server
+How to see what data is being transmitted when an application calls home?
+Advantages of OllyDbg 1 over OllyDbg 2
+Pintool For OSX
+How to map an arbitrary address to its corresponding basic block in IDA?
+What are the differences between BitBlaze and BAP?
+What is the reason for this method to call itself?
+What is an "opaque predicate"?
+Why is this string on the stack not exactly the one I entered?
+What is "instruction camouflage" obfuscation?
+How to produce binaries with "instruction camouflage" obfuscation?
+What sources do you use for gaining information/intelligence about hardware products?
+Are there any free or low cost disassemblers for the Renesas H8 family of processors?
+How to detect a virtualized environment?
+Porting Linux executable from 32bit to 64bit
+What are the differences between metamorphic, oligomorphic and polymorphic malware?
+Bypassing copy protection in microcontrollers using glitching
+Decompiling .pyc files
+Fixing the checksum of a modified Android ELF
+Dynamic java instrumentation?
+Determining if a variable is local or an argument passed to a function
+How can I use DynamoRIO or something similar in Linux kernel space?
+mathematical background behind exploit development and vulnerabilities
+IDA Convert to Unicode
+How can I prevent Immunity Debugger / OllyDbg from breaking on attach?
+Is it possible to get the encryption key when you have the plain text
+How accurate is Cerberus for reverse engineering malware?
+Windows Wiki : Books and Tutorials
+Is there a collaborative reversing forum for people that deal with firmware?
+How to capture an "in-memory" malware in MS-Windows?
+What is "webcomp" and how does it work?
+What is Data Interleaving?
+In what industries is [code] reverse engineering used?
+What are the different types of packers?
+How did/would you analyze OSX-Crisis
+USB Dongle Traffic Monitoring
+Are there any ARM disassemblers that provide structured output?
+Is there any simple open source Windows packer?
+Kernel level Dynamic Binary Instrumentation
+Hauppauge HVR-950Q - Linux - Signal Processing for extra data like subtitles
+What's the easiest way to determine the OS contained in a firmware binary?
+How do I move from RCE being a hobby to RCE being a profession?
+Is there any disassembler to rival IDA Pro?
+Could you list some useful plugins and scripts for IDA Pro?
+How to find offsets in OllyDBG from IDA
+Can't access process memory when dumping
+What are the main features of radare2?
+What are the available libraries to statically modify ELF executables?
+where can I get mIDA
+Why does an executable give an error when opened in $tool?
+Working with DOS .COM files
+Printing Unicode strings in Gdb in OSX
+Ripping/pasting code into an executable using Olly
+WinDbg fails to connect to IDA Pro debugger server
+Analyzing encrypted Android apps (.asec)?
+how can I diff two x86 binaries at assembly code level?
+Debugging NewExecutable binaries
+What is SCARE (Side-Channel Attacks Reverse-Engineering)?
+What is fault-injection reverse engineering? What are the techniques involved?
+Creating IDA Pro debugger plugins - API documentation and examples?
+Why are special tools required to ascertain the differences between two related binary code files?
+How can my plugin get notified of anterior or posterior comments (and more) changes to an IDA database?
+How to display memory zones content on IDA Pro?
+What's 'fs:[0]' doing and how can I execute it step by step?
+How to avoid the load file dialog in IDA GUI
+Locating Linux Kernel Symbols on ARM
+How can I control the Hex-Rays decompiler plugin from IDA with scripts?
+Detecting tracing in Linux
+Is it possible to get python bytecode without using co_code?
+How to handle stripped binaries with GDB? No source, no symbols and GDB only shows addresses?
+How do you store your data about a binary while performing analysis?
+What are the techniques and tools to obfuscate Python programs?
+FEEDFACE in OSX malware
+Trying to reverse engineer C code that is 64bit assembly
+Any way to represent the file-memory relation in a Portable Executable (PE) file?
+How to get notified about IDA database events not covered in the IDA SDK?
+Strange GDB behavior in OSX
+On SPARC, what happens when a branch is placed in the branch-delay slot of another branch?
+How to break on an Android JNI function with IDA Pro Debugger
+How to compile Hex-Rays decompiler generated code?
+Sniffing TCP traffic for specific process using Wireshark
+Any idea how to decode this binary data?
+How to change a large section of bytes to words in IDA Pro
+How can I debug or monitor a Windows Phone 8 application?
+How do I see the parameters passed to RegOpenKeyEx, and set a conditional breakpoint?
+Annotating the Stack in GDB?
+API for LockState Wireless Internet Thermostat
+What does the text in angle brackets refer to (From objdump)
+What does %reg:value mean in ATT assembly?
+What is PLT/GOT?
+Base address of shared objects from ldd output
+Better explanation of different x86 CALL variations
+What are the tools to analyze Python (obfuscated) bytecode?
+How can one extract resources from a New Executable?
+SQL Server not downloading symbols from the symbol server, even though SymInitialize has the symserver in its path
+Unable to set breakpoints in keygen
+How are the segment registers (fs, gs, cs, ss, ds, es) used in Linux?
+How can one extract the appended data of a Portable Executable?
+Debugging malware that will only run as a service
+How to reverse engineer an ATM?
+MITRE MAEC (Malware Attribute Enumeration and Characterization) opinions and usage
+OS X Power PC RE tool (debugger/disassembler)
+Wanted: Java bytecode disassembler that shows addresses, opcodes, operands, in hex
+How are stripped shared libraries linked against?
+No apparent effect after editing some JSON in the memory of a Flash process
+Common Lisp bytecode or machine code decompiler
+Where can I find tools for reverse engineering Lua
+How to prevent automatic padding by IDA?
+Re-run autoanalysis in Hopper?
+Does a Motorola SREC file give me any additional information over a binary ROM image?
+Is BinNavi available? If not, can I get the source from anywhere?
+Why my Resource Hacker doesn't work with some .EXE files
+What is the most efficient way to detect and to break xor encryption?
+How to view the instruction pipeline?
+Can I statically link (not import) the Windows system DLLs?
+IDA [call $+5 / pop reg] cleaning
+What purpose of mov %esp,%ebp?
+Likely places to look to find cheap sources of FPGA? Which devices should I open first?
+Difference between DllMain and DllEntryPoint
+Debugger hiding plugin for WinDbg?
+Is there any tool for decompiling raw binary files to C code for the Motorola 68000 processor series?
+Opinions and suggestions regarding malware sandboxes
+Program with no dependencies
+convert this x86 ASM to C?
+How do you set registers as structs within a function in IDA?
+How to load a dumped process and several accompanied memory pages in IDA?
+Try to deobfuscate multi layered javascript
+Decode date and time in a sequence of binary data
+Hooking functions in Linux and/or OSX?
+buffer overflow exploits - Why is the shellcode put before the return address
+What to do when IDA cannot provide a function name?
+Viewing memory permissions in Ollydbg for memory segments
+How to identify function calls in IDA Pro's disassembly?
+IDA is not recognizing cross references
+In IDA, is there a way to add a reference to a dynamically imported function into the Imports tab?
+Get the function prototypes from an unknown .dll
+Is it possible to create data xrefs manually?
+What is import reconstruction and why is it necessary?
+E Ink display interface protocol
+Dynamic Analysis for Shared Libraries?
+How to add xrefs to indirect call targets in IDA?
+Is miasm working on 64bits architecture?
+Is there a way to recover macros from compiled code?
+Trying to reverse engineer dump of a timestamp
+Find level data in binaries?
+Find file signatures inside an unknown file
+What are possible ways to dynamically analyze windows service?
+What could this sequence of assembly instructions possibly mean?
+How do AV vendors create signatures for polymorphic viruses?
+Why are GOT and PLT still present in Linux static stripped binaries?
+What is MSR Tracing?
+How to find arrays of objects (entities, enemies) in a game I'm reversing with Cheat Engine?
+How to let IDA reload a structure from a C file?
+How to get all the references to function using PyDBG?
+How can I figure out the device memory map for an embedded system?
+How to debug using OpenWatcom's debugger?
+How to debug an IDAPython script from within IDA?
+What is the integrity check used?
+IDA EBP variable offset
+Extract SquashFS filesystem with shsq magic number
+Take A Snippet of Assembly and Make All Side Effects Explicit?
+Ollydbg target runs automatically
+How do I get ring0 code coverage?
+Can anyone here show me the binary opcodes for these x86 assembly instructions?
+Why does the function pointer get overwritten even though is declared before the vulnerable buffer?
+GDB Error "Too many array elements"
+Reverse Engineering Managed Code
+What is a "control-flow flattening" obfuscation technique?
+Can a debug-apk be reverse engineered to make it a release-apk?
+How can I make IDA see a string reference?
+Highlight Executed Basic Blocks in IDA
+What type of data structure is it?
+How do I figure out the which CPU the Sony DPF C-1000 has?
+How does services.exe trigger the start of a service?
+How to handle exceptions in a debugger when reversing malware?
+gdb on FreeBSD and follow-fork-mode child
+Tracking What Is Done With a Function's Return Value
+How to convert finished PCB to schematics effectively?
+Get FPGA Part Number from bitstream
+how to convert this ASM to C
+What is DLL Injection and how is it used for reversing?
+Patching a .Net 4.0 Binary in Olly or CFF Explorer
+Reverse engineering compressed file, where to start?
+Unpacking an MST file without an MSI file
+How can DLL injection be detected?
+Making Visual C++ harder to reverse engineer
+Remote debugging with IDA and GDB
+Prevent malware from deleting itself during installation on Windows x64
+Tool for checking if there is any patch in the loaded module
+IDA Pro function stack frame view
+IDA pro and default windows (lib) functions
+windows kernel debugging on Mac host (using VMware fusion)
+How to reverse command line arguments?
+What algorithm does Metasm use to dissassemble binary code?
+IDA Pro Symbian Debugger 'general OS related' Error
+NOP instruction
+Decompiling return-oriented programs
+How to re-analyse a function in IDA Pro?
+Attaching GDB to a specific fork
+IDA Pro: What does "Create EXE file..." option do?
+Setting GDB watchpoint on a string
+Freely available resource hacking applications
+How do you optimise AST's or convert them to a real language
+Setup an IDA (python) callback when an instruction is selected
+Call to variable address
+What is this obfuscation method called?
+How do I get the location of the original audio/video file embedded on a webpage?
+windbg crashdump process by pid from kernel
+How to dump flash memory with SPI?
+What can you find out about an unknown CPLD?
+How to design opaque predicates?
+What is the algorithm used in Recursive Traversal disassembly?
+How to find the symbol table in a TI DSP. (TMS320C5510)
+IDA Pro: How to export data to C style array?
+Are there any free disassemblers for the NEC 78K0R family of processors?
+Tool for checking for in-memory code modifications of loaded DLLs
+How do I convert a byte array to bitmap for a dot matrix LCD?
+Question regarding sections in PE image
+How to set-up a lab for reversing a mass transit ticketing system?
+What are the legal issues when trying to reverse a mass transit ticketing system?
+How is Hopper on Windows or Linux?
+Converting hex value to lat/long
+Tools for annotating/describing disassembly
+Origin of "Hacker Protection Factor"
+Artifacts similar to "@YAXPAX@" within memory and IDA sessions
+Formal obfuscation
+How can I change the Read/Write/Execute flags on a segment in IDA?
+Using MIPS EJTAG functionality in OpenOCD
+IDA: Segment Class Name
+Exporting structures and enums in IDA
+Remote Android debugging using IDA 32 bit - bind: Address already in use error
+Is there any tool which parses ollydbg run trace?
+Accessing Data Marked as Alignment Bytes in IDA
+How to reverse engineer simple usb device [windows -> linux]
+What are nullsub_ functions in IDA?
+How to get virus body of Polymorphic Malware
+Where can I get reliable tools for RE?
+Who was the Old Red Cracker?
+OllyDBG's disassembled syntax and c-equivalent
+Where are program resources stored in a CIL assembly?
+analysing IP camera's UDP packages
+Mixed 16/32-bit code reversing using IDA
+Unable to set a breakpoint in IDA 6?
+Where can i find unix/linux tool for fuzzing for kill-switches?
+Reverse engineering a VC++ video game
+Change RadASM hotkey and add middle mouse click hotkey
+Hook end/middle of function
+Reversing network protocol
+Reverse engineering windows service
+How to obtain decrypted virus body of Bolzano virus using Ollydbg 1.10 debugging on windows OS
+Android bytecode verifier
+Is there an equivalent of 'Run trace' as in OllyDbg for IDA PRO?
+Where and how is variable entanglement obfuscation used?
+How to use fastloghook in immunity debugger
+IDA Pro List of Functions with Instruction
+Modifying step value that affects xmm# float value
+What is replay debugging?
+Use of FastLogHook function in immlib?
+Which version of assembly does OllyDbg disassemble binary to?
+Server-side bind() function, immlib
+Check DEP , ASLR and SafeSEH enabled or not , immlib
+What should I look for when building a malware lab on a budget?
+Malware in virtual machines
+Why are there (sometimes major) differences between java source code and its decompiled result?
+Binary instrumentation with Python
+Reversing Patches (Binary Diffing)
+What are general guide lines for reversing COM objects
+How to quickly/easily make an analysis (reverse engineering) of the code of unknown CMS or framework on PHP?
+How to force the loading of a DLL in Windows XP at a particular address
+What is *BindW*?
+What symbol tables stay after a strip In ELF format?
+Encrypted Mach-o binary cannot be disassembled/traced with GDB
+Dump Flash Memory with SPI from SPANSION FL016KIF
+PDB v2.0 File Format documentation
+How to obtain x86-64 pseudocode in IDA Pro?
+How to unpack files packed with multiple packers?
+Unpack Billion 5102 firmware
+Secure resources from being extracted?
+Embedding URL call into an image / movie
+Trace assisted code identification?
+Tracing to a function during debugging?
+How to zip or compress resources of your .NET application
+Changing parameter of function call in ELF executable
+Why is disassembly not an exact science?
+Filling C++ interface method names in the disassembly in IDA
+What is this 'mathematical jigsaw puzzles' obfuscation?
+How to reverse CGI file for MIPS?
+What does `jz $+2` do? (jump if zero to dollar plus two)
+Recreating 2D aspects of Cantor.dust
+Pydasm: Disassembling limited length executable shellcode
+Decompile and recompile C?
+Hex-Rays Decompiler: Which magic variable to select?
+Structure Definitions for PEB in IDA
+Edit Windows protected systemfiles in VMWARE?
+Understanding assembly loop
+What is this assembly code doing with the command line arguments
+What is the meaning of movabs in gas/x86 AT&T syntax?
+Getting started with malware research
+Parsing IDA Pro .asm files
+Virtual Machine escape through page faults
+Steps for determining the hash algorithm used
+What is an effective way to debug a 32 bits application within a 64 bits OS?
+What is difference between Digital Forensic and Reverse Engineering
+Find out decrypted body of Polymorphic malware
+Debugging ARM binary with IDA Pro and Qemu
+BYTE3, does it mean the third or fourth byte of an int? IDB file that's already supplied
+Complications reverse engineering a Visual Basic application
+How to decompile Linux .so library files from a MS-Windows OS?
+Logging lpRect and uFormat from DrawTextA
+ea_t datatype in IDA API
+What x86 calling convention passes first parameter via ESI?
+Is there an online service which provides the same functionalities as the Metasploit NASM shell?
+GAS/x86 disassembled a bare gs register as an instruction, is it a bug?
+Is it possible to decrypt an SSL connection (short of bruteforcing)?
+IDA pro and Bochs Debugger
+Debugging Shellcode with Bochs and IDA Pro
+How can I decompile my (dot)NET .EXE file into its source code
+Can I set entry point at code in PE headers?
+Find out whether additional keys are being used when encrypting data
+Unusual x86 switch statement?
+How do I analyze a .apk file and understand its working?
+Firmware analysis and file system extraction?
+A PE packer: issues with the packed image base address
+API hooking using DLL injection with Python C-Types
+Special Properties of Delphi (Object Pascal) Executables
+Attaching gdb to hidden library/process
+What is the Ubicom32 toolchain and where can I find it?
+Totally unknown file analysis approaches
+How to debug DLL imported from an application?
+How to debug Windows Media Player without attach mode?
+How to modify a file from the process context of iexplore.exe?
+Hex-Rays Decompiler: Buffer on the stack
+Set a breakpoint before WriteFile operation in OllyDbg
+Getting IDAPro to analyse part of memory as PE-File
+Decoding Malware javascript
+Decompile "Internal Call"
+How to view the content of a file before it is written?
+How to set a conditional breakpoint on specific register value in OllyDbg?
+How to find event functions called by UI components in a C++/DirectX program
+Hauwei E586 firmware
+AndroGuard equivalent for iOS
+How to manually set the base address of a pointer in IDA?
+What does the assembly instruction 'REPNE SCAS BYTE PTR ES:[EDI]'?
+How can I tell if an app is using anti-debug techniques?
+Connecting to jtag-openocd-gdb to arm11 device with IDA gets no control
+Passing parameter using data at return address (read from stack) in NEC 78K0R
+Read a struct from memory
+Patching PE File - Adding data
+Dll injection and GetProcAddress with the winapi
+Find a string that I entered in ollydbg
+unpack Clear spot .bin firmware update
+Program won't crash on heap overflow
+Detecting an emulator using the windows api
+Dalvik Byte code instrumentation framwork for dynamic data dependency analysis
+Disassemble, edit and re-assembly iOS ipa apps
+Reverse engineer a proprietary save/file format structure
+Is the output of the gcc compilers the same for all ARM platforms?
+COM interface methods
+How do I determine the length of a routine on ARMv7?
+What do the following ARM instructions mean?
+Reversing DLink DIR100 firmware
+Reversing a Mac OS X binary that appears to be non encrypted, backtrace just shows mach_msg_trap ()
+How to extract the input file offset of a byte in idapython?
+Is it not just simple to view private source code of an OS by disassembling it?
+Why does Hex-rays thinks that 32bit PE is 16bit?
+Using Python CTypes to get to the IAT
+Finding send function for tcp packets in game client
+Reverse engineering compressed byte array
+How to Attach debugger or start analysis of process that is debugging itself?
+Why is JMP used with CALL?
+vtrace / vivisect resources
+Moving from Windows to Linux for Malware analysis. What should I consider?
+Loading a Driver in Immunity
+How to use sysenter under Linux?
+Which IDA Pro Signature should be used for Borland Delphi 6.0-7.0 binaries as reported in PEiD?
+Why is there in a nop in the while loop
+How do you attach to a child process using IDAPro?
+Intro to reverse engineering
+IDA Plugin writing generic questions
+Detailed description of malware content
+How exploit writers find bugs in Java Machine?
+Delphi Pascal Try..Except..Finally block
+Tool or data for analysis of binary code to detect CPU architecture
+Are those code snippets and file paths in a C++ binary some sort of standard debug information?
+Can the 'r' be removed from a function stack
+Understanding this Buffer Overflow exploitation
+Inserting resources.properties file into an APK - language compatibility
+How to find file compression or obfuscation type
+Deal with obfuscated assembly
+What does this memory pattern pointing from the thread-local storage mean?
+Thread-Switching with PyDbg
+Howto clone Android RSA SecurID Software Token
+How can I locate exported functions of an EXE or DLL?
+Adding Backlink for XREF in IDA
+Determining the serial port protocol of a typewriter
+Understanding hardware extracted keys
+Reverse Engineering an Encryption Algorithm
+Storing barcodes as ASCII
+Break points in OllyDBG
+Paste hex bytes into IDA Pro Hex View
+Known publicly available modified UPX ELF packer
+Attack on wireless interconnection
+Intercepting GSM communications with an USRP and Gnu Radio
+Which calling convention to use for EAX/EDX in IDA
+Some programs have always same addressing and some different
+Put encrypted code blocks back as unencrypted in IDA
+What does this multi mov instruction do?
+How can I clean up strings built at runtime?
+How to perform SIGTRAP emulation with GDB?
+What does this Generate_Key_IV assembler routine?
+How to predict address space layout differences between real and gdb-controlled executions?
+Which instrument is effective in discovering carrier frequency?
+Hooking to a function with variable argument list
+Statistics of call XREFs
+Struct with negative offset in IDA possible
+Need help extracting data from .dat file
+Illegal Instruction exploiting sample Buffer Overflow code
+Lossless Rice Compression
+Where could one find a collection of mid-file binary signatures?
+String extraction from an iNES ROM dump
+What Honeypots are recommended to capture malwares (for analysis)?
+GDB via JTAG on ARM Hardware target without source code
+Malicious word document shellcode extraction
+Invalid base64 encoding
+How to use Spy++ to find OnClickFolder or OnClickFile events in Windows Explorer?
+IDA declare a function that passes return value on FPU stack
+IDA special fields in stack window
+Unpacking script
+Differences in memory dumps of executable data
+How to verify that an Android Application & Library is correctly obfuscated
+Is there a way to set the number special purpose registers in IDA pro with a script?
+How are achieved PUFs (Physicaly Unclonable Functions) and can we workaround?
+Decoding a blob
+How to find where the code is cycling - infinite loop?
+Do disassemblers detect standard functions?
+Creating a struct in IDA which contains a cString?
+What data before the code segment in PE files?
+Is there a perfect method for protecting executable files?
+Application crashes after IAT address change
+How to attach debugger to app if it has protection against attaching?
+Decoding an ancient format
+IDA Pro: use structs on parameters
+Weird instructions
+IDA Pro for MIPS image
+Help with baml to xaml conversion?
+Documenting reversed application
+Decompiling a 1990 DOS application
+On the indistinguishability obfuscation (informally)
+Is anyone building a python/ruby module to reuse 010 Editor templates?
+In IDA how can I define a data address as a struct and array of datatype
+differences in ASLR on Linux and Windows
+Analyze obfuscated JavaScript code?
+Automatic function naming
+Semantics-based obfuscation
+GDB issues: Can't set breakpoint on Obj-C method
+Proprietary MS SQL server based file format
+Load dSYM symbols in Hopper
+How do I find out entry point in mips or sh4 bin firmware?
+Loading Windows executable - unexpected data appended at beginning sections after loading in memory
+Looking for exported symbols in a DLL with objdump?
+Does IDA support segment:offset operands?
+Rename obfuscated names with .NET Reflector?
+Physically auditing the layout of transistors inside a processor made at 22mm process die
+Calling fgets while debugging under IDA Linux
+Cannot trace an MS-DOS COM file
+Converting a virtual table from .rdata into an IDA struct
+Is there something like follow-fork-mode for gdbserver?
+Reassembling Silverlight runtime
+Understanding the most recent heap implementation under Linux
+Obfuscated JPEG
+How do I reverse engineer iisres.dll?
+'STRU' namespace in the Windows Internals API?
+How can I find the Thread Local Storage (TLS) of a Windows Process Thread?
+The debugger could not attach to the selected process
+Reverse engineer Logitech Z906 serial console: getting started
+Getting info for undocumented APIs called by StartServiceCtrlDispatcher
+IDA: setting a register as a basepointer to struct
+Extracting files from .data and .toc files
+Is possible to translate this MIPS assembly subroutine to C?
+Reverse Engineering XORed string
+LALR parsing : retrieve the grammar rules from the generated parsing tables
+Frame grabber reverse engineering
+Mapping an external module's source code to assembly - extracting information from source code
+Grouping functions based on their placement/order in the binary
+Reverse engineering in pairs - is it possible?
+Means of different call label formats in IDA
+How to call non-exported functions from dll?
+What impact does noninvasive debugging have?
+Memory forensics: disabled pagefile but still not everything in memory
+Packers/Protectors for Linux
+Interrupt interception
+With a hex editor, can you really examine/modify every piece of code/data encoding in a "file"?
+Three threads in Windows
+Fixing the stackpointer in IDA when exception handlers are used
+Reverse engineer Android native code
+Finding the correlation of imported dll's and executable vad's of a process
+Recompile the asm file IDA pro created
+Non-ASLR DLL Has Randomized Base per Runtime
+How are vulnerabilities (especially buffer overruns) found in the wild?
+Modules that exist in a process address space
+Is there any database of malicious code for MIPS processor to evaluate detection method?
+How to unpack a TFTP file with Firmware
+Find the kernel structure that contains device name
+Reverse engineering a USB magstripe card reader
+Bin file is not only storing 0s and 1s, ASCII or otherwise
+Is learning assembly enough to become a malware analyst?
+sub-ghz radio encoding 6 bits
+Can I evaluate operand values of an instruction currently at breakpoint (while debugging) in IDA using IDAPython?
+Need help analyzing an image viewer exploit
+Does proper/easy editor exist for .class java files?
+Merging elf shared-objects
+How can I set a breakpoint for a button click?
+IDA debugging API's security
+How extract this firmware file?
+Facing encryption
+Jump back to the caller
+Issue opening executable module in OllyDBG
+Setting breakpoint on Win32 API does not work in Ollydbg
+Saving IDA graphs as image
+How to prevent "upx -d" on an UPX packed executable?
+IDA Pro/IDAPython automation through IDAPython
+IDA PRO Structures Defining negative offset -4 -8 offset repair asm Hex-Rays
+Decoding the UPX ELF header file
+How to dump a DLL not listed using Process Explore and similar tools
+Puzzling behaviour when loading Wine's oleaut32.dll in OllyDbg
+Formatting BinDiff results to a .txt
+Run command on breakpoint without stopping
+Inverting functions HOWTO
+PatchDiff2 Outputting results to a Text File
+IDA Pro only recognizes my files as BINARY
+Decompiling Modem Firmware (firmware.bin) with unknown results on binwalk
+funcap not capturing information in IDA debugger
+Bypassing basic memory protection
+How to know in which language/technology program (.exe) is written?
+What is the format of this date time?
+Reversing Apple Airport Express firmware updates
+How to format data exported from BinDiff?
+Cannot call function (properly) in ollydbg
+Patch ELF (arm): remove constructor segment
+Does learning Metasploit help me in reverse engineering and malware analysis?
+_DEVOBJ_EXTENSION structure information
+Cross-referencing object fields
+IDA Pro converting to instruction functionality: how to automate.
+IDA Pro/IDA Python, producing file via terminal
+Why does the Java compiler add an extra try-catch block?
+How antiviruses name malwares
+Break on returning to a specific module
+How to convert this one-liner asm to C
+Is it "theoretically" possible/impossible to reverse any binary?
+Translation from ARM assembly to LLVM IR
+Should I switch from WinDbg to OllyDbg?
+Why IDA Pro generated a "j_printf" function call?
+What other public firmware/reverse engineered alternatives are available to replace stock firmware?
+VADs with RWX permission in winlogon and csrss processes
+Open-Source library for Complete Binary Disassembly
+Could not find main function in IDA pro?
+How do I trace instructions in an Immunity Debugger PyCommand?
+Parsing/Rescuing corrupted IDA database
+How do you manage/backup your IDA database?
+Unsquashfs fails
+Is it possible to convert MIPS ASM to code?
+Reversing a router, single user mode
+How to send and render an .html for chromecast using RAW http requests?
+How to find how global variables defined in binary
+Do you have tips analyzing reported PoC(exploit) files?
+What is the difference between static disassembly and dynamic disassembly?
+What is the difficulty/advantage to obfuscate a multi-thread program?
+How to detect a debugger using some "time" checking strategies?
+How much Cryptography knowledge is important for reverse engineering?
+Does code injected into process memory always belong to a page with RWX access?
+Can a Windows process check if it has been injected by another process?
+Are there any OllyDbg anti-debug/anti-anti-debug plugins what work with Windows 7 / NT 6.x?
+What tools exist for excavating data structures from flat binary files?
+Detecting recursive functions in IDA
+Can a process disable UAC via WinAPI without prompting the user?
+How to determine if binary has symbol table
+Is there any tool to quantitatively evaluate the difference of binary?
+Specifying an MMX register's value in WinDbg
+Static analysis data combined with dynamic analysis knowledge
+How do I extract a copy of an unknown firmware from a hardware device?
+Help on Exploitable response
+Extract dlls in Import Directory & runtime tool
+Get jar back from wrapped(into exe) jar
+ARM debugging interesting behavior
+How exploit write access-violation to a non-null address
+Extracting dynamically constructed strings in IDA
+Difference Between Binary Exploitation and Reverse Engineering?
+Strange behaviour of Wine dlls under OllyDbg
+Is there always 1:1 correlation between hexadecimal and binary?
+How to edit .asec file?
+Retrieving encryption/encoding logic from dll
+How to get IDA Pro Free to automatically change segment on retf?
+Why is mhook failing to hook my function?
+VADs with RWX permission in winlogon.exe process
+How to break on instruction that hasn't been traced yet?
+How to extract information from dll compiled in gcc with debug symbols?
+IDA plugin/script for generating signature statistics (for all sigs) for a target?
+Issues writing a bootloader in x86 16-bit machine code
+Ollydbg 'Copy all modifications to executable' doesn't copy all modifications
+Static Analysis - Scope Changes
+How do you determine if a website was created using the Ruby language?
+How to get the PID of the a thread's creator (not owner, not host)
+How to disassemble Ubicom32 binaries?
+RE Compressed backup file,router linux based so is it compresed with zlib?
+64 bit Pseudocode decompiler
+Why IDA Pro will generate this kind of code(mess up macro name and variable name)?
+What is the meaning of this code generated by IDA Pro?
+How to extract all the rodata data and bss section using IDC script in IDA Pro?
+How to efficiently simplify obfuscated formula in QF_BV logic with Z3?
+Replacing common x86 instructions with less known ones
+Shotcuts in immunity debugger
+OCX methods execution monitoring
+Runtime memory reading with injection
+What exactly do assemblers translate macros into?
+Why the Wait() in idc script can not work on IDA Pro?
+SJ1000 ActionCam firmware
+Turning Technologies RF receiver
+OllyDbg: Automatically extract string when breakpoint is hit
+How to find memory addresses which are read from but not written to
+what is the best debuger for firmware router ?
+How to prevent application from killing OllyDbg
+How to decompile an Objective-C static library (for iOS)?
+What ways is there for an application to detect that it has been modified?
+backup from ZynOS but, can not be decompressed with LZS
+How to decrypt this file?
+Disable ASLR on android 4.0.3
+How to use cycript to investigate a mach-o x86_64 binary?
+Enumerate all XefsTo a Segment in IDAPython
+I need quick correction on this x86 opcode conundrum
+Chunked function (discontinuous chunks of code comprising a function)
+Why is true emulation not possible?
+Is it possible to know what changed on a mssql database?
+Why this IDC script can not find all the functions?
+understanding the stack
+Why I can not find all the functions using this IDC script?
+Forcing a call to an object instance method
+How to force IDA to analyze a packed exe after the program has unpacked itself?
+How to set up IDA as the system's JIT Debugger?
+Why the API GetMnem can not deal with instructions like "stosd", "movsd" in IDA Pro?
+Reversing simple hello world in C++
+What do the first 16 bytes on the stack represent?
+How to interpret entries from Exports tab in ProcessHacker
+help in finding a specific function of a game
+Reverse engineering from binary or ipa
+I want to know more about how a particular exploit works. How do I do that?
+Why IDA Pro generate define-lack code like this?
+ROP exploitation in x86_64 linux
+Patching ARM7 code during runtime
+Why cl.exe change the extern function name used in my code?
+How to write bit-by-bit to a medium, as opposed to byte-by-byte?
+Force IDA starter 6.5 to disassemble encrypted in autonomous mode
+Patch a Java class inside a jar using C#
+Change calling convention from IDAPython?
+How to dump the bootloader of NetBSD router?
+Converting assembly code to c
+OllyDgb1.10 API help file not working
+How to compile c, cpp and python code as "Released/Final" version?
+Where is uni.inc file?
+Why IDA Pro can not generate this subroutine's code?
+identification/reverse engineer lz compression
+DOS program debug in IDA?
+Trouble analyzing a ransomware
+Addressed changed by code from a common address
+Rename classes and packages in a jar file
+How do i fine-tune Hex-Rays decompiler for 16-bit?
+VerifyError after editingg class file with dirtJOE
+Decompilation techniques for DOS .COM files
+Wii balance board sampling frequency
+Generate a sig file from ELF executable
+Strange behavior in the reverse execution of traces
+automatically find and nop an instruction in IDA
+\??\C:\ Question Marks in Paths
+Why there are not any disassemblers that can generate re-assemblable asm code?
+Transfer function names from one IDA DB to another
+Re-engineering to create UML Diagrams from Source and Binary
+What C construct could generate this assembly sequence?
+How to find SPI pads (4 of them) on a logic board?
+Reversing ELF 64-bit LSB executable, x86-64 ,gdb
+Reversing a synchronisation cable between LED displays
+No dynamic symbol table but resolution of method from shared libraries is working
+Ollydbg and hundreds of events under QT GUI
+difference between two .class files
+IDA Can't load symbols "DIA: No such interface supported"
+Did somebody start to reverse engineer the proprietary Linux Brother Cups drivers?
+How could I change an instruction in IDA Pro?
+GCC Loop optimization
+Decoding the wire protocol (over RS232) for custom hardware <-> windows application?
+Importing list of functions and addresses into WinDbg
+Directed call inside recv
+IDA startup signatures format
+When defining a structure in IDA, can I define a field that is of another struct type?
+Potentially non-standard SPI communication
+Detecting epilogue/prologue of functions
+Is it possible/How can I select in the functions window the current subroutine in the IDA View?
+Best Practice to handle/document dynamically loaded calls/branches/jumps in IDA
+Editing a Mach-O x86_64 binary with 0xED results in a app crash
+Removing personal data from dump file
+Obfuscating dump files
+List Relative Jump Destinations in IDA
+How to analyse the communication between a WebApp loaded with awesomium and the native program?
+What is the proper way to deal with an x86/64 instruction containing multiple prefixes from the same group?
+How does Kernel Detective check if API functions are hooked?
+Finding timestamp in hex data
+Reverse engineering close sourced JSP applets
+Find the C++ STL functions in a binary
+Is it guaranteed that someone can reverse engineer this file format?
+What changes in MS Windows system libraries after restart?
+Concept of location local variables in memory using disassembly window and registers?
+OllyDbg FPU anti-debug
+Rebase program with negative shift delta in IDA
+How does Ollydbg obtain the memory map (alt+m)?
+Reverse engineering T-Disk barcodes for Tassimo coffee makers
+How to search for intermodular calls in WinDBG
+Using a VMM/hypervisor to monitor guest OS execution?
+IDAPython on OSX
+Good Public Practice Binaries?
+How does IDA understand that the file was packed by packer?
+Getting to the entry point using radare2
+Reverse engineering from an APK file to a project by MAC
+Using Python pydbg - Find out what addresses does an instruction access
+Binary file search tools
+How to set a breakpoint when a method is called using LLDB on OS X?
+Disassembling an unknown DOS MZ executable using radare2
+System for reverse engineering RF signals
+how to reverse DeviceIoControl?
+Convert MIPS assembly code to C?
+GUI-based x86 assembly editor
+Reverse engineering, code extraction, and lock bits
+Can IDA Pro automatically deal with VM obfuscated binaries?
+Understanding x86 C main function preamble created by Visual C++
+Can not continue debugging after SIGTRAP
+Replace strings in object file
+How do anti-virus programs catch a virus? How they detect it?
+How can I get a running thread's start address on linux?
+How to break on not-yet-loaded kernel driver
+How to get the EIP value right before WinDBG attach operation?
+The input file has unaligned section pointers
+What is this way of representing color in this unknown image format
+what does the imediate value of the BKPT opcode is being used for?
+Program won't run in a olly
+Why does IDA Pro's pseudocode function not produce for loops?
+Is there any Dynamic Binary Instrumentation frameworks for Windows exposing an Intermediate Representation?
+Ollydbg breakpoint causing application to perform differently without BP being hit
+Find register value of a remote process - pydbg
+Assembly Code - GCC optimized vs not
+Windows Media Player - library format
+Trouble with ActiveX Reverseengineering (DispCallFunc Trick does not work)
+Windbg x64 setting breakpoint
+Calculating the page address a buffer belongs to
+Router Decompiling
+How to decrypt games?
+Reversing Engineering ZKM
+Disassembling MIPS Binaries
+How do I adjust the length of the parameters in IDA?
+Are all the code sequences ended with "ret" potential "gadgets" for ROP attack?
+Disassemble communication protocol for an old device
+IDA PRO Imports Names Lost in a accident, Reanalyze does nothing. How to make unexplored imports?
+What is the Sourcer syntax for defining data structures?
+Extracting data from a Program for external use
+How to automatic run ida plugin after IDA Parse PE file
+Are there ANY supported Fermi Disassemblers out there?
+Is there distributed fuzz testing platform against modern proprietary CPU like SETI@HOME?
+IDA PRO Basics For Hex Rays How to fix address to struct which is dynamically calculated in if statement
+How to modify/replace a non exported function in a native code dll
+Any way to fix misinterpreted case jump tables in Ida Pro?
+gdb setting fs register on Linux
+How to disassemble VBX files?
+IDA PRO Struct Pointer Counter big number not starting from address offset 0, Lowers a bit slightly but not all the way to 0
+Identifying the type of a DB file
+Why ther are some many padding/leading nop instructions in my binary code?
+How can we determine that malware are related?
+IDA PRO _data keeps getting misaligned lost bytes while scrolling down Can't find references (hint: redo analisys)
+Decompiling iPhone App
+Need to extend the list of libraries that a shared (.so) library uses
+Help with identifying race condition in wargame
+osx + IDA + virtualbox, keyboard mapping for "Insert"
+Are jump instructions targeting addresses in ntdll a sign of malware?
+What are best practices for reversing a dll that is injected into another process?
+How to find "references to addresses near this address" in IDA Pro?
+Where I download plugin StrongOD 0.3.4.639?

@@ -1,0 +1,8 @@
+{
+  "es_url": "localhost:9200",
+  "index_name": "INDEXNAME",
+  "out_dir": "PATH_TO/faiss/embedding/INDEXNAME",
+  "sentence_transformer_model": "https://tfhub.dev/google/universal-sentence-encoder-qa/3",
+  "chunk": 10000,
+  "batchsize": 32
+}

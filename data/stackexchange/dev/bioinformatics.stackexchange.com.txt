@@ -1,0 +1,343 @@
+Reject reads with low quality bases from a Bam file through pysam
+creating graph of distribution of blast hits on the query sequence
+When performing differential expression analysis, should genes with low read counts be removed before or after normalization?
+What database do gene IDs starting with sp_v2 refer to?
+Documentation for Transfrag class codes (cuffcompare)
+Extract nanopore read ID & start times from fastq file
+How GFF3 attributes (9th column) varies from one gene prediction algorithm to another
+Bioperl - how can i print first result of search sequence per iteration?
+RNAseq: Z score, Intensity, and Resources
+Chip-Seq data description
+Subset FASTA file by species name
+How do I efficiently perform a metagenome screen of “all” species?
+ngs time course experiment
+Biopython: resseq doesn't match pdb file
+Mathematical notation for formulating a rank score
+Best way to detect long insertions in bisulfite sequencing data?
+Multiple sequence alignment with R
+How to calculate overall reference coverage with MUMmer?
+FASTQC overrepresented sequences after trimming
+Why sequence the human genome at 30x coverage?
+How to manipulate a reference FASTA or bam to include variants from a VCF?
+Annovar index out of date
+How can I edit a specific FASTQ read in place, given the read ID?
+How to adapt the fgseaL function to perform rapidGSEA computation of gene ranks across 9 different phenotype labels?
+Get canonical transcript from UCSC
+Secretome and membrane receptor profiles
+How to convert BED to GFF3
+Cannot install chromosomer
+Major variability in speed of BLAST between proteins
+Software recommendations - DNA composition
+IGV faster loading remote bigWig files
+Merging bed records based on name
+Melt p-values for CpG sites mapping to the same gene
+Given a Genomic Ranges of SNPs, how to inject these SNPs in genome via BSGenome?
+Tools to create annotated table of variants from VCF
+Tool or script to parse annotated VCF files
+Removing PCR duplicates in RNA-seq Analysis
+Where can I find summary data for how common certain mutation *types* are?
+GRCh38 centromeres mappability
+Difference between CPM and TPM and which one for downstream analysis?
+Why are some of the gene peptides returned by biomaRt missing an asterisk in the end?
+How to filter intervals (reads or genomic coordinates) that have the exact same 5' or 3' ends?
+How to convert fastq to fast5
+Sleuth: transcripts with beta close to 0 are considered differentially expressed in a likelihood-ratio test
+Can gene co-expression networks be used to help identify differentially expressed genes?
+Split FASTQ and matching BAM into matching chunks
+How to count reads in bam per bed interval with bedtools
+Using signal peptide and the expression levels of signal recognition particle in secretome analysis
+How to confirm exon shuffling in a gene?
+How to calculate p-values for fold changes?
+Which measure should be used in a PCA or RNA-seq data? TPM or counts?
+Analyzing Illumina Counts
+Is there a way to quickly verify the presence of some SNPs in Fastq files?
+VerifyBamID freemix score
+Differences between TM and GDT-TS scores for structure comparison
+How to extract / convert gff3 CDS sequences to multifasta
+How to run enrichment analysis of protein functional annotation?
+Correct for gene length or read counts in GO enrichment analysis
+Identity plus Similarity Interpretation
+Is there any difference between SNPs 'AG' and 'GA' in association analyses?
+Cellranger aggr and Seurat merge difference?
+Introduce errors in reference transcripts according to external dataset error model
+Microbial diversity analysis using whole-genome metagenomic data
+Is there a way to retrieve several SAM fields faster than `samtools view | cut -f`?
+Error rate setting in Canu error correction
+Is it wise to use RepeatMasker on prokaryotes?
+Is it possible to create a DESeqDataSet with a user-provided design matrix?
+What is indel calling and what is its purpose?
+RIP-seq analysis?
+Ensembl id to GeneSymbol with biomart
+Greedy Motif Search Using Probability Matrices
+Is there any R package for biodbnet?
+Where are .motif files from homer knownResults?
+What format is this? Pretty sure it's not a BED file
+Problems to Extract uniquely mapping reads from BWA MEM alignment
+How to convert DNAbin to FASTA in R?
+Extracting expression data from GSE dataset downloaded from GEO
+Database of copy number alterations in different cancer types
+Convert local alignments to spliced alignments in SAM file
+JSmol - hide "JSmol" logo
+Meaning of BWA-MEM MAPQ scores
+STAR-long parameters for aligning RNA ONT reads to genome
+What is the best distribution to model the FPKM values from normalized RNA-Seq data?
+Counting a specific consecutive character with its occurrence position and length
+checks for spike-in sequence controls
+Run cuffcompare in strand-agnostic mode
+How can I work out gram staining information from the species name?
+Ultimate reproducibility in R?
+What will be an appropriate mathematical distribution for SNP data?
+How to retrieve InChI key for KEGG compound?
+Read and write FASTA files with more information than id and sequence
+How to interconvert InChI and InChIKey?
+Filtering step for read counts data
+True bam file encoding and viewing as text
+Using the t-SNE algorithm on microarray data + an error bonus
+How to measure euclidean distance between points with vtkDelaunay3D package?
+How to build a BAM header file with htslib in C++?
+How to deal with correlated SNPs in GWAS?
+genes with highest RPKM/FPKM for a human RNA-seq experiment?
+Missing data mappings in mygene.info while trying to convert Genes Ensembl Ids to Entrez Ids
+Adjusting phenotypes by regressing out covariates
+How to determine the primary Uniprot accession number from a set of accession numbers?
+Interpreting Intergrative Genomic Viewer (IGV)
+Where to download JASPAR TFBS motif bed file?
+Converting Ensembl Gene IDs to Entrez Gene IDs through biomart
+How to represent a deletion at position 1 in a VCF file?
+Extract LINE-1 methylation status from WGBS data
+Transform traditional blast output to `--outfmt 6`
+Can we describe synthetic biological sequence data as belonging to a "species" or "taxon"?
+VCF merge containing CNV
+server for finding kmers in set of sequences
+Using BLAT command line tool to blat split sequences
+Clarification on Gene Enrichment
+SNP-phenotype association analysis only using the SNPs on a specific gene
+How to get a list of genes corresponding to the list of SNPs (rs ids)?
+What is the significance of the effect size on WOMAC scores for TKA?
+Voom function from limma package and Normalization on counts data
+Is it possible to do alignment within Python? Check variants against reference?
+Dealing with absence of coverage
+How can I calculate loss of heterozygosity (LOH) in NGS sequencing data?
+Heteroplasmy Calculation
+Software recommendation: find DNA sequence distribution over entire transcript
+Recommendations for missing value imputation - DNA methylation data
+Bacterial genome annotation of a clinical isolate strain?
+Retrieving a list of human genes having GO associations
+What is the R/Bioconductor preferred way of accessing TCGA data?
+Way to get genomic sequences at given coordinates without downloading fasta files of whole chromosomes/genomes first?
+cell type specific genes - heatmap using rank based approach
+hg38 GTF file with RefSeq annotations
+Can FASTA files have nucleotide and protein sequences within them; or must they only have 1 type?
+pvalue calculation of protein-protein network with permutation test
+Why is this makeblastdb command not working?
+Any fast options to query large VCF bed intervals?
+What are the algorithms for biometric identification in large database?
+How can I extract gene names for a metabolic pathway from KEGG?
+How can I calculate gene_length for RPKM calculation from counts data?
+*very* unbalanced group sizes for DE
+snakemake rule all
+Why PHMM is used For Protein Analysis
+Installing Sibelia for Ragout on Mac OSX
+help with CRCmapper
+How are centromeric/telomeric regions categorized in RepeatMasker? "Other" category?
+Error in creating a volcano plot in MATLAB
+How to apply upperquartile normalization on RSEM expected counts?
+How to check whether all BAM read contain defined read groups?
+Waterman-Smith-Beyer Sequence Alignment
+Uniprot: Determining protein and organism given a DNA sequence
+Dealing with indels when converting a position to chromStart and chromEnd for a bed file
+R Biostrings pairwiseAlignment to BAM
+Using large databases with BLAT
+Gene expression signature (AUC) from gene expression data with 48 +48 samples
+Differences between NetAffx Hg-U133 Plus 2.0 Annotation file versions
+How to obtain clusters of hierarchical heatmap when using Python?
+How can I calculate the silent mutation for each position in codon?
+How to measure or assign hydrophobicity score values to individual amino acids of a PDB structure?
+Downloading CopyNumber450k package from Bioconductor
+Read sorted and indexed BAM files faster in C++?
+Retrieve detailed gene descriptions
+Getting hierarchy of cell populations with Drop-seq data
+How can I only get the species name for fasta sequences from blast results?
+Error "Can't locate List/MoreUtils.pm in @INC" when I run update_blastdb.pl
+Download multiple SRA files
+Help with identifying disease modules
+How to convert fasta file to tab delimited file
+Find Patterns in Cluster
+Obtain CD (cluster of differentiation) marker expression information
+Simulate fast5 MinION run
+How can I compare structures of proteins responsible for dehydration tolerance in plants?
+How to provide a GFF/GTF file to Chromonomer
+Is there a database of disease prevalence?
+Why do reverse radtags have different start points in radtag sequencing?
+Standard Cutoff for Moderated T-statistics
+Can exons be located outside of the coding sequence?
+What is the actual cause of excessive zeroes in single cell RNA-seq data? Is it PCR?
+Why are inversions defined as the reverse complement and not just the reverse of the reference?
+How to get UCSC Genome Browser to show the actual sequence?
+Genome assembly from error-prone reads
+Which identifier do I have to use when I want to add a ##Fasta section to a gff?
+Counting number of possible alignments between two DNA sequences using python
+Chimera Alignments
+Creating a new reference genome B by changing genome A with mismatches from BAM file without long reads
+How do I export my biom object to a file in biom format?
+How to map PDB chains to Uniprot IDs using API services
+Mark BWA-SW split alignments in output for long reads
+Finding out proteins that have a similar domain to a specific toxin
+IGV jump to rsID location
+error in heatmap using R
+Mutations in sequences relative to reference (histogram)
+Does picard markduplicate toggle PCR duplicate samflag
+How to access organism IDS, taxon nodes from UniProt?
+What is deep sequencing?
+Adding entries to bigwig file
+Differential Expression With 2 Treatments
+How to prevent sklearn Imputer(missing_values="NaN", strategy="mean", axis=0).fit_transform(data) from removing columns with only NA in them
+Coverage calculation: long reads (RNA-seq)
+What is this 5-column sequencing format from 2009?
+PLINK clump behavior on missing SNPs?
+Somatic tumor only variant calling?
+Retrieve abstract/summary for NCBI bookshelf via Entrez
+Biopython code refactoring
+How to release an R package with several bed files?
+Simple Affy Differential Expression
+sum of products of mapq and mapped bases for each read in a from a BAM file
+How to resolve in snakemake error : "Target rules may not contain wildcards."
+How can I specify to DEseq2 to only perform comparisons on which I am interested with?
+How to proceed after contigs.fa file obtained from VELVET assembly
+Using pythoncyc to get ec-code of a reaction
+Download data from the Human Microbiome Project via ascp
+5'UTR and 3'UTR annotation in yeast
+Normalizing microarray data for clustering heat map
+Convert population allele count into population allele frequency by using Perl or Python (translate available Bash into Perl or Python)
+BiomaRt error: Error in martCheck
+Why do I obtain very strange results with DESeq2?
+Can structural equation modeling be used in Bioinformatics?
+bigWig to bed for regions above/below threshold
+Interpreting large z scores from microarray data
+What does "motif 2 bp or longer" mean?
+RapMap: reference transcriptome for simulated reads
+Filter BAM file for read pairs where one or both of the reads starts with a given sequence pattern
+Filtering out all seqs with mutations of list2 from list1
+How do I find identical sequences in a FASTA file?
+Highlight CpG sites with Texshade
+What is local realignment and what is the problem it solves?
+How to query a network for a bacterium, specifically Streptomyces caatingaensis or Streptomyces thioluteus?
+Matlab scatter diagram
+Converting a VCF into a FASTA given a reference with Python, R
+Verify a predicted protein in one genome in a different genome of the same species
+What happens if a major bug is discovered in a bioinformatic package that has been used in published literature?
+Why does a very strong BLAST hit get lost when I change num_alignments, num_descriptions or max_target_seqs parameter?
+Quantification of EST/cDNA based retained intron transcripts
+How can I colour boxes in Gviz AnnotationTrack in R?
+Least present k-mers in the human genome
+How to find the sum of all sequences in a multifasta file
+How to colour multiple residues in Pymol?
+How to determine a protein's cellular location based on its sequence?
+IMPUTE2 missing filter option
+How do PCR duplicates arise and why is it important to remove them for NGS analysis?
+Java error when launching Pilon
+TruSeq Exome Kit bed file old version
+TCGA bam file duplicates (aligned reads) and related last part of TCGA barcode
+How to align genomic sequence with corresponding amino acid sequence
+What's a good ontology for drug names?
+problem of "ordering in physical positions" phasing SNPs with Shapeit
+Comparing two genome annotations
+Use paste function with apply families
+Large range parameter identification
+bcftools output vs. bgzip
+What are Approximate Read Counts (Library Sizes) and Lengths (Insert Sizes) for Next-Generation DNA Sequencers?
+Why total RNA-seq usually yields low mapping rate?
+EMT/EMT-like processes in bioinformatics to study cancer progression
+Using PLINK to find SNPs in LD (Linkage Disequilibrium) with another set of SNPs
+Transferring genomic features on new coordinates
+Integration of different microarray dataset to run GSEA
+How to specify resources for cluster in snakemake
+What algorithms exist for reverse protein folding?
+How can I find out the code DRIMSeq uses to make dmplotProportions objects?
+Estimate the length of poly-A tails from randomly-primed RNAseq data
+How to submit a canu job on LSF high-performance computing cluster farm?
+dividing genome into non-overlapping windows using R
+Automating sequence download from Wormbase
+Identifying relevant SNPs from a list
+Joining scaffolds to get full genome?
+Estimating BAM file from compressed fastq file size
+How can I download genePred file from UCSC?
+Gene function annotation - bacterial genome
+Scaffolding a genome with hybrid data
+How to get Nanopore MinION fast5 from SRA
+differential expression multiple studies
+Converting XLOC ids to UNIPROT ids
+Mirbase and blast locally
+How can I create my own GO slim?
+Is there a more elegant solution to the bwa-mem: paired reads have different names error?
+Duplicate genes with RSEM counts: Which one to choose?
+SPAdes error during assembly
+Proteins that cannot form biofilm?
+Comparison of gene set enrichment statistics
+Coordinates to Genome R Studio Script?
+Can we use non base-called fast5 files in poretools?
+Unable to Install PGDSpider using Ubuntu and wine
+Canu assembly not making a single consensus?
+Healthy data set/ control group for TCGA
+Interpreting 0x200 flag in bwa-mem alignments
+About CAFA experiment
+What do 0s in stageR mean?
+RcppArmadillo installation error
+sort a fasta file containing the Oxford Nanopore Technologies (ONT) header by sequencing start_time ascending
+How to trim adapter sequences from GSE65360 in order to map the reads?
+Mini-bulk RNA-seq and scRNA-seq analysis differences?
+How can I apply proportional (p) distances (Nucleotide) using bioPython
+Finding data to validate results
+NCBI - edirect suite to download all genome sequences associated with a query - troubleshooting
+Trying to show the gaps of each seq on bio::Graphics after converting clustalw
+Link Prediction in Bipartite Networks between biological pathways and drugs
+How to split multifasta based on partial fasta header
+State of the art mutation simulation software
+R package equivalent to RSeQC infer_experiment to get strandedness of RNA-Seq
+Folded Protein Chunk Dimensional Classification?
+Correlation network representation
+What are the differences between GWAS and QTL mapping?
+Identification of Microorganism
+scater: SingleCellExperiment, Error in seq_len(ncol(assay))
+HMM Profile from Convergence of retrotransposons in oomycetes and plants
+How to use the hmmsearch on prototypic repetitive sequences Repbase Update database?
+LD analysis in PLINK based on reference and a SNP list
+low-memory high-speed replacement for Picard MarkDuplicates
+AND or OR gene - protein logical relation in KEGG
+Protein fold pathfinding?
+CRISPR Sequence Finder and Database Download
+Is it possible to check if a patient has the HLA-B27 antigen from his exome stored in a VCF file
+How to rebuild the workflow for mining in oomynete genomes in UGENE
+How to get all PDB homologs from Uniprot (mapping + BLAST)?
+Extracting features or gene from PCA after calculating PCA for downstream analysis
+Exception : [Failed to read 8 bytes from input stream! Read 0] salmon quant was invoked improperly
+t-sne code and labelling issue for rna seq data
+Finding a single open reading frame with ribosomal binding site, using Biopython
+Which tools are available to call somatic mutations on non-coding regions from whole genome sequencing data?
+Get gene annotation type from gene name
+Downloading URL using AWK for fixed fields
+Where can I get the population allele frequency vcf file?
+Determine if a gene is mitochondrial or not
+Read counts from BAM file
+Duplicate gene symbol handling in GEO gene expression data
+sorting BAM file error using samtools
+Import a tab-separated file with differing numbers of elements in each row; prokka output
+calculating nucleotide frequency per column
+Pipeline (Pypiper) returns error, but individual command works fine
+changing color key range to specified range in heatmap.2 function
+how do I predict bacterial small non-coding RNA for a specific mRNA?
+Using Python, how to convert a pandas DataFrame into a VCF?
+How is a principal component analysis for population structure made from a bam or other alignment file?
+Convert rs ID of one hg build to rs IDs of another build
+Filter out PCA outliers automatically
+Filter out outliers of the scRNA-seq (heterogenous cells)
+Normalizing RNAseq for PCA and CCA
+Finding a single open reading frame with ribosomal binding site, using Biopython
+Show presence of known mutation in RNA-seq data
+Large dataset normalization for PCA
+Error in .computeSumFactors: cells should have non-zero library sizes
+How to compute the chance of failing to detect a gene given the detection limit of a protocol
+How to indicate the END of a haplotype block in VCF?
+Error in colSums(assay(sce)) : 'x' must be an array of at least two dimensions
+R: 'Matrix' can not be unloaded, but 'writeMM' method not found
+Single-cell RNA sequencing (scRNA-seq): filtering cells by transcript counts, how to choose cutoffs?

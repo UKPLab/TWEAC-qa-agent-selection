@@ -1,0 +1,502 @@
+all:
+- nintendo
+- Music
+- jobs
+- pcgaming
+- france
+- zen
+- socialism
+- Conservative
+- furry
+- houston
+- gay
+- television
+- seduction
+- astrology
+- privacy
+- flashlight
+- chemistry
+- gardening
+- russia
+- videogames
+- diabetes
+- photoshop
+- skateboarding
+- stocks
+- harrypotter
+- amazon
+- RealEstate
+- Eve
+- india
+- java
+- spam
+- parrots
+- Illustration
+- space
+- skiing
+- food
+- norge
+- Anarchism
+- occult
+- Israel
+- Frugal
+- conspiracy
+- comics
+- mentalhealth
+- Rockband
+- podcasts
+- gaming
+- Christianity
+- dating
+- SEO
+- travel
+- chess
+- Denmark
+- rap
+- Portland
+- yoga
+- scifi
+- Jokes
+- Metal
+- canada
+- transformers
+- China
+- Animals
+- diablo3
+- pittsburgh
+- startups
+- de
+- disney
+- Seattle
+- Paranormal
+- knitting
+- firefox
+- engineering
+- Catholicism
+- politics
+- Drugs
+- Atlanta
+- photography
+- nashville
+- Military
+- sex
+- atheism
+- dubstep
+- NewOrleans
+- washingtondc
+- cancer
+- cars
+- sales
+- ukpolitics
+- FinalFantasy
+- eagles
+- geopolitics
+- quotes
+- MensRights
+- books
+- Python
+- singapore
+- tennis
+- unitedkingdom
+- sports
+- korea
+- blender
+- Design
+- windows
+- movies
+- wow
+- math
+- horror
+- guns
+- gamedev
+- aviation
+- Games
+- comicbooks
+- startrek
+- hacking
+- motorcycles
+- writing
+- computers
+- productivity
+- vinyl
+- comedy
+- hockey
+- Art
+- weed
+- emulation
+- formula1
+- coins
+- Ebay
+- LosAngeles
+- dogs
+- marketing
+- punk
+- brasil
+- australia
+- newjersey
+- halo
+- mac
+- DIY
+- cats
+- Autos
+- college
+- Construction
+- mexico
+- playstation
+- electronics
+- biology
+- chicago
+- Physics
+- newzealand
+- technology
+- Pets
+- pakistan
+- doctorwho
+- lifehacks
+- vancouver
+- Ubuntu
+- wine
+- Coffee
+- islam
+- orlando
+- Austin
+- Parenting
+- AFL
+- bicycling
+- Marijuana
+- rpg
+- medicine
+- smashbros
+- beer
+- hardware
+- Buddhism
+- poker
+- software
+- lakers
+- recipes
+- snowboarding
+- Advice
+- INTP
+- belgium
+- malaysia
+- survivor
+- Quebec
+- drums
+- Forex
+- texas
+- Judaism
+- apple
+- lego
+- soccer
+- self
+- vegan
+- lockpicking
+- techsupport
+- wedding
+- ireland
+- wikipedia
+- anime
+- MMA
+- architecture
+- web_design
+- linux
+- women
+- baltimore
+- collapse
+- Blogging
+- AskReddit
+- skeptic
+- Homebrewing
+- Cooking
+- history
+- advertising
+- Poetry
+- security
+- europe
+- Wordpress
+- javascript
+- investing
+- classicalmusic
+- golf
+- socialmedia
+- youtube
+- economy
+- airsoft
+- boston
+- lgbt
+- pharmacy
+- Gunners
+- japan
+- finance
+- Astronomy
+- trance
+- Cricket
+- philadelphia
+- funny
+- Philippines
+- google
+- Boxing
+- iphone
+- PHP
+- Guitar
+- StarWars
+- LSD
+- relationships
+- toronto
+- help
+- germany
+- greece
+- Libertarian
+- amateurradio
+- Fitness
+agents:
+  nintendo: nintendo.txt
+  Music: Music.txt
+  jobs: jobs.txt
+  pcgaming: pcgaming.txt
+  france: france.txt
+  zen: zen.txt
+  socialism: socialism.txt
+  Conservative: Conservative.txt
+  furry: furry.txt
+  houston: houston.txt
+  gay: gay.txt
+  television: television.txt
+  seduction: seduction.txt
+  astrology: astrology.txt
+  privacy: privacy.txt
+  flashlight: flashlight.txt
+  chemistry: chemistry.txt
+  gardening: gardening.txt
+  russia: russia.txt
+  videogames: videogames.txt
+  diabetes: diabetes.txt
+  photoshop: photoshop.txt
+  skateboarding: skateboarding.txt
+  stocks: stocks.txt
+  harrypotter: harrypotter.txt
+  amazon: amazon.txt
+  RealEstate: RealEstate.txt
+  Eve: Eve.txt
+  india: india.txt
+  java: java.txt
+  spam: spam.txt
+  parrots: parrots.txt
+  Illustration: Illustration.txt
+  space: space.txt
+  skiing: skiing.txt
+  food: food.txt
+  norge: norge.txt
+  Anarchism: Anarchism.txt
+  occult: occult.txt
+  Israel: Israel.txt
+  Frugal: Frugal.txt
+  conspiracy: conspiracy.txt
+  comics: comics.txt
+  mentalhealth: mentalhealth.txt
+  Rockband: Rockband.txt
+  podcasts: podcasts.txt
+  gaming: gaming.txt
+  Christianity: Christianity.txt
+  dating: dating.txt
+  SEO: SEO.txt
+  travel: travel.txt
+  chess: chess.txt
+  Denmark: Denmark.txt
+  rap: rap.txt
+  Portland: Portland.txt
+  yoga: yoga.txt
+  scifi: scifi.txt
+  Jokes: Jokes.txt
+  Metal: Metal.txt
+  canada: canada.txt
+  transformers: transformers.txt
+  China: China.txt
+  Animals: Animals.txt
+  diablo3: diablo3.txt
+  pittsburgh: pittsburgh.txt
+  startups: startups.txt
+  de: de.txt
+  disney: disney.txt
+  Seattle: Seattle.txt
+  Paranormal: Paranormal.txt
+  knitting: knitting.txt
+  firefox: firefox.txt
+  engineering: engineering.txt
+  Catholicism: Catholicism.txt
+  politics: politics.txt
+  Drugs: Drugs.txt
+  Atlanta: Atlanta.txt
+  photography: photography.txt
+  nashville: nashville.txt
+  Military: Military.txt
+  sex: sex.txt
+  atheism: atheism.txt
+  dubstep: dubstep.txt
+  NewOrleans: NewOrleans.txt
+  washingtondc: washingtondc.txt
+  cancer: cancer.txt
+  cars: cars.txt
+  sales: sales.txt
+  ukpolitics: ukpolitics.txt
+  FinalFantasy: FinalFantasy.txt
+  eagles: eagles.txt
+  geopolitics: geopolitics.txt
+  quotes: quotes.txt
+  MensRights: MensRights.txt
+  books: books.txt
+  Python: Python.txt
+  singapore: singapore.txt
+  tennis: tennis.txt
+  unitedkingdom: unitedkingdom.txt
+  sports: sports.txt
+  korea: korea.txt
+  blender: blender.txt
+  Design: Design.txt
+  windows: windows.txt
+  movies: movies.txt
+  wow: wow.txt
+  math: math.txt
+  horror: horror.txt
+  guns: guns.txt
+  gamedev: gamedev.txt
+  aviation: aviation.txt
+  Games: Games.txt
+  comicbooks: comicbooks.txt
+  startrek: startrek.txt
+  hacking: hacking.txt
+  motorcycles: motorcycles.txt
+  writing: writing.txt
+  computers: computers.txt
+  productivity: productivity.txt
+  vinyl: vinyl.txt
+  comedy: comedy.txt
+  hockey: hockey.txt
+  Art: Art.txt
+  weed: weed.txt
+  emulation: emulation.txt
+  formula1: formula1.txt
+  coins: coins.txt
+  Ebay: Ebay.txt
+  LosAngeles: LosAngeles.txt
+  dogs: dogs.txt
+  marketing: marketing.txt
+  punk: punk.txt
+  brasil: brasil.txt
+  australia: australia.txt
+  newjersey: newjersey.txt
+  halo: halo.txt
+  mac: mac.txt
+  DIY: DIY.txt
+  cats: cats.txt
+  Autos: Autos.txt
+  college: college.txt
+  Construction: Construction.txt
+  mexico: mexico.txt
+  playstation: playstation.txt
+  electronics: electronics.txt
+  biology: biology.txt
+  chicago: chicago.txt
+  Physics: Physics.txt
+  newzealand: newzealand.txt
+  technology: technology.txt
+  Pets: Pets.txt
+  pakistan: pakistan.txt
+  doctorwho: doctorwho.txt
+  lifehacks: lifehacks.txt
+  vancouver: vancouver.txt
+  Ubuntu: Ubuntu.txt
+  wine: wine.txt
+  Coffee: Coffee.txt
+  islam: islam.txt
+  orlando: orlando.txt
+  Austin: Austin.txt
+  Parenting: Parenting.txt
+  AFL: AFL.txt
+  bicycling: bicycling.txt
+  Marijuana: Marijuana.txt
+  rpg: rpg.txt
+  medicine: medicine.txt
+  smashbros: smashbros.txt
+  beer: beer.txt
+  hardware: hardware.txt
+  Buddhism: Buddhism.txt
+  poker: poker.txt
+  software: software.txt
+  lakers: lakers.txt
+  recipes: recipes.txt
+  snowboarding: snowboarding.txt
+  Advice: Advice.txt
+  INTP: INTP.txt
+  belgium: belgium.txt
+  malaysia: malaysia.txt
+  survivor: survivor.txt
+  Quebec: Quebec.txt
+  drums: drums.txt
+  Forex: Forex.txt
+  texas: texas.txt
+  Judaism: Judaism.txt
+  apple: apple.txt
+  lego: lego.txt
+  soccer: soccer.txt
+  self: self.txt
+  vegan: vegan.txt
+  lockpicking: lockpicking.txt
+  techsupport: techsupport.txt
+  wedding: wedding.txt
+  ireland: ireland.txt
+  wikipedia: wikipedia.txt
+  anime: anime.txt
+  MMA: MMA.txt
+  architecture: architecture.txt
+  web_design: web_design.txt
+  linux: linux.txt
+  women: women.txt
+  baltimore: baltimore.txt
+  collapse: collapse.txt
+  Blogging: Blogging.txt
+  AskReddit: AskReddit.txt
+  skeptic: skeptic.txt
+  Homebrewing: Homebrewing.txt
+  Cooking: Cooking.txt
+  history: history.txt
+  advertising: advertising.txt
+  Poetry: Poetry.txt
+  security: security.txt
+  europe: europe.txt
+  Wordpress: Wordpress.txt
+  javascript: javascript.txt
+  investing: investing.txt
+  classicalmusic: classicalmusic.txt
+  golf: golf.txt
+  socialmedia: socialmedia.txt
+  youtube: youtube.txt
+  economy: economy.txt
+  airsoft: airsoft.txt
+  boston: boston.txt
+  lgbt: lgbt.txt
+  pharmacy: pharmacy.txt
+  Gunners: Gunners.txt
+  japan: japan.txt
+  finance: finance.txt
+  Astronomy: Astronomy.txt
+  trance: trance.txt
+  Cricket: Cricket.txt
+  philadelphia: philadelphia.txt
+  funny: funny.txt
+  Philippines: Philippines.txt
+  google: google.txt
+  Boxing: Boxing.txt
+  iphone: iphone.txt
+  PHP: PHP.txt
+  Guitar: Guitar.txt
+  StarWars: StarWars.txt
+  LSD: LSD.txt
+  relationships: relationships.txt
+  toronto: toronto.txt
+  help: help.txt
+  germany: germany.txt
+  greece: greece.txt
+  Libertarian: Libertarian.txt
+  amateurradio: amateurradio.txt
+  Fitness: Fitness.txt

@@ -1,0 +1,129 @@
+What is the distinction between a full node and a full public node?
+What does the IOTA coordinator actually do?
+Why does IOTA use a ternary number system?
+How can I safely store my IOTA seed?
+Consensus - how is a single, non-conflicting graph (tangle) maintained?
+How do I set up a datastream for sale?
+How to generate a seed safely?
+DB snapshots for the masses - are there any risks?
+What happens to a MAM (Masked Authenticated Message) Stream during a Snapshot?
+How do I use the "Optional Tag" field in the GUI light wallet?
+What are the minimal system requirements to run a full IRI node?
+How does reattaching a transaction increase the chance for confirmation?
+Why is my transaction not getting confirmed?
+Is there a difference between branch and trunk transactions?
+What kind of "invalid" transactions are transported by the network (and appear on tangle explorers?)
+What are the prerequisites for shutting down the IOTA coordinator?
+What sensor could I use to contribute to the data marketplace when it goes live?
+How do I set up a permanode?
+Are there any valid reasons to Rebroadcast a Transaction?
+Where can I buy IOTA in USD?
+How does a full-node validate transactions?
+What is the total supply of IOTA?
+What can an attacker with 34% of total hash power do?
+Hosting a Full Node - Best Practice
+How do I set up a private IOTA network?
+Will outsourcing POW ever be an issue?
+Why are microtransactions important or necessary?
+How does a reattached transaction impact the tangle?
+How can there be consensus once the tangle is too large for a single iri node to track?
+Why do some of my transactions have Weight Magnitude 16, although I have set it to 14?
+How would I explain IOTA/the Tangle to someone who isn't technical?
+What is the average transaction time in IOTA?
+How many full IOTA nodes are there, and how many do there need to be?
+Why does iri use manual neighbor discovery?
+Static IP address for full node
+What is the IOTA transaction data structure?
+How can I set up a cold storage?
+Transactions Pending - Balance 0
+Difference between score and cumulative weight
+Full Node Set-Up Issue: UnsatisfiedLinkError
+IRI: What are the differences between and purposes of --rescan and --revalidate?
+Does the node API allow for 90-character addresses (with checksums)
+What's the deal with prefixes? Is Mi smallest amount that could be transferred?
+How can I recover my IOTA balance?
+How do I generate a wallet from a seed?
+Lost or wrong jotted seed - is it possible to withdraw IOTA?
+Is there any zero-value iota test network?
+How to proceed end to end with iota on Bitfinex (e.g., store them in Keepass)?
+What does the "block number" in the iota wallet represent?
+What is an IOTA "bundle"?
+Doesn't reattaching transactions allow double-spend transactions?
+What Proof of Work function does IOTA use?
+How to set up an IOTA Sensor for Data Marketplace?
+Is it possible to send pictures to the Tangle? What is the data limit per transaction?
+Consensus - what convergence properties does the tangle have when multiple conflicting transactions are built upon by different parts of the network
+How do I know if a pending transaction will be successful?
+Access API from another host
+Given 0 token and 0 fee transactions, what provides value to the IOTA token itself (not the IOTA network)?
+What are the IOTA disk space needs?
+Can you reuse a receive address that was created before the last snapshot?
+What are swarm nodes ? What is their role in the network?
+How can I verify whether an address I've created offline is valid?
+How does IOTA make itself resistant to quantum computing based attacks?
+How does Markov Chain Monte Carlo algorithm work in the context of tangle?
+What are the expected advantages of Curl-P over Kerl algorithm?
+Will the total supply of IOTA tokens ever increase?
+Will the CPU usage of a Fullnode increase?
+Will we get a better IRI implemtationn, which use less CPU/RAM?
+Difference between "Reboadcasting" and "Reattaching"
+What is IOTA trading off giving up Blockchain and adopting DAG?
+How to Identify the "IRI" thread status?
+How long should it takes before I can consider an outgoing transaction that is still in pending as failed?
+What are the criteria for a transaction to be confirmed in the light wallet?
+I sent 1 IOTA to Bitfinex, transaction is confirmed but money aren't store on my wallet on Bitfinex
+IOTA Light Wallet returns Request Error when sending funds
+Secure Way to Copy & Paste Seed into Desktop Wallet
+What happens if I receive IOTAs at an address I've already spent from?
+What information is leaked if I reuse an address?
+Could an IOTA wallet operate without seeds?
+Why aren't seeds longer than 81 trytes more secure?
+Can IOTA be made private and fungible?
+What happens to duplicate transactions that say pending, when one has confirmed?
+What's with all the pending/unconfirmed transactions with the "STOLEN"?
+Multi seeds or multi addresses for sensors
+Authenticated remote IRI API calls. Fullnode startup flags and config
+Is an IOTA address empty after sending part of the funds?
+Is token volatility an issue for the data marketplace?
+How do subtangles work?
+What are timestamps and how are they connected to smart contracts?
+Identify transactions issued by the coordinator
+What is the purpose of IOTA?
+Attach to tangle, invalid response error
+What are Oracles and what do they do?
+How is data stored in the tangle?
+Can a node steal my seed?
+Running a self-financing node? Any possibility of running a private node, adding fees, or adding public node messages?
+When is a pending transaction technically confirmed?
+When do nodes sync their subtangle with the neighbours?
+How will IOTA avoid re-generating old addresses that have been pruned via Snapshots?
+How is consensus achieved in offline transactions?
+What exactly happens on reattach?
+Why are there just nines in the seed?
+How to Securely Outsource Proof of Work Calculation?
+IRI - API_HOST does not apply to RECEIVER_PORTs?
+What are the official social media accounts associated with IOTA?
+What are trytes and trits?
+Will every IoT device will have their own wallet, own seed?
+What is the Min Weight Magnitude and what implications arise from changing it?
+What is JINN project?
+How do I configure a public node?
+Why can I not run commands on a node?
+Where does all Tangle data goes after a Snapshot?
+What commands are available via the API?
+How will PEAQ tokens interact with IOTA and the Tangle?
+What determines when a snapshot occurs?
+Why are transactions so slow?
+Does the full node software come with DDoS protection?
+What's the difference between Milestones and Snapshots?
+What happens to my money if my phone is damaged?
+Does every pending transaction pose a threat for my remaining funds in the wallet?
+What prevents a malicious node from receiving a transaction and, instead of relaying it, attempting to compromise the now-weakened address?
+Is there a step by step guide for setting up a full node on AWS?
+Why is this Jinn processor better for iota?
+What is an input transaction, and what does its "address" field represent?
+How do I recover my pre-Kerl IOTA balance?
+Why is it insecure to use an address more than once and will/can this be mitigated in future wallets or updates?
+Offline transaction with light wallet?
+Does anyone know details of Satoshi Pay's decision to choose XLM over IOTA for their primary ledger technology?
+How to know a transaction is "confirmed"?

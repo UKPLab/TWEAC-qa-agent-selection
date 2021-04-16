@@ -1,0 +1,1587 @@
+What's the best way to import memberships and their associated contributions?
+How Do I Fix Mail Send Stopping at 500 Sends?
+How do I give event registrants one of four prices but allow admins to select a free option for guests?
+On multi-site CiviCRM, are mailings supposed to be separated per-domain?
+When will 4.4 LTS end, and what will replace it?
+Creating a custom search to produce contributions as results
+How to reset the menu items to defaults
+How should I add sign up forms into 3rd party sites?
+How can we avoid staff users overwriting emails of utility WordPress accounts when testing CiviContribute pages?
+how can I change the contact type for one contact (to/from individual/household/organization)?
+How can I include Profiles on Drupal user registration?
+Are there public repos including WordPress WooCommerce and CiviCRM integration code?
+Is CiviCRM compatible with Nginx?
+How to disable cache refresh on Manage Groups page
+How to make an efficient to-do-workflow for back-end staff?
+How is CiviCRM different in Drupal, Joomla, and WordPress?
+What is the CiviCRM LTS Version, and should I use it or the latest stable release?
+Is it possible to apply an existing contribution to an event registration?
+What should be best practice when creating custom fields?
+What is the best approach for using CiviCRM as an app on mobile?
+How do we preprocess CSV columns when using CiviCRM builtin import functionality?
+Can I expose CiviCRM contacts to Drupal Linkit?
+How can I disable households?
+How do I send mailings to subsets via the API?
+Quick search icon spins forever after upgrading from 4.4 to 4.5
+Adding a dynamic “cover processing fees” checkbox to CiviCRM contribution form
+Where is the CiviCRM ERD / data-dictionary?
+How can I make it easier for users to generate the reports they need?
+How to change CiviCRM Home to a different page (not Dashboard)?
+How can I set default active dashlets for all users globally?
+Change the default fields (columns) in contact search results
+How do I change the default URLs to contribution or event registration pages?
+Can I configure CiviDiscount for additional participants?
+What are the different cache clearing mechanisms relevant when developing?
+how do I best configure this complex event registration scheme?
+How do I prevent a user from adding contacts to ACL groups?
+Cron sending reports weekly
+Can we export from membership search and include fields for groups?
+What is the correct way to work with custom data in the API?
+Is there a CiviCRM hook or other method which can be used to push data updates to other systems?
+How do I search for contacts with no contributions?
+Is it a bad idea to change a Participant's registered event after a payment has been made?
+How to insert Javascript into an inline form edit via an extension?
+How can I add/rearrange custom fields in the default contact view template?
+How can I import Memberships without e-mail addresses or external IDs?
+Collecting Facebook, LinkedIn profiles
+How to tell which .extra.tpl files CiviCRM is trying (and failing) to load?
+What is the best way to add a contact to existing membership using relationships?
+Using <div> tag for pdf printing
+Unable to install extensions: HTTP redirection error
+What is the root url needed for extension pages?
+Wordpress CiviCRM groups, members and permissions
+Can a profile submission redirect to a PDF?
+Can I update/requery a custom field that got changed via another field on the same page?
+How can I have a paid membership sign up that includes an option for a paid premium version?
+Are there recommended directory ownership and permission settings for CiviCRM files?
+How to allow parents to register children but still record their own info
+How should I delete a CiviCase or a Case Type
+Why am I getting no values when using REST api?
+Custom payment processor for credit balance - need ideas and advice
+How should one pronounce CiviCRM?
+Wordpress duplicates my contacts
+How to add/remove search fields from the search box dropdown in the navbar?
+How do I create a Webform that will open a case and assign case role
+How to compare CiviCRM to Salesforce?
+How to automatically set PDF 'Activity Subject' from template subject?
+How do I automatically make roles inactive when case is resolved
+How Can I Attach a PDF Certificate for a Membership Payment?
+Can I find the target contact ID in hook_civicrm_buildForm?
+Views Proximity Search on Latitude / Longitude
+How do I allow registration for one day of a multi-day event?
+Can I put custom field tokens into a message template?
+Enable location "Name" in CiviEvent location configuration?
+Custom options on CiviEvent registration forms to handle breakout session choices
+Using contacts as event locations
+Example of adding multi-record custom fields to a contact via API
+How do I import an activity with multiple target contacts?
+How is the restful API secured?
+How can I tell if the logged in user has a certain permission?
+How Do You Create Users from Contacts?
+How can I reference a contact's Drupal/Wordpress/Joomla account with a CiviMail token?
+How to update latest.civicrm.org?
+How do I upload mailing content in 4.6?
+Why do Personal Campaign Pages stay live after their Contribution Page is closed
+Will CiviCRM work with Backdrop?
+How can I allow non-admin users to manage tags?
+How to remove CiviCRM links from Drupal user account page?
+How do I set up custom permissive relationships?
+How to display an extension's form as a public Wordpress page
+How to use API chaining to create a contact and a relationship
+How do I test a CiviCRM upgrade script?
+Pull data from Drupal entity reference field into CiviCRM?
+Can I add non-contact fields (such as membership, contribution, relationship, etc) in bulk emails?
+Has CiviCRM ever undergone formal usability testing?
+What to do when upgrading from 4.3.4 to 4.6.0 is failing?
+How to decide between using a custom Relationship and using a custom Contact Reference field?
+How to register for event without an email address?
+Since upgrade, dompdf.php is presenting a security risk?
+Is it possible to prevent a certain role from changing the activity status in a case activity?
+Recurring Payment Issues
+Adding a Facebook Conversion Pixel Code to the contribution confirmation screen
+How to restrict access to only one Contribution Page
+"Is deceased" checkbox and Views
+Edit address using webform and views
+Why is format returned for multi-select custom field API different for Contact vs. Relationship?
+Remove the "-none-" option in Price Set choices?
+CiviVolunteer Error on page
+Optional year on Date of Birth demographics field: is it possible?
+Can I use multiple values in an api Get call?
+How do I fix error with the new (4.6.0) Drupal views image handler for CiviCRM contact images
+How do I send to Multiple Email Addresses for a contact in CiviMail?
+How do I suppress showing cents on a contribution page?
+Is there a way to allow partial payments for events?
+Error while saving new contribution
+How do I embed an image into CiviMail messages?
+How do I add fonts to CiviCRM
+Can CiviMail send multiple mailing jobs concurrently?
+Removing empty fields from event registration templates
+Missing Input Parameters Error
+How to grant permissions (ACL) when working with nested groups?
+How does one stop people who haven't paid (pending from pay later) from filling an event?
+After upgrading to 4.6 CiviMail HTML version is uneditable
+Price set for Golf Event
+Where should one look for logs when debugging a new problem?
+How do I configure SMTP with STARTTLS?
+Why does a 100% discount not work?
+How to debug chained API calls
+How do contact hashes work, and how do I keep them secure?
+How to prevent Smarty secure_mode activation?
+How can I include a custom template file in an email template using smarty?
+Can't update domain.address
+How do I batch update a standard custom field for event participants?
+How can I manage the drop down field lists in Search Builder?
+Can Civi/WordPress an Civi/Drupal (same versions) share a database?
+Why can't I send bulk SMS (even though I can send individually)?
+How Do I Import 75+ Groups
+How do I get a chained restful API call to return xml?
+How do you set CiviCRM to be the default page for users in Wordpress?
+How can I export vcards for multiple contacts?
+How to do a 'mock up' event or prolfile form without it going 'live' on the website?
+How can I set up a two part sign up form, where first submit leads to second with more fields?
+How to bulk renew membership
+How to use waitlists with price sets that have registration limits?
+Where in the database is the note field for contributions?
+How do I use CRM_Utils_Request::retrieve when the POSTed field is an array?
+How do I add new tab to the Contact Summary Page?
+Date Format and CiviContribute/Data Form Confirmation Page
+How do I set a default From email in CiviCRM to be used when assigning Activities?
+What else is needed to create new tab for content in extension?
+In CiviMail reports, how do I enable "Add these contacts to Group" for user levels other than Admin?
+How do I create a profile listing of multiple-record user relationships?
+Drupal CiviCRM Entity in Rules: How to loop over all members of a group?
+CiviCRM 4.5.8 - Bounce Fetcher - Max Line Length Exceeded
+Is this scheduled cronjob setup correctly?
+How do I make dropdowns work on CiviCase edit case type?
+How should I configure CiviMember so both individuals and organizations can hold memberships?
+How to send receipt for previous event sign ups?
+How do I setup Wordpress multi site with CiviCRM mutlisite?
+How to change Paypal IPN URL when migrating Civicrm onto a new domain?
+How do I use custom fields in Drupal views?
+What is the best practice for tracking total number of attendees?
+How can I set the order of membership organisations in dropdown?
+How can I set up a BCC option for automated messages?
+How do I use the API to access protected custom data in a hook?
+What do I do when rebuild Smart Group Cache fails?
+CiviCRM does not have full functionality support for refunds and partial payments so what is the current way to tackle this type of situation?
+Why can I not add relationships?
+How Do IModify Report Criteria?
+Is there a checklist for setting up a new organization's website + CRM?
+How can I lookup US county from latitude/longitude?
+What is Krumo, and why should I care?
+Attempting to add a new Contact, why do I get this error message - 'Warning: htmlspecialchars() expects parameter 1 to be string'?
+How do I find duplicate contacts by nickname?
+How to do three-tiered multi-site?
+Multiple Financial Types on one payment form?
+After creating my extension, what is the root for my new tab?
+How do I generate sql/civicrm_generated.mysql using bin/regen.sh file?
+What to do when upgrade to 4.6 failed, but rolling back breaks SMS?
+After upgrade to 4.6, should I get "No available releases found warning" in Reports->Available updates?
+What are best practices around newsletter signup on contribution page, profiles and contact seeing their donation history?
+Smart group with manually added contacts
+How to add "ACTION" Column in a custom Search?
+Can I auto update Civi data w/ data from my listserv?
+Does CiviCRM fulfil our charity's requirements?
+Payment Processor for Authorize.net Server Integration Method (SIM)?
+Why does the html snippet for a profile not include the url of the site for linked Jscript and css files?
+How can we make Event custom fields available as tokens for scheduled reminders?
+Installing extensions with civicrm-buildkit
+Changing CiviCRM Site Key in the civicrm.settings.php file
+Why can't I export a Contact Detail report to CSV?
+Why can't I export my report to pdf?
+Is it possible to add contribution note when renewing membership in (one of) the next release?
+How to change membership type parameters to effect a revised end date
+How do you change the default status message that shows when one submits a profile form?
+Where do I found the "form action" call in TPLs to an Event?
+How To Migrate CiviCRM From Wordpress To Drupal?
+Can one change the order of Groups shown on a profile?
+How do I prepare for Developer Training in Denver?
+How to show CiviCRM menu for non admin role using WordPress?
+Multi-level Organization ACL Permissions
+Upgrade 4.5.6 > 4.6.1
+How do I configure the duration of the checksum links?
+How can we increase the number of events displayed when creating Joomla menu link?
+Can I have more than 4 Vacancies appear on the Dashboard in CiviHR?
+What do I do to fix Civi Bounce Reasons that appear in strange (chinese?) character set?
+How do I distribute CiviSurvey by email, and then analyze the results?
+CiviMember - How to find members that are in a specified group
+How do I set the time zones in order to correct mismatched Timestamps for MySQL and PHP?
+CiviMail and Smart Groups: when does CiviCRM identify the actual list of email recipients?
+Can "Find Activity" automatically shows result with set parameters without going into selection every time?
+How to create a statemachine/wizard in a modal/popup?
+Saving Advanced Searches for later use
+How does WP BuddyPress integrate with CiviCRM Members?
+How can I integrate (optional) membership sign-up on a CiviEvent registration form?
+Webform-CiviCRM and the "my billing address is the same" checkbox
+CiviEvent - changing an event's creator
+How to I access the A/B testing features after upgrading to 4.6?
+Can I use autocomplete to add users in a webform (they might be existing contacts)?
+Do volunteers have to be associated with an event?
+Why do I get "Access denied; you need (at least one of) the SUPER privilege(s) for this operation" when importing a SQL dump to CiviCRM?
+Has integration been done for Textify Mobile?
+How to Fix Missing Organization Profile Dropdown in Contribution Form Settings
+How do I set up dev environment with buildkit?
+"Empty needle" error when exporting from Advanced Search results
+Has anyone added discounting functionality to the 'cart' component of CiviEvent?
+How can I allow multiple petition signatures from the same computer?
+How do I create contribution pages that record pledges and contributions to households?
+What is the difference between Tracked Opens and Confirmed Opens
+How to clear pseudoconstant cache?
+Is there a way to encrypt a single field in Civi database?
+Are there any dangers to editing a membership type directly in the database?
+Pointing to /civicrm breaks Wordpress site, 404 HTTP response
+How to configure Membership Status Rules so expired members can renew?
+How do I rebuild the training demo sites?
+Getting volunteer role in to email template
+What are best practices for bad postal addresses?
+Custom fields do not appear in profiles for anonymous users
+Adding custom roles to Case "Add role" function
+How to allow multiple values on a civicrm contextual filter in drupal views
+Does CiviMail SMTP work with Amazon AWS SES?
+(Event reminder) Exclude Participant who registered after the event!
+"nativecode=1060 ** Duplicate column name 'created_id'" when upgrading from 4.4.14 to 4.6.2
+Localisation settings not saving
+Are there any CiviCRM loyalty/rewards extensions available?
+Migrating IPN's from Ubercart to Civicrm, OR syncing membership payments from Ubercart to membersips/contributions in Civi
+How Do You Copy Live To Sandbox?
+What is the easiest way to see the MySQL queries run by a CiviCRM page?
+Can I create a custom System Workflow Message for a particular Contribution Page?
+Allowing group management to users with limited permissions
+Does Price Set for Memberships also allow for Recurring on a Donation
+Create a "Not Attending" Option for CiviEvent
+How to let CiviCRM not send a confirmation to a new Mailing Group member?
+Limit the list of contacts to search when assigning a case role
+Is it safe to assign "Edit all events" to non-admin users?
+CiviMember - Adding a premium when recording a membership payment
+Can you use CiviMail headers and footers on System Workflow Messages?
+Changing directory permissions to get Cron to work via drush
+How can people view which mailing lists they're subscribed to?
+How to create a Drupal View with multiple CiviCRM relationships?
+What is the correct way to import fields with line breaks?
+How do I add CiviCRM Activity attachment to View
+How do I get wordpress and Civicrm membership synced?
+Does the email address always have to be in the donation section on a Contribution Form?
+Is there a way to see the actual change performed by the entry in the change log?
+Extension: UK Phone Number Validator - permissions
+CiviCRM API with Custom Data mixed with Standard Entities
+Does the core Moneris payment processor work?
+Restoring groups and linked contacts
+In CivilMail for 4.6.2 how do I prevent duplicate emails?
+Changing the activity dashlet
+When running event reports, receive Error: '' is not a valid option for field id
+Online receipt not being send to donors
+How to match Activities to Contacts during import?
+Contact Reference Field Import & Batch update
+CiviCRM and Docker
+Webform-civiCRM equivalent for Wordpress?
+Pledge reminder emails sending out invalid payment links
+How to manage a scholarship fund?
+How is membership type best set up for monthly direct debit payments?
+Unable to configure CiviCRM on Wordpress
+Strength testing password used to create user account
+How can I merge two memberships in the same contact (without losing contribution info, etc)?
+How to export all children of a family?
+Why am I unable to set organization name?
+How to use a CiviCRM generated form in an Android App
+Shouldn't CRM_Core_PseudoConstant::get localize parameter be setted to TRUE by default?
+Why does PHP Contribution API not filter on contact_id in 4.6.2?
+CiviCRM and Apache Solr - Drupal 7
+How can I see the available tokens for message templates?
+How can I display variables for templates other than the top/main one?
+How can I show contacts that DO NOT have an activity of type X in last Y months?
+Error in CiviCRM for Drupal7 after Migrate from "Backup and Migrate" module on New Contact Form
+Member since date before 1995
+Can't edit or create Custom Search options via front end?
+Is there a way to add a custom field to the Inbound SMS activity type?
+Error when updating billing details for admins and contributers
+Does CiviCRM work with Site Performance Engines in Wordpress such as Falcon?
+How can I have a fixed date membership with no rollover date?
+How to delete "Not you or want to join..for a different person"?
+How can I track donor movement on CiviCRM?
+Change Receipt Email Title: Template, Localisation File or Somewhere Else?
+symlink at sites/all/modules/civicrm doesn't work
+Working with git
+can't log into a site build using civibuild
+{mailing.viewUrl} returns faulty URL
+In which table is Activity assignee contact information stored in mysql?
+Could CiviCRM 4.5 or 4.6 make it easier to generate large numbers of PDFs at once?
+CiviCRM, Ubercart, and donations through the shopping cart
+Different credit card choices for each payment processor
+Links in pre-form help not showing
+How to enable CiviDiscount for members?
+MailChimp Integration imports First Name, but not Last Name
+how to fix 'Warning Error loading module file (). Please restore the file or disable the module.' error message?
+Is there a way to regenerate the display and sort names?
+issue with Joomla and CiviCRM Dashboard as a Menu Item
+How to tie multiple event registrations to a single (non-monetary) transaction?
+Options for monthly payments and annual payments on same contribution page
+Bug or feature? Logged in, can't do event registration. Not logged in, Event Registration loads
+Can I set a contribution page to have pledge selected by default with a default number of installments?
+How to sort civimobile event participant check-in list?
+Why are my contacts' name and email empty?
+Need to make changes to Paypal website pro templete, Where is it located?
+How to create file type custom data with API?
+How to add validation to the 'Add Case Role' option in Case Summary View?
+Problem with navigating search results
+Drupal CiviCRM Rules module: How to use the action "CiviCRM Mailing: Send email"?
+CiviMail: "DB error" alert pop-up
+Initialization error after moving installation of CiviCRM for Wordpress from localhost to Server
+How do I limit the number of ticket to be sold in events
+Upgraded to 4.6.2 - 'New Mailing' brings up 'Unknown Extension' error
+How can I limit the number of participant roles?
+How to get the value of a disabled form field in webform civicrm?
+On upgrade from 4.5.8 to 4.6.2 CiviCRM menu disappears until scroll, then scrambled
+Is there a way to enable or install the full version of CKEditor in CiviCRM 4.6.x?
+How to add custom fields to membership report display columns?
+How do I add Javascript to pages using Core functions?
+Autoresponder for filling out profile
+New membership page as default Drupal register page
+Error when trying to generate Activity Report after upgrading to 4.6.2
+Creating a public Member organisations directory with CiviCRM in Wordpress
+How do i list upcoming events publicly using CiviCRM in Wordpress
+Can I override core classes or PHP files with custom versions?
+How To Manage a Webform and a Contribution page?
+CiviCRM Rules extension
+CiviMail pull-downs not displaying correctly
+Can I use different financial types for membership registrations and renewals without losing functionality?
+How to autofill/autopopulate profile forms?
+Error "No payment information found for this record" when connecting multiple participants to a single payment via API
+Should civicrm_participant.registered_by_id be an FK to civicrm_contact?
+When sending mailing incorrect amount of contacts displayed
+Problem with CiviMail Menu on Joomla 3.4.1 - CiviCRM 4.6.2
+Best way to create a new DB table in an extension with logging
+Creating memberships in batches after payment
+CiviCRM Integration wtih WhatsApp
+Sum of recurring contributions
+Reasons for restricting changing contribution statusses?
+Improve the speed of civimail
+which scheduled job handles email confirmations?
+How to distinguish "Contacts with the same name" when assigning an activity?
+Easy "add to Google Calendar" link in Event confirmation emails
+Error for token.php related to greeting tokens
+How do I find a message template?
+Test Emails Not Working
+Paypal Express No Button
+Is there a way to get a stand-alone Tell a Friend page?
+Special search problem
+How do I find all my Smart Groups, as a type?
+Captcha on Contribution forms
+Set membership end date to today for cancelled status
+When the smart group cache is regenerated, are disabled smart groups regenerated?
+Upgrade from 4.5.8 to 4.6.2 killed View Contact Tabs
+Creating CiviMail cron job in CPanel
+Sent SMS via Twilio failed
+Recurring Donation Email Issues with iATS payment processor
+CiviMail Incomplete Load
+My Subscribe to mailing list only works with logged in users
+Activity iCal : Start time = End time
+Unable to load registration pages or save registrations
+Picture size: larger than screen
+Cannot install extensions on a wordpress+civicrm install
+Adding value conditions to dedupe rules
+Unsupervised dedupe rules in the background?
+Avoiding automatic creation of civi contact upon drupal account creation
+Is CiviCRM 4.6 Bootstrap Compatible
+CiviMail adds call to onbeforeunload function then throws "Illegal Characters" error over and over again
+Automatically create scheduled reminders for recurring events?
+Why Could My Payment Page Not Be Accepting Payment?
+How to force styles in CiviMail templates?
+Is there any simple way to replicate sections in CiviMail message templates?
+CIVI Volunteer data
+How can I generate a custom PDF using CiviCRM?
+Notification upon email change
+Issue in sections of civicrm that use /civicrm/.*/#/.* using LEMP
+Can I use a CIviCRM Webform URL in place of the required action.unsubscribeUrl?
+Connecting existing contribution to pledge
+WordPress user account registration issues using membership contribution page
+How can I display that an event is full on a Drupal View?
+Why won't the "Employee of" field autocomplete when used as part of a edit profile form in Wordpress
+in CiviMail, when using "view in browser" link, how can forward to a friend be disabled?
+Scheduled reminders based on a custom field on an activity
+Cannot Select Recipients in CiviMail in 4.6.2
+How to renew membership during event registration?
+GitHub repository location for Import scripts via Kettle
+How can I use existing tokens to send out a single Scheduled Reminder to both the Org and the Employee
+Scheduled Reminders for 'on behalf of' Memberships
+Why does CiviCRM render a validation failure without the Wordpress theme?
+Confusion over Contacts and Profiles
+CiviMail html format splits images and text
+CKEditor dialogue can't close with IE11
+A way to test schedule reminders
+New CiviMail does not use the 'CMS editor' set in 'Display settings'
+Custom code that sets custom field value stopped working in 4.6
+Civimail 4.6.2 on Drupal 7.36 creating multiple drafts while editing
+Why are subsequent recurring contributions not recorded?
+Why are donations left as "pending" in CiviCRM when they went through in Paypal?
+What causes periodic database errors while using logging, and what should I do about it?
+What's the difference between a pledge and a recurring donation?
+The cron job "Activity processor (Hourly)" fails
+4.6.2 on Joomla: Entering Contribution under single contact times out
+What is the default data encoded in the Bar Code / QR Code?
+Can't create new mailing. Gets stuck on "Initializing..."
+How do I add custom fields to Personal Campaign Pages
+Undefined offset: 1 in CRM_Utils_Check_Security->guessUrl()
+How to create a custom action within context of the current record
+Does CiviCRM VERP work with a mailbox on Microsoft Small Business Server 2011?
+CiviMail Mail Opened report only shows one mailing in the filter
+CiviCRM 4.6.2 extra components in menu
+constituent detail report not working (timeout)
+Is there a way to send an email about security updates?
+How to find contacts with no group?
+Wordpress plugin configuration will not launch
+Is it possible to allow the person submitting a webform with CiviCRM to decide whether an activity is created or now?
+How do I use Views with CiviCRM?
+Paypal Standards IPN ERROR
+Where to modify billing information form ≥ 4.6?
+Hook to change the Success message after CiviCRM submits a form?
+How to convert/import participants with partial payments
+How can I add columns to the Accounting Batch screen?
+Need to create a SepaMandate for street walkers?
+Form to enable existing member to edit selected value in price set
+Can't create a new event template from an existing event template
+Custom form input field missing from &$values when hooking into tokenValues
+How to provide a default sort on a custom search?
+How do I correct the fault causing "file_exists(): open_basedir restriction in effect"
+Can hook_civicrm_links create links beside rows of a contact's Events tab?
+Token not evaluating in CiviMail
+Error in civix generate:api "You cannot change the session module's ini settings at this time"
+Civimail reuse link returns to CiviCRM home page
+Error importing custom date fields when the day of month is above 12
+CiviCRM cron job not processing scheduled jobs
+Can CiviCRM work by itself (e.g. without Drupal)?
+Emailing : no open rate available
+Can we enable deleting/modifying incoming emails?
+How to view CiviCRM Event Participants Custom Participant Fields?
+Can CiviCRM's internal contact ID be exposed in reports?
+CiviDiscount does not auto-apply when filtering on contact type
+"Error: Please set the API URL" when buying a Free Membership
+Is it possible to get point-in-time membership data?
+what is the cause number of succes imported contact not same with number of found contact in system
+"Connection Refused" error when trying to create a new contact
+Creating a public Members directory with CiviCRM in Wordpress using Profiles
+How do you add activity types to scheduled reminder dropdown
+How long should a CiviCRM / Drupal upgrade take?
+Linking spouse relationship information
+Uploading from CSV with first and last name in the came column
+AngularJS issues with Drupal 7 + CiviCRM
+CiviMail and unsubscribing from smart group
+Is there a way to find contacts who have multiple active or expired memberships?
+When importing memberships, I get "Error: Invalid value for field(s) : Start Date; End date"
+Disabling system workflow messages
+How to add extra date in contribution template? or best way to do it?
+Is there a way for a user to verify themselves when following a checksum link?
+Where to hire CiviCRM consultants or developers
+payment subscriptions
+Best way to configure IDS?
+Upcoming Birthdays custom search not working
+Are Civicon Session materials aggregated somewhere?
+Is there a URL that can open a contact search?
+Confusing CiviMail unsubscription confirmation screen
+Just installed Webform CiviCRM and cannot see the CiviCRM tab on webforms
+How does Civimail reply tracking and forwarding work?
+Is sandbox the way to try out certain extensions now (instead of Cividemo)?
+Wrong calcuation of event.balance value in reminder email
+When saved to activities, tokens inside emails are not evaluated
+Can I use a catchall address if my mail host doesn't support VERP?
+How to enable "Contribution note" field while recording Contribution in the backend?
+Why are message templates not appearing when I email a contact?
+How can I set up the default CiviCRM error page/message inside the site template?
+Participant Custom Data not saving
+wordpress woocommerce + civicrm integration points
+How to prevent fraud attempts on Contribution pages?
+CiviCRM Wordpress Optimization
+How to display a Drupal view in a CiviCRM tab
+How can I give anonymous users access to a new page?
+Personalized Drupal login link
+Did you know - WordPress plugin SEO Ultimate's open Graph Integrator causes a warning?
+"Sold out" error message when registering event with PayPal payment (event is not full though)
+Why aren't donation receipts being emailed to customer?
+Import from one db to another fails
+Upgrading from 4.1.5 database to 4.6.2 failing with constraint violation
+Where/How does CiviCRM track sent reminder notices?
+Activities to be shown in a full calendar
+How to avoid duplicates when donated using different email address or spelling mistake on names?
+Profile creation workflow message, where is it located?
+How do I set the print order for address labels?
+How to get the new record ID, when adding a record to a multi-value custom field using the API?
+Is there a way to automate event feedback using Civi and Drupal webform?
+Wrong default organisation
+What does 'Enable global server wide lock for CiviMail' do?
+Cannot Install CiviEvent-Joomla-Module Extension
+Default header and footer is not being recognized
+Can distmaker be run off a specific branch
+Select and register multiple people for a pre-selected event
+Why do 'track click through' links not redirect to correct address?
+"Could not find a valid session key." Unable to save any admin forms
+Why doesn't API for Contribution Get work with multiple Financial Type ID values?
+Buildkit -- Warning: file_get_contents(http://localhost:7979/index.php): failed
+Googlebot & Could not find valid value for id
+Images Not Showing In Civicrm Contact Dashboard
+How to trigger a confirmation email when registering participants via API
+How to search all the fields in address as one string
+In API Explorer, Add Parameter and Add Option links do not work
+How do I delete an option group (civicrm_option_group)
+How to insert a CiviCRM query link into Drupal main menu with Clean URLs enabled?
+Is it possible to allow people to submit their own events to CiviCRM?
+How can I see the number of memberships at a given date in the past?
+Can I use membership information in a mail?
+SMS not working on 4.6.2
+How do I suppress the local country on address labels?
+Any way to limit geocoding to city or zip?
+How do I access the JavaScript API via a WordPress theme template?
+Can't get hook_civicrm_contact_get_displayname to work
+Membership sets to Cancelled when Contribution Fails. Why?
+System slow on new account creation
+Membership Report (Detail) not showing organizational members
+CiviCRM API and checking if a custom field is empty rather than not null
+Civimail Mailings not saving or "corrupting"
+Is Vanco a supported payment processor?
+Free memberships are not created after upgrading to 4.6
+CiviMail Unsubscribe link goes to an empty Wordpress page
+How to customize Contact Map popup on clicking on icons?
+Where / how is the {domain} token formatted?
+"Send Test" buttons greyed out inactive
+Can I manually add an "Email" activity in the GUI without sending it?
+Drupal custom module civicase is creating but it is returning null value?
+Duplicate entries in Views
+Error: Database check failed when upgrading from 4.6.0 to 4.6.2
+How to display CiviCRM status messages on CMS pages
+Can I record contributions and pledge payments in a "Batch Data Entry" of type pledge payment?
+Possible cause? CiviMail sent "400%" of queued messages, hit each recipient 4 time
+How to give a group by default to a new contact?
+CRM_Utils_System::url and image handling
+Contribution Export Places Campaign IDs in Campaign Title Column, Nothing in Campaign ID Column
+Add non-Primary email address to Group
+Require non-custom fields?
+Newspaper Action DB integration?
+Trying to run Civi cron Jobs using Drupal cron?
+Best way to extend group functionality
+Reporting on Premium Fulfillment
+Error when printing PDF letter or mailing label from search results list
+Tokens for Custom Field Set with Multiple Records
+Can I include a message template within a message template
+Is there any documentation for 'safe' and 'aggressive' merge modes?
+How NOT to send email to "Activity Assignee" when assigned an activity
+How to make a single form that works with an individual, and organisation and their Relationship in Wordpress
+Geocoding Addresses
+CiviEvent registration being assigned to the the wrong participant
+'Unknown path' error when trying to access New Mailing with version 4.6.2
+Can I add phone number as a searchable field on Advanced search Page?
+No emails sent automatically when someone joins a group
+Issues using 'Related Permissions Module' with v4.6 of CiviCRM. Will there be an upgrade soon?
+Advance Multi-Select - Obsolete?
+How to fake a 'deny' ACL
+Is CiviCRM thread safe
+CiviCRM Training resources?
+Wordpress page title only fixed in 4.6.4?
+Membership reminders sending each time scheduled job runs after 4.6.2 upgrade
+Two "total number of participants"?
+How should I configure multiple Drupal sites to share a CiviCRM database?
+How to add a class to a form element in buildQuickForm?
+How does one flush the non-database cache (such as memcache) from CiviCRM code?
+Why won't data entered into CiviCRM profile html snippet save?
+How could I use CiviCRM for sponsorship
+Recurring payments URL for Vanco payment processor
+Set drupal taxonomy terms in the civicrm custom option fields
+Deduplicating - unexpected over-ride behaviour
+Assigned Activites not showing up on users Contact Dashboard
+Export Contacts after Include/Exclude Search: Selection of Fields not possible
+How do I set up CiviMail on Wordpress CiviCRM plugin?
+Issue using shortcode to insert Contribution Page into a WordPress Page
+Fatal error while upgrading
+Multiple error messages upon upgrade to CiviCRM 4.2.20
+What is the most integrated Drupal 7 shopping cart for CiviCRM?
+Upgrading to CiviCRM 4.63 from 4.4x on current Joomla 3.x
+Problem using CiviMail with Bluehost
+What should I do if an issue is marked as fixed in JIRA but it is still occurring?
+How to revert the demo sites to English? (Or change to another language)
+How to get over 'Failed to locate CMS...' exception on civix?
+DB error: already exists on contribute page
+Adding An Extra Tab When Configuring/Creating An Event
+How do I print an activity?
+Easily switch group of contacts to a newly created contact subtype
+Re: CiviCRM contribs/extensions - any scripting language limitation?
+What is the difference between Email and Mailing?
+How to remove a financial type from profile is already created and data is submitted?
+Multiple file upload field
+How can I send a copy of a receipt to member who has already recieved it during signup?
+Civicrm search results page URL
+Type "Timestamp" in CiviCRM
+Any CiviCRM integrations with Zapier or IFTTT?
+CiviCRM dashboard and menus do not load
+Find Contacts who are in one and only one group?
+CiviCRM Message Templates link changed, cannot find
+hide profile title in Fieldset (legend)
+Drupal module to check "auto renew" checkbox for membership getting overridden, why?
+Is there a Vanilla Twitter Bootstrap 3 Wordpress theme that works well with CiviCRM?
+Why is CiviCRM not seeing the timezone correctly?
+Recurring Membership Price Set payments don't show after first payment
+Why doesn't creating a case from API work?
+Problem with open_basedir restriction in effect
+How to create a case activity using the API?
+why i cannot get all number errors when importing data
+Update of Smart Group cache
+"Forward this email" creates contacts with e-mail and no first/last name
+I Need more contact base types
+how to prevent people enrolling for an event twice
+cron jobs process_membership, send_reminder and process_membership_reminder_date
+How can I make a contact the case manager of several cases with the same client contact?
+Aggregate Contributions Reports and fiscal years (and households, too)
+System Slow - Event Registration with Payment
+How do I uncheck the recurring contribution check box by default?
+Why can't I upload images to mailings?
+Database Trigger error message
+Is it possible to make Case Resources a smart group?
+Does this view error mean CiviCRM has lost some MySQL DB perms?
+How do I use CiviDiscount for an event?
+Remove Employer/Job Title Fields and Reorder Fields
+How can I see a piechart breakdown of contributions by financial type this year?
+Civisualize - How does it work and what are the charts showing?
+Civi webform: change error message for unique entry
+Default PDF Page Formats aren't respected after upgrade to 4.5.8
+activity dashlet not showing results
+Honoree Information - notify another person
+Is it possible to notify a staff coordinator for offline/backend contributions?
+Customize a User's Signature
+Joomla Backend (Admin), CIVI White Page after installation
+After turning on Send Scheduled Reminders and setting up a Membership Renewal Reminder, why am I getting all zeros in my Scheduled Reminders log?
+Workflow approach for anonymous users, or limited roles to create events
+Use Drupal views to generate contact Reports in Civicrm
+Integrating Wordpress account and CiviCRM contact details self-maintenance
+Can a price set item be marked "Partially Deductible"?
+Civimail does not save settings
+Mass hosting best practices for source code management of CiviCRM platforms?
+Changes not saving when using other contact's address
+Custom CRM/Mailing/Info.php causes WSOD when installing extensions
+Possible error in Contributions and Membership Details report
+What is the best way to change the intro on a Contribution page based on URL?
+Drush error: "Command ... needs the following module(s) enabled to run: civicrm"
+Why is test email but not mail campaigns working with Amazon SES with CiviCRM?
+Mailing list member received unexpected opt-out message
+Why doesn't custom search enable "Actions" items for selected records after upgrade to 4.6.3?
+Automatic filing of pdf letter activity within civicase
+Want to send Testmail for Mailing, but get Error.
+Trying to write a hook to add contribution page name to Main.tpl I'm super close
+Can I use a custom style sheet (CSS) for user modifications?
+Why doesn't the activity "send email" have a 'schedule follow up activity' option
+How do I correct mismatched Timestamps for MySQL and PHP without access to server?
+How can I change the order of address field columns on screens and reports?
+Label printing: how can I only combine people with relationship
+Fatal error: Cannot redeclare _PEAR_call_destructors()
+User registration checkbox in CiviEvent does not create new user and misses thank you screen
+Why does contribution verification display a numeral value rather than a text value
+MySQL Tuning: Is Defragmenting Tables safe?
+Draft mailings appear as scheduled?
+Difficulty setting up CiviMail on Bluehost
+Drupal single user, multiple civicrm memberships, editable details: What's a good logical approach to integrating them?
+How can I show groups in membership report columns?
+CiviCRM not sending mails
+"Groupings" of Option Values: are they actively used?
+How can i match CiviCRM ID on two installations?
+How to include "Same as Billing/Home address" in a payment processing page?
+How to include Email address checking in event registration page to avoid multiple contacts entries?
+Is it possible to customise report export file names?
+WP "Call to Action" plugin causes JS errors
+CiviCRM does not have permission to write temp files
+How do I get more than 25 records from the API?
+Using Wordpress Event Registration forms on Multisite
+How can I search for all employees of several (a limited set of) employers
+'OR' search syntax
+Creating a report listing contacts grouped by an employer-group
+Can CiviCRM limit the number of event registrations for each member?
+Is this expected that civiHR removes lots of features (eg activities and cases)?
+Blank Admin Screen WordPress Install
+Activities are not showing under Activities tab in contact record
+Is there a way to customize Activity Type screens?
+Has anyone successfully setup Mandrill with CiviMail for bulk?
+Broken Image Link (Menu)
+Change Household contact to Organization contact
+Email and test email fail, but Outbound Mail Settings page sends test through mail() fine
+civicrm 4.6 invoice documentation?
+How to show only the relevant County/State of multiple countries in a profile?
+Is there a quick and easy way to copy an activity?
+How can I limit the participant role choice?
+Bounce handling not working
+Update results in failed DB check
+Problem with online registration after moving to new URL
+DB Error: constraint violation when I try to add profiles to contribution page
+Activity assignee email not being sent from webform
+Contribution Status Updates, no more 'overdue'
+WYSIWYG editor missing from Scheduled Reminders popup window in Civi 4.6.3
+Hide some tags for non-admin users
+Controling the order on wordpress contribution pages
+Restricting field options in a profile on a contribution page
+How to customise the activities status?
+Cron Job configuration error
+CiviCRM menu missing Administer link after reboot
+How to export website field for a contact where website is specific website type?
+Renewal not recording activity
+Personal Campaign Pages don't have a donate button
+Outgoing donations tracking
+Incoporating PCPs in Wordpress
+If contact has multiple cases, how do I filter a view to show only case roles associated to that case type
+Return after login going through contribution flow doens't bring up contribution page
+Linking CiviCase with a CiviEvent
+Can not access CiviCRM
+Add a membership to a person with an other than default company
+Recurring contributions with Webform-CiviCRM?
+Non-administrators unable to tag contacts using Tags tab
+Drupal CiviCRM update account info with CiviCRM profile
+Can Drupal Webform Integration update matching contacts
+CiviContribute: DB Error: no such field
+Is there a bug when placing a token inside quotation marks in CiviMail 4.6.2+?
+Can you assign an owner to an event & can that person later run a report to see info about their events (in particular a list of attendees/wait list)?
+How to limit number of contacts in a group?
+How to transfer ownership of an extension
+How do I find the mails belonging to a particular mailing by looking at the SQL tables?
+Extension Manager fails and so do certain scheduled jobs
+What is the significance of event_queue_id in civicrm_mailing_event_delivered table?
+PayPal Security notice, do I need to take action / upgrade Civi?
+Embed PCP thermometers
+How to make the contact autocomplete in Webform Civicrm to search for contacts that contain a search term, not start with
+Adding And Removing Fields To CiviCRM Tables
+How to enter a discounted fee after the discount date for an event
+How to include a token in a view?
+Change address location type for all contacts?
+Disable certain address location types depending on Contact type?
+Report UI is broken in 4.6.2 and 4.6.3
+How do I add a custom Activity with custom fields to an extension?
+CiviCase - cannot save
+contact match script?
+Cancelling an A/B test
+what is giving the error sites/default/modules does not exist
+How to see who the individual is who registers multiple people for a paid event
+SSL/ Payment Processor Errors on payment form
+How do I add a currently unsupported field to Views?
+Inconsistent ACL behaviour
+Changes made to individuals using Contact Editor not showing up
+CiviCRM 4.6.3 says no extensions available
+Handling organizations and subscriptions
+Error on merging duplicate contacts, wordpress, civi 4.4.14
+Does CiviDiscount work with Pay Later Memberships when using Price Sets
+Downgrading CiviCRM to use an older extension
+Was there a ContributionType.php file in a earlier version
+How to show Civicrm Event in fullcalendar?
+Batch merge automation of big data set
+Profile search/listings not working in 4.6.3/4?
+Error importing contacts Wordpress Multisite
+CIVIEVENT shopping cart status
+Missing fields and reports in database after migrating to a new server
+Enabling membership reminders - will it only mail expirations valid this day?
+Message: "CiviCRM does not have permission to write temp files" after login into back-end Joomla
+Using a Java Applet in CiviCRM Extension
+Mailing sending to removed users
+Errors Adding Registrant
+mail_report format parameter
+Mass Deleting Scheduled and Sent Mailings, Drafts, etc
+CiviMail mailing sometimes has 0 intended recipients
+Price Set fields with Quantity per Option
+Search builder operators do not work for Preferred Communication Method
+How can I prevent deduping from killing my server?
+White Screen During Joomla Installation
+Mailing -> New mail results in blank page
+seeking information on CiviCRM 4.1 version of "CRM/Core/BAO/PaymentProcessor.php" file
+Where to put api wrapper class in an extension
+Combining reports
+How to add memo type comment field for memberships?
+Display menu and pages of a newly created extension
+Tags used for Cases, Activities or Attachments in Drupal Views?
+Setup cron job generate emails
+**Network Error - Unable to reach the server
+Membership proration
+How do I setup a webform so that an existing activity in a case is updated?
+Can CiviCRM handle Extensions in tar.gz format (automated distribution)
+Migrating email servers
+User and Permission table distorted in Civi/WP
+How do I view cookie or session information on the server?
+How do I call an SMF function from CiviCRM?
+How should I add CiviCRM contact fields to Drupal node submit / comment submit forms?
+How can I find the code that produces a certain error message (e.g. "Sorry, can not load CMS user account.")
+Exporting related contact's information on a contact that is a subtype
+Email and Addresses Missing
+Generating a new SITE_KEY
+What are the implications of changing the SITE_KEY?
+Setting up an "ethics wall" - anonymous contributions
+How to register a unknown company for an known event participant?
+Customizing the CiviContribute form through Drupal module
+Simple, consistent N. Am. phone validation/reformatting everywhere?
+Console error with Google Plus and "Help spread the word"
+Is this a bug, or a feature? Redirect on contribution landing page triggering while editing
+CiviMail tracked URLs give "Missing input parameters" from /extern/url.php
+How do I Add Contacts to Group from an Activity Report?
+Drupal View filtered with a custom individual data field
+Recurring contributions not sending emails (Stripe)
+Display CiviCRM Survey in Drupal Content Type
+Number of contacts vs. hosting space required
+Report with household, individuals and contributions
+Why is isFrontend set differently for Profile in create mode vs HTML snippet?
+Can't log in to Drupal site: get redirected to random pages after submitting login form
+SMS breaks when upgrading to version 2 of extension & 4.6.2 of CIVICRM
+How to get a/b testing on the number of unique open?
+At what line in a file should I add a new variable
+Is the cache field 'expired_date' no longer used?
+Why did we lose contact data after deleting the default location type "Home"?
+cividesk google sync error
+Why do links in system PCP welcome emails fail?
+How do you print a single envelope for a contact?
+PDF Generation Error
+Importing Household Address if Already Exists
+Does Civi still support the ability to set a specific start date for recurring contributions?
+Where can I download the latest version of CiviCRM?
+Not sure that I have Contribution Tracker configured correctly
+How do I get PCPs to look 'right' when shared on Facebook?
+How to create a Drupal View of CiviCRM Activities with an edit link to the corresponding Webform?
+How do I create a Drupal View to display last activity date.
+Dashboard hangs; forces apache restart
+Problem after upgrading: table not found
+Issue after provider changed serveur/db
+Contribution Report with total paid and balance fields?
+How do I put a thermometer on a contribution page?
+How to integrate with Drupal migrate to create a periodic import into CiviCRM?
+Upgrade from 4.6.3 to 4.6.4 not completed
+How to expose participant information to the event's trainer?
+Automating CiviCRM?
+How to display more than 100 as a search result?
+Cannot add relationship: search does not work - always yields "None found"
+Module or extension to use for tracking agreements?
+Omitting soft credits from reports
+participant status doesn't export
+Contributions not showing Thank You Screen
+Search by radius to postal code or zip
+how to add fieldset to profile
+field like "Current Employer" that creates new organization and relationship
+VERP is visible in CiviMail sender address
+Mailing - "Send Test" button not a button
+Is it possible to modify content in the invoice template based on contribution currency?
+Bar graphs have disappeared
+How can I create multiple price-sets within one price-set?
+Cloudflare kills dashboard + Relationship tab error. Any ideas?
+Is there a payment processor extension for Worldpay or do we need to create one?
+Participant Status vs. Participant Status ID
+Add large amounts of custom data to contacts
+Summing up donations on the household level
+Return-Path vs. unsubscribe and X-CiviMail-Bounce
+Webform Event Registration skips payment processing
+Need Legislative District Lookups for CiviCRM/WordPress
+REST API - setting an activity's custom fields
+Multiple Choice Custom Field Not saved on creation of new contribution
+How to create a Drupal View of Open and Resolved Cases
+Admin language does not change
+Combination of auto-renew and PayPal Pro (when paying w/ PayPal account) on membership pages results in "11502 invalid token" error message
+The dashboard does not render
+How do I prevent membership renewal reminders originating from VERP addresses?
+Is there an autorespond email function for profile form sign ups (wordpress)?
+Conduct survey - can't search to reserve after interviewing
+Activity emails aren't sent when using sender's primary email address
+How to make the SyntaxConformanceTest use sensible values when it calls the create action of my new API?
+Manually 'Grant' last event places by 'Pending from waitlist' and override 'max participants'
+CiviMail sending delayed - how do I configure a cron job?
+Unable to install extensions - Joomla
+How to use auto-complete reference field in a profile?
+Webform and multiple memberships with same Member Organisation
+Embed webforms into site that is custom php
+Permit member-only pricing
+Pay later for Membership - How does the membership get entered?
+Minimum permission set to enable Manage Contribution Pages?
+Mail Accounts form fails to submit data
+How do I add a new settings page for my extension?
+Migration to new server - "The requested page "/" could not be found."
+Google Apps bounce processing - is the wiki current?
+403 Forbidden When Trying to Edit Contributions
+How to create a relationship if a contact marked with multiple subtype?
+How can I change what data gets exported using the Accounting Batches feature?
+Importing relationships
+Attaching file to activity
+system wordpress/drupal confusion
+How to set up the filtering in Drupal Views to target the correct CiviCRM Activity
+CiviCRM Membership Status Change Summary Report
+CiviCRM_API3_Exception: "DB Error: no such field" When Editing CiviMail
+Why aren't my advanced search results sorting properly?
+How can I programmatically authenticate a contact (via checksum or other method)?
+Including Activity Dates and Subjects in a Profile for a Directory or Search
+CiviCase dashboard for individuals
+Change group after a mailing is scheduled results in mailing still being send to the original members
+How do I get the time in the change log to be the same as my local time?
+Is there a Gift Aid (UK) extension compatible with 4.6+?
+Message template option missing in send SMS activity in CiviCRM 4.5.8
+How do I change the CiviCRM Database name
+Correct means to update Drupal Node after user submits a donation
+Attach invoice to event registration emails even if transaction is not taxed
+How to setup Civicrm for using FPO addresses
+DB Error: no such field : Assignee Contact Email
+Can I customize the contact relationship tab to show custom fields?
+How to Hide/Remove "Premium Block" when adding new contribution?
+Redirect with a QUERYSTRING help - migrating site
+How do I add a new table to my extension?
+Can you propagate custom data in New Activity?
+Autofill Behavior
+Add Membership Token to PDF Template Joomla
+Would deleting activities improve search performance
+I have installed and unzipped Civi in WordPress plugins directory, CiviCRM installer page is blank?
+Event Error - no price set found!
+How to add Each Contact Membership fee using webform civicrm in drupal7
+I don't have batch entry of contributions - why?
+Upgrading to 4.6 Joomla. Civi Mail can't generate the text editor
+Does the latest version of CiviCRM accommodate PayPal's changes to its dispute tracking?
+Which email address should the printed Case Report present for the Case Manager in the Role Section of the Report?
+Unable to send mass SMS or Mailing
+CiviMail - when Track Click Throughs is enabled, links result in a white screen with warnings
+Webform: Only Open Case if Condition is True
+Outlook iCal does not work?
+Can tokenValue hooks be used in scheduled reminder emails?
+How to print variable/debug data from your extension.php?
+Use activity or event?
+Constituent type not set when new user with role(s) synchronized as contacts in group(s)
+CiviMail Mailing - Unable to select group, getting error of No recipients
+Credit Card Verification Number Fails
+How can we install civicrm extension which is not available for drupal
+Remove Individual's eMail as default when sending eMails
+Reverse sync CiviCRM groups to Drupal organic groups
+Relationship Extended Report produces errors
+Linking events participants and contributions
+Exclude certain Activity types on Activities tab
+If "!empty" on custom note field in Drupal Views, Global PHP field
+CiviGroup Roles Sync errors
+Wordpress Starter Kit
+User access to own contact record, forwarding upon login
+Codebase error?
+How or *will* totally changing established membership types affect reporting?
+CiviBooking menu doesn't function correctly
+Import from CSV and dedupe using Email (match to contact) with PRIMARY email?
+Different Number of Contacts in Smartgroup and CiviMail
+How to send email from CiviCRM and Wordpress
+Issue with permissioned access using state address field
+CiviEvent Cannot Find Event/Register Page
+Country list in profiles only shows US
+Joomla CiviCRM Upgrade 4.3.9 to 4.4.x version
+API call setvalue for is_primary does not make other values 'not primary'
+Creating a custom (select) field and update option values from php
+Batch update: triggered confirmation email
+Error uploading CiviCRM contacts. Can I revert?
+Fill Address/Phone enityRef
+how to reinstall civicrm 4.6.4 in wordpress
+Why does the profile field contact subtype only display individual subtypes but not organisation subtypes?
+Updating to civi 4.6 after this can't create new emails no text editor
+Is there a hook for when a CiviMail is created/scheduled/sent/completed?
+Contact merge is throwing "Could not find valid value for cid"
+KCFinder in https context doesn't browse
+Is there any direction toward supporting a direct post payment processor model
+How do you allow a user to add their bulk email address?
+Do I need to backup civicrm_cache table in civicrm 4.0.8
+civicrm login form for individual users
+Strict warning: Non-static method CRM_Core_BAO_UFGroup
+CiviContribute form - no send through to payment (PayPal) screen when not logged in to Civi (refresh instead)
+How can I hide specific tabs in member view regardless of viewer permissions?
+Profiles - Pre Field and Post Field Help
+Unsubscribe Confirmation Page Shows Too Much Information
+Stripe.js token was not passed!
+DBError and Network Error when saving phone numbers to contacts
+Has anyone tried Stripe payments through OmniPay?
+Custom contact reference field with "New Organization"
+Event white screen of death when user registers for an event
+Running out of memory on contact creation
+User Registration login in profile page
+Contact ID 1 is an organization and causing errors
+Custom activity types do not appear in report filter
+How can I create a contribution page that allows the user to select the currency they wish to use?
+tagsets for events
+Backbone JS error with 4.6.4 on WP messing up contribution page set up
+Allowing multiple fianancial types for same price set single contribution page
+Membership not inherited if child added via webform
+Participant getCount is too slow
+CiviSMS merge option prior to sending?
+Javascript prevents search function!! Selecting result not enabling "Action" menu after upgrading to 4.6.4?
+Paypal recurring payments failed after merging the contact. How to fix?
+New codebase version detected
+Custom Hook causes for a PCP problems on event registration page
+Is it possible to define an activity status to be the equivalent of completed?
+PCP list on contact dashboard
+Report for user and assigned contacts (ACL)
+Civisualize can't find JS and CSS resources
+How can I tell what the query that is executing when I do an Advanced Search looks like?
+Can I get a notification emailed to me every time a contact with a certain tag is updated?
+"Loading Failed" when soft crediting to a Personal Campaign Page
+Is there any way I can know from which page I came from?
+Check availability does nothing when clicked
+Autocomplete Contact Metadata
+Why would my CiviCRM CSS file not load correctly?
+Search contacts with attachments
+Uncaught CRM Core_Exception Transaction/Manager.php
+civiEvent (or other public civi pages) and metatags
+CiviEvent Access Code on price set
+Clearing/disabling out-of-date event locations
+Problems with editing recipient groups of CiviMail
+Mailings - Disabled Next/Test Buttons
+How do I exclude the "click here" from mail header on the generated web page?
+How can I send a cc: of an Activity assignment e-mail to another user, as an FYI?
+Cron job fatal error - scheduled emails won't send. AddThis 5.0.7 issue
+What sort of fix is needed to make Drupal Search work correctly on a civicrm page such as an Event or Contribution page
+CiviMail link to view in browser gets error on mobile
+Test CiviMail gives Error in call to Mailing_send_test : mail() returned failure
+Is there a way to search/export potential duplicates?
+Paypal Pro update billing details for recurring payments link is broken after upgrading to 4.6. How to fix it?
+How are spam bots making submissions to civiCRM?
+Authorize.net auto email receipts
+Tokens to SMS Messages
+Need help understanding contacts hierarchy
+How to show civicrm toolbar in drupal also?
+Batch Update Relationships
+Add relationship on profile submission
+Connecting existing contribution to pledge WITHOUT Development
+Is it possible to import "Assigned to" data for Activities?
+Trying to Create Rule to Fire When Someone is Added CiviCRM Group
+Reply-to e-mail address using CiviMail in 4.6.3 defaults to system default
+Requiring "Assigned" and "Target" contacts when recording Activity
+Redirect back to Event Registration after login fails
+Activity processor on emails - doesn't work if sent to BCC recipients?
+Which contacts in a mailing group are NOT recipients of a mass mailing?
+auto_increment_increment issue CRM-7923
+Get current contact id?
+All scheduled jobs disappeared
+Multiple groupings of info on an event
+Fixing Paypal error - Payment Processor Error message 10002: Security error Security header is not valid
+save contact with non numeric phone number gives access denied civicm_strip_non_numeric
+Why does From Email address '1' retain FIXME as its name in the db
+edit contact with ref to address causes fatal error
+How can I assign tag when certain profiles are submitted
+How do I enter new contact from "New Case" form using a contact subtype?
+Considerations when activating WordPress Multisite
+How do I create conditional forms?
+How do I sort by Case Type Title instead of id in a Drupal View?
+Membership Name-Your-Own Price (above Minimum) on Contribution Page
+Event absences triggers an email?
+How to disconnect civi contact record from Drupal user
+Why are email replies not being forwarded properly?
+how to test the version-or if a feature is implemented?
+Way to automatically install extensions?
+how to change the size of groups for ab testing?
+CiviCase Will Not Save Settings for Activities
+Relationships are shown twice
+How do I show in a Contribution report (if I can) the other particpants payment sttaus if they were paid for by another attendee
+How can I get more details about a Scheduled Jobs failure?
+Should civicrm_post hook receive populated Relationship object following relationship enable/disable in UI?
+Only Administrators can use Contact Reference Fields
+How to store template_id that new event is derived from
+Is it possible to print badges with priceset fields?
+Suggested Approach for Cart style donations (Donation Pages) for Crowdfunding P2P site
+For my situation, what accounting package would fit with CiviCRM?
+Can't edit source field in membership record after initial entry?
+Participant Get API pulls no records first time, correct number after
+civiCRM Cron only run one mail_report scheduled jobs?
+Can I allow users to update their registration?
+How to automatically generate DAO classes for my DB tables
+Contributions- on behalf of existing organisations only?
+Simplenews vs civiMail
+Exporting membership data including chosen price set
+Free event with sessions with max participants
+Can't Download Extensions
+sharing pledges between contacts
+Corrupted smart group?
+Schedule Reminder executed but no email sent out
+Is there a way to bulk create (and connect) drupal users from CiviCRM Organizations?
+How to import to multi-record set custom fields
+How do I find civicrm field names for import?
+Itemized Annual Statement of Contributions
+Why I am getting a "?" in a PDF letters beside images?
+Drupal not loading Civi's CSS and jQuery
+Can I create a Smart Group programatically?
+Multi-value fields in profiles - how to?
+Import exisiting Membership data
+Can TinyMCE 4.2.1 be installed under CiviCRM 4.1.5?
+"Cannot redeclare class CRM_Core_ClassLoader" in backup site
+How to configure mail_report for every mailing?
+Are log tables updated during an upgrade?
+membership statuses not being updated
+How can I re-send an email to a donor using a system workflow message template?
+Civi Database erased when upgrading from 4.6.3 to 4.6.4
+User provided ratings of events and directory members
+"Membership can not be used as a Result Column for profile searches" - why not?
+Unable to drop mydashlets on my Dashboard
+You are using Stripe.js in live mode over an insecure connection
+Can financial accounts be imported?
+Tokens in greetings not replaced
+Restricting users in the same group to view/edit ONLY their own contact details
+Membership renewal start date doesn't update?
+Listing events in wordpress
+Is there a recommended way to customise the quicksearch?
+How to design ACL for a multi-level organisation
+Form not being submitted on confirm contribution
+Import Fails After Reporting Success
+Why Are My Event Reminders Not Being Sent?
+Adding Spouses to Civi Contacts
+Even registration emails not going through - registration produces error
+Is it correct that saving an address with only Country should fail to save data?
+Files in the data directory (Upload | Custom)should not be downloadable. (Nginx)
+Add "sender/from" line to postal mailing labels
+Email-to-activity processing - Error message: Process Activities failed
+Event custom fields not carried over to repeat events
+Selecting Participants report from Manage Events results in: "DB Error: syntax error Return to home page." after update
+Mailchimp extension limits to most recent 25 lists
+How should I move a custom field to a different custom fieldset?
+Find Contributions Search 503 error
+Activity Report does not allow grouping by custom fields
+Send an Email from CiviCase
+Automatically send unpaid contribution reminder
+How to remove certain items of custom fields when sending a offline receipt?
+Change Joomla User Group After Registration
+What went wrong with events search? "Counted" link gives error... How to fix it?
+Can we disable resource-intensive logging queries triggered by inline edit?
+Problems with Search Builder: Trying to find records with empty Country field
+Add membership details to summary tab
+Network error after upgrade to 4.6.5
+Can i print or save a pdf of all activities
+What payment processors will be supported in core for 4.7?
+Is there a way to make the contact preview easier to read?
+Best practices for "lookup" variables
+How to fetch CiViCRM events externally [ Drupal 7]
+Activity drop down list not displaying activites
+4.6.6 Wordpress still does not allow me to credit to a PCP
+How to fetch CiViCRM events externally [ Drupal 7]
+Is there a Civicrm hook for new contact/user insert?
+I need to migrate data from one CiviCRM on Drupal instance to a clean one. HELP?
+502 Bad Gateway Error
+How do you update participant status without affecting contributions?
+Multiple Roles in WordPress and CiviCRM access rights
+Mandrill extension error
+Problem with Date Range in searches
+Strange consistent log notices. Where do they come from?
+Advanced Search error after upgrade to 4.6.5
+Can discounts be combined?
+I need an online registration that contains multiple venues for an event
+Missing Contacts from Mailing Labels in Civi 4.4
+Can I pass a GROUP BY to an API call?
+Error while installing CiviVolunteer on civicrm 4.6.5
+CiviCRM does not have permission to write temp files on new server
+What can I do to fix my database that has been partially upgraded?
+Using "Honoree Individual" profile for "Honoree Section" gives error on demo
+Different search results in Adv Search vs Search Builder
+How to retriev tag information via sql
+Use Taxamo as a payment pre-processor
+How to search for Event Custom fields?
+Paid event but Pricing Options can not be required but they must chose a fee
+Donor wall in CiviCRM
+Sorting by clicking on column headers
+Is it possible to use Windows & Cygwin to run Selenium tests or does Selenium require a VM?
+PCP confirmation email doen't contain user-login details. [ Drupal ]
+Contacts update
+Custom address type mailing label issue
+Create event participate using OOP API in CiviCRM
+How to model and report on unintentional underpayment and overpayment?
+Why does Sourceforge not have the 4.6.5 files?
+Firing a hook on smart group status change?
+How do I hide exposed filter options in Drupal View?
+AJAX problem in CiviCase - Administer Case Types
+Need help with error in creating a dashboard report
+The overlay window became all greyed
+My dashbord - error
+How can I most easily import Activities and Contacts together?
+Why is Scheduled Reminders sending multiple emails but not creating an activity?
+Can I use tokens in Civi profile Cancel Redirect URL?
+Create new contacts every time someone makes a contribution ( with duplicate emails )
+Do the localisation files change between releases, as a rule?
+Capture country field selection with JS/jQuery
+Contribution confirmation page is blank
+Update contact via REST and JSON request body
+Can a contribution page that has a membership section be forced to create a new membership?
+How do I create a custom entity (component)?
+Why is my MySql DB Connect failing on New Joomla install
+Why do Smart Groups now give database errors?
+Tokens not entered when using default Drupal CKEditor (with module Wysiwyg)
+Create a Personal Campaign Page links to a page that does not exist
+CIVI Dashboard display settings broken in Wordpress install
+When I go to run the API, I get errors looking for examples
+Why don't date selections via the pop-up stick when adding an event?
+Where/how do you tag an attachment?
+Why is the field "contribution_id" in "civicrm_line_item" sometimes NULL
+Groups correctly set but showing wrong - caching problem?
+Custom field set for custom entity
+Why can't anonymous users make contributions?
+Enforce uniqueness of custom field
+Membership Renewal with PayPal Standard
+Entity Relationship Between Grant and Case
+Update smart group counts errors with syntax error (AND instead of WHERE in sql)
+Donor with only email address shows no display name
+smart groups based on membership broken after upgrade from 4.6.4 to 4.6.5
+What might cause an Contact Import to only import core data and not import custom data
+How do I recover CiviGrant Component?
+Why after importing contact records were Addressee field values set to "Customized" for records where Custom Addressee had a null value?
+How do I get the External ID to appear in my contacts through Webform?
+First CiviCRM API call is slower, are unnecessary resources loaded?
+Reserved payment-instruments: can they be removed?
+What is needed to make Payflow Pro Recurring Donations work?
+How can I restrict a users ability to edit a custom field
+ERROR: No CMS user associated with given api-key
+Can I remove specific emails/contacts from Scheduled Reminders?
+Case type edit not saving, broken case types - how to debug?
+VERP info not added to mail headers?
+Why are taxes calculated incorrectly when "other amounts" enabled on contribution page?
+WordPress ACLs and PCPs
+Change Email Address on Renewal
+What's the cause of this "Unexected token" JavaScript error?
+Unable to parse returned JSON - CiViCRM
+CiviMail shows unexpected groups when selecting recipients
+What is the best way to avoid cartesian product on specific SELECT attributes?
+Error Viewing Participants from Event Screen
+programatically delete an event that has participants
+Payment Processor Error message: 10525: Invalid Data This transaction cannot be processed. The amount to be charged is zero
+Multilingual support
+Error on activity import: "'1' is not a valid option for field custom_42". Can I find which field this is referring to through the admin interface?
+Importing checkbox data--error "'1' is not a valid option for field"
+How can I modify what is displayed on the civicase dashboard?
+How can I modify the Activity Report to display phone number?
+"Failed to locate template" error when building development environment
+Call to undefined function getRequiredMarker() - CiViCRM
+drush civicrm-sql-dump dumps the drupal database - how do I get it to dump the civicrm database?
+Checksum to edit profile not working?
+How to set a contact's gender using API?
+How to set a custom country field using the API
+Patch or workaround for search with checkbox or multiselect field
+How do I use the API to check MembershipType and "active" status?
+Add group to activity assignees
+Dynamically send scheduled email to a group?
+Upgrade Wordpress CiviCRM Version from 4.5.2 to 4.6.5
+Menus do not load on some pages
+What table and column contain the date a contact was added?
+CiviCase - cannot change summary
+Rich html CiviMails can send from a Mac but not Windows?
+Failed Upgrade 4.6.4 to 4.6.5 Joomla 2.5 & 3.4
+How do I create a custom field that selects a CiviCRM group
+How To Record & Display External ID In Contact Summary?
+Can I influence the activity source contact with the membership API Create action?
+Is the "Show Contact Deceased" extension compatible with 4.6?
+How can I set "Assigned To" for an Activity to default to the logged-in user name?
+Error loading module file () - Wordpress
+Add supplemental address field 1 to BillingBlock.tpl
+Data (phone numbers) deleted in batch using profile not deleted from contacted records
+Create new report from template is not working (CiviCRM 4.6.5)
+CiviMailings stuck on 'running'
+Does CiviCRM work with Drupal 8 and how can I help?
+CiviCRM cron doesn't trigger all tasks
+Editable "Other" option in multiple choice / select field?
+Contributions appearing twice in Civi, once in Authorize - why?
+Is CiviEngage a core part of CiviCRM now?
+Contribution forms with numerical quantities is not taxed properly
+Is the postSave hook a supported hook?
+CiviMail stuck on "Starting execution of Send Scheduled Mailings"
+Can the Xero accounting package be integrated with CiviCRM?
+Membership Status Report
+How can I preserve smarty date formating in message templates?
+CiviMail fatal error in 4.6.4
+How can add URL to dropdown items for a profile page
+Is there a way to see the results of Scheduled Reminders?
+What organizations use CiviCRM?
+SSL enabled CiviCRM with forever loading dashlets?
+Profile is disabled OR it is not configured
+How can I find contacts based on both custom data and address via the API?
+How do I make profile submissions more reliable, or at least not silently fail?
+How can I make External ID a searchable field?
+How to disable datepicker UI for a mobile device
+How can I provide mailing receipients an "Unsubscribe All" option?
+What should drush cvapi NotificationLog.retry sequential=1 system_log_id=XXX do?
+Security Warning on Dashboard (pantheon / nginx)
+Setting default values for Personal Campaign Pages
+What is required to run CiviCRM on Pantheon?
+What are best practices for deploying changes?
+Event Waitlist - Paid
+What is required to run CiviCRM on Platform.sh?
+constraint violation during event registration
+Generalizing create/update validation on form and api
+Upgrading from 4.6.4 to 4.6.6 returns following error, how to go pass it?
+A tick box "same as home/primary address" when submitting Event/Contribution from Admin using paypal pro. way to fix it?
+Is there a way to set up PCPs without the user having a login?
+Submitting Cases on a Website
+How do i add an custom activity field to an email in civimail?
+How does CiviCRM make the link between uploaded pdfs and the database table?
+How does CiviCRM handle https requests to a mutually authenticated SSL server?
+Is it possible to do an IPN replay?
+CiviVolunteer on 4.6.5: Error while enabling volunteer management on event
+Why unexpected attached files are loaded in all mailings by default?
+can't delete Event Registration - web page hangs with spinning logo
+Recent 'git' seems to be missing CRM/Event/DAO folder
+REST API and ACLs - should the API return contacts made accessible via an ACL?
+Contribution import fails for all records with error "No matching Contact found"
+How do I bulk delete contacts?
+Civicrm views bulk operations contact delete operation not working
+How do I override the default CKEditor configuration?
+In CiviHR, is it possible to display the open vacancies on the frontend?
+Scheduled Reminder is sending 2nd reminder AFTER they have already renewed a membership
+How can I use <html>, <head>, <body> tags in a mailing?
+How to create a report of all contact organizations?
+How to modify/test Upgrade/Incremental/sql..sql script?
+"find out more..." link for civievents points to a page that does not exists
+How can I mass edit country or city values of many contacts?
+Potential fix to long term issue with IDS errors on Event Confirmation emails through ActivityProcessor
+Can Honoree type and name be inserted into the Contribution email receipt?
+Trying to integrate Views with CiviCRM but cannot see the code
+Is it possible to move data from a contact type to a component/extension?
+Generating extension menu when extension is installed
+Cannot edit prefix, suffix, first name or last name of new or existing Individual
+Master address - not saving choice
+Civisualize extension doesn't show up as available when uploaded to extension directory
+Database Insertion and Deletion
+I do not receive bounces
+Unable to change back end acl permissions to civicrm?
+How to create a multiple-record custom field set for a Membership?
+How can I make every new Group a type Mailing List?
+Custom Group and Fields using API v3
+Two users completing separate webforms on Drupal that create one activity on CiviCRM
+Allowing contacts of contacts?
+Civizualize does not render
+Remove required field in Grant Application
+Is it possible to change the Mailing label format?
+Update custom field from other custom data
+How can I speed up CiviCRM on Wordpress
+How can I determine if an extension is compatible with a new Civi version?
+Smart Group that returns those recently added
+Search on custom 'Yes or No' fields appears broken in 4.6.6
+Why some of our smart groups are empty after CiviCRM upgrade?
+State list for Fiji incomplete
+What is the status of CiviBooking for CiviCRM 4.6.x
+How can I edit how CiviEvent pricing is displayed?
+How do I make a Simple SOAP request in CiviCRM?
+Migrating to Pantheon: How to make CiviMail editor insert images with non-relative refs?
+How can I 'or' 2 conditions using the api?
+Scheduled mailings don't get sent
+after i use api to update the database results not immediately showing
+How can I (on page 2) show First Name of an Existing Contact - static (on page 1) without dragging it to page 2?
+How do I apply a patch supplied in the issue queue via Git?
+A list of all available tokens?
+Problem importing CSV contacts
+Sort issue with CiviCRM Entity Reference on a Drupal node
+Record the purchase of a publication
+Quickly entering attendance with barcodes
+Alternative to modify Core XML
+Are private contribution pages a thing?
+Should accessing addresses via the API always require the 'view all contacts' permission?
+SocketLabs integration for Drupal 7?
+What is required to run CiviCRM on DigitalOcean?
+How to make a Participant Listing menu link in Joomla
+Report on deleted contributions
+What is the scheduled job linked to Scheduled SMS Reminders?
+CiviCRM Programmer/Developer Job Description
+Custom Field Log out Wordpress
+Using iframes to present contribution page on remote site
+For an extension, to modify database data, is it better to use SQL or API
+Coding of civimail header body and footer - best practice
+Disable geocoding for contacts but not for events
+API chaining like behaviour with import.php
+How do you visually update a select2 widget?
+Get or generate a contact checksum via API?
+Relationships not available on household imports
+How do I include the contact image in a profile?
+Issue upgrading from 4.34 - Fatal Error (value: is not of the type integer
+can't access to joomla administrator panel
+How do I modify the new 4.6 CiviMail form?
+Add membership start and expire date in contact report
+How can I regenerate memberships shared by relationship?
+Civicontribute: Missing payemnt options when required field missing or back button
+WordPress / CiviCRM permission?
+Insert buttons in public registration forms
+Can anybody volunteer to test my Android App: Cividroid - A CiviCRM companion on Android!?
+Why are Civi Events and Activities in Drupal Views Calendar showing incorrect times
+Will Stripe Payment Processor work with CiviCRM 4.6 and/or Drupal Webforms?
+scheduled mailings dont send - civicrm4.1
+How do I import contacts through the command line?
+How to exclude multiple contact displays in Drupal view with contact-user relationship in CiviCRM multisite setting?
+Assign two different emails for two different groups (but only one contact)?
+How can I set up an email discussion list based on CiviCRM groups?
+Error uploading an image in email wysiwyg
+Profile add-to-group feature doesn't work with petitions
+Forwarding of CiviMail to addresses on same hosting service fails
+Add Donations to Event Registration Form
+"Log Volunteer Hours" form required permissions?
+Where should I put static files in my extension that are just used in certain few pages?
+What is recommended using Drupal web services or CiviCRM APIs
+How Can I Incorporate Profiles in CiviEvent Backend?
+Partial Upgrade
+Restore default "mailing footer" in civicrm WordPress 4.2.4
+Search for people who have NOT registered for an event
+how to create mail address labels
+What is the review process for automatic distribution of Extensions?
+How to rebuild civicrm admin menu?
+Why is no Receipt is being sent for a Contribution when using PayPal Standard?
+How can I add an additional email id for "work" through API?
+how to configure civimail when using Google mail?
+How to use existing scheduled email function programmatically in extensions?
+Using hooks -- simple please
+How to enable CKFinder 3.0 with CiviMail on CiviCRM 4.6.6
+How to create public and front end form through extension?
+How to check WHO creates a certain contact
+CiviEvent - Error when registering: Could not find valid value for id
+How can I search in the greeting fields?
+Why am I getting no data when using PHP API on wordpress page?
+Paypal IPN check fails on Pantheon
+Multiple Followups
+Postfix creates email bounces with permissions set to 600, but CiviMAIL doesn't like that!
+Civimail delivering AND bouncing at the same time - what's missing?
+Contact Report Filter: How to include Street Address?
+How do I set up CiviMail to automatically remove duplicate email addresses?
+Paypal button not linking while using Paypal pro
+How to build a profile using Activity data
+Member since date is being updated on import but we dont want it to!
+Is it possible to customize the automatic date ranges in Advanced Search?
+CiviEvent - Search by custom field
+Contact.url token is not a hyperlink
+Is it easy to upgrade CiviCRM using drush?
+Our dashboard reports are inaccurate - caching issue?
+How to correct domain in URLs after a change?
+Shouldn't duplicate group titles be possible?
+Log filled with CRM_Utils_System::permissionDenied
+How to dynamically add datafields/profiles in form?
+Why does this custom file field uploaded on profile not download from the emailed link?
+How to alter and manipulate the behavior and action of button through extension?
+why are contacts images stored as absolute URLs?
+Inserting a calculated value
+CiviCRM Import contacts only adding some to groups
+Placing RESTful calls to the CiViCRM demo
+Implications of making Activity Fields (Subject, Duration, Location, Details) required
+How to use the API to query custom fields on activities?
+Export activities and the activity target contact
+Is there a way of recording/exposing when an activity is added to CiviCRM?
+What's the correct way to log debug info to log?
+Why do multiple shortcodes on a single wordpress page not working?
+What is CiviCRM's position on WordPress 4.3?
+Notification of address change (for external accounting software)
+Upgraded to 4.6.7 and now the Register links in the Upcoming Events list block have a typo
+HOWTO: provide log-in (uid and pass) to Civicrm Contact - NEW or Existing
+Why am I getting "Column not found: 1054 Unknown column 'civicrm_activity.source_contact_id' in 'field list'" on Activity View after upgrade to 4.6.7?
+Personal Campaign Pages (pcp) related to a campaign
+CiviCRM and Apache Solr Search
+Record which timeline created an activity
+Why is offline contribution sending an online receipt?
+How can I pass in the contribution amount via URL?
+How to allow an active membership with payment pending?
+Upgrade to 4.6.6 : how to configure mysql server?
+How to prevent a double enrollment in an event of the same participant.
+Why is the list of relationships presented when adding an additional role to a case different from those presented when configuring a case?
+Best way to add "Check Date" to a contribution?
+Changes in Quick Search/Search
+Engagement Index in civicrm Activities Section
+Member Identification Card
+Submit Button Hidden on Reports for adding contact to group
+Is civisualize compatible with 4.6?
+After upgrading to 4.6.7 Civimail fails to send mail
+Copy CiviVolunteer volunteer needs when creating a repeating event
+Setting up PayPal Pro in CiviCRM
+Event registration confirmation mail: Can I suppress certain custom fields?
+Is it possible to create multi-record custom fields on Activities?
+Problem with Advanced Search and Search Builder
+WordPress Content Directory Setting
+Is Civi having a separate copy of jQuery inefficient?
+Webform CiviCRM Integration and duplicate contacts
+Membership sign-up fatal error: Duplicate entry, already exists
+Track last updated custom data
+CiviRules and bulk email events
+How to display recent upgrade messages?
+Token for custom field returns the token but not the Values. How to fix it?
+How do I find more information about the ACL regression introduced in 4.6.7?
+CiviEvent: Transaction integrity error: Expected to find active frame
+Unable to install v.4.6.x - Drupal7
+CiviCRM 4.6.7 Wordpress 4.3 Extension Issue / BaseURL
+REST API without JSON just key=value
+Can't Include Profiles for Contribution Page after migration
+Why is the event registration "Thank You" page generating an error?
+Trying to get external cron working
+REST error message saying request modifies the database, but it doesn't
+Sending scheduled reminders in civicase
+How do I open a case that started more than twenty years ago?
+Moving from Drupal to Wordpress
+How to delete sample data?
+How to allow online renewals for memberships created in the backend?
+Network Error - Unable To Reach The Server - Change Payment Details on Recurring Contributions
+is there a jobboard in civiCRM
+My contacts aren't showing anymore
+Using the extension CiviVolunteer, assigning a volunteer to a company, not an event
+Getting ERROR: You need to send a valid key to execute this file when running Cron
+How do I search for contacts with "not empty" multiple records field?
+How to increase limits on activity attachments?
+How can I adjust the fonts and layout of PDF reports?
+How to enter an activity ID in the API Explorer?
+Custom data: Can the Input Type Field be None?
+Admin > system settings unavailable after wordpress database import
+Why do the exported contacts differ from the contacts presented on the Advanced Search using Display Results as Related Contacts?
+I cant get civi Bounce Processing or Email-to-Activity Processing to function.
+404 Error: Not found while Importing Contacts
+Custom Reply-to setting doesn't stick
+Edits to mail.php for Bluehost still necessary?
+Can't see Note type custom field in reports
+Sync name and address with drupal user page via civicrm webform
+Can't see membership sign-up page!
+Broken Navigation Image Gifs,and
+Can a contact have more than 5 websites?
+Can a New Member automatically become a Drupal User with defined Role?
+Problem Exporting Contacts
+Registration page
+Table not rendering data properly using new contribution grouping feature
+One Password for All?
+Civicase . how to copy a timeline or sequence
+CiviCase - how to use for tracking grants we are applying for?
+"Content-ID" in email attachments
+Upcoming activities in Case Control Panel - extend time span?
+All search modes redirect me to search page over and over.
+How to display a contribution page in a drupal block (NOT USING WEBFORM)
+"SyntaxError: Unexpected token" error on l10n-js files
+CiviMail Does Not Send To A Whole Group
+Should there be a civicrm_api3_membership_log_add/delete'
+civicrm dashboard won't load
+How to get all the groups for a contact
+Export Price Set Field Labels
+Does Summary Fields extension work on 4.6.x
+PayPal IPN intermittently incomplete on payment
+Input in Memo/Rich Text Editor custom field results in error "There is a validation error with your HTML input"
+Drupal 6 Fatal error on profile view
+Contact which is both Organisation & Individual
+Configure email envelope "Fam.Doe" <johndoe@email.com>
+Set Billing Address to be Not Required in Contribution Page
+What are the best arguments to start using CiviCRM
+Webform created for case activity and multiple case types
+How to notify CEO of large contributions?
+Error message when trying to run scheduled email send - Joomla
+Custom participant fields not showing for anonymous users on event registration page
+Schedule reminders broken in 4.6.8
+How to contribute to the documentation?
+How do I create and access a database for civiCRM
+How can I make a custom report that displays info for three contacts based on relationships?
+CiviEvent registration with pay later prevented with "missing fields" error
+Civicase Dashboard - reordering case types
+CiviCase My Cases Widget not working on main Civi dashboard
+Error with CiviEvent Form
+Paypal standard on contribution forms
+Custom drupal contact display fields?
+I want to do something like "if campaign=xxx" {include footer} in System Workflow Messages
+"Mailing" tab won't disappear after disabling CiviMail component
+Fatal error: Uncaught CRM_Core_Exception: [0: Transaction integrity error: Expected to find active frame
+Does Google Hangouts SMS integrate with CiviCRM?
+How can I hide contact tabs depending on user role?
+How can I make a civi event registration form that collects the individual's information as well as the organization to which they are affiliated?
+Remove Default Profile Fields from Drop Downs
+Important Event Participants on CiviCRM 4.6.5 no longer supports external ID?
+"API error: DB Error: constraint violation" when installing Stripe extension
+Create a Drupal View with MULTIPLE CiviCRM relationships?
+how to resend a mailing to corrected bounce addresses?
+Event registration using External Id to match contact.
+Warning when importing contacts/activities
+CiviMail > New Mailing > No recipients Error
+CiviCRM User Summit Sept 2016 - Any last minute ideas on how to convince another 20 people to register
+How should I generate a report (or view) showing contacts and people they have relationships to?
+CiviCRM Webform - Dedupe issue when using a shared address
+Customize contacts screen to remove some fields
+Customers Recieving Error Code on Renewal
+What will be the way to give user public access to check their contribution?
+How to display events on a map?
+Upgraded civicrm but the previous jquery files are still being called
+Consider Relationships in Contact Reports
+Changing the CiviCRM Theme in Drupal
+CiviDiscount based on group membership
+Why am I getting this message when setting up membership payment page?
+Household is missing from Dedupe rule page
+CiviCRM Upgrade from 4.5beta6 to 4.6.8 - CiviCRM Menu is not displaying/functioning
+How can I add my Wordpress Site's template to my contribution page?
+How to find contacts that haven't confirmed their registration?
+Civicrm menu is hidden
+How to fetch activity including custom fields using API
+How do I get correct currency data to stripe.com from my CiviCRM transactions
+How to show Days in Case in Drupal Views?
+Is "Total Paid" in a report really supposed to show Amount Paid plus fees?
+Existing organizations getting updated when new person signs up with the same org name
+Exporting contacts merged to households causes DB error version 4.6.8

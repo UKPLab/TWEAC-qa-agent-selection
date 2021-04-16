@@ -1,0 +1,9 @@
+sentence_transformers>=0.4.1.2
+requests>=2.22.0
+numpy>=1.19.3
+elasticsearch==7.5.0
+tensorflow_hub>=0.8.0
+tensorflow>=2.1.0
+faiss>=1.5.3
+progressbar33>=2.4
+tensorflow_text>=2.4.3

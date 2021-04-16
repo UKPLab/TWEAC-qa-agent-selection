@@ -1,0 +1,2000 @@
+How can I do simple machine learning without hard-coding behavior?
+What open-source books (or other materials) provide a relatively thorough overview of data science?
+Is Data Science the Same as Data Mining?
+What are the advantages and disadvantages of SQL versus NoSQL in data science?
+Use liblinear on big data for semantic analysis
+How big is big data?
+the data on our relational DBMS is getting big, is it the time to move to NoSQL?
+K-Means clustering for mixed numeric and categorical data
+Clustering customer data stored in ElasticSearch
+How to scale up algorithm development?
+What is the difference between Hadoop and noSQL
+Is the R language suitable for Big Data
+Running an R script programmatically
+Organized processes to clean data
+What are R's memory constraints?
+Why Is Overfitting Bad in Machine Learning?
+Is it possible to automate generating reproducibility documentation?
+When are p-values deceptive?
+Is there a replacement for small p-values in big data?
+Which Big Data technology stack is most suitable for processing tweets, extracting/expanding URLs and pushing (only) new links into 3rd party system?
+Is this Neo4j comparison to RDBMS execution time correct?
+Parallel and distributed computing
+Clustering unique visitors by useragent, ip, session_id
+How does a query into a huge database return with negligible latency?
+Does click frequency account for relevance?
+What is the Best NoSQL backend for a mobile game
+Clustering based on similarity scores
+Opensource tools for help in mining stream of leader board scores
+When a relational database has better performance than a no relational
+Is there any APIs for crawling abstract of paper?
+Machine learning techniques for estimating users' age based on Facebook sites they like
+How to learn noSQL databases and how to know when SQL or noSQL is better
+Latent Dirichlet Allocation vs Hierarchical Dirichlet Process
+What is generative and discriminative model? How are they used in Natural Language Processing?
+What is dimensionality reduction? What is the difference between feature selection and extraction?
+Can map-reduce algorithms written for MongoDB be ported to Hadoop later?
+Why is it hard to grant efficiency while using libraries?
+What is the most efficient data indexing technique
+Publicly Available Datasets
+Is Data Science just a trend or is a long term concept?
+How to specify important attributes?
+Is there a straightforward way to run pandas.DataFrame.isin in parallel?
+Can metadata be used to adapt parsing for an unescaped in field use of the delimiter?
+How to animate growth of a social network?
+Google prediction API: What training/prediction methods Google Prediction API employs?
+Using SVM as a binary classifier, is the label for a data point chosen by consensus?
+Open source solver for large mixed integer programming task?
+Multi layer back propagation Neural network for classification
+What are the most popular data science application use cases for consumer web companies
+Algorithm for generating classification rules
+What does the alpha and beta hyperparameters contribute to in Latent Dirichlet allocation?
+Instances vs. cores when using EC2
+How should one deal with implicit data in recommendation
+Human activity recognition using smartphone data set problem
+Where in the workflow should we deal with missing data?
+built-in cov in pandas DataFrame results ValueError array is too big
+How to annotate text documents with meta-data?
+How to get phrase tables from word alignments?
+Tradeoffs between Storm and Hadoop (MapReduce)
+Cascaded Error in Apache Storm
+How to get an aggregate confusion matrix from n different classifications
+Data science Ph.D. program, what do you think?
+Are there any python based data visualization toolkit?
+HBase connector - Thrift or REST
+Do I need to learn Hadoop to be a Data Scientist?
+Hierarchical Data Format. What are the advantages compared to alternative formats?
+Can machine learning algorithms predict sports scores or plays?
+What are some easy to learn machine-learning applications?
+Feature selection for tracking user activity within an application
+Qualifications for PhD Programs
+Does Amazon RedShift replace Hadoop for ~1XTB data?
+Big data case study or use case example
+One-Class discriminatory classification with imbalanced, heterogenous Negative background?
+Books about the "Science" in Data Science?
+Debugging Neural Networks
+How can we calculate AUC for a simple decision tree?
+How can I extract news about a particular company from various websites using RODBC package in R? And perform sentiment analysis on the data?
+Python vs R for machine learning
+What do you think of Data Science certifications?
+Example tasks of a data scientist and the necessary knowledge
+How do I figure out if subsets can be plotted in a normal Euler diagram?
+Data Science as a Social Scientist?
+How to best accomplish high speed comparison of like data?
+When is a Model Underfitted?
+Difference between using RMSE and nDCG to evaluate Recommender Systems
+Data Science oriented dataset/research question for Statistics MSc thesis
+How to process natural language queries?
+Amazon S3 vs Google Drive
+How to compare experiments run over different infrastructures
+How to debug data analysis?
+Choose binary classification algorithm
+Filtering spam from retrieved data
+What to consider before learning a new language for data analysis
+Why is there such a mismatch between the Model's predicted probability and theoretical probability in logistic regression?
+How can I predict traffic based on previous time series data?
+Choosing a learning rate
+Best languages for scientific computing
+How can I transform names in a confidential data set to make it anonymous, but preserve some of the characteristics of the names?
+Best way to classify datasets with mixed types of attributes
+Online machine learning tutorial
+Publicly available social network datasets/APIs
+How to measure execution time on distributed system
+How to grow a list of related words based on initial keywords?
+Does anyone use Julia programming language?
+Looking for example infrastructure stacks/workflows/pipelines
+Relational Data Mining without ILP
+What are good sources to learn about Bootstrap?
+What are the use cases for Apache Spark vs Hadoop
+Learning signal encoding
+How to speedup message passing between computing nodes
+What is the difference between global and universal compression methods?
+What are the implications for training a Tree Ensemble with highly biased datasets?
+Suggest text classifier training datasets
+K-means vs. online K-means
+Preference Matching Algorithm
+Gas consumption outliers detection - Neural network project. Bad results
+Learning ordinal regression in R?
+Is logistic regression actually a regression algorithm?
+Network structure: k-cliques vs. p-cliques
+Preference Matching Algorithm
+Is GLM a statistical or machine learning model?
+Word2Vec for Named Entity Recognition
+Techniques for trend extraction from unbalanced panel data
+What statistical model should I use to analyze the likelihood that a single event influenced longitudinal data
+Dealing with diverse text data
+Cross-validation: K-fold vs Repeated random sub-sampling
+Efficient solution of fmincg without providing gradient?
+Online k-means explanation
+Score matrix string similarity
+How to select algorithms for ensemble methods?
+Binary classification model for unbalanced data
+Good practices for manual modifications of data
+What are your favorite sources for news about Machine Learning and Data Science?
+First steps on a new cleaned dataset
+Feature Extraction Technique - Summarizing a Sequence of Data
+Datasets understanding best practices
+Detecting cats visually by means of anomaly detection
+What visualization technique to best describe a recommendation dataset?
+Why does Gradient Boosting regression predict negative values when there are no negative y-values in my training set?
+Named Entity Recognition: NLTK using Regular Expression
+Standardize numbers for ranking ratios
+What are the main types of NLP annotators?
+Where can I download historical market capitalization and daily turnover data for stocks?
+How does Google categorize results from its image search?
+How to use neural networks with large and variable number of inputs?
+Network analysis classic datasets
+How do you create an optimized walk list given longitude and latitude coordinates?
+How to normalize results of Singular Value Decomposition (SVD) between 0 and 1?
+Do you need a virtual machine for data science?
+Any differences in regularisation in MLP between batch and individual updates?
+Difference Between Hadoop Mapreduce(Java) and RHadoop mapreduce
+Identifying “clusters” or “groups” in a matrix
+Measuring performance of different classifiers with different sample sizes
+Handling a regularly increasing feature set
+Data preparation and machine learning algorithm for click prediction
+Large Scale Personalization - Per User vs Global Models
+Dataset for Named Entity Recognition on Informal Text
+Create most "average" cosine similarity observation
+Spatial index for variable kernel nonparametric density
+Which non-training classification methods are available?
+Foreign exchange market forecasting with neural networks
+How are selected the features for a decision tree in CART?
+Prediction with non-atomic features
+Linear Regression in R Mapreduce(RHadoop)
+Cannot make user directory on a new CDH5 installation (Hadoop)
+What algorithms should I use to perform job classification based on resume data?
+Fisher Scoring v/s Coordinate Descent for MLE in R
+Dealing with events that have not yet happened when building a model
+Linearly increasing data with manual reset
+Struggling to integrate sklearn and pandas in simple Kaggle task
+What are some standard ways of computing the distance between documents?
+What are some standard ways of computing the distance between individual search queries?
+Build a binary classifier with only positive and unlabeled data
+Stochastic gradient descent in logistic regression
+Best python library for neural networks
+Running huge datasets with R
+Efficient dynamic clustering
+Clustering pair-wise distance dataset
+Working with HPC clusters
+Commercial Text Summarization Tools
+Are Support Vector Machines still considered "state of the art" in their niche?
+Cloudera QuickStart VM Error
+How to choose the features for a neural network?
+How to define a custom resampling methodology
+Trying to understand free-energy equations in a Karl Friston neuroscience article
+Is FPGrowth still considered "state of the art" in frequent pattern mining?
+How to fight underfitting in a deep neural net
+Skewed multi-class data
+Starting my career as Data Scientist, is Software Engineering experience required?
+Cosine similarity versus dot product as distance metrics
+ARMA/ARIMA on energy forecasts timeseries: strange prediction
+Why use mean revenue in a split test?
+Meaning of latent features?
+How to increase accuracy of classifiers?
+Tools and protocol for reproducible data science using Python
+Given time series data, how to model the frequency of someone changes his job?
+Clustering geo location coordinates (lat,long pairs)
+t-SNE Python implementation: Kullback-Leibler divergence
+Getting GitHub repository information by different criteria
+Is Python suitable for big data
+Data visualization for pattern analysis (language-independent, but R preferred)
+Why should I care about seasonal data when I forecast?
+NASDAQ Trade Data
+Hadoop Resource Manager Won't Start
+Job title similarity
+Uses of NoSQL database in data science
+Efficient database model for storing data indexed by n-grams
+What's the difference between data products and intelligent systems?
+Advantages of AUC vs standard accuracy
+Statistics + Computer Science = Data Science?
+Should I go for a 'balanced' dataset or a 'representative' dataset?
+Visualizing a graph with a million vertices
+is this a good case for NOSQL?
+How can we effectively measure the impact of our data decisions
+How should ethics be applied in data science
+Are there any annotators or Named Entity Recognition for license plate numbers?
+Pig script code error?
+Data Science Association?
+How do you plot overlapping durations?
+Recommending movies with additional features using collaborative filtering
+Pig latin code error
+How to fix similarity matrix in Pandas returning all NaNs?
+Data Science Project Ideas
+Using Apache Spark to do ML. Keep getting serializing errors
+Computing Image Similarity based on Color Distribution
+Unsupervised feature learning for NER
+Data science and MapReduce programming model of Hadoop
+How to build parse tree with BNF
+Predicting next medical condition from past conditions in claims data
+Relative merits of different open source natural language generators
+Neural Network parse string data?
+R error using package tm (text-mining)
+What is the use of user data collection besides serving ads?
+R aggregate() with dates
+Modelling on one Population and Evaluating on another Population
+How to get correlation between two categorical variable and a categorical variable and continuous variable?
+Facebook's Huge Database
+How to implement Brown Clustering Algorithm in O(|V|k^2)
+When is there enough data for generalization?
+Analyzing A/B test results which are not normally distributed, using independent t-test
+What do you use to generate a dashboard in R?
+How do various statistical techniques (regression, PCA, etc) scale with sample size and dimension?
+Solving a system of equations with sparse data
+Which cross-validation type best suits to binary classification problem
+SUMMARIST: Automated Text Summarization
+Avoid iterations while calculating average model accuracy
+Can I classify set of documents using classifying method using limited number of concepts ?
+how to impute missing values on numpy array created by train_test_split from pandas.DataFrame?
+Handling huge dataset imbalance (2 class values) and appropriate ML algorithm
+R error using Knitr
+Does scikit-learn have forward selection/stepwise regression algorithm?
+Database for a trie, or other appropriate structure for recommendation engine
+Classifying Java exceptions
+Analysis of Split (A/B) tests using Poisson and/or Binomial Distribution
+Any clear winner for Data Science in Scala?
+Pig Rank function not generating rank in output
+OpenNLP Coreference Resolution (German)
+Coreference Resolution for German Texts
+Multiple seasonality with ARIMA?
+Why a restricted Boltzman machine (RBM) tends to learn very similar weights?
+what is difference between text classification and topic models?
+Sentiment data for Emoji
+Tool for finding correlations between data after some event
+Understanding output stepAIC
+Subgraph isomorphism and Anti-monotone property
+feature weights in structured support vector machine
+Nearest neighbors search for very high dimensional data
+Solutions for Continuous Online Cluster Identification?
+Algorithms for text clustering
+Can anyone provide the 24 hour challenge dataset from Climate Corporation?
+Can I use unsupervised learning followed by supervised learning?
+Text categorization: combining different kind of features
+SVM using scikit learn runs endlessly and never completes execution
+Why might several types of models give almost identical results?
+Where can I find free spatio-temporal dataset for download?
+What initial steps should I use to make sense of large data sets, and what tools should I use?
+Query similarity: how much data is used in practice?
+Looking for Web scraping tool for unstructured data
+Using Heuristic Methods for AB Testing
+Making Factual drake work on Windows 7 64-bit
+How can I model open environment in reinforcement learning?
+Available data about 'likers' as a page on Facebook
+Extract canonical string from a list of noisy strings
+Extrapolating GLM coefficients for year a product was sold into future years?
+implementing temporal difference in chess
+Do Random Forest overfit?
+Which one will be the dominating programming language for next 5 years for analytics , machine learning . R or python or SAS
+What features are generally used from Parse trees in classification process in NLP?
+How to numerically estimate MLE estimators in python when gradients are very small far from the optimal solution?
+Hive External table does not showing in Namenode (Cloudera-QuickstartVm)
+Studying social media platforms - key data analysis methods?
+which programming language has a large library that can do machine learning algorithm, R, matlab or python
+Using Shark with Apache Spark
+Libraries for (label propagation algorithms/frequent subgraph mining) for graphs in R
+Summarize and visualize a CSV in Java/Scala?
+How much data space is used by all scientific articles?
+Forecasting Foreign Exchange with Neural Network - Lag in Prediction
+Apps to manage/host data sets
+Kappa From Combined Confusion Matrices
+SAP HANA vs Exasol
+How is the concept of data different for different disciplines?
+Libraries for Online Machine Learning
+Polynomial Kernel Parameters in SVMs
+Hadoop for grid computing
+Unstructured text classification
+Data sets for evaluating text retrieval quality
+ANOVA RBF kernel returns very poor results
+non query-based document ranking
+Freebase Related Models
+Creating Bag of words
+Machine learning libraries for Ruby
+Creating obligatory combinations of variables for drawing by random forest
+Gini coefficient vs Gini impurity - decision trees
+Neural net for server monitoring
+Improve CoreNLP POS tagger and NER tagger?
+Modeling Pipeline Budget
+Logistic Regression implementation does not converge
+How to build a textual search engine?
+Quick guide into training highly imbalanced data sets
+Kappa near to 60% in unbalanced (1:10) data set
+Binning long-tailed / pareto data before clustering
+General approahces for grouping a continuous variable based on text data?
+Predictive modeling based on RFM scoring indicators
+Combine multiple classifiers to build a multi-modal classifier
+Difference between tf-idf and tf with Random Forests
+Named entity disambiguation contests
+Looking for algebras designed to transform time series
+K-Means clustering for mixed numeric and categorical data implementation in C#
+Statistical Commute Analysis in Java
+Choosing a window size for DTW
+Some suggestion for career in data science or predictive modeling
+Studying machine learning algorithms: depth of understanding vs. number of algorithms
+Invariance Property of Vowpal Wabbit Updates - Explaination
+Text Classification with mixed features in Random Forests
+Prerequisites for Data Science
+Trouble representing a problem
+Estimating Variance Reduction Resultant from Additional Data
+How to do SVD and PCA with big data?
+Looking for a strong Phd Topic in Predictive Analytics in the context of Big Data
+A tool like Matlab for NLP?
+General programs/libraries for studying user search behavior?
+Versatile data structure for combined statistics
+How to classify and cluster this time series data
+Distance calculation/vector range significance
+document clustering by semantic similarity based EMD(earth mover distance)
+Discovering dis-associations between periods of time-series
+What are some best papers on gradient descent for NN implementation?
+How much time do scikit classifiers take to classify?
+Which method works best for attribution models for the objectives?
+How to define confusion matrix for classification?
+Type of regression with nominal, ordinal, interval and ratio data
+Using SVD for clustering
+Amalgamating multiple datasets with different variables coding
+How to classify test objects with this ruleset in order of priority?
+Supervised Learning with Necessarily Missing Data
+How can I classify text considering word order, instead of just using a bag-of-words approach?
+NLP lab, linux or windows and which programming languages?
+Recommended Language/Framework for Building a New Recommendation Engine
+What circumstances causes two different classifiers to classify data exactly like one another
+machine learning algorithms for 2d data?
+Book keeping of experiment runs and results
+Career switch to Big Data Analytics
+Scikit Learn Logistic Regression Memory Leak
+data processing, correlation calculation
+Union grouping in bipartite graphs?
+Cosine Similarity for Ratings Recommendations? Why use it?
+how to get the Polysemes of a word in wordnet or any other api?
+Methods for standardizing / normalizing different rank scales
+Collaborative Social Network Visualization
+Can we quantify how position within search results is related to click-through probability?
+Hashing Trick - what actually happens
+Stochastic gradient descent based on vector operations?
+Why are NLP and Machine Learning communities interested in deep learning?
+Single Layer Perceptron with three classes
+How to do this complicated data extrapolation, prediction modeling?
+Where to start on neural networks
+"Hadoop" formats for user database: online advertising
+What is the state of the art in the field of NLP?
+Any Online R console?
+What is the best Data Mining algorithm for prediction based on a single variable?
+What are the parameter estimation methods for the two methods in this paper?
+Adaptive regression parameter estimation in R
+Is it possible to identify different queries/questions in sentence?
+what is buyer classification problem?
+Regression Model for explained model(Details inside)
+Scalable Outlier/Anomaly Detection
+Masters thesis topics in Applied probability and Probabilistic models in Machine Learning
+Differences in scoring from PMML model on different platforms
+R Script to generate random dataset in 2d space
+Python and R good tutorials?
+Energy consumption time series forcasting
+Treebank conversion from dependency to constituency?
+Masters thesis topics in big data
+Machine Learning - Where is the difference between one-class, binary-class and multinominal-class classification?
+On-line random forests by adding more single Decisions Trees
+Machine Learning - Where is the difference between one-class, binary-class and multinominal-class classification?
+Bayes Optimal Decision Boundaries for Gaussian Data with Equal Covariance
+Distributed Scalable Decision Trees
+Field Aware Factorization Machines
+Which packages or functions can I use in R to plot 3D data like this?
+MovieLens data set
+Clustering strings inside strings?
+Small project ideas for Machine Learning
+pandas dataframes memory
+Business exception reporting
+How to calculate classification accuracy with confusion matrix?
+Rough vs Fuzzy vs Granular Computing
+making logical inference from a simuation generated data
+MATLAB Perceptron
+How do I show plots when using Graphlab?
+Ranked tag recommendation for university courses
+Neural Networks getting stuck at local optima
+Machine learning - features engineering from date/time data
+Detecting Spam using Machine Learning
+Matrix properties and machine learning/data mining
+How to find a model for a short discrete time-series?
+Text-Classification-Problem, what is the right approach?
+Anomaly detection in multiple parameters
+scikit-learn OMP mem error
+Best format for recording time stamp and GPS
+Modelling Unevenly Spaced Time Series
+Python Machine Learning Experts
+Data science without knowledge of a specific topic, is it worth pursuing as a career?
+Learning resources for Data Science for applications in road traffic data?
+Similarity measure for ordered binary vectors
+Clarification about Octave data size limit
+Validity of data
+The meaning of multi-class classification rules
+What technologies are fastest at performing joins on large datasets?
+FUZZY ARTMAP for continuous data
+Large categorical dataset for regression
+How does the supposed "Unified Architecture for NLP" from Collobert and Weston 2008 really works?
+Classification of DNA Sequences
+Analyzing mobile usage. What kind of approach should I apply?
+Opening biosemi bdf data using MNE and biosig using python
+How can I create a custom tag in JPMML?
+Method to create master product database to validate entries, and enrich data set
+Modeling when the response variable has too many 0's and few continuous values?
+Processing data stored in Redshift
+Geospatial Social Network Analysis Visualization
+Clustering of documents using the topics derived from Latent Dirichlet Allocation
+Dimension reduction for logical arrays
+survey data analysis (discrete data)
+Non-linear transformations input dataset for support vector machines
+Choosing the right data mining method to find the effect of each parameter over the target
+Parsing data from a string
+Visualization using D3
+Visualizing Support Vector Machines (SVM) with Multiple Explanatory Variables
+Ontology database
+Reduction of multiple answers to single variable
+Change aliases of filter items in Tableau
+Analyze paragraphs using Neuroph
+What is the best practice to classify category of named entity in sentence
+How to run R programs on multicore using doParallel package?
+API for historical housing prices
+Recommendation engine with mahout
+Data scheduling for recommender
+Good-Turing Smoothing Intuition
+Creating Data model for mahout recommendation engine
+Deep Learning vs gradient boosting: When to use what?
+Log file analysis: extracting information part from value part
+How to run R scripts without closing X11
+Graduate Degree Choices for Data Science
+Please enlighten me with Platt's SMO algorithm (for SVM)
+Relation mining of multivariant categorical timeseries without excluding the temporal nature
+DBPedia as Table not having all the properties
+Relationship between KS, AUROC, and Gini
+Can some one explain how PCA is relevant in extracting parameters of Gaussian Mixture Models
+Using Clustering in text processing
+Confused about description of YearPrediction Dataset
+Why isn't dimension sampling used with gradient boosting machines (GBM)?
+Error analysis for better accuracy
+Evaluating Recommendation engines
+Can Machine Learning be applied in software developement
+Statistical comparison of 2 small data sets for 2X increase in the population mean
+How to ensemble classifier incorporating all features in python?
+Smoothing Proportions :: Massive User Database
+Visualization of three-dimensional report
+Using the Datumbox Machine Learning Framework for website classification - guidelines?
+What regression to use to calculate the result of election in a multiparty system?
+Sentiment analysis using python
+Hive: How to calculate the Kendall coefficient of correlation of a pair of a numeric columns in the group?
+API for Company Data Enrichment Suggestions
+Graphlab vs Mahout
+Mahout Similarity algorithm comparison
+Attributes extraction from unstructured product descriptions
+Consequence of Feature Scaling
+Can data analytics be a basis for artificial intelligence?
+N - fold cross validation in mahout
+Cross-sell models and additional holders
+Decision trees, categorizacion and oversampling
+How to connect data-mining with machine learner process
+Method for solving problem with variable number of predictors
+Item based and user based recommendation difference in Mahout
+How does one feed graph optimization problems into Python's anneal function in SciPy?
+How to use "sann" function in R to solve graph problems?
+Simple Excel Question: VLookup Error
+Good books for Hadoop, Spark, and Spark Streaming
+Name Anonymization Software
+Ethically and Cost-effectively Scaling Data Scrapes
+How to Interpret Multinomial Specification in R's `mnlogit` package
+3D map using leaflet
+SAS Nested Likelihood Ratio Test for a Logistic Model
+What is "data science"?
+What would be a good way to use clustering for outlier detection?
+Timing sequence in MapReduce
+Can hadoop with Spark be configured with 1GB RAM
+Linear combination of weak estimators over fuzzy classifiers?
+Machine Learning & Partial Differential Equations
+How to set up multi cluster spark without hadoop on Google Compute engine
+Assign new point to a class using spectral clustering
+Extract most informative parts of text from documents
+Deep learning basics
+java.lang.NoClassDefFoundError: org/apache/hadoop/fs/FSDataInputStream
+Web Framework Built for Recommendations
+Using NLP to automate the categorization of user description
+kNN - what happens if more than K observation have the same distance to the centroid of the cluster
+Python interface to Titan Database
+Data Science Tools Using Scala
+Visualizing deep neural network training
+Training Neural Networks with unknown length of input
+Document classification: tf-idf prior to or after feature filtering?
+Use Cases of Neo4J and Spark GraphX
+R-Cassandra connection with RJDBC
+Multiple labels in supervised learning algorithm
+Exporting R model to OpenCV's Machine Learning Library
+What are the best practices to anonymize user names in data?
+What cost function and penalty are suitable for imbalanced datasets?
+Choice of weights for the Laplacian Eigenmaps algorithm
+K nearest neighbour
+Sci-kit Pipeline and GridsearchCV returns indexError: too many indices for array
+How does the naive Bayes classifier handle missing data in training?
+Interactive Graphing while logging data
+Neo4j vs OrientDB vs Titan
+Machine Learning for hedging/ portfolio optimization?
+What software is being used in this image recognition system?
+R random forest on Amazon ec2 Error: cannot allocate vector of size 5.4 Gb
+Which Optimization method to use?
+Approaches to high dimension pattern matching problem
+How to deal with time series which change in seasonality or other patterns?
+Improving Naive Bayes accuracy for text classification
+Stochastic gradient descent in matrix factorization, sensitive to label's scale?
+Data transposition code in R
+What does 'contextual' mean in 'contextual bandits'?
+Bayesian Decision Tree
+Route to picking up Deep learning
+Hadoop/Pig Aggregate Data
+How are the findings learnt from the data set are generalized compared to Statistics?
+Neural Network Hidden Neuron Selection Strategy
+How to apply AdaBoost to more "complex" (non-binary) classifications/data fitting?
+predict with Multinomial Logistic Regression
+How to merge monthly, daily and weekly data?
+Time series: variations as a feature
+Time series prediction
+Which Graph Properties are Useful for Predictive Analytics?
+How to transform one graph to a spectrum?
+Scikit Learn: KMeans Clustering 3D data over a time period (dimentionality reduction?)
+How to model this "un predicatability" problem?
+Does a NB wrapper consider feature subset size?
+How to create separate nodes for each column in a spreadsheet using Neo4J?
+Creating a Graph from Address Data
+Object Recognition for classification, is it being used in industry?
+Are Correlithm Objects used for anything in the industry?
+Lambda Architecture - How to implement the Merge Layer / Query Layer
+Format for storing textual data
+How i can generate the probabilistic graph for my dataset?
+Compare Neural Network generalization results
+normalize identification values properly
+Communicating clearly about "samples"
+Finding unpredictability or uncertainty in a time series
+Mimic a Mahout like system
+Correlation threshold for Neural Network features selection
+Can we use package "dplyr" on R base 3.0.2?
+Similarity measure based on multiple classes from a hierarchical taxonomy?
+Correcting Datasets with artificially low starting values
+Tutorials on topic models and LDA
+Learning cost function for linear regression
+Hardware requirements for Linux server to run R & RStudio
+Approaches to Bag-Of-Words Information Retrieval
+Storing Big Matrix in DataBase
+Shifting dataPoints up by a constant (Is there an issue with too many 0's for features?)
+Aspect based sentiment analysis using machine learning approach
+What is the underlying pattern, or algorithm(s) used in these numbers?
+Querying DBpedia from Python
+Determine highly correlated segments
+Appropriate way to store data in R
+Training a function that maps n-dim to n-dim
+Generate tags for live chat transcripts
+Probability distribution in input-output pairs
+What kind of data is not appropriate using CF to do recommendation?
+What are the current killing machine learning methods?
+Does high error rate in regression imply the data set is unpredictable?
+What is the difference between feature generation and feature extraction?
+When to use what - Machine Learning
+Visualize performance, % of goal implementation
+Could someone please offer me some guidance on some kind of particular, SPECIFIC project that I could attemp, to "get my feet wet, so to speak"
+Bag of Words creation in image
+VM image for data science projects
+Questions on "Active Archive"
+What happens when we train a linear SVM on non-linearly separable data?
+High-dimensional data: What are useful techniques to know?
+Intuition for the regularization parameter in SVM
+How to learn a classifier from a dataset with high imbalance
+Where did this NY Times op-ed get his Google Search data?
+semi-structured text parsing using machine learning
+Can distribution values of a target variable be used as features in cross-validation?
+How to extract features and classify alert emails coming from monitoring tools into proper category?
+Machine learning toolkit for Excel
+What is advantage of using Dryad instead of Spark?
+Quasi-categorical variables - any ideas?
+What are the differences between Apache Spark and Apache Flink?
+How to access maximum volume of tweets using Twitter Streaming API, without firehose access?
+Partitioning Weighted Undirected Graph
+What is the best Big-Data framework for stream processing?
+Can 2 dimensional input be applied to SVM?
+Matlab simulation through FIS and Markov Process
+Help regarding NER in NLTK
+Pre-processing (center, scale, impute) among training sets (different forms) and the test set - what is a good approach?
+Normalize weekly data - Python
+Amplifying a Locality Sensitive Hash
+Can we access HDFS file system and YARN scheduler in Apache Spark?
+Which Big-Data Frameworks have most simple interfaces?
+Proper way of fighting negative outputs of a regression algorithms where output must be positive all the way
+Data available from industry operations
+How to proceed 2 executions in 1 step in hive?
+Machine learning for Point Clouds Lidar data
+How to compute F1 score?
+Rank players of any given sport
+What is a discrimination threshold of binary classifier?
+Is the GA R package the best Genetic Algorithm package?
+Format of CSV file
+minimization with a negative cost function: works in MATLAB, not in Python
+How to determine whether a bad performance is caused by data quality?
+OCR / Text Recognition and Recovery Problem
+Word Frequency Analysis of Document Sets
+machine learning on athlete performances to predict the time in a future race
+How much of a background in programming is necessary to become a data scientist?
+Where in practice can we see following information propagation model
+Question and Answer Chatbot for Customer Support
+MPI, MapReduce, or Spark for complex datasets and processing
+Item based recommender using SVD
+Working as data scientist for a nonprofit company
+Should I use epochs > 1 when training data is unlimited?
+Error when using MAX in Apache Pig (Hadoop)
+Extract company names/job titles from free text
+design pattern for extracting features
+InterquartileRange takes up most instances in data set
+Python for data analytics
+Reasons and prevention of trivial (and less trivial) misclassification errors?
+Machine Learning on financial big data
+Graph layout for a network of molecules
+Dividing percentage
+Calculating entropies of attributes
+How do I use Hierarchical Dirichlet Process (HDP) implementations (hdpfaster by C.Wang or hca by W.Buntine at mloss.org) to discover number of topics?
+Kaggle Titanic Survival Table an example of Naive Bayes?
+How to start the process of coming up with the predicted math score?
+Applications and differences for Jaccard similarity and Cosine Similarity
+Best Python library for statistical inference
+R Programing beginner
+Will demand for data scientist decrease because of AYASDI?
+Definition of likelihood function
+Local Development for Apache Spark
+Comparing two ordered lists
+Data Science Methodologies
+Assigning new items to existing similarity based clustering
+Where the following propagation model arise in practice
+Getting Scikit-Learn RandomForestClassifier to output Top N results
+When it is time to use Hadoop?
+training neural net with multiple sets of time-series data
+What are the possible ways to handle class unbalance in a large scale image recognition problem with Deep Neural Nets?
+depth/complexity of decision trees
+How to appropriately set weights for weighted KNN
+perceptron implementation, preocedure for post-feature vecor: bag-of-words model
+List of used aliases in Tableau
+How to deal with version control of large amounts of (binary) data
+Decision Tree Bayes rules / Maximax / Maximin
+Where can I find resources and papers regarding Data Science in the area of Public Health
+Python or R for implementing machine learning algorithms for fraud detection
+Scaling thousands of automated forecasts in R
+Null-invariant measures of association in R
+How to visualize multivariate regression results
+What is a good hardware setup for using Python across multiple users
+Matrix factorization for like/dislike/unknown data
+Split columns by finding "£" and then converting to minvalue, maxvalue
+Splitting binary classification into smaller susbsets
+Accuracy of Stanford NER
+Big data and data mining for CRM?
+Going from report to feature matrix
+How to prepare/augment images for neural network?
+strings as features in decision tree/random forest
+problem of choosing right statistical method for scheduler prediction
+Graph modularity measure
+How to test/validate unlabeled data in association rules in R?
+training one SVM model for predicting more than one response variable
+Interested in Mathematical Statistics... where to start from?
+R in production
+Combining data sets without using row.name
+What is an 'old name' of data scientist?
+Good formula for turning star reviews into upvotes
+Vectorization of for loop in sentiment analysis
+Does reinforcement learning always work on grid world?
+Predicting Soccer: guessing which matches a model will predict correctly
+How to detect overfitting of a stock screener
+How many possible hypotheses
+Do you have to normalize data when building decision trees using R?
+How to select topology for neural network?
+Computation of a column-stochastic matrix with target row sums
+How append works in hdfs? Where the newly created instance of file is placed?
+Dataset to give same eigenvectors?
+Error using twitter R package's userTimlien
+Generic strategy for object detection
+How are neural nets related to Fourier transforms?
+Algorithm for multiple extended string matching
+Transposing Every nth row to column in a large dataset
+Couple PCA plot and clusters to labels
+How to make an effective sampling from a database of text documents?
+How do I get Twitter Dataset for Visualization
+How can the performance of a neural network vary considerably without changing any parameters?
+Forecasting sales and creating model
+General approach to extract key text from sentence (nlp)
+Probability of similarity of two clusters
+Need help with python code as part of a data analysis project
+Cost function for support vector regression
+Implementation of Association Rules in Javascript
+How to read file from user in Shiny and assign it to a variable in global.r?
+use classification to improve clustering
+Measuring similarity for sets with same cardinality
+subsetting R data frame
+Better approach for handwriting recognition?
+Does pruning a decision tree always make it more general?
+Time series change rate calculations for displaying trend line chart
+procedure for gradient descent
+IDE alternatives for R programming (RStudio, IntelliJ IDEA, Eclipse, Visual Studio)
+Terminology: SOMs, batch learning, online learning, and stochastic gradient descent
+Data Science in C (or C++)
+What approaches are there to not display a search result that a user has no permission to see?
+Best way to format data for supervised machine learning ranking predictions
+R and Python, memory differences yielding performance differences
+sk-learn - ValueError: array is too big.
+Feature scaling
+Which one is easier to debug between theano and caffe?
+Tools to preprocess a big data for dashboards?
+In a SVD with user/video bias, why is the UV contribute so small?
+Recommendation - item based vs user based
+Identity covariance matrix, decorrelated data?
+Which book is the best for introduction to analysis social network using python3
+How does SQL Server Analysis Services compare to R?
+Clustering not producing even clusters
+Huge discrepancies in Logistic Regression and SVM using HOG features to identify an Object
+parsing data by NLP using just offsets of words
+How to create and format an image dataset from scratch for machine learning?
+Choosing between Storm+Trident-ML, Storm+SAMOA or Spark Streaming+MLlib
+How to generate synthetic dataset using machine learning model learnt with original dataset?
+Canonical VS Graph Isomorphism
+how to modify sparse survey dataset with empty data points?
+What is the term for when a model acts on the thing being modeled and thus changes the concept?
+Learning resources for data science to win political campaigns?
+Do data scientists use Excel?
+Logistic Regression Cost Function Error
+Classification of skills based on job ads
+SAS. How to write "OR"
+Correct tagging but wrong parse tree
+Is it ethical to claim experience with big data when the data isn't a part of the new advertising/social media/retail fad?
+Building a static local website using Rmarkdown: step by step procedure
+LFR as synthesized data for dynamic community detection methods
+Data store for testing data products?
+Correlations - Get values in the way we want
+Extracting model equation and other data from 'glm' function in R
+Predictive Model for Customer Payment Pattern
+Post processing with Random Forest
+Possibility of working on KDDCup data in local system
+Neural Network Golf: smallest network for a certain level of performance
+Data mining- Clustering techniques
+SAS PROC means (two variants together)
+about predict the class for a new datapoint
+Understanding of minbucket function in CART model using R
+Complete link clustering
+Pandas time series optimization problem: add year
+Abstract data type?
+How to scrape imdb webpage?
+Finding predictions using biglm without finding errors
+R lm(log(y)~x,data) models and predict, need to remember the exp. R2 differences
+Difference between OLS(statsmodel) and Scikit Linear Regression
+Theano/Lasagne/Nolearn Neural Network Image Input
+Algorithms to find average distance between data maxima
+What are some good sources to learn fraud/anomaly detection in normal/time-series data?
+What algorithmic approach for selecting similar, relevancy based documents
+percentage of confidance on desion trees results
+Finding frequencies in a noisy, "uneven" dataset
+Can someone explain the following error in my python code?
+Using EM (Expectation Maximization) algorithm for Training Logistic Regression
+How can I use Data Science to profoundly contribute to Humanity?
+Prove Reccurrent Neural Network can exhibit oscillatory behavior
+Finding parameters with extreme values (classification with scikit-learn)
+Use of Nash-Equilibrium in big data environments
+what can be done with the following data?
+Basic ML based Prediction model
+Optimizing Weka for large data sets
+Downloading a large dataset on the web directly into AWS S3
+What is the best way to scale a numerical dataset
+non-linear optimization for a linear classifier? (scikit-learn)
+Using clustering and Lasso with cv
+How to classify whether text answer is relevant to an initial text question
+Training Dataset required for Classifier
+Question on decision tree in the book Programming Collective Intelligence
+Algorithm to find common sequence
+What are Hybrid Classifiers used in Sentiment Analysis?
+Tidying Time Intervals for Plotting a Histogram in R
+Gradient Descent Step for word2vec negative sampling
+Correlation between time to event data and continuous data
+Which classifier is efficient in dealing with test query which belongs to no trained class?
+How do I access data on my EBS Volume from R-Studio Server on Ubuntu EC2 Instance
+Predicting earthquakes using disturbances in DTH TV transmission
+large database operation. check for relatedness between entities
+Fraud detection use text mining
+Automomatic typographical error correction
+How is frequent itemsets compared with item-based collaborative filtering in recommender systems?
+Where is the error in the following code?
+Pound notation in Summation
+Gradient descent parameter estimation Package for R
+International Journal
+What types of features are used in a large-scale click-through rate prediction problem?
+K-means: What are some good ways to choose an efficient set of initial centroids?
+Reference about social network data-mining
+Analyzing survey data for predictions
+Spark, optimally splitting a single RDD into two
+How should I create a single score with two values as input?
+Understanding text conversion into SVM input
+How Mllib in Spark select variables in logistic regression
+How to approach automated text writing?
+Why is the Naive Bayes classifier of sklearn faster than sklearns SVM?
+Classify the coordinate data
+NoSQL engine/service recommendation for geolocation data
+Dimensionality and Manifold
+Neural networks with non-negative weights
+Lightweight data provenance tool
+Are ontologies and the Semantic Web dead?
+What is the "dying ReLU" problem in neural networks?
+Time Complexity notation in Big Data platforms
+Which classification algorithms to try for classifying text data into 300 categories
+Why does logistic regression in Spark and R return different models for the same data?
+Performance profiling and tuning in Apache Spark
+Where is the cost parameter C in the RBF kernel in SVM?
+Add Custom Labels to NLTK Information Extractor
+In Weka, how to draw learning curve evaluated on both test and training set?
+Datasource for regression model prediction : Machine Learning
+Finding user similarities within informal data sets
+Creating Strings corresponding to Location Co-ordinates
+Library/package/tool for geographical data visualizations
+What kind of research can be done with an email data set?
+When to Perform non-linear dimension reduction
+Fast k-means like algorithm for 10^10 points?
+Determine what data, does certain column have in common
+How do you compare term counts between two different periods, with different underlying corpus sizes, without bias?
+computational time and precision trade off
+new and fresh ideas with stack exchange dataset
+Ranking Bias in Learning to Rank
+Multi-label text classification with minimum confidence threshold
+Best or recommended R package for logit and probit regression
+Why does the listed order of features specified in the data set matter to the random forest classifier
+Preparation for Career in Data Analysis Without College
+LinkedIn web scraping
+What kind of machine learning algorithm can I use?
+What is the difference between Latent and Explicit Semantic Analysis
+Data cleaning: Relationships between columns
+Why are HMMs called linear-chain?
+Various algorithms performance in a problem and what can be deduced about data and problem?
+Learning time of arrival (ETA) from historical location data of vehicle
+Attributing causality to single quasi-independent variable
+Complex Chunking with NLTK
+Is it my Sales growth is depend on Commisions/Discounts?
+How to subset rows from a data frame with comparison operators in R
+Application of Control Theory in Data Science
+Airline Fares - What analysis should be used to detect competitive price-setting behavior and price correlations?
+Looking for smallest set of rows that form a natural key in a data set
+Convolutional neural network for sparse one-hot representation
+Identifying sequences of behavioral interactions between multiple individuals
+How do I cluster data that is a mix of text & categorical data?
+Master degree in Data Science
+How do I best parse ECOG scores in cancer clinical trial results in java?
+What is the best technique/algorithm to compare trees changes?
+I am trying to classify/cluster users profile but don't know how with my attributes
+Index for efficient argmax(w.x) query ~ 20d
+What are available methods for modeling startup survival rates?
+Ideas for next step of Machine Learning
+Gerrymandering - Geospatial optimization to maximize votes in R
+How is Data Science related to Machine learning?
+Where to start, which books
+Where does the sum of squared errors function in neural networks come from?
+What loss function does the 'multinomial' distribution with the gbm package in R use?
+What techniques are used to understand call patterns?
+How to find the input variables for a classification problem?
+Data prediction book
+How to scale an array of signed integers to range from 0 to 1?
+Different methods for clustering skills in text
+How to create a good list of stopwords
+How deep should ones linear algebra knowledge be before starting data science?
+Do I need to apply a Ranking Algorithm for this?
+Minimize correlation between input and output of black box system
+How do you ascertain the quality of your data?
+How to cluster a link traversal dataset
+How to install rattle in centos
+Is automatic feature detection feasible?
+change in variable importance
+Wordnet Lemmatization
+getting error:-Exception in thread "main" java.lang.NoClassDefFoundError: org/apache/hadoop/io/Writable
+What possible data products can be built using this dataset
+Support vector regression and paremeters
+Need help with LDA for selecting features
+How far from a specific state in a Markov chain
+Compute utility of a notification
+Algorithm for deriving mutiple clusters
+Are there any unsupervised learning algorithms for time sequenced data?
+Theano in deep learning research
+Brown clustering, graph partitioning, agglomerative clustering - libraries/software
+How to paste string and int from map to an array in hive?
+Making a labelled training data set
+Package for SMOTEBoost in R
+How to learn spam email detection?
+Choosing best methods for estimating the unknown parameters in a linear regression model
+Iteratively construct Linear Classifier
+Random Forest, Type - Regression, Calculation of Importance Example
+How to analyze which site has most numbers
+How do I calculate the delta term of a Convolutional Layer, given the delta terms and weights of the previous Convolutional Layer?
+What is a good way to transform Cyclic Ordinal attributes?
+Where can I download a tagged dataset of text related to finance, programming, analytics etc.?
+Could one algorithm fetch keywords from texts of different natural languages?
+Which is faster: PostgreSQL vs MongoDB on large JSON datasets?
+How to select features from text data?
+Plotting multiple datasets on a 3D plot
+R Programming, how to replicate for districts in a city
+Comparing accuracy of models in ordinal regression / classification
+Assumptions/Limitations of Random Forest Models
+Machine Learning Startup Ideas
+Create a prediction formula from data input
+What is the definition of knowledge within data science?
+How do I deal with non-IID data in gradient boosted random forest (for stock market)?
+Projecting data from $S^n$ to $S^2$
+Using Vowpal Wabbit for NER
+Geometric weighting of temperature
+rpart and rpart2
+What kind of analysis can I do in this dataset?
+Poor performance shown on Rare event modeling
+What is a XML dataset?
+Decision tree or logistic regression?
+Encoding for k-level qualitatative variable
+Do I need an Artificial Intelligence API?
+How to recognize a two part term when the space is removed? ("bigdata" and "big data")
+In SVM Algorithm, why vector w is orthogonal to the separating hyperplane?
+Multivariate - Time series data pattern changes
+Text classification: Choosing training and testing set for each category
+Rearange input data - unknown size of input
+Statistical distances for time series of distributions
+Most important part of feature standardization and how is standardization affected by sparsity?
+Topic models for Relevance Prediction
+metric learning and information retrieval
+visualize a horizontal box plot in R
+How do I create a complex Radar Chart?
+MinHashing vs SimHashing
+Training and testing AdaBoost for low probability classification
+How to fit an odd relationship with a function?
+How to generate ratings without training data?
+How to extract the values used in columns by a Classification model in R?
+how can I generate a Bernoulli block mixture model in matlab?
+Sampling from a multivariate von Mises-Fisher distribution in Python
+Complete a Hungarian stem to a real word
+Price optimization for tiered and seasonal products
+AWS machine learning prediction schema problems
+What are deconvolutional layers?
+Caffe net.predict() outputs random results (GoogleNet)
+Relationship between VC dimension and degrees of freedom
+Probability tree in SPSS/ R/ others?
+Algorithm for segmentation of sequence data
+How to convert a text to lower case using tm package?
+How do you manage expectations at work?
+MCMC vs Network Theory for Big Data and Data Science applications
+Implementing sklearn.linear_model.SGDClassifier using python
+Over-fitting issue in a classification problem (unbalanced data)
+Is it ok to interprete PCA plot this way?
+Can we use HDFS and big data Analytics for processing huge log files being processed through some application on some central server?
+Reading Persian Characters in R
+Working with text files in Excel
+Sensitivity to scaling of features in a multivariate gaussians
+Best way to store large data set using R from Twitter?
+How to import a tsv file to Matlab
+NER on Twitter data
+Importance of Random initialisation VS number of hidden units
+Implementing Complementary Naive Bayes in python?
+How to run a pyspark application in windows 8 command prompt
+What kind of research can be done with genomic data?
+Rstudio using 2.5% of 250GB RAM. how to Increase it
+Which open-source sgdb for kind of large data
+Debugging Neural Network for (Natural Language) Tagging
+What kinds of data other than geographical are topologically spherical?
+Is there an interface for bootstrap sampling in rattle in R?
+What is an alternative name for "Unstructured Data"?
+Finding aggregated information of data
+Is there a difference between on-line learning, incremental learning and sequential learning?
+What is the best way to propose an item from a set based on previous choices?
+Bigdata cluster compatible distributed predictive model
+What is the right algorithm to detect segmentations of a line chart?
+What are the basic approaches for balancing a dataset for machine learning?
+Resources on Data Science for Football / Soccer?
+SPSS style custom tables in Orange
+Word taxonomies for Facebook likes categories
+How many observations in a neural networks dataset?
+Working with inaccurate (incorrect) dataset
+Regular Expressions in Word
+How to optimising caret for sensitivity
+How can I show the relations between travel destinations?
+learning rate in reinforcement learning
+Is there a method that is opposite of dimensionality reduction?
+What does the relative sum of squares error signify in neural network analysis in SPSS?
+How to combine two different random forest models into one in R?
+Traversing trees in SQL: JOINs vs imperative algorithm
+How to find similarity between different factors in a dataset
+Data repositories like UCI
+Data produced as an output to Dumbo API of Python not getting distributed to all the nodes of cluster
+GATE with Python
+Self-designed objective for linear regression learning
+How does the test data gets collected?
+Can you use clustering to pick out signals in noisy data?
+OCR Spell Check based upon previously found words
+Parameters for OnlineLogisticRegression function in Mahout
+root mean square error - significance of square root
+Predict set elements based on other elements
+Web Scraping - a scientific database
+User profiling with Mahout from categorized user behavior
+How to speed up optimization using Differential Evolution?
+How to convert categorical data to numerical data in Pyspark
+I want to extract name from CV
+Kmeans on mixed dataset with high level for categ
+How to include class as a feature
+Error in R:: Error: Unexpected '}' in " }"
+Denormalise data in Neural Networks
+Is there any working alternatives to Netvizz?
+Algorithm/Analysis that utilises incremental information?
+Finding both count and average of a column in R data.table, after group by
+python - Will this data mining approach work? Is it a good idea?
+Cross validation for C5.0 algorithm
+How to convert a SQLContext Dataframe to RDD of vectors in Python?
+Weka class attribute suggestion
+Data science projects explained step by step?
+Clustering uncertain data with independent uncertainty per dimension
+Joint spatial clustering: How to force clusters to minimally contain datapoints from all datasets
+matplotlib geostrophic wind plot
+Storing Sensor Data for Analysis of the Office
+Questions for data analysis of a class room
+What are the performance measures in the neural networks field?
+How are clusters from DBSCAN sometimes non-convex?
+Spatial clustering based on response to inputs and building a reduced model
+Pivoting a two-column feature table in Pandas
+What should I care about while stacking as an ensemble method?
+Definition of "inside" in K-means?
+Theoretical bound - regression error
+How to simulate customer walk-ins for a given period in a fast food chain in R
+Question about (Python/Orange) Apriori associative algorithm
+Similar Candidate Recommendations
+How to use REST API to execute Map-Reduce Task?
+Trying to come up with a feature to improve emotion classifier based on facial movement using facial landmarks
+Interpreting the evaluation result of multiple linear regression
+How to avoid overfitting in random forest?
+What is the actual output of Principal Component Analysis?
+Why ConLL is not in XML format
+R - Interpreting neural networks plot
+Modules on Python which are useful for missing Word/Letter prediction in text paragraphs from a coprpus
+any reason for this project to use hadoop/spark?
+How flexible is the link between objective function and output layer activation function?
+Can I conclude my finding with just one linear regression result?
+What Framework To Use for Asynchronous Algorithms?
+Temporal Difference Learning Getting Stuck
+How to evaluate clustering success in a completely unsupervised system?
+Does the network learn based on previous training or does it restart? Matlab, neuralnetworks
+Scalable open source machine learning library written in python
+Adjusting Probabilities When Using Alternative Cutoffs For Classification
+Can theano work on mapreduce or on spark
+Identifying repeating sequences of data in byte array
+How to replace levels with certain value?
+Is it possible to connect three neural networks in Matlab?
+Cooperative Reinforcement Learning
+Machine learning for state-based transforms?
+How to do multitask learning using Caffe?
+Errror in confusionMatrix in R
+Problem while reusing model for new observations
+Learn and sample from a generative model with 2000 boolean features
+Find correlation in observed data
+What features from sound waves to use for an AI song composer?
+Fisher's Iris data set with Caffe
+Spam detection in social media
+Deriving Confidences from Distribution of Class Probabilities for a Prediction
+IPython notebook shortcut to run
+Finding Episodes in event sequence
+How to extract information from plot images?
+Data.frame vs Data.table in R?
+Parameter estimation: reduce time
+How to calculate most frequent value combinations
+Markov Chains: How much steps to conclude a Transition Matrix
+Advantage of a treebank in XML format
+Sort a data frame when column name is assigned in a variable
+Shall I use the Euclidean Distance or the Cosine Similarity to compute the semantic similarity of two words?
+how to calculate recency(RFM) from a given date attribute in R
+K-means incoherent behaviour choosing K with Elbow method, BIC, variance explained and silhouette
+Techniques for dealing with unevenly spaced time series data that have missing time-stamps?
+Does modeling with Random Forests require cross-validation?
+Are there any interesting application of linear regression
+How to control false positives in sequential A/B testing while keeping a low sample size?
+How to extract a column that has the highest value within row in Hive?
+Combining Datasets with Different Features
+Newton-Raphson or EM Algorithm in Python
+How to convert unstructured texts to structured data?
+K MEANS Big dataset
+How to store complex tables and structures?
+Different estimation methods of Time series model
+Normalized Euclidean Distance versus cross correlation?
+How to calculate the mean of a dataframe column and find the top 10%
+Open source Anomaly Detection in Python
+What is a good non cryptographic Hash for string feature translation?
+How much training data does word2vec need?
+Issue with IPython/Jupyter on Spark (Unrecognized alias)
+semantic relation or semantic relatedness between terms or phrases
+Cheat Sheet of UNIX commands for Data Science
+Non-parametric approach to healthcare dataset?
+I am a programmer, how do I get into field of Data Science?
+how to perform Step calcuations in R
+Identify document's owner by content
+Ontologies with user interface
+Visualizing large number of points as a 3D density map
+Feature selection for Support Vector Machines
+Train a classifier for a game with feedback on chosen move instead of true labels
+Algorithm selection - Improve initial assignments in combinatorial allocation
+Identifying top predictors from a mix of categorical and ordinal data
+Time series classification
+What kind of RAM to choose for data analysis?
+What does the Ip mean in the Bayesian Ridge Regression formula?
+Accessing directory of small files as one file
+Is our data "Big Data" (Startup)
+Item-Item similarity based on text
+Reducing the dimensionality of word embeddings
+What makes a graph algorithm a good candidate for concurrency?
+Sharing industry data with academic class contracts?
+Adaptive learning of user's IoT setting preferences
+"Recursive ConvNets for Dummies" Library
+Anonymizing Datasets
+Alignment of square nonorientable images/data
+Sales Predictions Over Time
+Program to fine-tune pre-trained word embeddings on my data set
+Extra output layer in a neural network (Decimal to binary)
+Custom trained model in Azure ML
+Do I need to buy a NVIDIA graphic card to run deep learning algorithm?
+Error::Type of predictors in new data do not match that of the training data
+Contributions of each feature in classification?
+Testing bimodality of data
+What proxies could be used to assess economic value of Stackoverflow for its users?
+User-based nearest neighbour implementation in R?
+Why do my Latent Dirichlet Allocation Topics mix words that never co-occurred?
+How to calculate a specific time complexity of inverse calculation of matrix?
+identifying input sequence using neural network
+Scikit-learn: Getting SGDClassifier to predict as well as a Logistic Regression
+R: Comparing dissimilarity between metabolic models with discrete wavelet transformation
+Sequence of numbers as single feature
+Data driven approach to define a churn user
+Feature selection using feature importances in random forests with scikit-learn
+Spatial clustering of data points on a grid to obtain variable resolution map with constant statistical confidence
+Sentiment Analysis model for Spanish
+Limitations on the number of items to use in apriori algorithm?
+Books on Reinforcement Learning
+When to stop calculating values of each cell in the grid in Reinforcement Learning(dynamic programming) applied on gridworld
+How to keep a subsetted value for calculating mean
+Confusion in Policy Iteration and Value iteration in Reinforcement learning in Dynamic Programming
+Is it necessary to standardize your data before clustering?
+Value Updation Dynamic Programming Reinforcement learning
+How to preprocess different kinds of data (continuous, discrete, categorical) before Decision Tree learning
+Random forest model gives same result for all test data, Next step?
+Merging repeating data cells in csv
+Can i use chi square test to remove a particular variable from the model?
+Do you have any real example of Data Science reports?
+Can natural language generation algorithms generate valid words too?
+fit model with sd square
+Prepare data for SVM, Is it valid to normalise the data before and after PCA dimension reduction
+Time threshold maps plotting in R
+How to explain decision tree algortihm in layman's terms?
+How word2vec can handle unseen / new words to bypass this for new classifications?
+How to discard trash topics from topic models?
+Advise on making predictions given collection of dimensions and corresponding probabilities
+sklearn - overfitting problem
+How to count observations per ID in R?
+emission probability using hmmlearn package in python
+algorithmic difference between image analysis and video analysis
+Any idea about application of deep dream?
+Python library to compute some metrics for multioutput-multiclass classification task
+Multiclass Classification that includes a Geospatial Element
+Weighted k nearest neighbor search
+Are decision tree algorithms linear or nonlinear
+Neural network for MNIST: very low accuracy
+Privacy through fake data?
+What is the standard for dealing with null values in plotting?
+Tune hyperparameters for cost-sensitive classification
+List of NLP challenges
+Ensemble model overfitting?
+How to plot/visualize clusters in scikit-learn (sklearn)?
+How to split train/test in recommender systems
+What are the features to distinguish two short term signals (time series)
+Clasification - ROC Curve with very high number of false negatives
+Machine learning to predict apps (recomendation)
+How to migrate application which has backend running using DLL methods and front end in JAVA to Apache spark?
+How to convert vector values to fit k-means algorithm function?
+Developing an Empirical Model for Non-Linear Data
+Cluster directed graph into DAG
+Bechmark for Movielens
+Website navigation path using graph theory
+When to use Random Forest over SVM and vice versa?
+How to estimate a user's gender based on what apps the user download?
+Data frame mutation in R
+Is there a way of performing stratified cross validation using xgboost module in python?
+Estimating destination according to previous data
+Research in high-dimensional statistics vs. machine learning?
+What's an efficient way to compare and group millions of store names?
+Recommendations for storing time series data
+Best way to fuse clusters smaller than a certain size in a distributed way?
+normalize dependent variable with respect to one independent variable
+Logistic Regression in R models for 1 or 0?
+Denoising Autoenoders with Variable Length Input
+Which of the NIPS 2014 papers are most significant, and why?
+Entropy calculation for MNIST dataset to form classification decision tree
+Merging two datasets with unclear identifier in Excel
+Universal cost function for process control?
+How is H2O faster than R or SAS?
+Find the column(s) name where the value of the variable matches a regex
+For logistic regression, Predict.glm() outputs $p$ or $ln(p/1-p)$?
+users' percentile similarity measure
+Efficient algorithm to compute the ROC curve for a classifier consisting of an ensemble of disjoint classifiers
+Which type of machine learning to use
+How to identify outliers from a small list of numbers?
+Preprocessing in Data mining?
+Can all statistical algorithms be parallelized using a Map Reduce framework
+Can Hadoop be beneficial when data is in database tables and not in a file system
+Understanding dropout and gradient descent
+TF-IDF not a strong measure in this senario?
+Illustrating the dimensionality reduction done by a classification or regression model
+What are some challenges with big data?
+How to rank documents using Bag of words approach
+Classification problem where one attribute is a vector
+Any usable libs to build and visualise SOM in python?
+What courses / subjects are most important to the field of Data Science?
+Ratio of positive to negative sample in data set for best classification
+remove seasonality from weekly time series data
+Looking for language and framework for data munging/wrangling
+How will ADA Boost be used for solving regression problems?
+How does Performance function classify predictions as positive or negative? Package:ROCR
+R - Error in KNN - Test and training differ
+r - rpart in text mining for classification of documents
+StackOverflow Tags Predictor...Suggest an Machine Learning Approach please?
+LSTM or other RNN package for R
+Newbie: What is the difference between hypothesis class and models?
+How to build a unique decision tree for each subset of data based on a grouping variable?
+Identify given patterns in unstructured data like text files
+Which accuracy metric of a ML classifier can maximize map@K of a recommender system for an unbalanced dataset?
+Is Minimax Linkage a Lance-Williams hierarchical clustering?
+Can you explain the difference between SVC and LinearSVC in scikit-learn?
+Connection between Regularization and Gradient Descent
+Python script/GUI to generate positive/negative images for CascadeClassifier?
+Any mini-batch implementation of Random Forest?
+NLTK: Tuning LinearSVC classifier accuracy? - Looking for better approaches/advices
+Meta-analysis of public 16S data
+Develop a “Credit Risk Scoring System” with R
+Implementing RMSProp, but finding differences between reference versions
+Naive about which Naive Bayes in article
+Original Meaning of "Intelligence" in "Business Intelligence"
+Are there any machine learning techniques to identify points on plots/ images?
+Does reinforcement learning require the help of other learning algorithms?
+Fittting histograms with combination of an unknown number of Gaussians
+Quantity Prediction Algorithm
+Data Science education curriculum design and guidelines in Computer Science and other Disciplines
+Online/incremental unsupervised dimensionality reduction for use with classification for event prediction
+How to predict probabilities in xgboost?
+Passing TFIDF Feature Vector to a SGDClassifier from sklearn
+Optimizing parameters for a closed (black-box) system
+Binary classification with unexplained data
+Random Forest Class Weighting for Logistic Probabilities
+Simple implementation of Apriori algorithm in R
+How can I rank paths through an HMM?
+When, if ever, is nearest neighbor classification the best choice?
+How to use Cohen's Kappa as the evaluation metric in GridSearchCV in Scikit Learn?
+What are the applications of Solr in Big Data?
+Question on reservoir sampling
+How to visualize categorical data over time?
+Rstudio - package installation problems
+Designing an (RL) agent for a graph-based music improvisation system
+Manage x-axis using ggplot()
+Solve a pair of coupled nonlinear equations within certain limits
+Why does applying PCA on targets causes underfitting?
+How do I setup a server in the cloud for machine learning?
+How to make predictions based on correlations?
+Classifying transactions as malicious
+What commercial software should a data scientist purchase?
+SKNN regression problem
+Classifying text documents using linear/incremental topics
+How does word2vec handle the input word being in the context?
+Can I fine tune the xgboost model instead of re-training it?
+I have few basic questions on R Stem and Leaf Plot
+Clustering large number of strings based on tags
+Clustering the data if some values in each vector is not applicable
+Generate new images based on a dataset of images
+How to start analysing and modelling data for an academic project, when not a statistician or data scientist
+Is supervised machine learning by definition predictive?
+Identifying templates with parameters in text fragments
+Machine Learning algorithm to predict an outcome where output is not known
+Error Analysis for misclassification of text documents
+How to train a Text Based data for a Machine Learning problem?
+Sum of a Series
+How to create clusters of position data?
+Reference of SVM Using Spark
+How to generate bootstrapping samples in R?
+Creating validation data for model comparison
+R plot(surv(), newdata=...) draws same lines many times - why?
+what is nn.index mean in KNN output
+Multiple confusion matrix for multiple training instances. Which one to take?
+Propensity Modeling for Retail Marketing: Model Adjustments Based on Consumer Life Changes.
+Batch convert json links to csv
+Big Data and a fwf files reading with filters
+Why use sum and not average for sentiment analysis?
+3-way factorization machines
+replicability / reproducibility in topic modeling (LDA)
+PhD program in statistics
+Difference between training and test data distributions
+Domain-specific data science programs
+Averaging on skewed distribution
+Beggining in machine learning
+Generate a set of abstract search terms
+Predictive models with class value belonging to a set of observations
+Feature importance for random forest classification of a sample
+Classifier and Technique to use for large number of categories
+Experiments on time spent by the visual cortex
+Equipment failure prediction
+Looking for a 'CITY, STATE' within a body of text (from a CITY-STATE database)
+How could PageRank be used to rank paragraphs in relevance to keywords?
+Which value of output should be taken in multiple sessions of training Neural Network
+Approach to creating a user profile in music web application
+Detecting if a sentence contains a numeric series
+similarity measure
+What makes columnar databases suitable for data science?
+Devices behavior in one continuous variable vs events rate
+What is conjugate gradient descent?
+Deploying machine learning modules
+How to binary encode multi-valued categorical variable from Pandas dataframe?
+Dividing data between test, learn and predict
+when speed is not a major concern, what is the best ML algorithm for high dimensional data?
+similarity measure with two features
+Is there a library that would perform segmented linear regression in python?
+Establishing data science programs as an independent discipline
+How to choose the order in which to split a decision tree?
+Credit card fraud detection - anomaly detection based on amount of money to be withdrawn?
+Covariate shift detection
+Are there any tools for feature engineering?
+One Hot encoding for large number of values
+Use of Correlation score
+Correctly interpreting Cosine Angular Distance Similarity & Euclidean Distance Similarity
+How should clickstream data be prepared before user segmentation can be performed?
+Using previous hour's value in time series data for inclusion in random forest
+In image classification/recognition how are images coded?
+Case when Out of Bag Error and Test error differs a lot in Random Forest
+Quick way to visually explore data?
+How can I infer psychological intentions from email corpus using text mining?
+filling missing data with other than mean values
+Behaviour of Learning Algorithms on Random Data
+Is my Lasagne/Theano neural network running too slow?
+finding maximum depth of random forest given the number of features
+Measure of correlation for term frequency
+Voting combined results from different classifiers gave bad accuracy
+What are the best sites to display your data science skills & projects?
+Classification of vector sequences
+How many folds on cross validation
+How do scientists come up with the correct Hidden Markov Model parameters and topology to use?
+Prohibitive size of random forest when saved to disk
+Clustering with constraints
+What is the difference between SVM and GMM classifier
+Can I consider this pattern of data as a linear and use parametric multiple linear regression?
+Vector space model cosine tf-idf for finding similar documents
+Fuzzy Cognitive Maps
+Is there a benefit to using hadoop with only one node?
+How to do Machine Learning the right way?
+Examples of the Three V's of Big Data?
+Clustering related areas with k-means
+Sampling for multi categorical variable
+Sentiment Analysis Tutorial
+Predict which user will buy with an offer - discount
+"Relearning" parameters
+Scan-based operations Apache Spark
+A service to generate examples of context of a word?
+Item Based Collaborative Filtering with No Ratings
+Visualization techniques best suited for building non-linear models
+Cosine Distance > 1 in scipy
+What is the best way to split a sentence for a keyword extraction task?
+Use the output of 2 hidden neurons in the last hidden layer of a NN to visualize the result of a 4-class classification task
+How can I vectorize this code in R? Maybe with the apply() function?
+Extract the "path" of a data point through a decision tree in sklearn
+Optimal projection for data visualization
+tf-idf clustering
+Visualizing Latent Features
+Attribute discretization
+Python library for segmented regression (a.k.a. piecewise regression)
+Python library to implement Hidden Markov Models
+Python + Neural Nets + Large dimension Large Dataset
+Neural network, Support Vector Machine or something else to classify into 7 groups
+R: Revalue multiple special characters in a data.frame
+Why would removing a variable in adaboost decrease error rate?
+Why does ada (adaboost) in R return different training error graphs and variable importance plots when running the same function multiple times?
+Reason behind choosing Neural Network for classification
+How to determine window size for modeling user behavior
+Use the LMS algorithm to train a single perceptron neural network by finding the weights for a given data
+On fitting a Poisson distribution to make sense of data
+Choosing class labels from annotated data
+Using Machine Learning to Predict Musical Scales
+Pick a model from multiple models using a decision tree
+Unsupervised learning to identify most common basketball plays from spatial data
+regression to model exponential distribution
+Extracting list of locations from text using R
+Reduce dimension, then apply SVM
+Time Decay Formula for Conversion Attribution
+Time dependent Classification problem
+One multilabel classifier or one for each type of label?
+Appropriate algorithm for string (not document) classification?
+Slow convergence with rpart
+How do I set/get heap size for Spark (via Python notebook)
+Agglomerative Clustering Stopping Criteria
+Find most representative image
+Discovering non-interesting attributes
+Can HMM be used as a binary classifier?
+What causes the error in a RNN to increase late in training?
+Does importance of SVM parameters vary for subsample of data?
+Recognizing numerical entities
+How to visualize data of a multidimensional dataset (TIMIT)
+Steps in exploratory methods for mild-sized data with mixed categorical and numerical values?
+What are references explaining Hugo Steinhaus early "data science" work?
+Query related to Matlab Neural Network toolbox
+Identifying outliers in an unknown distribution
+Number of SURF features normally used?
+How is cross validation used to prune a decision tree
+Yarn timeline recovery not enabled error upgrading via ambari
+how often should one sample a dataset?
+What are some nice algorithms/techniques for optimizing and predicting Click Through Rates (CTR)?
+ngram and RNN prediction rate wrt word index
+Tool to Generate 2D Data via Mouse Clicking
+Classification when one class is other
+Multivariate linear regression in Python
+Memory efficient structure for membership checking without false positive
+Unsupervised sequence identification
+How do I learn experimental methodology? When is it relevant?
+What is the difference between concept learning and classification?
+Python Seaborn: how are error bars computed in barplots?
+Predictive analysis of rare events
+crow probability problem
+Classifier Chains
+Implementation of Tree Kernels in Python
+How to predict the duration of burst given several series
+Trying to understand Logistic Regression Implementation
+Transforming AutoEncoders
+Is this a correct way improving a statistical model?
+Master of Statistics or Master of Data Science
+Which algorithms or methods can be used to detect an outlier from this data set?
+$\chi^{2}$ kernel SVM performance issue
+Clustering for mixed numeric and nominal discrete data
+Building Recommendation engine with Python
+How to visualise multidimensional categorical data with additional time dimension
+Random Forests with Big Data - number of trees v. number of observations
+about the error additivity
+how to disable query from beeline results
+Method of finding threshold in Decision tree for continuous data
+Making sense of blocks python package output
+Using the GA R package to optimize the weights of a MLP neural network
+Is Vector in Cosine Similarity the same as vector in Physics?
+collaborative filtering using graph and machine learning
+Text-Classification-Problem: Is Word2Vec/NN the best approach?
+Using non-negative matrix factorization (NMF) for facial recognition
+Handling covariance matrices of changing size
+SPARK 1.5.1: Convert multi-labeled data into binary vector
+Spark 1.5.1: Train many binary classifiers, save them, then use them on new data
+Why Markov Chain Monte Carlo allows sampling from a large class of distributions and scales well with the dimensionality of the sample space?
+Does it makes sense to apply feature scaling on timestamp
+How to model user's buying behavior on Amazon?
+Algorithm for gesture classification in a wearable
+PCA on MNIST dataset results in very poor performance
+Typing error handling n-gram character index and vector space model
+Does Naive Bayes Classifier require assuming a specific distribution for training?
+Are there any machine learning algorithms that focus on comparing items, rather than classification or regression?
+What is a better input for Word2Vec?
+Predicting New Data with Naive Bayes
+Introducing weights into spectral clustering
+How to define a distance measure between two IP addresses?
+Is there any difference between feature extraction and feature learning?
+How do I count every combination of numbers from left to right?
+Events prediction with time series of continuous variables as features
+how to make new class from the test data
+What is a benchmark model?
+How to model compositional data?
+Difference between multinomia logistic regression and N 1 vs all binary
+Understanding convolutional pooling sizes (deep learning)
+Boundary conditions for clustering
+Error on multitask neural nets where all outputs not observed for every example
+Canopy clustering implementation in Python
+On interpreting the statistical significance of R squared
+What is an interpretation of the $\,f'\!\left(\sum_i w_{ij}y_i\right)$ factor in the in the $\delta$-rule in back propagation?
+Improving SVM binary classification model on new dataset
+Non-linear regression line fit
+how to increase the coverage of wordnet using wikipedia
+Unbalanced classes -- How to minimize false negatives?
+Make use of relationships on recommendation systems
+Examining a DocumentTermMatrix in RTextTools
+Estimating probability using boltzmann machine
+How can I figure out section headings in a document?
+Why do we need to use sysfunc when we call a SAS function inside a SAS macro
+How many features do you generally use for your ML Model?
+oversampling plus down sampling using smote not working on random forests
+Does anyone have any thought how come the fuzzy rules can be verified and validated?
+Feature extraction of images in Python
+Python distributed machine learning
+Completing MDS manually in R
+Can the size of a pooling layer be learned?
+Dealing with training set of questionable quality
+Bagging vs Dropout in Deep Neural Networks
+Why are there currently no content-based evaluation metrics for information retrieval?
+how to find probability of one or more events to happen from an incomplete data set
+Best way to search for a similar document given the ngram
+Features & Models to compute the probability of certain customer accepting an offer/product from a bank?
+User-product positive (click data) available. How to generate negative (no-click data)?
+Finding the top K most similar sets
+Content based recommendation on Mahout
+What to do when testing data has less features than training data?
+With unbalanced class, do I have to use under sampling on my validation/testing datasets?
+Best Julia library for neural networks
+Using classification to find the best support and confidence measure in associative rule mining
+Can I apply Hidden Markov Models this way?
+removing strings after a certain character in a given text
+Impact of unlabelled documents for label prediction via SVM
+Data Science conferences?
+What's the most robust way to predict the value of some noisy time series data?
+Feature Scaling and Mean Normalization
+Can we predict correlation between independent variables based on dependent variables
+data science / machine learning resources?
+Plotting libraries for Scala on Zeppelin
+How to place XGBoost in a full stack for ML?
+What kind of research I can do with my data set?
+What's cooking Kaggle - Improve model
+How to select a bunch of optimized data from a larger data set?
+Deconvolutional Network in Semantic Segmentation
+Data Science Podcasts?
+Consolidating values for predictive modelling through Random Forest
+When do I have to use aucPR instead of auROC? (and vice versa)
+term for data that compares a day to same day of a week/month/year ago
+Reading a CSV using R
+How do I allow user to run a R script without making a website or web application?
+Do I have to standardize my new polynomial features?
+pandas count values for last 7 days from each date
+Which algorithm would you use for text categorisation using clustering?
+How do I perform Naive Bayes Classification with a Bayesian Belief Network?
+Theoretical treatment of unlabeled samples
+Result Dithering? Why randomly shuffle results?
+How to evaluate the clustering result when cluster numbers are not equal to data set class
+Purpose of visualizing high dimensional data?
+Dealing with big data
+How to extract important phrases (which may contain company name) from resume?
+Which Spark MLlib regression algorithm is suitable for numeric predictions based on non-numeric features?
+Are all images in ImageNet in the leaves?
+Is there a difference between "classification" and "labeling"?
+removing words based on a predefined vector
+result of correlation function in r
+Spark vs Map reduce
+Reducing the effect of down voters with rating system
+Server log analysis using machine learning
+Correlation and Naive Bayes
+Modelling population changes with years on a network graph
+Genetic Algorithm to find best parameter values of an estimaor
+Subset of training set produces good results while full training set produces poor results
+Hub removal from graphs
+Regression: Scatterplot with low R squared and high p-values
+How can I weigh observations differently that were provided for a time horizon?
+Gradient boosting algorithm example
+Detecting boilerplate in text samples
+how to extract high frequency phrase
+How to cluster Houses on the basis of similarity of features+location?
+Forecasting an individual based on a representative group
+When to choose linear regression or Decision Tree or Random Forest regression?
+Regression: how to interpret different linear relations?
+What does RMSE points about performance of a model in machine learning?
+What are the best ways to tune multiple parameters?
+Can k-means clustering get shells as clusters?
+How do subsequent convolution layers work?
+How is the Schwarz Criterion defined?
+Clustering and confusion matrix
+Library to count number of objects in image?
+Cluster Similar Images into Folders
+Are there studies which examine dropout vs other regularizations?
+Predicting future value with regression Model
+Categorical and ordinal feature data representation in regression analysis?
+Finding Patterns in continuous data
+Pylearn2 vs TensorFlow
+Is Maxout the same as max pooling?
+Change raw count to a proportion based on a filter in Tableau
+How does strided deconvolution works?
+Predicting app usage on mobile phone
+Decision tree vs. KNN
+Missing features for classifier
+How to test for Overall Significance?
+(Why) do activation functions have to be monotonic?
+How to draw a hyperplane using the weights calculated
+Troubleshooting Neural Network Implementation
+which model for ordinal scaled dependent variable
+Convergence line for oscillating trend
+How to find similarity/distance matrix with mixed Continuous and Categorical data?
+Choosing between TensorFlow or Theano as backend for Keras
+What data mining methods are appropriate for knowledge discovery in vehicle trajectory data?
+Creating new columns by iterating over rows in pandas dataframe
+Calculating KL Divergence in Python
+Theano logistic regression example
+Why is finite precision a problem in machine learning?
+Performance metric in recommender systems with implicit feedback
+Is $R^2$ an appropriate evaluation metric for k-Nearest Neighbors?
+Minimum Error Rate Training using Powell Search for Machine Translation
+Term for calculated values that lose pertinence when changing scale
+Which Machine Learning book to choose (APM, MLAP or ISL)?
+Scikit Learn's RandomForestRegressor is not giving results on large data set
+Combining Linear Regression and Time Series
+What is the appropriate evaluation metric for RandomForest with probability in R?
+Data preprocessing : Aggregation, feature creation, or else?
+How to visualize (make plot) of regression output against categorical input variable?
+The cross-entropy error function in neural networks
+Seeking Career guidance
+R: comparison (6) is possible only for atomic and list types
+Web services to mine the social web?
+How to determine Nonnegativity in Matrix Factorization?
+How to get common values between two multi sets?
+Multi-class logistic regression
+Theano logistic regression understanding code
+Python library that can compute the confusion matrix for multi-label classification
+Machine learning worker performance features for optimum allocation of tasks to workers
+Using predictive modelling for temperature data set
+R: substituting only whole statements (not parts of them)
+How can I preprocess multi-page image inputs in a theano/lasagne network?
+How do write the following piece of code in R?
+How to build the following the string in R?
+Central Probability Interval
+How do AI's learn to act when the problem space is too big
+How to create Self learning data product
+What is the difference between affinity matrix eigenvectors and graph Laplacian eigenvectors in the context of spectral clustering?
+Stemming text in R
+Early-Stopping for logistic regression. Theano
+Should i pick this as a career?
+When to use linear or logistic regression?
+Hypertuning XGBoost parameters
+Latent Semantic Indexing False Positive Detection
+Extremely dominant feature?
+Can PyLearn do everything that Theano can?
+"Trending" feature to predict number of views
+Random Forest Regression. How to represent really long list of categories for processing
+How to update weights in a neural network using gradient descent with mini-batches?
+Do I need to include a squared and linear variable in a random forest to achieve a parabolic effect?
+How should I analyze this data from reddit (sample text included)
+Algorithm to construct similarity structure from hash lookup table
+Handling a feature with multiple categorical values for the same instance value
+Handling categorical features in Factorization Machines algorithm - Feature Hashing vs. One-Hot encoding
+Regression problem - too complex for gradient descent
+Can regression trees predict continuously?
+Logistic regression program does not give statistically correct result
+SPARK, ML: Naive Bayes classifier often assigns 1 as probability prediction
+How to analyse move kindness in python (Logistic regression, neural network, etc.)?
+Is it advisable to rerun LASSO multiple (2) times?
+Importance of variables in RandomForest in R
+Why in deep learning or another AI technique python is used rather than other languages?
+Is it common to preprocess image data before sending it through a deep net?
+What's the relationship between an SVM and hinge loss?
+Pig is not able to read the complete data
+SPARK Mllib: Multiclass logistic regression, how to get the probabilities of all classes rather than the top one?
+Handling many missing values
+Conditional logit in Stata
+Alternatives to Graph theory?
+Sampling with replacement, specify the probabilities
+How to self-learn data science?
+How to customise cost function in Scikit learn's model？
+Code Vectorization of gsub in R
+When to use One Hot Encoding vs LabelEncoder vs DictVectorizor?
+Neural network with multiple kinds of output
+Sentiment Analysis algorithm in Weka
+Linear kernel in SVM performing much worse than RBF or Poly
+How to deal with a sparse matrix when using a perceptron based recommender system?
+Dense text representations
+How to build a supervised artificial neural network?
+nlp - opinion mining vs sentiment analysis
+Recognition human in images through HOG descriptor and SVM classifier performs poorly
+Pandas: how can I create multi-level columns
+R: lattice equivalent of density2d in ggplot?
+Forward propagation in complicated neural networks
+Asking a specific question from a general one
+Which text clustering algorithms should I use to group free text fields in Python?
+What are the advantages/disadvantages of neural net packages in R?
+Given the files and their parsed content how can I reverse engineer the file format?
+What kind of statistical analyses can I do with my data?
+XGBoost Linear Regression output incorrect
+Neural network with multiple layer: learning function
+xgboost: give more importance to recent samples
+Has anyone defined a spline function (i.e. defineFuction) in PMML?
+How should a neural network for unbound function approximation be structured?
+You are in charge of investing Chipotle's E-Coli source/s, what methods do you use?
+Binary Neural Network Classification or Multiclass Neural Network Classification?
+Include label for each time step to allow gradient flow in LSTM
+Properties for building a Multilayer Perceptron Neural Network using Keras?
+Improve a regression model and feature selection
+Machine Learning: Single input to variable number of outputs
+Predicting when a partition in Oracle database will be archived
+Where does the name 'LSTM' come from?
+Are there other large margin classifiers than SVMs?
+Definition - center of the cluster with non-Euclidean distance
+How word2vec can be used to identify unseen words and relate them to already trained data
+How to replace the missing values in Age column from Titanic/kaggle project
+Where exactly does $\geq 1$ come from in SVMs optimization problem constraint?
+How to select regression algorithm for noisy (scattered) data?
+spikes in the cost vs iteration graph using ReLU activation function
+How is it possible to process an image with a few neurons?
+Significance shifts when cases are excluded
+Using sklearn DictVectorizer in real-time systems
+Details of the k-means++ algorithm that is used to seed k-means
+How to convert a 2D matrix into a graph object in R
+Stacked features not helping
+Tokenizing words of length 1, what would happen if I do topic modeling?
+Open source data science projects to contribute
+Neural Networks for Predictive typing
+Research in random forest algorithms able to switch data sets
+Using R and Python together
+Database options for JSON storage, queried with Apache Drill
+Software Testing for Data Science in R
+supervised learning and labels
+The implementation of overlapping clustering (NEO-K-Means)
+Sentiment Analysis of comments to understand support on a topic
+What are the top 10 problems yet to solve in machine learning?
+How do a real brain actually learn?
+How to select particular column in Spark(pyspark)?
+What tool to find expected and hidden patterns in data?
+Spike Slab in r, bad output
+Machine learning algorithm to classify blog posts
+Building a machine learning model to predict crop yields based on environmental data
+How to deal with analyzing optional survey data
+How to prepare colored images for neural networks?
+Open cv and computer vision
+Assigning values to missing target vector values in scikit-learn
+How can I use data on customer interactions to drive communication strategy?
+How to create US state heatmap
+What is the relationship between Markov Random Fields and Conditional Random Fields?
+How can I predict the acceptance of an article by publisher?
+Information Extraction from Free-form text to create Transactions
+How to make edges appear in a graph when adjacency matrix value is beyond a particular threshold?
+Simple example of genetic alg minimization
+Score probability groups with Random Forest in R
+Mine webshop history for clusters
+How to teach neural network a policy for a board game using reinforcement learning?
+Is the binary matrix of transaction database low-rank in the problem of association rules mining?
+Pandas: access fields within field in a DataFrame
+Writing custom data analysis program
+Deep Learning for Recommender System
+Tools to perform SQL analytics on 350TB of csv data
+How to give name to topics created using LDA?
+The problem of K-Means with non-convex function
+Classify Customers based on 2 features AND a Time series of events
+Same SVM configuration, same input data gives different output using Matlab and scikit-learn implementation of SVM, in a classification problem
+Python: validating the existence of NLTK data with database search
+How exactly does adding a new unit work in Cascade Correlation?
+How can one can aim for a career in machine learning?
+Approximating density of test set in train
+Rules by which RStudio sets Headings
+How data representation affects neural networks?
+Mathematics major for data science
+create a company to make money by winning Kaggle competition
+How can I predict the post popularity of reddit.com with hidden markov model(HMM)?
+Expectation number of points in initial clustering for LSH
+Please list some well tested api's for arima model
+Export weights (formula) from Random Forest Regressor in Scikit-Learn
+Calculate the overall accuracy of mined rules using apiriori algorithm
+Confidence range for individual prediction from multiple regression
+Prediction in the training sample with randomforest in r
+is neural networks an online algorithm by nature?
+Artificial neural network on ternary content addressable memory
+Embedding a Machine Learning Model into a Web Application
+applying word2vec on small text files
+Deciding about dimensionality reduction, classification and clustering?
+Predicted features combined with original ones
+ZeroR Classifier
+Image clustering by similarity measurement (CW-SSIM)
+Torch and conceptual question about neural nets backpropagation
+What is a Recurrent Heavy Subgraph?
+what is the difference between "fully developed decision trees" and "shallow decision trees"?
+What kinds of learning problems are suitable for Support Vector Machines?
+Question about train example code for TensorFlow
+How to set weight in Weighted Kernel K-Means?
+A Simple Explanation of ZooKeeper in Hadoop
+Simple Explanation of Apache Kafka
+Simple Explanation of Apache Flume
+How do I choose a discount factor in Markov Decision Problems?
+Does Apche Kafka support sockets-based communication?
+Overfitting/Underfitting with Data set size
+Feauture selection for clustering regarding zero-correlated feature
+Best regression model to use for sales prediction
+Datamodel for cluster analysis terms & segmentation
+Why is Reconstruction in Autoencoders Using the Same Activation Function as Forward Activation, and not the Inverse?
+One-Hot Vector representation vs Label Encoding for Categorical Variables
+Combining K-means clustering with Agglomerative clustering
+Using machine learning specifically for feature analysis, not predictions
+Predicting a word using Word2vec model
+When text mining what consideration should I give to picking a class label
+How to define person's gender from the fullname?
+Running examples from scikit-learn tutorials
+Parallel Q-learning
+What knoweldge framework supports this type of query?
+What is the difference in xgboost binary:logistic and reg:logistic
+Clustering weekly data to detect outbreaks by having some sort of continuity among the adjacent weeks
+Natural Language text categorization using RapidMiner
+Face Recognition using eigenfaces and SVM
+How to define a suitbale number of centroids for fuzzy c-means?
+Is there any domain where Bayesian Networks outperform neural networks?
+Number of epochs in Gensim Word2Vec implementation
+Hyperparameter search for LSTM-RNN using Keras (Python)
+Can we compare a word2vec vector with a doc2vec vector?
+Is there an appropriate sequence of parameters to be considered when building a pipeline in Scikit learn?
+What is the Q function and what is the V function in reinforcement learning?
+Any case studies using Bayesian Networks for system design trades?
+What regressors are recommended with text modeling?
+How to combine PCA and MCA on mixed data?
+How to implement a BiLSTM to classify speech data
+Neural networks: which cost function to use?
+For every Bayesian Network, is there a Neural Network that gives the same output?
+How to estimate the lambda e to reweighing translation probabilities of entries in a dictionary
+sklearn.naive_bayes VS categorical variables
+Contrastive divergence in RBM
+Unbalanced data fit in gbm
+Convergence in Hartigan-Wong k-means method and other algorithms
+How can I read in a .csv file with special characters in it in pandas?
+Classification using xgboost - predictions
+Tensorflow RNN: Batching data of different length
+What is the difference between NLP and text mining?
+What are prototypes in RBF networks?
+ARIMAX with spark-timeseries
+What is the best file format to store an uncompressed 2D matrix?
+How should I convert Logistic Regression's coefs into action strategy?
+Non-linear data preprocessing before mini-batch gradient descent
+ggvis vs. ggplot2+Shiny; which one to choose for interactive visualization?
+Classifying survey response text SVM
+Analyzing customer response
+Problem encountered while updating a particular cell of a pandas data frame in Python
+How can I dynamically distinguish between categorical data and numerical data?
+How to decide the number of trees parameter for Random Forest algorithm in PySpark MLlib?
+What to do with stale centroids in K-means
+Time series data: How I measure influence of new product sales on existing product sales (statistically)?
+Correct output labelling for RNNs/ANNs with sequential data and single label
+What are the advantages of contrastive divergence vs the gradient of the quadratic difference between the original data and the reconstructed data?
+Periodically executing a scraping script with Python
+Multiple linear regression, fMRI
+Correlation as an evaluation metric for regression
+How to measure confidence in prediction?
+Optimizing co-occurrence matrix computation
+Convert Out-of-bag (OOB) estimate to quad weighted kappa score
+anomaly detection alert system
+What is a "residual mapping"?
+How to define user churn
+How to predict an approximate weekly/monthly number, when the Unique Daily Visitors for that week/month are already known
+Perform classification on market basket analysis
+Use spark_csv inside Jupyter and using Python
+R: machine learning on GPU
+Decompose annual time series in R
+What model should I use to find a common pattern for a specific user group based on the other dimensions?
+NLP : Is Gazetteer a cheat
+Visualizing a big number of polynomials as atlas of graphs?
+Which machine learning/AI method is this problem related to?
+What would be the best way to structure and mine this set of data?
+Autoencoders for feature creation
+Predicting or patron find of a binary variable over time
+Knime : Scatter Plot
+Jobs for gaining experience in preperation for data science
+Bayes Classification
+NLP : What are some common verbs surrounding organization names in text
+Perform clustering on individual data in categories
+Trajectory data mining and pattern recognition using ORB-SLAM and KNN-DTW
+Opposite of churn?
+Machine learning algorithm for a dynamic set of attributes
+Estimating the battery capacity using current power consumption and battery percentage
+Is information lost when converting an image to a single vector for analysis?
+Classification of potential customers
+What's a good machine learning algorithm for low frequency trading?
+What is the difference between a (dynamic) Bayes network and a HMM?
+Difference between rbfnn and svr with gaussian kernel
+Data categorization
+Assessing significance / confidence of a crossvalidated performance measure
+full name of each variable in Plotmo graph
+Implement MLP in tensorflow
+Deep Learning with Spectrograms for sound recognition
+ARIMAX v. ARX Time Series Modeling
+NLP : Rules for chunking Verb Phrases
+Algorithm for classification of words into given categories
+how to provide alternate for a word in corpus for word2vec model
+What is the novelty in AlphaGo, Google Deepmind's Go playing system?
+Making fake result in data mining using weka j48 algorithm
+Filter Data for clustering
+Amount of data needed and hypothesis for SVD
+do autoencoders work well for non images?
+On coursera what exactly does Andrew Ng say in videos Lectures 60 & 61 of machine learning?
+What is the best Keras model for multi-class classification?
+Inferring Relational Hierarchies of Words
+Simple ANN visualisation
+Data structure design for supporting arbitrary number of columns in table or database
+How to color a tif file in R?
+Best network structure for unsupervised learning
+Analysis of Real-Time Bidding
+Improve k-means accuracy
+Estimating precision & recall
+For which real world data sets does DBSCAN surpass K-means.?
+Is the direction of edges in a Bayes Network irrelevant?
+How to apply K-Medoids in many CFG?
+Sentiment Analysis: Creating dictionary from dataset
+Keyword/phrase extraction from Text using Deep Learning libraries
+Interpretation of level, trend and seasonal indices in holt winters exponential smoothing
+RTextTools multi-label classification
+Classification in noise
+Validate output
+Machine Learning Steps
+Modified Voting Algorithm to find the best recommendation
+Image classification in python
+How to find a confidence level given the z value
+Creating Clusters in Excel office
+How to get the mu+0.1sigma from a normal distribution?
+How to make k-means distributed?
+Improve the speed of t-sne implementation in python for huge data
+How to retrive the results saved in model of gensim?
+Is parsing files an application of machine learning?
+Which machine learning approach/algorithm do I choose for path validation?
+class imbalance - applied SMOTE - next steps
+using movielens dataset build recommendation engine
+Pruning tree using REP
+Do something with the output of reducers
+differences between LSQR and FTRL when working with very sparse data
+PCA on acceleration time series data
+features' range in logistic regression
+How are non-restricted Boltzmann machines trained?
+User activity representation for Prediction/ML
+Represent time-series data in much compact form
+How exactly dependent variable is expressed in terms of independent variables using Partial Least Square Regression Method?
+Orange 3 Heatmap clustering under the hood
+Hyperparameters in Gaussian Process
+Python Machine Learning/Data Science Project Structure
+Markov switching models
+How do MS-TDNNs work?
+What is a Dichotomy?
+Generating a set of Rules that defines a Group of users ( Multivariate Analysis )
+How to predict Estimated Time for Arrival given only trajectory data and time?
+Can FTRL be applied on linear least squares? or is it just for logistic regression models?
+An analysis of analysis?
+Knn distance plot for determining eps of DBSCAN
+Discrepancy in probability calculations in paper 'Multi-digit Number Recognition...'
+What's the best way to use binned data in a tree-based model?
+Stuck on deconvolution in Theano and TensorFlow
+Content based recommendations using SQL queries on the MovieLens data set
+Spark ALS-WR giving the same recommended items for all users
+t test or anova
+How fit pairwise ranking models in xgBoost?
+Are ICD codes forward compatible?
+Why do cost functions use the square error?
+Distributed k-means in Spark
+How to interpret a decision tree correctly?
+Soccer Field Segmentation
+source and target functions in igraph package in R
+Ideas on cost function
+freebcp getting stalled for huge data
+Should I take random elements for mini-batch gradient descent?
+Tag categorizer
+Sentiment retriving from text (Russian)
+Data Scientists | Sectors , Departments and Profiles
+How can I ensure about my R^2 score?
+Doc2Vec - How to label the paragraphs (gensim)
+What model should I choose for Jobs recommender system?
+How to retrieve the clustering results of rpart
+What are standard ways to normalize lengths for multiple time series?
+Tools for automatic anomaly detection on a SQL table?
+Gini Impurity vs Entropy
+dealing with dropped event data
+Decode SQLite database blobs: how to start?
+Finding databases with same columns and different content/ model
+Combining parameters for Douglas-Peucker Simplification
+How to make data predictions
+What is the difference between (objective / error / criterion / cost / loss) function in the context of neural networks?
+Gathering the number of Google results from a large amount of searches.
+Is there a tool/ library/ algorithm that can learn from the steps I perform in cleaning text and apply them to similar data?
+Which is the most appropiate algorithm to use with Mlib for predicting prices
+Why is the correlation coefficient of a constant function with function input is not defined?
+local regression with streaming data
+Understanding regularization
+Finding dominating attributes with in the clusters generated
+Predict quantitative response variable from quantitative and qualitative variables
+Recommendation for boolean dataset with apache mahout
+What features most contribute for label y?
+Classification problem: estimate the number of people in a household through account transactions
+When being in a perfect "Long Valley" situation, does momentum help?
+Sort by average votes/ratings
+Why is there no end user Application, yet?
+What is a good explanation of Non Negative Matrix Factorization?
+How to predict ETA using Regression?

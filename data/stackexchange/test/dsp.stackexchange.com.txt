@@ -1,0 +1,2000 @@
+How to Improve Least Means Squares (LMS) / NLMS Filter Performance?
+How to decide what platform is best to implement real-time audio processing on?
+Are Computer Stereo Vision techniques appropriate for sub-millimetre measurements?
+How can I design Nyquist interpolation filters with the Parks-McClellan algorithm?
+What does a "vector" in a hidden Markov model mean?
+What is the difference between a Fourier transform and a cosine transform?
+How can I lowpass filter by only reducing peak data?
+How should I pre-process a real valued signal in order to use Kay's estimator?
+How do I determine whether I have pattern-free noise?
+How do I interpret the DCT step in the MFCC extraction process?
+How can I estimate the spatial resolution of consumer grade electronics?
+Are there preferred patterns for creating texture on objects to aid computer vision?
+What factors should I consider when choosing an IIR filter realization?
+What approximation techniques exist for the square super-root function?
+How do I add AWGN to an I and Q representation of a signal?
+What are good ways to detect signal clipping in a recording?
+Why is the Fourier transform so important?
+What is the physical interpretation of Lowpass/Highpass filtering?
+What Factors Should I Consider in Choosing an Edge Detection Algorithm?
+Why would I leave a signal oversampled?
+What is meant by "stochastic sampling"?
+What are the proper pre-processing steps to perform Independent Component Analysis?
+Are there any standard implementation forms for tunable Butterworth filters?
+Where can I get an open source implementation of the Parks-McClellan optimal FIR filter design algorithm?
+Could a DCT be used for an audio magnitude spectrum rather than DFT?
+How does adaptive Huffman coding work?
+What mathematical tools exist for understanding modulated noise?
+How can I calculate the frequency using different color bands?
+How do I extrapolate a 1D signal?
+How do you measure "detail" of a signal?
+What are the advantages, if any, of derivative sampling?
+How can I reconstruct a 3D structure from a set of images?
+Are there alternatives to the bilinear transform?
+What Are Less Computationally Demanding Alternatives to the Viterbi Decoder?
+Optimum matched filter without ISI
+How to implement a digital oscillator?
+How to avoid denormalized numbers?
+How can I compute a log-spaced power spectrum?
+How do I find a system's impulse response from its state-space repersentation using the state transition matrix?
+How do I remove motion blur?
+How can I design a very narrow filter?
+In computer stereo vision, what does it mean to "look in"?
+Are there any analytic approaches to the design of quadratic polynomial filters?
+Estimating onset time of a tone burst in noise?
+When is aliasing a good thing?
+In Fourier transforms, can momentum space be analogized to frequency, and position space be analogized to wavelength?
+Is it possible for a signal to be represented by *both* sinusoidal *and* rectangular/triangular Fourier transforms?
+Can ICA be applied, when the number of mixture signal is less than number of source signal?
+FIR filter compensator when using a CIC decimation filter
+Inverse polyphonic chord recognition
+FIXED POINT conversion Problem (DSP)
+DSP Benchmarks for ARM Cortex-M4 processor
+Calculating the PDF of a waveform from its samples
+What distance metric can I use for comparing images?
+What does one need to know in order to build a software synthesizer?
+How does cascading biquad sections for higher order filters work?
+Image analysis - fiber recognition
+What is the difference between phase delay and group delay?
+What should be considered when selecting a windowing function when smoothing a time series?
+Skel to infinity morphological operations on 3D volume
+What is the difference between Remez exchange and Parks-McClellan filter design?
+Fastest Algorithm for Distance Transform
+signals comparison metrics
+Documentation about filters in general
+What is the effect of aliasing on the magnitude of the autocorrelation?
+What are the typical causes of clicks and pops in an audio file?
+How do I optimize the window lengths in STFT?
+Find the relation between two noisy periodic signals of equal length
+Audio output quality
+Downsampling an image by an integer factor
+Speech synthesis requiring very little CPU performance?
+Given some parameters, how do you determine how much of an image sensor an object will consume?
+How is a "good" or "bad" singer defined in signal processing terms?
+What is the relation between the PSDs of filter input and output called? $R_Y = |H|^2R_X$
+Is ICA appropriate for separating mixed signals when all source signals are NOT detectable at all sensors?
+What is the smallest sampling points that can recover the signal?
+Complex conjugate and IFFT
+Recognizing math functions within songs
+Wiener Filter for Image Noise Reduction (Image Denoising)
+How to apply a filter kernel
+Getting loudness of a track with RMS
+How does google map put together satellite pictures?
+Should the input of a Kalman filter always be a signal and its derivative?
+Why does diagonal loading of a covariance matrix make an adaptive beamformer more robust in the case of a perturbed array?
+How to estimate the number of taps needed for subsequent channel estimation algorithms?
+Am I handling offline FFT correctly?
+Is a Kalman filter suitable to filter projected points positions, given Euler angles of the capturing device?
+Pink ($1/f$) pseudo-random noise generation
+Is there an algorithm to compare several pictures?
+What Properties Make Certain Wavelets "Better" Than Others In Image Compression?
+Frequency-domain zero padding - special treatment of X[N/2]
+What methods can be used to identify and remove echo from an audio system?
+Slow Scan TV Documentation
+MP3 Decoding Discrepancy
+RMS calculation in frequency domain after windowing
+Where did Arnold Tustin first introduce the bilinear transform?
+Data decomposition method invariant to small shift and scale?
+How to demodulate an OFDM signal
+What is anti-alias pre-filter for preventing aliasing after under-sampling?
+YV12 to RGB - What is wrong with my algorithm?
+What mathematical model of audio can make possible pitch shifting of individual notes in (timbrally complex) polyphony?
+"River" detection in text
+What Is the Best First Order IIR (AR Filter) Approximation to a Moving Average Filter (FIR Filter)?
+Autocorrelation in audio analysis
+How to statistically quantify the coverage of features in the data?
+Is there any way to make a sampling rate reduction in the frequency domain?
+What are reasonable levels for the ERLE (Echo Return Loss Enhancement) in acoustic echo cancellation?
+Why is the difference of gaussians scale space scale invariant?
+How to detect corners in a binary images with OpenGL?
+Skip corrupt part of jpeg
+How to do scaling in fixed format?
+Applying A-weighting
+Tips for improving pitch detection
+Finding pitch from a wideband spectrogram
+Removing Glare from Image
+How to estimate and compensate for doppler shift in wireless signals?
+Hilbert transform to compute signal envelope?
+What Resources Are Recommended for an Introduction to Signal Processing (DSP)?
+What is the physical significance of negative frequencies?
+How are time resolution and signal bandwidth  related?
+How do you handle negative frequencies in the power spectrum of a complex signal?
+How to recognize patterns in a noisy audio frequency spectrum?
+Detecting Trail in Forest Images
+Finding the pitch value of a note
+Why did my sine wave turn into a square wave when written to a WAV file in Octave?
+High pass filter of 0.01 Hz for EEG slow drifts
+What's the difference between the Hough and Radon transforms?
+What are some good signal and image processing blogs worth following?
+Does the autocorrelation function completely describe a stochastic process?
+Is wavelet analysis useful for 1D signals?
+Chopping up and averaging a signal
+Are there any open source biomedical signal processing projects?
+Weird results out of fourier transform of unknown signal, what am I doing wrong?
+find a line go through the center mass and that line must be inside object area
+How to segment phone call audio into silence/non silence?
+What effect does a delay in the time domain have in the frequency domain?
+How to determine where to sample for demodulation of BPSK signals?
+Bitmap border/stroke alogirthm?
+What effect does mutipath have on estimating optimal sampling time using the averaging method described therein
+What are the various definitions for $\rm SNR$, and their associated methods for measuring it?
+EWMA based differential that is strictly positive on strictly increasing irregular time series?
+Point Pattern Recognition
+How to implement a gradient based Hough transform
+How to discern the distribution function of mean-squared coherence values?
+Subtracting sensors output that have mutual inductnace between them
+Bitmap alpha bevel algorithm?
+Cross-correlation matrix
+How to get coefficients for sine/cosine function from complex FFT?
+What is meant by a system's "impulse response" and "frequency response?"
+Using the Inverse Filter to Correct a Spatially Convolved Image
+Lower frequencies stronger in FFT?
+Which unit does the power spectrum of microphone output have?
+How does the $\mathcal Z$-transform's "region of convergence" work?
+What are thoughts on best modulation to use for underwater acoustic communications at low frequencies?
+Choices of convention and notation for the Fourier transform?
+Angle modulation spectrum
+Definitions for amplitude spectrum and phase spectrum
+The Scale Space Theory Understanding
+Harmonic Product Spectrum limitations in pitch detection
+How can I compare two pictures from the camera and tell if there are enough differences to detect movement?
+Downsampling lowpass filter for audio: FIR or IIR?
+Whats the optimal window function to use for analyzing real-time data samples?
+Should I use ideal or non-ideal filters for offline filtering?
+How does MATLAB handle IIR filters?
+Is it numerically more stable to implement filtering as multiplication or convolution?
+How exactly to implement the fractional part of a 'fractional equalizer'?
+How do window size, sample rate influence FFT pitch estimation?
+How do I reconstruct a covered-over part of a regular pattern
+Why does this manual bilinear transformation yield different results from Matlab's?
+Is real-time signal processing possible under Windows?
+Discrete-time model of 2-user CDMA system, recovered information at receiver using polarity detection?
+What are $H(i\omega)$, $H(s)$ and $H(z)$ called?
+What is this sinc doing in my LP-turned-HP filter output?
+How to efficiently calculate only the low coefficients of a zero-padded FFT
+Could someone please explain to me the relationship between frequency bands and channels?
+Deriving 2-D discrete Fourier transforms
+How to 'whiten' a time domain signal?
+What data should I use to test an FFT implementation, and what accuracy should I expect?
+Is a wavelet-based correlation measure worth any additional computational overhead?
+Interpretation of the eigenvalues of the inverse Hessian in a KLT tracker
+Question on 2-D Convolution
+Texture Classification via DCT
+What is the most lucid, intuitive explanation for the various FTs - CFT, DFT, DTFT and the Fourier Series?
+Which time-frequency coefficients does the Wavelet transform compute?
+1-D discrete cosine transform(DCT)
+General questions on the CMA equalizer
+Image Pyramid Without Decimation
+Explanation on Haarlets
+"Complex sampling" can break Nyquist?
+Find the stomata in a plant microscopy image
+Profile Matching in a Point Cloud
+Finding the input bit rate of an analogue input
+monochrome (1-bit black-and-white) image conversion
+What Is the Algorithm Behind Photoshop's "Black and White" Adjustment Layer?
+Contours matching - finding contours displacement
+What input to use for an AR model of a vowel sound?
+What is the antialiasing algorithm employed by video cards?
+How do I implement an adaptive thresholding algorithm for underwater sonar
+How is the Laplacian used for Unsharp Mask?
+Why are there comb-like hills in a periodogram?
+What are the practically relevant differences between various image resampling methods?
+Does the determination of the ergodicity of a signal force any changes in methodology?
+Measuring length of DNA fibers from an image of single molecules
+Extracting Binary Magnetic-Strip Card Data from raw WAV
+Apply decay envelope to waveform without multiplication
+low pass filter and FFT for beginners with Python
+Texture detection and region properties on an image
+What is the maximal frequency resolution for Matlab's STFT implementation spectrogram()?
+FFT window phase syncronising
+Calculating a spectral envelope
+How do I implement cross-correlation to prove two audio files are similar?
+Why should I zero-pad a signal before taking the Fourier transform?
+XDR data format
+Removing noise from F2F signal
+Identifying Bad Sectors on magnetic stripe, or noise in signal
+Minimization of Essential matrix
+What is the difference between 'de-noising' and what we commonly know as filtering methods to remove noise?
+Genetic or evolutionary algorithms for filter design?
+Literature on noise removal in OCR applications
+Determining the mean and standard deviation in real time
+Fail to separate sound signals by FastICA on real-world recording
+What are the Elements of Filters for Highly Volatility Price Series with Jumps?
+What is the cross-correlation of a WSS signal and the LTI filtered signal?
+Introduction to Statistical Signal Processing
+Why is privacy scrambling a standalone block in a communications transmitter?
+How to derive the stationary Kalman filter predictor?
+How do I detect distinct objects when their edges touch each other?
+Accurately measuring relative distance between a set of fiducials (Augmented reality application)
+Surface detection
+Why does over-modelling an adaptive AR NLMS filter fix sharp spikes?
+Detection of lines in a point cloud
+Roberts Edge Detector how to use?
+How to find the color channel shifting of an RGB image that was supposed to be greyscale?
+Analogous Library to OpenCV for Audio Processing / Analysis
+System identification packages
+What is the easiest learning curve to develop a Mark Reader software?
+Can I simultaneously remove salt and pepper noise and improve the image resolution?
+How do I reconstruct text from an image using only morphological operations?
+How to apply the CA-CFAR methods in practice?
+Smoothing signal / detecting bumps in a data stream
+How to find the convolution kernel in frequency domain?
+interview questions for DSP engineer
+Unit Problem in Designing a Filter for a Given Auto Correlation Function
+Pattern recognition for temporal data
+References and resources on hyperspectral (multispectral) image processing
+How to convert A/D data to the needed representation
+Apply wavelet transform to analyse EEG signal
+How to create a sine wave generator that can smoothly transition between frequencies
+Implementing a Matlab filter to cancel cross talk between two sensors
+Histogram Backprojection in OpenCV?
+Pitch Detection with the Histogram Frequencies Algorithm
+How to decide whether to use AR or MA for smoothing data?
+"Ensemble averaging ... cannot track dynamic changes"?
+How do the motion vectors work in predictive coding for MPEG?
+How to find smoothed estimates of the derivative and second derivative of a signal?
+Is there a "first" Fourier transform?
+Calculating smoothed derivative of a signal by using difference with larger step=convolving with rectangular window
+How to estimate the signal-to-noise ratio of a waveform?
+Discrete Fourier transform - finding the fundamental quickly?
+"Low-pass filter" in non-EE, software API contexts
+Why is $y(n) = x(n) + x(n-1)$ a low pass filter?
+How to estimate taps required for Parks-McClellan filters
+How to find frequency response, stability, and causality of a linear system?
+Making objects stand out?
+Multiband processing in one pass
+T wave analyis and extraction using discrete wavelets
+Frequency Modulation Synthesis Algorithm
+Is Ideal LPF BIBO unstable?
+How to simulation different kinds of Noises in speech signal?
+What are high frequencies and low frequencies in a signal?
+Checking the "cleanliness" of an image for Optical Character Recognition
+Anisotropic Diffusion Outputs
+How can I implement a binary chirp signal containing zeros and ones?
+Question on covariance matrix of 2 spatial signals
+How do I recover the signal from an ECG image
+How do you plot an SPL vs frequency curve for a given set of pressure data?
+Which are the steps to extract contours/shapes from depth videos?
+How to design a continuously time-variant digital filter?
+Why is anisotropic diffusion useful in image processing?
+Estimate Taylor series coefficients from samples of a function
+How can I vectorize the computations for a first-order recursive filter?
+Find a specific line in a picture
+Filtering 50Hz using a notch filter in MATLAB
+Is this a correct method for fixed pattern noise correction?
+Detecting a fixed template image out of a semi-constant frame of video
+Filter coefficients for colored noise Voss Algorithm
+How does ICA handle inevitable delays in signals?
+Applying FIR filter to data with different sample rates
+FFT of image data: "mirroring" to avoid boundary effects
+Detecting drum bpm in a noisy .wav file
+What are the differences between these two Gabor filter functions
+Confirmation on how to calculate phase differences at every frequency point between two wideband signals?
+How to compute 2D displacement vector for binary image registration?
+Strange results from my FM synthesis algorithm
+What transformations have been applied to this image to yield four derivatives?
+Realtime fixed point IIR filter implementation in C
+Lip sync over IP
+How to find tennis courts in aerial imagery
+Bandwidth of a signal using MATLAB
+Extremely computationally intensive image/video compression schemes which offer better compression than industry standard JPEG/H.264
+main direction in 2D map of data
+Implementing a basic demodulator
+Component of one signal along the another
+A good mathematical explanation of Gibbs phenomenon
+How to perform median filtering in multi-label prediction
+Open Source Implementation of 3D Thinning algorithm
+How to amplify regions with specific color in an image?
+How to remove certain background from image?
+Audio processing FFT of chunks of audio
+What is the distinction between ergodic and stationary?
+Do the DCT coefficients correspond to particular pixels?
+Detect and isolate veins in the palm?
+Relaxation time in a stationary stochastic process
+Identify rectangles of different colors
+using Short-Time Energy and zero crossing rate
+Are there any good "conceptual distances" for comparing two images?
+Matlab plot of QPSK system doesn't agree perfectly with theoretical BER curves
+Anti-causal systems
+OFDM Phase compensation
+Derivative calculation
+short time energy function explanation
+Can Gabor filter be used for detecting dents in cars?
+Iris recognition using filters?
+What kind of edge detection use paint.net?
+How to remove the glare and brightness in an image (Image preprocessing)?
+Parametrically degrade the speech to remove emotional content
+Finding the friction coefficient by using experimental data
+How Can I practically implement the FFT with size unequal to a power of two?
+Face Recognition / Image Processing
+Fit piecewise linear data
+Black box signal prediction
+Programming a Vocoder
+Java - Convert Image to Binary (Two Colours/Black & White)
+Coarse summary of various methods for detecting when a signal 'starts'
+Examples of Independent and uncorrelated data in real-life, and ways to measure/detect them
+What do the filter coefficients in a digital filter represent?
+How do you measure the accuracy of a stereo system?
+JPEG steganography
+Anti-aliased boolean masks for integration of CCD images
+Simple, streaming, lossless image compression
+Preprocessing to improve Harris corner tracking between video frames?
+Improving SNR using DSP techniques
+Non-orthogonal basis which offers better energy compaction in image compression
+Creating a spectrogram
+How can I change the formula to detect the barcode in every angle? - MATLAB
+The current state of the art in audio signal interpolation
+Is it possible to simplify the convolution integral if the functions are non-zero in disjoint areas?
+Can I use FFT to interpret accelerometer gestures?
+What are some free alternatives to SIFT/ SURF that can be used in commercial applications?
+Function for response over image scales
+Find h[n] using DTFT properties
+How to determine the "variability" in a frequency range?
+Find $Y(\omega)$ as a function of $X(\omega)$
+Image Processing - What Is a Gradient Domain?
+Peak detection approach
+Basic question about trigonometric series and transforms thereof
+Binary robust independent elementary features ("BRIEF") understanding
+Compensating for measurement errors
+Is there an algorithm for finding a frequency without DFT or FFT?
+From a 44kHz audio signal, how could I extract 32 evenly spaced frequency bands?
+Removing white pixels from a b/w image in MATLAB?
+Discrete-time Fourier transform
+Why the error probability is given by this expression?
+How to extract traffic signs from a photograph?
+Polyphase filter notation
+Vector Quantization in Hidden Markov Models
+Blurring in anisotropic outputs
+Formula to compute output of a linear system
+Contours chains matching techniques
+how to extract features from this image ? what are the suitable features to be selected?
+Spectrum Analysis using Windowed FFTs
+What is meant by "spectral moment"?
+How do I remove all white pixels in a modified image which are not present in the original?
+How to Remove Gaussian Noise from an Image without Destroying the Edges?
+Modeling spring oscilliations with electric noise (50 hz)
+How do you choose the optimal number of taps in a windowed image scaling filter?
+Find similar Music using FFT Spectrums
+Determining the resulting pixel value before creating a compressed JPEG image
+How do the English pronunciations of "tiu" and "tou" differ?
+Polyphase Decomposition in Matlab
+Triangulation from set of points from left camera
+How to outline a defect in an image?
+How does shift and scaling inside of a function affect its Fourier Transform?
+peak limiting/audio compression formula needed
+MOD-N Circular Convolution
+Tools for 3D shape analysis
+When convolving two functions that are constants in a region and 0 everywhere else, where does the integration start?
+Real discrete Fourier transform
+Sampling Theorem and Dirac Comb
+How to build a program that gives you on the fly the chords of the song while listening to it?
+Why does my simulation of the binary symmetric channel disagree with theory?
+Synchronizing Two Audio Tracks
+How can I identify Arabic letters in an image using Java?
+How to combine a rotation matrix and a stretch matrix into a single matrix for easy Fourier Transform
+Normalizing Negative filter coefficients for Digital filter design
+Finding similar fragment in recorded speech
+Matlab video processing of Contracting tissues. how to analyze movement?
+is it possible to matching b / w images without feature extraction steps? if possible which algorithm may be more suitable?
+List of possible image features for content based image retrieval
+Capacity of channels with pilots?
+how can i perform a registration to 2D images using ''rigid " transformation in matlab?
+List of all available ARM+DSP processors for surveillance
+Low-pass filter for cleaning vocal speech before performing onset detection
+Get histogram of edge lengths/orientations in an image using OpenCV
+Image Recognition
+Creating an array whose DFT is all whole numbers
+one to many images matching in matlab?
+Calculate harmonics using DFT from real points
+Embedding digital ID in audio signal, and retrieving it
+Good language for computer vision?
+How can I detect buttons in a GUI of an app with pattern detection using python?
+Detection of circles (ellipses) in 2D point cloud
+I'm looking to do my senior capstone project in the field of medical tomography, what is a good book to get acquainted with the field?
+Erosion and dilation in images
+How to measure the quality (or difference in quality) of different images?
+What methodology to use for discrimination of different (musical?) tones
+How to compute camera pose from Homography matrix?
+How to 'interpret' the Fourier Transform (specifically, of a convolution kernel)
+Error in power spectral density computation
+Spread-spectrum systems and multipath fading
+How can you tell whether there's a signal (when your signal looks a lot like noise)?
+Retrieve pixel values from the output jpeg image
+How to extract vocal part from stereo audio signal?
+Is there any way to get intensity value of a certain wavelength for given pixel of a normal  image?
+Struggling to find a good definiton for Gabor-Descriptor
+How can I distinguish between two similar EEG signals?
+With respect to the dirac delta function, what does $\delta [x + 2A, y - A]$
+Issue with AMR file structure
+Information Theory - units of channel capacity
+Simplest way of detecting where audio envelopes start and stop
+ICA - Statistical Independence & Eigenvalues of Covariance Matrix
+How to find quantization noise in my simulation?
+Express a wave as a sum of cosine
+image feature extraction
+What is the third coordinate in "Projective Transformation" of an image and how to build the matrix of the inverse transform?
+Does the inverse-CTFT exist for a dirac delta?
+Topological skeleton matching techniques
+How to create a distortion compensation filter
+Guitar effects explanation books
+Compressing plotted data with variable sample rate?
+Understanding a Bainter Circuit (chebychev filter)
+Matching delayed signals
+Good metric for qualitatively comparing image patches
+Need help finding the frequency response
+How do I get the most accurate camera calibration?
+Optimized Ansi C libraries for DSP
+What does an adaptive filter do?
+How can I calculate the Expectation for a particular known vector?
+What is the name of this color transformation?
+Probability distribution of windowed cross-correlation
+"Normalizing" my D4 wavelet transformation at each step reduces final image quality
+Improving spectrogram resolution in Python?
+How to remove a tone/interference from a signal, without using classical linear filtering
+what is the gabor filter, and what are its main uses
+Designing Butterworth filter in Matlab and obtaining filter [a.b] coefficients as integers for online Verilog HDL code generator
+what's the baseband FFT size of LTE?
+What would be the best solution to synchronize data from two inputs. (Camera and Acceleration sensors)
+Image Processing method for spiky selection
+How critical is the selection of the window function in STFTs?
+Ensemble learning, multiple classifier system
+Implementing discrete Poisson equation wtih Neumann boundary condition
+basic hsb skin detection, neon illumination
+How to initialize an IIR filter in Matlab
+Which mother wavelet for a scalogram?
+Noisy Frequency Estimation using Hilbert Transform
+What does frequency domain denote in case of images?
+Fourier series representation
+Patent-free Interest Point Detector?
+Converting a pitch bend (MIDI) value to a "normal" pitch value
+Howto calculate SNR for EEG data?
+Frequency spectrum of a set of images in Matlab
+How can I detect elements of GUI using opencv?
+Adaptive Thresholding for liver segmentation using Matlab
+Design of the low pass filter when decimating
+Mathematics / Signal theory behind billiard ball 'wave pendulum' effect
+What interpolation methods can I use to get the tightest fit for these curves?
+Calculate Phase angle between two signals i.e. digital Phase meter
+Savitzky-Golay smoothing filter for not equally spaced data
+What is the difference between normalized peak of correlation, versus peak of correlation divided by its average?
+Calculate Phase angle between two signals
+Help finding the output for input with conditions
+Does using the Goertzel algorithm actually give better frequency resolution?
+Opencv calcHist and calcBackProject in plain english
+WAV encoding problem
+Are there any good open-source (well, free) handwriting OCR programs?
+What is the Walsh-Hadamard Transform and what is it good for?
+What image-processing techniques are ideal for this particular shift/scale invariant template matching?
+Text recognition for Android app
+What does the "smoothing optical flow" mean?
+Finding radius r of the overlappable sphere(s) in 3D image
+What Are the Limitations of a Canny Edge Detector?
+Problem reading and rendering Spectrum
+Best way of segmenting veins in leaves?
+What segmentation methods can be used for simple images?
+3D Position estimation using 2D camera
+Time resolution of the Short Time Fourier Transform (STFT)
+How do I apply a function window to a signal?
+Could you describe the effects for varying different parameters of a canny edge detector?
+How do I evaluate the performance of a segmentation algorithm?
+How to remove stains from images?
+What does the normalization step of the Haar wavelet transform represent?
+The Fourier Series Of This Triangle Wave
+how to remove color of light source?
+Chroma-Subsampling: How to properly calculate the data-rate
+Designing A Filter Using SPTool In Matlab
+DCT Steganograhy
+How to get started with fingerprint recognition?
+Finding the z-transform of $h[n] = a^n\cos(2\pi \frac{n}{F_s}f_0)$ for $n ≥ 0$ and zero for $n < 0$
+What is the normalization factor for the quincunx lattice wavelet transform, and how do you find it?
+How does causality (i.e. unit step) affect the DTFT of a sine or cosine wave?
+Fourier descriptor
+Implementation of wideband beamformer for planar array
+How to apply watershed to segment images using matlab?
+Finding the output for an input sequence
+The fastest way to "fill holes" in 3D?
+Generate the Convolution Matrix of 2D Kernel for Convolution Shape of `same`
+Understanding multirate filtering fundamentals
+Magnitude of Power Spectral Density with Different Sampling Frequency
+What is the $\mathcal Z$-transform of Bessel function $J_0(\alpha n)$ sequence
+Good features / algorithms for recognizing car-models in images
+Creating a 50hz comb filter in MATLAB
+Finding local peaks in-between samples
+Help me understand this simple code snippet to get the magnitude frequency response
+how important is the pre-emphasis stage in MFCC?
+Estimate process error for Kalman filter on financial data
+Implementing Gaussian random variable by using a uniform random variable
+How do I retrieve texture using GLCM and classify using SVM Classifier?
+Does down-mixing a signal before taking the fourier transform aid in signal detection?
+How to change the measured curve to be close to the target curve
+Questions about discrete signal energy calculation
+plotting phase of a signal adding delay
+How do Phons relate to loudness?
+Interpolation algorithms in computer graphics
+How to distinguish voice from snoring?
+How do I use a Savitzky Golay filter to find local maxima (in between samples) in a discretely sampled 1D signal?
+How to smooth a signal?
+What is the link between the homography computed over 2 images and the homography computed over the same images upside down?
+DFT with geometrically-spaced bins?
+Real-Time Human Pitch Detection
+Procedural wave generation, frequency shift issue
+What are the characteristics of a "good" smoothing convolution kernel?
+Estimating harmonic loudness
+Conversion between primary colours
+what is the possible solution for the Intra-class variations poblems?
+Wavelength filter with OpenCV
+How do I compare 2 audio files, returning a percentage of difference
+Fast/efficient way to decompose separable integer 2D filter coefficients
+Solving a Convolution Problem of a 1D Signal
+Designing a lowpass filter to minimize aliasing in pre-decimated streaming audio
+Camera calibration/pin hole camera model and working out 3d position
+How to do De-Houghing of a Hough transform'ed Image?
+Identify the correct spot to place a label
+How do I keep a value between known bounds in an open system?
+Fast approximate optical flow / image shift
+How do I apply a Chebishev filter?
+Filtering kinda "half-toned" image for OCR processing
+Maximum frequency of any mobile phone speaker
+Function in the Fourier domain of a low-pass filter
+I trigger recording when power of current sample is X dB greater than last Y samples, what is the terminology here?
+Object Recognition using bag of features using matlab
+Analytical expression for the eigenvectors of a 3x3 real, symmetric matrix?
+Efficiently calculating autocorrelation using FFTs
+Low pass filtering on short int (16 bit PCM) samples
+How do I compare two resultant images from different binarization algorithms?
+How to calculate the gain in a bivariate fft in R?
+What are the best algorithms for document image thresholding in this example?
+How to remove the boundary effects arising due to zero padding in scipy/numpy fft?
+What's the best criterion for determining a frequency peak?
+Auto correlation correspondence to original time domain window
+calculating similarity scores between similar and different classes?
+Time delay estimation of oscilloscope signals using cross correlation
+Example image that is degraded by shot noise and easily misinterpreted?
+Efficient frequency offset estimation of known signals
+Help understanding Hough transform
+How to remove reflections from images?
+Determining optimal binary decision rule threshold from observations with unknown priors?
+How can I break a filter down into second order sections?
+Given the Graph of a Fourier Series $\sum c_k e^{2\pi ikx}$ Find the Graphs of $\sum c_{3k} e^{2\pi ikx}$ and $\sum (c_k)^2 e^{2\pi ikx}$
+Why do we deal with the eigenvectors of the autocorrelation instead of the data itself?
+Low MIPS Video Encoder
+Filtering RANSAC Estimated Homographies
+How to shift the frequency spectrum?
+Detecting tennis courts in aerial images?
+Examples of linear/logistic regression applications
+How to get to shoulders localization on image photo?
+What is the least JPG-compressible pattern? (camera shooting piece of cloth, scale/angle/lighting may vary)
+How to recognize colors from the color chart?
+Viewpoint dependant deformation of objects in photos
+Necessary image processing operations before template matching
+State space system identification
+How to Filter Human Speech from an Audio clip?
+How do you calculate spectral flatness from an FFT?
+How to define SNR for multiple signals in noise?
+Why does a wave continuously decreasing in frequency start increasing its frequency past the half of its length?
+Real-time single speaker recognition
+period of this signal
+Detecting Arabic verses spanning multiple lines
+3D reconstruction of an image based on depth of intensity levels?
+Intuitive explanation of tracking with Kalman filters
+Understanding the transfer function of an FIR filter
+What is the "waterbed effect" in control system design?
+Image Denoising with Better Edge Preservation
+Reference for Supersampling
+Deconvolution Question on Article "Deriving Intrinsic Images from Image Sequences" by Yair Weiss
+Why so many methods of computing PSD?
+Direct Inverse Filtering an image, spatially convolved with a blurring function without any noise, doees not give my original image back?
+Recover curves from noisy collection of points
+How to deal with a negative pole (unstable) in the pre-filter of a control system?
+Can I use independent component analysis if I have two discrete populations of signal sources mixed together?
+What statistic is used to determine presence of a signal in noise?
+Padding Images To Solve Inverse Filtering Problem?
+Image comparison using MATLAB
+What's the difference between the Gabor and Morlet wavelets?
+Extraction of non-sinusiodal repetition rates
+Sliding DFT: I think my results are accurate, but I can't buy a swap-swap IDFT
+I need advice about how to make an audio frequency analyzer
+FFT on non-rectangular part of image
+Advise on detecting anatomical landmarks in a CT reconstructed volume
+Are there any computer vision algorithms specifically targeting depth images?
+choosing drive signals for system identification?
+find the gradient direction at a point in a shape
+Wavelet Transform
+modelling wireless multi-path channel - is channel response sum of delta(t-path_delay) or "delta" should be smoothed somehow?
+What does it mean in image processing when a filter is called non-linear?
+What is the difference between the Point Spread Function and Sampling Aperture?
+survey/book on adaptive/self-tuning of PI controllers?
+Why do I see ringing in the output of a digital filter with a narrow transition band?
+What methods can be used to remove ringing artifacts in the output of a digital filter?
+Questions on the generation of R.O.C. curves
+signal uncorrelated with delta in the origin
+How to generalise the Fourier transform?
+How to calculate dB of a transmitted power
+What DSP techniques can be used to change the timbre of complex tone?
+Different state-space representations for Auto-Regression and Kalman filter
+How to Average Complex Responses (and Justification)?
+Books that explain DSP well to those not directly in engineering?
+How to: pixel packs in an image to representative point coordinates (x,y)
+Rough estimate of how close a human speaker is to a microphone?
+Finding the Wiener filter transfer function
+Fitting new images from a SVD/PCA calculation
+How to measure a detector's performance under extremely complex real-world environment?
+If Digital Signal has frequency components then why we don't use it
+Anti-Filter in Image Processing?
+What is the true meaning of a minimum phase system?
+Resources on ridgelets/curvelets
+How can I remove shadows from an image?
+What is "Equivalent Time Sampling" and what is it good/used for?
+How best to digitize a noisy phone recording for filtering?
+Standard Deviation in Gaussian Blur
+A non-lossy aka lossless codec without patent-restrictions for audio?
+Calculate symbol rate for QAM modulation
+What's the unit of spectral intensity in calculation of RGB tristimulus?
+What does it mean to combine signals coherently?
+What is a good FFT window function to reject DC?
+On the de-noising of time-frequency images
+A signal containing no pure sinusoidal components
+Why are sidebands generated in AM and FM?
+How to fit an ellipse to 2D data
+On the time-frequency relationships of median filters
+Understanding the Filter Coefficients
+Filter design with a phase delay specification?
+Why does my stop-band filter attenuate other frequencies?
+What sonic artifacts are caused by phase vocoders?
+Auto-focus estimation?
+Differences between filtering and polynomial regression smoothing?
+What is the best method for merging time lapsed photos? Accessable from python(PIL)
+What is the sparse Fourier transform?
+Is up-sampling prior to cross-correlation useless?
+Demonstrating the effect of aliasing
+Extracting top & bottom fields from a YUV 4:2:0 Frame
+FFT with asymmetric windowing?
+Transpose of convolution
+Difference between Power spectral density, spectral power and power ratios?
+How to understand Kalman gain intuitively?
+What is the relationship between a Kalman filter and polynomial regression?
+Help with algorithm for modulating oscillator pitch using LFO
+Directly compare subpixel shifts between two spectra — and get believable errors
+What Does Make an Error Surface Convex? Is It Determined by the Covarinace Matrix or the Hessian?
+Is it valid to increase amplitude (and presumably FFT quality) by simply scaling the data?
+What do we know about the transfer function away from its zeros?
+Using an error prediction filter for filtering a semi-known signal
+Identify Where Singing Starts in a Voice Only Recording
+What is the meaning of Mutual Information beyond the numerical calculation?
+FFT for line detection
+Otsu binarization with value preservation
+Counting the number of objects intersected by the image border in MATLAB
+How to compute Discrete Cosine Transform
+Libraries for Voice Activity Detection (Not Speech Recognition)
+Generating wavelet using amplitude spectra
+decision rule for image segmentation
+How do you calculate the gain of a matched filter?
+Match Filter in Time-Frequency domain instead of just Time domain. Redundant, or better?
+How to do prediction using frequency domain data?
+applicability of compressed sensing
+How to flatten the image of a label on a food jar?
+What are some face detection (not recognition) algorithms suitable for limited (embedded) processors?
+What are the most common algorithms for adaptive thresholding?
+Best way to evaluate "quality" of autocorrelation?
+Peak location estimation for a triangle wave in AGWN?
+Alternatives to Hough transform for detecting a grid-like structure
+Is sift a good way to extract features from an image?
+Vehicle counting from a video
+Terminology: spectrum, spectrogram, spectrograph, sonogram, etc
+3CCD or monochrome with Bayer filter?
+Nutrition facts label OCR
+Theory behind Linear Predictive Coding (LPC)
+How to estimate the mean of a clipped signal?
+How to analyze a pattern of discrete events belonging to a 24 hour and ~90 minute cycle?
+How to estimate a transfer function from a magnitude-only frequency response?
+Hilbert transform: analytic signal
+If sampling rate is high does that increase the error or decrease the error?
+Tutorial on 2nd generation wavelets (with lifting)?
+Alias frequency Formula
+Is there any free software that can recognize and classify sounds?
+Normalizing loudness level of a set of songs
+Fast Fourier transform- non-integer number of cycles in the FFT aperture 
+What are the basic categories of operations performed on audio signals to create interesting sounds?
+How to match a drawn Chinese character to a database of stroke animations
+Complex Demodulation (CDM) and Fixed Frequency Complex Demodulation (FFCDM)
+On using eigenvectors to estimate a signals' fundamental frequency, via MUSIC
+Speech Compression - In LPC how does the linear predictive filter work on a general level?
+Converting from stereo to mono by averaging
+Video Compression - When would an average of the previous and next I or P frame be useful
+Exam Question - end-to-end delay from video capture to video playout
+Why motion cannot be estimated in DCT domain using block match?
+Why Carrier signal can't have frequency less than Message signal
+Mutual Information, is this calculation correct or should I contact the author about fixing it?
+Conceptually, how does a Fourier transform differ from an autocorrelation?
+Analyzing movement of fringes
+Are all of the edge descriptors necessary to differentiate edges?
+Counting the number of groups of 1s in a boolean map of numpy.array
+How to estimate an auto-regressive model?
+What bandpass filter design will yield the shortest impulse response?
+Connecting edges detected by an edge detector
+Using voice recognition algorithms to reduce noise in financial time-series?
+What is the relationship between the sigma in the Laplacian of Gaussian and the two sigmas in the Difference of Gaussians?
+Detecting meandering rivers in images
+Do FFT-based filtering methods add intrinsic latency to a real time algorithm?
+Determining Frequency and Period of a wave
+Discrete (Inverse) Haar (2D) transform implementations
+What is meant by 20 dB signal-to-noise ratio?
+Help with equations for exponential ADSR envelope
+Audio signal comparison for automatic singing evaluation
+Discrete Fourier transform symmetry
+OpenCV detecting elbow
+OpenCV/C++ connect nearby contours based on distance between them
+OpenCV detectin skin colour invariant with illumination changes
+Complex impulse response functions?
+Optimal measurement model for Kalman in Augmented Reality
+Output of KISS FFT interpretation
+Sound synthesis effects for natural sounds
+A few questions about Slepian and generalized gaussian windows
+Statistical properties of the Kalman estimates under Gaussian noise
+Tool for Harmonic Analysis & Synthesis
+How to find the lower eyelid in an image?
+what is the starting point of a contour as given by cvConvexityDefect() function in OpenCV
+Channel Vocoder producing output with "click" sounds
+Hamming code exercise
+How can I automatically classify peaks of signals measured at different positions?
+Correlation filter output range normalization
+How do I create a frequency vs time plot?
+Designing a feature vector for discriminating between different sonic waveforms
+Is there such a thing as band-limited non-linear distortion?
+Scipy - Audio Processing
+Why can Quadrature Demodulation demod a Frequency Modulated Signal?
+differences in fundamental frequency/pitch between music and speech
+calculate frequency at -6 db
+How to remove color cast from HSV information
+How to expand on and deepen a basic skill set for image/video processing?
+adding bode plots together?
+How did they color old black and white movies?
+Determining how similar audio is to human speech
+Sense of zeropadding in a time domain
+Overlap-Add versus Overlap-Save
+Filter order estimation
+How to estimate octave and size for visual features positioned at Harris corners
+How does auto focus in cameras work?
+iPhone iOS UIImage how to detect a "laser pointer" dot on a camera feed?
+basic bandpass filter
+Analysing 2500 frequencies using FFT with an input vector of 2048 samples?
+Jumping from DSP concepts to practice...recommend books?
+What is the difference between convolution and cross-correlation?
+What should the amplitude be when plotting 1-sided Amplitude Spectrum?
+pose estimation
+Terminology question on band-shifting
+What is EAQUAL ? How does it relate to PEAQ?
+A (Clear) Line Between Computer Vision and Image Processing
+Understanding values saved in WAVE file
+What is temporal neighborhood?
+Get bit stream from known radio frequency
+Colors on photo to real-life values
+What is averaging and how can it be done?
+complementary IIR filters
+How to evaluate performance of a simulated system
+Autocorrelation of power spectrum
+Why do we use the HSV colour space so often in vision and image processing?
+Algorithms for computing FFT in parallel
+How to Shift Carrier Frequency in QAM Signal?
+How do I plot the spectrogram of a wav file?
+Deconvolving the measurement system from the system response
+How should a moving average handle missing data points?
+Is autospectrum the same as power spectrum density?
+Path Center Correction
+Standard deviation of spectral flatness -- so what am I measuring, conceptually?
+How do I rotate a warping grid without changing the warped image's orientation?
+Edge detection gives pixel ids, why?
+Amplitude vs Frequency Response
+hough voting, turning transformation into a vote
+How to perform a Rubberband-Correction on spectroscopic data?
+How to characterize the regularity of rhythm?
+Confused about HSI and HSL color spaces
+Step by Step Camera Pose Estimation for Visual Tracking and Planar Markers
+Noise removal in medical segmented image
+Does this lowpass filter have a noncausal impulse response?
+What is the best way to represent audio visually? (x-post from UX)
+What is the bandwidth of a (real) sinusoidal tone, and pulse?
+Resources for an introduction to computer vision
+wavelet analysis/ dimension reduction
+Inverse Short Time Fourier Transform algorithm described in words
+Finding The Coefficients of the digital filter?
+How can both Gaussian and salt & pepper noise be removed from an image?
+Integration with infinite/finite limits as a form of summation in DSP notation for discrete signals
+Number of Daubechies coefficients
+Can FFT be used to find peaks and pits on audio files
+Signal matching: How to quantify the difference between two signals of varying frequency
+Kernel Convolution in Frequency Domain - Cyclic Padding
+Relating bandwidth and wavelength of a carrier
+Spectrum of FSK signal
+FFT, interpolation and phases
+Difference Between Linear Convolution and Circular Convolution
+MATLAB, How to filter a discrete signal?
+High quality reverb algorithm
+Blob detection in C
+Interpolation of a gray scale image in matlab
+How does OpenCV find chessboard corners?
+Fast Cosine Transform via FFT
+Resampling necessary?
+In Matlab: how do I quickly create smoothing matrices?
+Extracting frequencies from FFT
+Real time slope and peak detection and calculation
+Plotting DNA chromatogram trace data
+DCT and Hard Thresholding
+Can edge detection be done in the frequency domain?
+Detection of number of yarns in the fabric image
+Which image transformations are considered continuous transformations?
+Why would I want to define a modulation index for each tone (DSB-FC)?
+What exactly happens with Spread Spectrum Modulation
+Expressing 2D Gabor transform as 1D spectrum
+Shortest geometric distance from surface in 3d dataset?
+Demodulation of a BFSK frequency hopping signal using FFT
+determine two signals with a scale factor
+Fourier Transform minimum sample requirement
+How do I numerically calculate a function from its noisy gradient?
+Time delay estimation of two sensor signals
+How to write lowpass filter for sampled signal in Python?
+Audio normalization
+Generating a signature to identify RF modulation types
+Apply Low Pass (Smoothing) Filter on a Set of Matrices and Reject Outliers
+Jacobian Matrix of a Quaternion $q$ respect to Angular Velocity $\omega$
+Is it possible to transmit and/or receive multiple types of signals at the same time?
+Recognizing data clustered into shapes
+Pitch detection algorithm for minsample size
+Beginner Attempting FFT Signal Filtering With Numpy
+What type of circuit is responsible for convolution in the classic analog telephone?
+Algorithms for detection of fingertips or nails
+How to prevent "zipping" effect on a modulated fractional audio delay line? (Flanger)
+How does the quantization error generate noise?
+Why Do I Get This Crackling Noise on Zeroing out the High Frequencies?
+importance of using histogram equalization
+Periodicity and fundamental frequency detection algorithms
+Predicting Positional Displacement with a Bivariate Gaussian Distribution
+Does taking the Hilbert transform extract the envelope of audio signals?
+Why do linear systems show sinusoidal fidelity?
+Issues related to entropy
+Why this two ways of FFT are different?
+how to detect center of a blurry circle with opencv
+Ultrasonic speaker calibration and emitting calibrated signals
+How to make a silence?
+Phase-shift filter design
+Implementation of goertzel algorithm in C
+How do optical illusions work (photo mosaic) from a signal processing perspective?
+Finding length of period in time domain data
+OpenCV face recognition: Finding a best match
+Sampling of a continuous function: Kronecker's or Dirac's delta?
+Loudness of PCM stream
+How to choose a windowing function when performing a Chirp $\mathcal Z$-transform?
+XAudio2 filter radian frequency
+Estimating The Time-delay using the Phase of the Cross- Correlation function
+Variant of discrete fourier transform that isolates phase delay?
+How to resample audio using FFT or DFT
+How do I implement the Structure tensor (in Matlab)?
+Wang Transformation
+Filtering difference of correlated measurements
+Deconvolution of 1D Signals Blurred by Gaussian Kernel
+How to make frequency axis for even and odd FFT length?
+Image Processing: How to detect a quadrialteral signboard in image?
+Projection of 2D signal
+My vocoder sounds bad
+Filtering of streaming audio
+Intuition behind the scaling property of Fourier Transforms
+How to change volume of a PCM 16 bit signed audio?
+Tracking Acquisition for Directed Scan
+human speech noise filter
+What is Shannon's source entropy
+What is the algorithm behind OCR?
+Why are Gaussian filters used as low pass filters in image processing?
+Is an image a random variable or a random process?
+How is Weighted Thresholded Histogram Equalization different from Gamma Correction Image enhancement
+Blind 1D equalization/deconvolution with some knowledge of filter kernel
+How to Detect Gradients and Edges in Images?
+Measuring the "frequency stability" of a signal
+What is Super Resolution in the Context of Windowing?
+How is Weighted Thresholded Histogram Equalization different from Gamma Correction Image enhancement
+Picking the correct filter for accelerometer data
+periodic spectrum?
+change the frequency component of a spectrum in an audio file
+Hexagonal Modulator Comparison with Square Modulator
+Kalman filter - implementation and deciding parameters
+Role of Kalman filter in nonlinear dynamics
+Vocoder carrier wave bleed
+Convolving two signals
+Timing syncronisation using polyphase decimation filter
+Downsample Equiripple FIR filter
+How are Object Recognition and Content-based Image Retrieval interlinked?
+Straight lines with an edge detection algorithm
+Abs(poles) < 1 by what margin for a stable filter?
+learnable segmentation or learnable edge detection
+A Working Signal Frequency Example?
+count blood cells
+Bag of Tricks for Denoising Signals While Maintaining Sharp Transitions
+Downsampling a signal with decimate
+How to measure a lung nodule in a CT Scan DICOM image?
+Implement the 3D Structure Tensor in C/C++?
+Color Tracking a Red Laser Height
+Demodulation of BFSK signal with frequency hopping using Goertzel Algorithm
+Blending Artifacts in Photo Stitching
+Acoustic feedback detection algorithm
+Convolution involving turning each pixel value to the most represented pixel value of the neighbourhood
+Plotting the magnitude response of a biquad filter
+Extended Kalman Filter - how do I get transition functions
+Estimating the input to a system from a system state using EKF
+Matlab Hilbert Transform in C++
+scale invariant face similarity metric
+Measuring with OpenCV and OpenNI
+finding textures on images
+DFT of complex signal using Goertzel algorithm in C
+Is possible to get overshoot on bessel filter?
+Speech Recognition - Project Idea
+Estimating attenuation using sliding windows
+Library to differentiate people by their voice timbre
+Using FFT to convert to frequency domain, then IFFT back to time domain C++
+Speech Analysis - Zero-Crossing
+When to use EKF and when Kalman Filter?
+Finding similar pictures in a database
+Image Recognition Benchmarks
+voice recognition vs speech recognition MFCC
+Online boosting (training on the fly) for face detection
+How to de-noise raw sound data
+How to demodulate an AFSK signal in software
+Can FFT Substitute Correlation for This Case?
+Image Processing Prior to Feature Detection
+determining FEC or parity bits from percent error
+Deep space communications BER and FEC?
+FFT has unexpected DC component
+AFSK clock recovery in noise
+Audio fingerprint questions
+Is a leaky integrator the same thing as a low pass filter?
+Statistical Signal Analysis - what to read
+Is it correct to subtract a low-pass filtered signal from the original signal and use the result as a "high-pass"?
+How bandwidth is used in modulation
+How do I implement IFFT to filter low frequencies from a group,after Freq detection by FFT?
+Z-transform of a downsampler
+How does Fourier Transform manipulates image technically?
+Equivalent number of looks (ENL) calculation
+Averaging filters
+Contrast Enhancement for subjects under Flash
+How can I measure noise and sharpness of an image?
+Binary classifier for a small range of the audio spectrum
+Practical Applications of upsampling and downsampling
+Signal Reconstruction after fourier transform
+how to break the input signal into segments while calculating DFT
+breaking the input signal into segments while calculating DFT
+Pose from Homography matrix - Zhang method
+Do lowpass filters affect the integral over the signal?
+How can the FFT be used for estimating linear chirp parameters?
+Detect presence of a specific frequency (or lack thereof)
+Demodulation of noisy AFSK signal
+laser speckle noise reduction
+How can I smoothly interpolate between 2 position?
+Kalman filter in practice
+How can I use the fourier transform of a sequence of x-ray scan images to segment it?
+FFT of High Frequency and Low Frequency?
+Matlab BOC (binary offset carrier)
+Spectrogram for created signal in Octave
+What is the role of Freqency in Digital Images
+calculate root mean square, ratio of power, constant false alarm, ... of a signal
+Discarding phase
+Adding Salt n Pepper noise into an Image manually
+Matlab filter design,through group delay
+How to get started analyzing audio signals for detecting cracks in a material?
+How to remove/reduce noise by using the Morlet wavelet?
+Window function and length of signal
+Estimating velocity from known position and acceleration
+Oversampling and decimation: What filter to use?
+Segmenting pills from the background
+Is there an algorithm to compute the phase for a single frequecy?
+Using Spectrogram to check whether aliasing will occur
+Measuring the contrast of an image
+I have a noisy ECG Signal. want to use PSD to analyse the Signal to noise ratio
+Spectrum and Spectrogram explanation
+How to check the FFT results of a sine wave?
+Variance of periodogram estimate of the power spectrum
+Choosing the length of a signal when calculating the FFT
+How to detect edges and rectangles
+Filtering PCM data in java
+HMM's - Possibility?
+Mathematics of Harris corner point detection
+Finding Peaks in an Autocorrelation Function
+EmguCV: Detect a ball in the frame
+Which kind of machine learning algorithm is Hidden Markov Model?
+Pedestrian counting algorithm
+Characterizing real-time sampled signal
+Kalman Filter - Optimal Way to Handle "Derived" Measurements?
+Good book or reference to learn Kalman Filter
+State of the art motion blur recovery
+Confusion Related to the Laplacian Filter
+Techniques to deriving DTFTs
+Audio Fingerprinting
+Relation between histogram equalization and 'Auto Levels'
+Calculating the total energy of a signal
+What scale should a detected SIFT point be extracted at?
+Approximating pixel location in scale space
+Frequency/harmonic analysis of accents
+blur PSF modeling for small stright camera movement
+Difference between Gabor filter implementations
+Applying Photoshop's "Shadow / Highlight" Correction Using Standard Image Processing Algorithms
+How to detect "fast" changes in signal processing
+Extracting audio track to determine the song beat
+Accuracy of Goertzel algorithm for measure harmonic
+Question about fading
+PSK vs FSK for noise immunity?
+Automatic Gain Control for voice
+Precision of Computer Vision algorithms
+Reconstruction of Audio Signal from its Absolute Spectrogram
+Effect of Windowing Function on Autocorrelation Function
+Why idft(dft(a) * dft(b)) not equal to convolve(a, b)?
+Signals - Removing Blocks
+automatic methods to find the delay and to sync the original pleth signals
+What features describe audio signals? (Besides frequency and amplitude)
+time in Sine Wave equation
+Reflection Rotation matrix
+Test data vs. training data
+formula to calculate ber in wireless 802.11 according to distance from tx and rx
+Stereo sound separation into three sources
+understanding FFT2 function of Matlab
+Why images need to be padded before filtering in frequency domain
+Understanding FFT of an Image
+Pattern recognition and Machine Learning reference
+Correcting large variable dc bias in signal FFT
+Clarifying some notation in Bishop book
+Time Period of one Cycle is way too large
+Envelope of time domain signal // Hilbert transform
+Solving Convex Optimization Problem Used for High Quality Denoising
+Amplitude of the Signal in Frequency Domain different from Time Domain
+FFT, How to decide if there is a signal among noise?
+What are some typical lossless compression ratios?
+radix-4 FFT implementation
+How can output sequence be equal to the sum of copies of the impulse response, scaled and time-shifted signals?
+Least Square Error Estimation: Conditions for $ (A^TA)^{ -1} = A^{-1}(A^T)^{-1} $?
+Comparing Image FFT with Sine wave FFT
+Goertzel algorithm magnitude
+Linear model of the modified error function
+Sliding window minimum and maximum filter in MATLAB
+Linear predictive model convolution
+Fractional Frequency and negative Frequencies
+Questions on Weighted Least Square Estimation
+How to find poles of transfer function by looking at the step response?
+Resize line art image
+Harmonics in 2-D FFT Signal
+Using reference objects to estimate the point spread function?
+Optimal inference for nonlinear state space models
+Image Registration by Segmentation
+When might looking at rising edges perform better than cross-correlation?
+Why is there a mismatch between normalized cross-correlation and perception for basic waveforms?
+Verifying Linear Time Invariance
+Verifying the computation of a convolution
+Is there any alternative characterization of sparsity of a signal in compressed sensing
+Converting Gamut3D from RGB colorspace to LAB colorspace
+Can you increase frequency resolution of FFT without increasing window size?
+estimation of the position of the magnetic source
+All-pass filters to remedy group delay
+LPF and HPF Confusion - Rectangular and Circular Cut-Offs
+Calculating bpm from machine sound (not music)
+Maximum step size for adaptive filter convergence
+Remove negative slopes from signal
+Shape of structuring elements for morphological gradients
+Speech Recognition Project - HMM
+What does orthogonality mean in the context of adjacent channels in a filter bank?
+Can Kalman Filter be used to track Randomly Moving Target?
+How to filter and downsample before FFT?
+Difference between Contrast and Intensity of an Image
+Digital Biquad filters
+Compressive Sensing: What Class of Signals Are Exactly Model Sparse?
+What's wrong with this code for tomographic reconstruction by the Fourier method?
+Most efficient way to extract frequency components of audio signal with near-human accuracy in real time
+Algorithm(s) to mix audio signals without clipping
+What is the tightest known bound on the reconstruction error in compressed sensing?
+Interpreting the inverse fourier transform from a graph
+length of window and overlap rate in STFT
+Finding squares in Image
+Calculating the system output using frequency response
+How can I automatically find the boundary of a high intensity region inside an image?
+How to get a top view using open cv?
+What are the relative merits of various upsampling schemes?
+Generating good synchronization sequences
+Can you count signal energy equivalent in frequency domain?
+Evaluating loudspeakers
+Origin of term spectrogram
+virtually rotating the view with intrinsic and extrinsic parameter known
+Is Smith's book still usable and up-to-date?
+Empirical Mode Decomposition and Sparsity
+Computing the derivative from a set of real-time data?
+Image segmentation issue of different materials
+FFT Pitch Detection methods: Autocorrelation or other?
+Signal Acquisition in Compressed Sensing
+What happens when we Fast Forward the Video
+Deriving the frequency spectrum graph from the graph of a spectrogram and vice versa?
+Understanding the frequency scale of a spectrogram
+Understanding the attenuation of a signal
+When should I use a frequency spectrum rather than a spectrogram representation?
+image registration using fft
+Sequentially get the outer contour of an Edge Image
+Half Subcarrier spacing in LTE Uplink
+How to Generate False Color Palette
+what is smoothing in very basic terms
+Finding zebra-like pattern in image (Detection of structured-light fringe centerline from photo)
+What is the difference between PSD and squared magnitude of frequency spectrum?
+FIR filter gain
+Document image vanishing point detection and evaluation
+Time-frequency analysis of non-sinusoidal periodic signals
+how does this equation correspond to smoothing?
+A good ecc algorithm for random errors?
+How to combine a perfect signal with a limited dynamic range with a poor one with high dynamic range?
+Which digital modulation scheme would be suitable for transmitting digital data through the output of a PC soundcard
+Phase shifting of 50Hz signal
+Use fourier transform to calculate image pixelation coef in python
+Matching an LPC Magnitude Spectrum to FFT Magnitude Spectrum
+Differences between OpenCV Canny and MatLab Canny?
+Find the frequency response of a system
+Differentiation of discrete sinusoidal signal
+What is the physical meaning of the convolution of two signals?
+What does "frequency" mean for various kinds of signals?
+Building a spectral envelop of FFT'd audio
+Removing parallel edges from binary image
+Signal Processing in Amateur Radio Astronomy
+FFT of a Square wave, what are frequency of each Harmonic here
+Lower frequencies is not visible in FFT plot when adding into the original signal
+If we define samples manually how could there be a Sampling Frequency?
+Decoding Matrix Encoded Surround Sound Through Convolution
+When negative frequencies cannot exist in practice, why do we calculate power in negative frequency?
+Sample keypoint found in multi-scale to one scale (scale space with O octaves)
+Classification of Objects from a video/Image ( human,animals,others(cars etc.,) )
+Pre-emphasis / De-emphasis filter design
+Identifying the age of a speaker using speech recognition
+FaceAuthentication
+Can anyone suggests some basic readings for video processing?
+How to do people detection from bird eye view?
+determine background noise level via cross correlation
+Question about the derive of filter roll-off
+Open access signal processing journal?
+Algorithm to estimate coherence when measuring a transfer function with a swept sine
+Where to get the Kodak PhotoCD raw image dataset?
+Least-squares re-synthesis of Short-Time Fourier transform
+Remove shadows from image
+Increasing Image Resolution
+Help me in understanding smoothing
+To find the time offset between two differently sampled signals
+Incorporating Radial Distortion in Imaging Model
+How is it possible to Filter out a person's voice out of 100 of other voices?
+Locking on to a square wave signal with minimum oversampling
+How do I resample an image to a rotated grid?
+Applying a filter kernel defined by a continuous equation in the frequency domain
+Vanishing Moments
+Is there any example or existing resource for using matlab in audio comparison (cross correlation)?
+KNN method for different values of K on a handwritten digit data set
+Software to register a 2D image to a 3D volume
+Audible mp3 artifacts?
+Why is the FFT "mirrored"?
+Is there a transformation filter to decode light signal through Glass Bricks?
+recovery plane from 4 point imaging using calibration camera
+Applying Window Function to Low Frequency Signals
+Relative merits of fixed point vs floating point computation?
+Envelope following using FFT bin power -> Low pass effect on the modulation transfer function
+People detection from above
+Understanding Cb and Cr Components of YCbCr Color Space
+Best way to resample a signal (image)?
+High Level Process, Calculating Cepstrum When You Only Have Spectrum
+FFT of audio, packet sampling and others
+What is the bandwidth of product of two signals?
+Contour and area, raw (spatial) and central image moments
+Gradient of Total Variation of Magnitude of Complex Function for Denoising
+Binary descriptors
+Choice of Gaussian kernel parameters when lowpass filtering before image resampling?
+Demodulating FM from IQ Samples using Simulink
+Possibility of temporal super resolution
+Recovering signal for psk
+How to create a test to measure end to end audio delay
+Zero Crossing of a Noisy Sine Wave
+how do I calculate SNR of noisy signal?
+Determine fundamental period from zero crossing signal
+Scale and Rotation invariant feature descriptors
+Circular Time Delay in signal, effect on phase spectra of DFT
+algorithm for feature extraction from audio signals
+Need an Identity for CTFT Polynomial Raised to an Exponent
+Lightweight audio listener for detecting blip
+How to amplify sound wave
+Recent Papers on Spectrum analysis
+Please help me analyse spectrogram
+What is the meaning of the DFT?
+Reverse Engineering Bessel LPF (sample frequency needed)
+Relative beat detection for two audio recordings
+How to determine range of HSV values of the image?
+How to categorize the images based on Illumination / shadow?
+Red eye detection
+Face Detection + Cropping
+Find circle in noisy data
+why is the spectrogram from matlab different from audacity
+FFT spectre graph measurements y-axis
+Methods for searching a large face database
+Why exactly is a bit/radix reverse required when calculating the fft?
+MFCC process confusion
+Audio codec analysis in MATLAB: crosstalk
+Pattern recognition using 2D fft in matlab
+Recorded an audio file using microphone via Windows Sound recorder, but has 2 channels that are slightly different. Why are they different?
+SNR calculation confusion
+Commonly used test image sets
+How identify echo patterns in audio samples
+Add odd/even harmonics to signal?
+Effective filter with small tap size
+Support Vector Machine: A non-probabilistic binary linear classifier
+Equivalent 2D mask of moving-average
+Why transforming the data to a high-dimensional feature space in which classes are linearly separable leads to overfitting?
+Interlaced to De-interlaced
+What are the state of the art methods for person segmentation and person pose identification
+FPS to Hertz in a camera
+Image classification using SIFT features and SVM
+Establishing the function of a decaying signal
+What is a Phase Delay filter?
+Is there any fast algorithm to compute the most similar rectangular regions in two images?
+Flipping the impulse response in convolution
+How to extract the co-ordinates of an ECG signal from a scanned image
+What algorithm does Google use for its "Search By Image" site?
+Slicing and Recognition of book title and author from bookshelf image
+Estimating optimum sampling point for 16-QAM in MATLAB
+A feature extraction method: Principal Component Analysis (PCA)
+How do I compute the impulse response of a robot?
+Split and Merge image segmentation algorithm in OpenCV
+How to construct descriptors for irregularly shaped image patches
+Why are the bass components of music more audible than other components?
+Mapping the value of a sample in a 2-D DFT to cycles/pixel
+Hidden Markov Models - Identifying Phonemes
+Processing a heterogeneous image-collection for CBIR
+Impulse Response / Frequency response Question
+How to perform sound synthesis?
+Recover myself from Dilate and Erode for noise reduction
+Fourier transform of cosine to the power of 3
+Need help understanding 16QAM constellation diagram
+Determining the type of filter on an image
+How does resizing an image affect the intrinsic camera matrix?
+Showing processes as an Equation
+Failed to implement Goertzel algorithm in Python
+Can anyone suggest good algorithms for CBIR?
+How to adjust reverse range for Hue in cvInRangeS?
+Signal Processing using Fourier Transform
+When to consider double (64 bit) floating point for Audio
+How is a human whistle a pure sine wave?
+Difference of Gaussians
+Daubechies Wavelet and Matlab
+Ideal Low-Pass Filter Output?
+How to detect the edges of periodic signal?
+Adding noise to an ECG signal
+Showing frequency and amplitude after doing an FFT on a signal
+Vestigial Filter problem?
+What causes High Intensity Noise after Acoustic Echo Cancellation for a VoIP?
+Improving the performance of the Hough transform
+Calculating a homography based on detected lines
+Finding symmetric regions/patterns in image
+Hidden Markov Model
+Harmonic errors in acoustic instruments
+Why does the autocorrelation get its peak at zero?
+A Simple Lowpass Filter Behaving so Strangely
+Obtaining the Impulse response from the frequency of a discrete system
+Compare image segmentation approaches
+Voice Recognition - MFCC
+What is the ideal FIR length, given a specific pulse length?
+Looking for project ideas to match my interests
+Deconvolution - Richardson Lucy vs Wiener Filter
+Time domain interpolation using FFT with zero padding on the end
+SQNR when multiplying 2 16 bit signed integers and truncating result?
+FFT of color images incorporated into an Object Recognition method?
+Sinusoidal Synthesis of audio
+Detect human speech in realtime audio on mobile phones
+Emotional Tone detection using audio on mobile phones
+Time -Domain to Frequency Domain
+How to create an echo effect in audio samples?
+inverse mapping
+Audio Signal Noise Filter Problem
+Commenting frequency spectrum of a sampled data
+Real-valued ringing when zero-padding odd-length FFT
+Filter message from noisy voice signal
+Segmentation of half transparent material, e.g. glass
+Generate buzzer sound
+Projection Matrix (Computer Vision)
+Audio descriptor of data
+Interpretation of a periodogram: the effect of window sizes
+Scale and Rotation invariant Template Matching
+Matlab : Exploring the effects of co-efficient quantization
+Chop out frequencies outside human hearing range
+The transmitted signal of DPSK
+the relationship between bandwidth and the datarate
+Covolution of DTFT
+PSD of a windowed signal
+Ultrasound pulses and reflection problems
+Probability of random numbers
+Using Discrete Wavelet Transform in the time-frequency domain
+Why is it a bad idea to filter by zeroing out FFT bins?
+Is a DC signal 0 frequency or extremely high?
+Gradient Domain Reconstruction - Scaling Problem
+How Can I Resample a Signal with an Arbitrary Factor (For Example - 128000Hz to 16000.1Hz) in MATLAB?
+Zeroing bins before IFFT
+What is the procedure to obtain a 3D face dataset? Can anyone suggest a good 3D face dataset?
+Intuition for how a Fourier transform handles signals where the frequency varies with time?
+difference (or relationship ?) between power spectral density, power density function and periodogram
+Producing Colored Noise from a given PSD Data
+Object Tracing with Particular Color
+Inverse Discrete Time Fourier Transform of a given Function using the definition
+Matching features points of rotate image using SURF
+image correlation without fft
+Determining the period of a discontinuous function
+What's the difference between the Gabor-Morlet wavelet transform and the constant-Q transform?
+Acoustic features distinguishing the male and female voice?
+Will binarization / thresholding of image yield better results when performed in a linear color space?
+What happens if we change the limits of integral in Fourier transform?
+Perceptually Corresponding Error Map
+Why is Prewitt filter High Pass
+Understanding the Parameters of the Bilateral Filter
+How to identify impulse response of noisy system?
+narrow band frequency response creation and general FR question
+STASM or AAM which is more efficient
+Breaking a convolution into smaller pieces
+ARMA (Auto Regressive Mean Average) Process Representation as AR (Auto Regressive)
+Weight vector of an exponential moving average?
+Circular and Linear Convolution
+Qualitative Evaluation of Interest-Point-Detectors and Descriptors in Computer Vision
+Concept of finding forced response from difference equation?
+Finding linear chirp parameters from a low quality spectrogram, possibly with image processing techniques?
+How to find the envelope of a wide-band signal?
+Low-pass filter parameters for image downsampling
+What do colored noises look like in the time domain?
+Degraded image: Wiener Filter vs Wiener deconvolution
+Safe Point Thinning Algorithm - How to?
+FIR design : compute coefficients for the same frequency response at another sampling frequency
+Filtering + Images
+Combining Distance Maps
+How to construct an unknown signal from sparse periodic samples?
+How to recognize a zebra crossing from top view using OpenCV?
+How to properly perform convolution on bitmap image?
+Using GavabDB for 3D face reconstruction from frontal image
+A filter for for a realtime system?
+Determining what filter (if any) has been applied to an image
+Are there any filters that look (vaguely) like this?
+increase of encoding rate increases bandwidth?
+Online filter for EEG
+Blurring Non-Uniform Areas
+Why is oversampling helpful to an anti-alias filter?
+Viterbi decoder on a bit stream where the preamble is also coded
+Sum of sines sound wave using microcontroller
+Interpolation with an FIR filter
+Is it always necessary to use two cameras to find the distance between camera and object?
+White Road Sign Detection
+Question about Prony's method
+Fourier transform of images and phase filters
+Piano pitch detection
+Signature of a Signal for anomaly detection in Power Systems
+Vertical lines noise in spectrogram
+How to Deduce a Linear System's Impulse Response from a Set of Input and Output Signals?
+How to mix two signals without changing the overall loudness?
+How can I detect potholes using an accelerometer mounted in a vehicle?
+Face recognition using independent component analysis (ICA)
+Implementing IIR filter using FSM
+Looking for algorithm to extract line network from binary images
+Digital image moments in plain English
+Downsampling and Gradient filtering
+Looking for algorithm to extract line network from binary images within LabView
+Grouping clusters using Mahalanobis distances
+change FFT bins position
+I and Q components and the difference between QPSK and 4QAM
+Any references for the trade-off between software and mechanics/optics in industrial machine vision systems?
+Adaptive thresholding based on number of pixels
+Help Understanding Convolution Filter Formulation
+How to Extract High Frequency and Low Frequency Component Using Bilateral Filter?
+Frequency Response Error for IIR Butterworth in GNU Octave
+Why is the gain of my IIR filter positive?
+What does double hat mean in Spectral theory?
+Gesture recognition using only simple techniques
+How to Obtain Mathematically High Frequency and Low Frequency Component Separately Using Bilateral Filter?
+Determining Toy Helicopter Orientation From Image
+Use Butterworth and Chebychev filters
+How to generate a good Sinus audio signal of specific SampleRate, DataBits and Chunnels in a time frame
+Convolution in Image Processing?
+Determining the noise floor of a signal in the frequency domain
+Extract frequencies from PCM signal
+How much of a problem is the Gibbs phenomenon and would this solve it?
+Finding optimal detectors by numerical optimization (Canny)
+Calculating the gain for adjusting sound level to X db
+Help calculating / understanding the MFCCs: Mel-Frequency Cepstrum Coefficients
+Counting shape changing pattern in signal
+Is the Canny algorithm enough for creating a feature descriptor image for input to an SVM?
+All-pass filter implementation in numpy
+Local histogram equalization
+Strange noise deviation formula
+best robust feature detectors for detecting similarities among archeological signs
+Prepare Buffer for Inverse FFT
+Finding the frequencies given in a wav file
+How to use convolution operator in matlab?
+What features to use for multilayer perceptron model of an EEG signal?
+FFT time domain average vs frequency bin average
+OFDM transmitter data rate
+best window for close frequency components
+Filter for Reducing Background Noise in Image
+Grayscale morphology
+Optimal DC-free line encoding
+Assumptions for Hurst exponent calculation
+Common methods of transmitting digital data through an extremely noisy audio signal?
+What audio effects, filters, distortions, etc. create a "vinyl" effect?
+Skype's SILK Codec
+How to compare two speech recognition softwares?
+Frequency of a periodic signal with distortions
+There are other shape properties scale-rotation invariant except HuMoment?
+Dynamic time warping in percentage
+Doppler effect on phase
+Steps for recognizing hand written signs
+IFFT Concept in OFDM
+Viterbi Decoder - Decoding Continuously Encoded Stream Partially
+Speech comparison algorithm for rating on similarities
+Word-length optimization of a fixed point chain of multipliers
+Common Use Cases for 2D Non Separable Convolution Filters
+Logarithmic fourier transform(LFT) on audio signal
+Eliminate Signal A from Signal B
+Get an input signal from LTI system output, find impulse response
+The meaning of $k \delta (t)$
+Recover Filter Coefficients from Filtered Noise
+Gibbs phenomenon in Hamming's digital filters
+Why do you get instantaneous phase by calculating correlation with a carrier signal?
+How to send / receive a short impulse in an extremely noisy signal with high timing accuracy?
+I and Q Channels
+Why is the state space representation, $dx/dt = A x(t) + B u(t)$ linear?
+Avoiding padding during FFT calculation
+Find branches in skeleton image using matlab
+check power spectrum
+IIR filter design in matlab
+Scalogram (and related nomenclatures) for DWT?
+A very fundamental question about average normalized power of noise
+Is Kalman smoother symmetric in time?
+Correct method for drawing waveforms
+Local signal-to-noise ratio for an image
+Chebfun versus Parks-McClellan
+filling holes of a 3D image in Matlab
+A Laymans Fourier transform and harmonics explanation?
+reduce harmonics produced by microcontroller
+Why does the excitation signal appear, separated, at high quefrencies in the cepstrum?
+how to extract telephone audio only from an mp3
+what is the effect of variation of duty cycle of sampling frequency on a reconstructed signal
+Recover High Frequency Loss in a Simulated Power Spectrum
+Why histogram equalization fail in enhance images for bimodal histogram?
+Pisarenko Harmonic Decomposition
+Obtaining the variance of the image noise
+Wavelets and cryptography
+What are the uses of those three types of wavelet transformations?
+What are some methods for detecting a sinusoid in noise?
+Are there characteristics of photographic film that would make it an analog medium?
+Sampling a Unit step function
+Determining the "whiteness" of noise
+Trying to understand whether digital signals help in better bandwidth utilisation or not
+Multidimensionnal wavelet admissibility criteria
+Sample text to collect all possible English biphones for Text-To-Speech
+maximum contrast using linear gery-level trasformation
+Voice sample prediction scheme
+Intersymbol Interference -- Root raised cosine filter redundant if doing impulse response equalization?
+Meaning of Q and I in all-software QPSK communication systems?
+Working backwards from PSD to possible signal
+Rotating a 3D image
+creating a seamless signal / loop using interpolation
+get amplitude difference via cross correlation?
+Calculating the SNR of a video
+How to Select Point Spread Function Empirically for Image Deconvolution?
+How do I find the power of a specific frequency at a specific sample of a discrete time varying signal?
+How to find the phase lag between a sinusoidal input force and the response?
+Understanding Integration Scale in Multi-Scale Harris Corner Detector
+PC-to-PC data communication over Sound FSK / PSK / DSSS
+pitch vs playback rate
+How is symbol synchronization with OFDM done?
+Why does OFDM use cyclic-prefix while QPSK uses root-raised cosine filters?
+DSP programming in C/C++
+How replicas are formed in Frequency domain when a signal is sampled in Time Domain?
+Group Delay of a system
+Finding out modulation index and DC offset
+Separating similiar object in an image
+About FM signal's proving
+Global Transforms besides the DFT?
+Most common modern day Image Segmentation techniques
+Calculating a delayed response of a system
+Is the mean of visible color in CIELab color space can be non visible color?
+Dynamic Time Warping - Comparing Values
+Using phase information to extract sample values
+How can I graph a simulation of a FM 16 bits codification?
+Keep the exact frequency content - Multidimensional fft
+Problem with the definition of Linearity
+Phong Reflection Model Parameters
+Smoothing data from a 3D camera
+Image Matching on iOS
+Why do object-boundaries look better on a badly rectified image?(openCV stereo correspondence)
+Given f(x) and its FFT F(u), I need to prove that df/dx = F(u)*2iu(pi)/n
+How should one select this filter coefficient for a pre-emphasis filter?
+Recognizing hand-written archaeological signs
+Filtering Corners Detected on Multiple Scales
+What is the meaning of BPSK(n)
+Finding the Amplitude spectrum of a FM signal
+Make Haar Functions periodic
+Cut off frequency for low pass filter
+How do I check controllability and observability using Gramian matrixes?
+Setup frequency array properly
+Local Image Features Extraction for Road Signs
+Algorithm correcting chromatic aberration on hyperspectral images
+How to compute generator matrix from a parity check matrix?
+How to calculate signal which is not changed by a filter?
+Lesser bins histogram looks more equalised than higher bins histogram after histogram equalisation?
+How do I use the step and ramp functions to create a specific signal?
+Compare luminosity beetween groups of images
+NRZ vs. Manchester pulse shaping filter (Modulator)
+How to calculate Noise and distortion of an image?
+Keypoint orientation with the oFAST from Rublee's ORB
+Determining Type and Bandwidth of a filter
+wavelet denoising routine for environmental data series
+Approximating the frequency response of a median filter
+wavelet analysis normalized to have unit energy
+What is a good distance measure for matching SIFT descriptors depending on the distribution of their noise?
+Difference between 'conventional' and 'adaptive' beamformers?
+Shifting / Permutation of an array taking a long time
+What distance metric can I use for comparing image features in a nearest neighbour algorithm?
+Bessel filter second-order sections Q and Fc multiplier derivation
+How to mimic/copy/fake someone's voice?
+How can i measure shape elongation feature in matlab or python opencv?
+How to perform model fitting for system identification
+How to choose FFT depth for ADC performance analysis (SINAD, ENOB)
+Variance calculation from PSD
+How do I start studying Gabor Filters ?
+How do I find Gray Level Variance of the Image?
+Received Morse Code signal-to-noise ratio?
+Calculating the volume of a triangular mesh?
+ADC performance simulation: How to calculate SINAD from FFT?
+Relationship between DCT and PCA
+What is the standard way to use z-score with EEG?
+DFT as convolution question
+About the fourier transform of Periodic Signal
+Object-Recognition using SIFT: Switching the order of images creates two different results
+Texture mapping on a 3D face from 2D face image
+Derive minimum phase from magnitude
+Median Filter one after another
+How does subpixel image shifting using DFT really work?
+Affine transformation on a pixel grid
+How to calculate the quantum of the difference between two value of clock counter where the values are divided by 64?
+Maximum Frequency deviation in Frequency Modulation
+Is gamma correction applied in my setup
+Classifying 2D shapes by the smoothness of their boundaries
+Extract hand written text from US census images
+Compressing A Range Of Decibel Values to One "Representative" Value
+Hidden Markov Models - Distinct Observation Symbols
+Image thresholding while retaining "underneath" contents
+How to denoise a conversation between two people?
+Converting frequency from $\textrm{Hz}$ to radians-per-sample
+Fixed point multiplication with negative numbers
+Hidden Markov Model for Speech Rcognition. HMM Number of States
+Reading the Wavelet transform plot
+How does Golomb-Rice Coding work?
+Fitting piecewise splines to noisy data
+Z-domain transfer function question
+FFT in MATLAB is shifted in frequency
+Non-coherent receiver for DBPSK: Implementation details
+What is mean by [1 -1] Filter?
+Implement average as correlation
+Convolving With half-Hanning
+Chirp z algorithm clarification
+Understanding this Haar Wavelet Example
+could anybody explains me why IIR filters do not have linear phase?
+Getting sound pressure level (SPL) for a frequency band from Welch's derived PSD
+Can Cholesky outer product version result in negative square roots?
+Calculating a filter's attenuation at a certain frequency from the Q-factor
+How to find the input if I have the impulse response and the output of a finite sequence?
+Detecting Individual Photos on a Scanned Page
+Can the Walsh Hadamard transform be computed for non power of 2 sizes?
+Evaluation of Keypoint Detector and Feature Descriptor Combos for Vehicle Detection
+Establishing Phrase Frequency in Audio Files
+Estimating Low Frequencies (including amplitude and phase)
+Is $\delta(n) = u(n) - u(n-1)$?
+How can a filter have zero group delay?
+How can I calculate the cyclic (periodic) convolution?
+How to relocate face points in opencv / face distortion?
+Memory of a filter used on real time digital signal processing
+Discrete Fourier transform in a multidimensional space
+How to process/generate a phase shifted frequency varying sine wave?
+Find the frequency response if i have the magnitude response?
+Why complex numbers are represents as a+ib and can't be as (a,b)?
+Ultrasonic data transfer
+Adjustable Notch Filter help
+Understanding Walsh coefficients
+What is the exact meaning of unstable system in DSP?
+Image processing and the Fourier Transform
+What distance metric can I use for comparing image features like elongation and solidity of each image?
+Using continuous verses discrete wavelet transform in digital applications
+Why is an interleaver often placed between an outer block code and an inner convolution code?
+Detect song changes in audio stream
+IIR filter parallelization
+IIR filter design in digital domain using the magnitude squared
+How Discrete sequence could have more than one Frequency
+Find out when an audio file is actually recorded?
+How can I detect clicks/ticks in a wav file?
+Low cost DSP development kit
+Filter Coefficients in MATLAB are always float data type
+Which approach is better for decomposing a image into high frequency and low frequency component?
+Object Classification using pyramid match kernel
+Finding periodicity of spikes, matlab
+How to predict the spectrum of an aliased/folded signal without looking at the FFT?
+Difference between two Sine wave equations
+How to soft decode DQPSK?
+1-D Wavelet Toolbox in Matlab
+Why Low Frequency called Approximation and High Frequency Detail?
+About voice filtering
+FFT Data Array Indexing
+Adding echo to audio sample
+Is this input function time varying?
+Distinguish vowels from consonants
+Alternative to support vector machine?
+Career in computer vision
+Why Wavelet developed when we already had Short-time Fourier transform
+What is the proper way to select the time-bandwidth product when doing multi-taper spectral estimation?
+Remove noise on edge (compression deffects)
+How can i compute perimeter and area of a skeletonized circle?
+What transform can I use to "zoom" in a specific portion of a signal's spectrum?
+Equal loudness curves: any good numerical approximation equations?
+Guitar String Replucks
+Viterbi Decoder - How does inverting the input bits affect the result?
+Viterbi Decoder - Symbol Alignment
+Scanning from Book - Gradient Removal
+Representation of frame image pixels
+What could an algorithm look like that iterates through all combinations of two variables to aim at a certain number of entries?
+How do I find the Hilbert transform (qudrature) of a discrete signal by convolution with a Hilbert kernel?
+Do I need to worry about synchronization in a digital signal processor?
+Why is a precoder necessary for DQPSK and what does it accomplish?
+Realtime filtering on a microcontroller, with dynamic cut off frequencies
+Matlab stores all level of Wavelet's Approximation & Details in a single Row
+Automatic Cropping of Arbitrary Shapes
+How to get some law parameters from its FFT figure?
+PSD (Power spectral density) explanation
+Radon Transform reducing the number of parallel beams (MATLAB)
+Goertzel algorithm: Relationship of magnitude
+Reconstructing Tree Limbs that are Occluded by Leaves
+Most efficient algorithm for comparing two paths
+Wavelet computation with filter bank - differing results
+Autocorrelation Jitter
+In image processing, what is the difference or relationship between noise and artifact?
+Could someone please explain to me about Directional Filter Bank?
+How do convolution matrices work?
+Extract sharpness from FFT
+How to turn Morlet wavelet into second generation wavelet?
+What is $F(0)$ is "dc" component in the context of image processing?
+Choice of cost function in adaptive noise cancellation
+Finding circle in binary image (R, not matlab)
+FFT Zero Padding - Amplitude Change
+How to know if the noise was removed in an image?
+How do you calculate/compute/determine the spectral coverage of a frequency spectrum?
+Why is Frequency Shift Keying more immune to noise than ASK?
+Does horizontal motion blur imply the shape of PSF is rectangular pulse?
+Normalized cross correlation via FHT - how can I get correlation score?
+Why are there vertical lines in the power spectrum?
+How can I find the amplitude of the 20 Hz frequency component of a signal faster?
+accuracy calculation
+Relative performance of RLS and LMS filters
+simulating multipath via tap delays in FPGA
+Usage of Digital Cosine Transform in lossy compression of images
+Gauss Markov Process
+Vehicle segmentation and tracking
+DSP library compatible with QT?
+2-D Wavelet output changing when using 'figure' command in Matlab
+Steganography using Wavelet transform, not every wavelet recovering the hidden message efficiently
+Constant Magnitude Chirp across audio band (Parseval's Theorem?)
+response of algorithm in non-equidistant time
+How should I modulate a $16$ bit input using FSK?
+Estimate input from measuring only RC filtered input
+Decompose video frames into slices
+How to resample in MATLAB one signal that is supposed to be convolve with another one?
+Fast fourier transform and frequency domain spike in wrong area
+Performing classification based on FFT results
+How to compute sinc period in frequency domain and width of pulse
+Compensate for standard deviation loss
+Is Entropy Coding in Wavelet equivalent to Huffman Coding in DCT
+Proving a cyclostationary processes signal
+Instantaneous Frequency variation
+Object Recognition
+How to Tell How Likely a Signal Is Present in Another One (Variance Unknown)?
+In edge detection, what value is being compared to the threshold value?
+How do convolutions become matrix multiplications?
+How to decide the number of cepstral coefficients?
+how do windowing functions not distort the signal?
+How to take the FFT of an undersampled signal
+DFT, cepstrum, LPC for feature extraction
+An intuitive way to understand the sharpen convolution filter
+fft result order compared to direct implementation of DTFS using text book
+Phase Locked Loop Basics
+Fit data to Gaussian distribution
+Amplitude and phase spectrum in MATLAB
+Detect lanes from a filtered image
+How to encode a byte array to sound file and then convert back?
+Strange noises when filtering audio signal
+Expected value of a Delta function times a function
+How to model/estimate channel in discrete time with different sampling time?
+Frequency response of Low pass filter and High pass filter
+How does Songify work?
+Is this system an FIR filter or an IIR filter?
+Contourlet transform for image compression
+Deconvolution in Python
+Q number format vs IEEE 754 format?
+If exponentials are eigenfunctions, where does the transient term come from?
+Sequential processing of uncorrelated measurements in Kalman Filter
+Finding the maximum of a real valued trigonometric polynomial
+Interpolation in Contrast Limited Adaptive Histogram Equalization
+BandPass Signal Vs PassBand Signal
+How to separate the upwards-propagating from the downwards-propagating waves?
+Approximation using a Fourier transform with low pass filter
+How to convert a sound file to any other data format which can be manipulated
+The Difference Between Bilateral Filter and Gaussian Filter
+FFT amplitude or magnitude
+Dynamically changing cut-off and sampling frequency of a digital filter
+Simulating analog filter using convolution or converting with fft
+How to do image reconstruction from array data?
+Gesture recognition with Hidden Markov Models
+Transform Length and event duration
+Random signal power spectrum
+State Space Observer Control
+Derivation of fixed-point $\tt atan2$ with self-normalization
+How to filter data to remove noise in MATLAB?
+Varying signal bandwidth with two signal generators
+How to stitch together MFCCs from multiple frames?
+How does filter bank work in image processing?
+FFT function isn't working on imported signals greater than a second
+How can frequency dispersion in a vibrating string be modelled using an LTI filter?
+Decimating a discrete time cosine function
+Parameter extraction from DFT results, possibly with leakage effects
+Properties of projected 3d points (to 2d), Principal component analysis (PCA)
+Is this a valid z-transform of $ \frac{1}{n^2}u[n] $?
+What is the state-of-the-art method for dealing with illumination issues in background subtraction?
+Correlation between 2 functions
+FFT of random binary data
+Finding Frequency Differences In Differing Amplitude Signals
+Training custom classifiers using trainCascadeObjectDetector
+Impulse Response Question
+camera motion detection
+Amplitude calculation
+How to apply convolution on a buffer
+Length of frames for calculating cepstral coefficients
+What is the relationship between frequency vector and the peak frequency in FFT?
+Reconstruction from Convolution
+Matlab DWT H-level
+Scatter plot: calculate box where 80 % of the points are
+Determine the optimum receiver and the corresponding $P_{eM}$ for an AWGN channel
+MATLAB: Why my Pixel Indices are so different from that in Spatial Coordinates
+Does any error correction code still work in such situation?
+IIR Filter for Smoothing (Low Pass Filter)
+What is the DTW result (applied to the MFCCs of an audio file) proportional to?
+Low Pass Filter Artifacts
+How to measure the short-time change in an audio signal?
+What is the phase and magnitude response of white noise?
+Computation time 1) fft, 2) 2-d convolution, 3) two 1-d convolution
+Spectrogram Analysis
+Melodic or tonal pitch contour tracking?
+Searching for image samples in order to create custom classifier
+How to get fundamental frequency of a signal using autocorrelation?
+Basic Algorithm for Image Classification
+Are there any measurements or test for whether an audio signal is stationary?
+How to blend images on a spherical surface / cube map
+CUDA vs FPGA for Image Processing; which is better
+Detect When Someone Has Stopped Talking
+Multithresholding- OTSU method
+Understanding convolution
+How to make pop-free, crisp two-beep ringtone?
+Spectrum of OFDM with raised cosine window
+How to perform carrier phase recovery in software?
+Periodicity property of DFT in time and frequency domain
+Filtering $ n \times n $ Images by Separable $ m \times m $ Filters. Computation Time for Filtering Using FFT, 2D Convolution and Two 1D Convolutions
+Dealing with spectral leakage between two frequency bins
+Logic behind unsharp filter in matlab
+How to find the group delay of IIR filters in Python/SciPy
+Question about the Haar Wavelet transform
+Where does convolution fit in DFT?
+Determine the type of filter from the transfer function
+Where can we find noises like Gaussian, Rayleigh, Gamma, exponential noises in real world images?
+Image processing: how do I erode on boundary and dilate inside boundary?
+How to show that this filter is a HP filter
+What is the role of complex exponential?
+Can I determine a system's $z$-domain transfer function from its pole-zero plot?
+How to normalize the power of a QAM signal?
+How to calculate the energy levels of frequency intervals of an audio signal?
+What is an algorithm to re-sample from a variable rate to a fixed rate?
+How to implement structures for difference equations?
+How to prove that Dilution of a time domain signal results in duplication in Frequncy domain?
+Apply AWGN noise to QPSK-OFDM symbol
+Verb for subtracting the mean?
+When should the sum of all elements of a gaussian kernel be zero?
+Finding the dominant tone in a signal
+Image processing, recognizing a small feature in a larger image
+information filter instead of kalman filter approach
+Intuition of Location on the Conic Axis TDOA solution
+Frequency resolution and timestep in DFT
+A better explaination for 'there's no flipping of the impulse response'
+DC to phase relationship with Low pass filtered sine and square wave multiplication and it's pitfalls. IQ Demodulation
+Points of interest in a spectrogram
+Question about harmonic calculations and other functionals for image analysis
+A simpler method or more descriptive answer to the Fourier Transform
+Banding in the derivative of a lock-in amplifier signal
+How to plot graph for coverage area
+Can you represent an audio signal in any other domains besides time and frequency?
+object level sensor fusion for multiobject tracking
+Intensity change after filtering this image?
+fit theoretical spectrum to simulated one
+Low recognition rates using GMM for image classification
+Frequency vector and fft
+How can detect the Left Ventricle (LV) Cavity into the MR dicom file?
+Fill matlab "ellip" function through transfer function magnitude response
+Why can the FFT always be mirrored in the middle of the x axis?
+RF mask (power spectrum measurement bandwidth)
+Types of rounding in coefficients quantization
+MR Segmentation to draw marker over the MR Dicom Images
+What is the difference between a simple gaussian filter and gaussian filter multiplied by its sum of it elements?
+How to detect underdamped harmonic signal?
+Power spectral density and SNR for AWGN
+Wavelet filter coefficients from the Morlet wavelet
+How to measure the agreement between to curves?
+How to implement Hilbert-Huang transform in finding image splicing?
+Calculate interbeat intervals
+Question on spatial sampling for non-linear and/or non-uniform arrays
+Erosion in image
+Remove spurious peaks of Hilbert transform
+How to get translation and roation data using 6DOF MPU6150
+what is window size?
+FFT of sine wave not coming as expected i.e single point
+Comparing multiple $\tt armax$ models
+Fixed point channel model for OFDM system
+FFT for a single frequency
+Morphology algorithm how it work for left ventricles dicom image
+Generating Music Tones, How to handle when tones overlap? (16bit samples)
+Ways to analyze electrical signals without FFT?
+Variance of White Gaussian Noise
+How to detection of the boundary of the left ventricle
+State space representation in s-domain
+Pole-Zero Plots Diagram Explanation
+IIR Filter structure implementation dynamic range
+Detection of regions of voice in music
+What is the theoretic difference in the ways to compute the spectrogram?
+Integrator and the multiplier in the Optimal Binary Detector
+Find the time lag for a wave
+FFT of input length 1536
+Am I understanding the phase angle from FFT correctly?
+Question about overlap-add
+Covariance matrix explanation
+How to filter pulse like jumps in a signal?
+Solution for FFT size 1536
+Best method to extract phase shift between 2 sinosoids, from data provided
+Interpolation vs Interpolation Filter?
+Do I get less accurate results if I do not use a power of 2 points for my FFT?
+Housekeeping operations in filters
+Converting floating point number to Q-notation fixed point number in C/Java?
+Filter order vs number of taps vs number of coefficients
+Effect of windowing on FFT magnitude
+Impulse vs Step response
+Hilbert transform filter for audio applications: Using IIR half-band parallel all pass structure
+How does a low-pass filter programmatically work?
+Help designing Butterworth filter
+Calculating similarity between two signal plots
+doing sine regression to recover the paramters from a given signal
+Symmetry of real and imaginary parts in FFT
+Extract feature area from image
+In a periodic square wave, how to change in a particular condition?
+Counting vechicles in an image
+Relation between CTFT and DTFT
+Geometric models to discard image features
+Automatic MRI Segmenation of Heart over Dicom Image
+Help in Retraining a HOG Descriptor using SVMLight
+Generalized Cross Correlation
+Determining sampling rate in OFDM demodulation
+OFDM coarse freq estimation
+Estimating the time offset (delay) between two audio signals in real-time
+Converting ADC output to fixed-point format
+How to find the normalized coefficients?
+Windowing a time domain OFDM signal
+what is probability density function (PDF) of periodic signal
+Fourier Transform Computer Vision Textbook
+Feature Selection by Filtering
+Oversampling then filtering and downsampling
+Second order sections and normalized factor
+“Subtracting” one audio stream from another audio stream
+How to distinguish between the different frequency domains?
+Other techniques like overlap save/overlap add
+Fourier series - time and frequency domain confusion
+What are some suitable methods for removing low-frequency line noise from measured data prior to system identification/deconvolution?
+Format location from LPC magnitude
+Implementing Wavelet Transform using Equations
+How to compute dBFS?
+What is the basic concept of Fourier transform
+How to automatically detect blurred document images
+FFT of size not a power of 2
+Ricean Multipath channel model implementation
+Measuring how "non-noisy" a sound signal is
+Interpolation by factor of 2
+Digital Image Processing
+Direct Form II , IIR filter
+Bit reverse order Technique in FFT
+What are reds and trans in Image processing
+One Source Signal Separation
+Signal level estimation, matlab
+What are some easy to detect reference mark shapes and corresponding detection methods?
+Kalman Filter: continuous state space, discrete observations
+Cross Power Spectral Density of Unevenly Sampled Data
+Extra 'fingers' found in graph after applying FFT in MATLAB
+Discrete Fourier Transform a dummy approach
+Which method should be selected to enhance the compressed image?
+How do I determine if a discrete signal is periodic or not?
+Zero-padding of MFCC coefficients
+retrieving original data from phase and magnitude of Fourier transform
+Phase Correlation and Negative Shifts
+Implementing a Kalman filter for position, velocity, acceleration
+Gaussian random generator
+Low pass fir filter with non-unity gain
+Optimizing FFT code for 12 bit processing on microcontroller
+A book that focuses on optimization methods for image processing?
+Interpolated FIR filter
+DCT of 4x4 checkerboard matrix - what's the correct result?
+Finger print skeletonization without using matlab functions
+2D FFT of Vector
+Kalman filter for position and velocity: introducing speed estimates
+obtaining "4 Hz modulation energy"
+Any Good Image Blind Deconvolution Algorithm for Removing Camera Shake
+What is the purpose of the log when computing the MFCC?
+Estimating number for iterations for gaussian smoothing
+How to calculate auto-correlation of a bpsk modulated signal or how to calculate expectation value of complex exponential function
+Phase Correlation - Poor Performance on Noisy/Blurred Images?
+How to determine a very low frequency signal?
+How to prevent Signal drifting when changing frequency
+How i can smooth a sinusoidal signal using it's local maximum
+frequency domain vs cosine wave amplitude
+How do I average frequency spectra?
+How the Saturated Pixels violate the assumption that the image formation process in linear?
+How to compute fundamental frequency from a list of overtones?
+Sampled signal reconstruction using matlab
+Image processing: using PCA for 3d object recognition
+Determining the mean of of a sampled signal (improvements to time averaging method)
+Estimating Plane Pose Without Knowledge of Intrinsic Camera Parameters
+Smoothing data by using Kalman filter
+Fisher ratio or F_ratio
+False SURF output in video
+Why does adding a time delayed version of a signal to itself create a filtered signal?
+Why do we use window in time domain rather than do FFT modify the spectrum and than inverse FFT
+Explanation of LidarBoost Algorithm?
+Recording and playback of sound, frequencies question
+Need for Oversampling in OFDM and symbol time determination
+How to proceed for BOW creation From sift features
+Delta-limiting filter
+Simulink continuous to discrete question
+generating ultrasonic sound in matlab
+Why are there only a few high frequency components in the Discrete Cosine Transform?
+How do decide which order my butterworth filter should have?
+Segmentation of microscopic images
+How do I calculate the color temperature of the light source illuminating an image?
+Why do we need to flip the kernel in 2D convolution?
+What do I do with the result of an FFT?
+Is there a need of Point interpolation before proceeding for gaussian smoothing of an incomplete distribution?
+Image restoration using java
+How Exactly Does MATLAB Zero Pad Signal?
+Spatial and temporal frequency of a wave
+Benefit to know Fourier series for image processing?
+Appropriate sampling frequency for bpsk modulated signal
+What are the differences between the various FFT algorithms?
+Even after applying a low pass filter, why is there a DC offset?
+How do I convert a filter from Spatial to Fourier domain?
+The Effect of a Kernel on an Image By Filtering
+Digital control: Exercise solution
+State of the art in Cancer tumour detection using Digital image processing algorithms
+Getting stuck into an open source image processing/computer vision project
+Is it not possible to perform non-linear filtering in frequency domain?
+Coloring a waveform with spectral centroid or by other means
+What is the uHz-rotator algorithm?

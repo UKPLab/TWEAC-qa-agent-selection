@@ -1,0 +1,154 @@
+Are there any frameworks for managing the exchange of XLM between two XLM addresses when the receiving end party address isn't known?
+Where is the name 'Stellar' derived from?
+What day of the week does the Stellar network pay out inflation?
+How do tokens give one cash?
+How to set inflation for tokens?
+Why can't you purchase XLM using standard currency?
+Offers have an amount and a price. Why not just two amounts?
+How can I create a paper wallet for Lumens?
+Error: no PRNG in Safari web workers
+How much inflation to expect each week?
+How do I conduct data analysis on Stellar?
+What are the best ways to calculate the time for XLM transaction based on the projected growth of the network?
+How are the Stellar (XLM) and Ripple (XRP) protocols different?
+How do I select an inflation destination?
+Does a Historical Traffic Chart for the Stellar Lumens Platform Exist?
+How to close a stream event?
+What would a transaction between two parties who unknowingly use XLM look like?
+How might the account 'Flags' evolve over time?
+'Skip List' examples?
+Regarding Data Entry extensibility
+How do nodes in the Stellar network work?
+How would I make a transaction to buy a physical product using the Stellar Network?
+What is the correct way to implement sub-accounts within one master account?
+How to create a token on the stellar network?
+How do I install the Stellar app on my Ledger Nano S
+What is the incentive to run a Stellar node?
+What is the rationale behind locking up base_reserve?
+Find accounts that vote for an inflation destination
+How is a private key more secure than the account / password authentication?
+Terminology - What's a Ledger in Stellar?
+Is it possible to forward transaction fee onto someone else?
+Can Stellar Assets be transferred to an un-trusting account?
+What's the rationale behind Stellar Inflation?
+How to find a secure wallet
+How big is the ledger?
+How do you fund an account on the testnet?
+How does Stellar's ATM work?
+A beginner friendly and transparent guide to inflation pools?
+Is there a way to unset home domain and inflation destination options?
+Is something like smart contracts possible in Stellar?
+Is inflation voting chain based?
+Where will the tokens released on Stellar be stored?
+Are there any known weaknesses in the Stellar Consensus Protocol?
+Is stellarpool.net safe?
+How can I find my test transaction from Get Started Guide code on the Stellar TestNetwork?
+Send funds with Fees Included or Not Included?
+Is it possible to require authentication without a federation server?
+How is Stellar base reserve voted?
+How to become a "Verified entity" on Stellar Dashboard?
+Is there a speed difference between the SDKs?
+What prevents the Stellar Development Foundation from flooding the market with the ~90M XLM they hold?
+How do I keep track of payments to an address with JS SDK?
+Can Stellar-core be packaged in a container system such as Docker?
+What knowledge and skills are needed to create an App payment checkout with Stellar Network?
+What is the status of the Stellar Open Institute? Can developers still get involved?
+Web Wallet requirements
+Are there any steps taken to prevent spamming the Stellar network?
+Reserve Balance Increase for Each Trustline?
+How do I ensure that validator maintenance is safe for the overall network?
+How does the Stellar Consensus Protocol prevent Sybil attacks?
+Do transaction fees scale with the size of the transaction?
+What is the purpose of the Inflation *operation*?
+How does Stellar solve the problem of "double-spending"?
+How can I determine when the last inflation was distributed?
+Is there an online wallet that supports 2FA and pays inflation?
+Instantly distributing payments to multiple parties
+How to find the public key given only the seed?
+Can an inflation pool be hacked to send all weekly lumens to 1 address? [third-party]
+What sort of simple tasks could I add to my wallet in the stellar SDK?
+Upper limit for managed data
+Why is Stellar on HTTP and not HTTPS?
+Inflation pool ledger protocol
+Transaction fails without error code
+What is the best method for key validation?
+How to get base64 envelope for transactions or operations?
+How do I use the flag: authorization revocable
+Does the ratio of number of transaction of number of operation mean something?
+Is there a way to get a list of all asset pairs being traded on the distributed exchange, and the order book for each?
+Question regarding Stellar Attachment Convention 'route' param and general clarification
+How is stellar going to help the underbanked?
+How is node membership handled on Stellar?
+How to get a list of all nodes on the network
+How to generate a Stellar keypair without the SDKs?
+How to build and sign transactions without SDKs?
+Comparison of Transaction Speeds vs. Other Platforms
+Does every transaction on Stellar need XLM as a bridge between 2 assets?
+How much bandwidth does a running validator use?
+Can I create a non-fungible token?
+Which cryptographic algorithm is used to generate the secret and public keys?
+Is the client responsible for the federation lookup and response?
+Why is asset conversion limited to 6 hops?
+Why did the project settle on XDR for external data serialisation?
+When is account sequence number incremented?
+Enforcing Non-Native Asset Transactions
+What is the process for the community to propose an XLM lockup?
+Any way to encode useful information into the memo?
+What is the Safest Way for Users to Sign Transactions Over the Web?
+How do 2 people sign a transaction from different clients?
+Reason for base fee change?
+Who is the bifrost counterparty?
+How does the Stellar Network tell the difference between a newly issued token and a Lumen?
+How can I list and sell Stellar based Tokens (not XLM)?
+Do tokens created through Stellar map one-to-one?
+Freezing assets and sending them back to the original issuer
+ChangeTrustNotAllowed Error
+What encoding is used for the data in account data?
+What is "Bump Sequence"?
+How can a validator node earn trust on the network?
+How are changes in the stellar protocol implemented?
+How can I generate the Secret Key from my Ledger Nano S 24 word passphrase (BIP39)?
+Connecting to transaction server sockets
+Is there a public queryable version of Stellar.db out there?
+What do I need to know to set up a business to accept cryptocurrency through the stellar blockchain
+Authorization immutable (0x4) - Use case
+Custom keypair with the Ledger Nano S
+XLM storage on hardware wallets Ledger Nano S vs Ledger Blue
+Scalability on Stellar network
+How to connect to peers/store into account/accountdata tables when running stellar-core on windows?
+How to use the ManageOfferOperation with Assets in the Java SDK?
+How to access the "All Operations" Horizon endpoint using the Go SDK?
+What is the average transaction time on the Stellar network?
+What is the Stellar transaction data structure?
+Is it possible to run Stellar over Tor?
+Inflation from a cold wallet?
+How can I configure horizon to download and retain the entire history and never delete it?
+How do I get an historic view of the inflation votes?
+Which is the real funding account? Duplicate funder in blockchain
+Does the second letter of the public address having any meaning since it only appears to be one of four characters?
+Issue with Stellar Quickstart Docker Image
+How can I build a transaction with a dynamic list of mutators or operations using the Go SDK?
+How to parse current offers with the Java SDK
+Add and remove multiple signers in one transaction
+Using Java api, how to find out the memo attached to a payment operation?
+How to listen to a third party account for stellar transactions from now?
+How/where can I host a stellar-core watcher node outside of local?
+When is a slot created in the Stellar Consensus Protocol?
+Issue establishing SCP with Public Network
+How do you cancel all open trades for a Stellar account?
+Signing transaction envelopes
+How do you market buy an asset?
+Monitoring if offers are filled
+How to place time restrictions on assets issued to a persons wallet
+Relation between Operation, Payemnt and Effect
+Listing all effects for a transaction
+Using IPFS hashes in stellar transaction / MEMO
+Where to enter javascript SDK commands (to generate seed for example)
+Why is SHA256 a signature type option for a multisig transaction?
+How many public addresses can be generated for a stellar public key?
+Why does my fully synced Horizon/Stellar Core node return different data from horizon.stellar.org?
+Confusing Effects after Set Options transaction
+Stellar offer fulfilment process in orderbook. Are partial bids accepted by Stellar?
+What gives stellar value?
+How is the node ID assigned to a stellar core node?
+Create offer has no _effect_

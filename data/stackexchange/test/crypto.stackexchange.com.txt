@@ -1,0 +1,2000 @@
+What are the benefits of the two permutation tables in DES?
+Why use a 1-2 Oblivious Transfer instead of a 1 out of n Oblivious Transfer?
+Why do we append the length of the message in SHA-1 pre-processing?
+What is the general justification for the hardness of finding preimages for cryptographic hash functions?
+How can I use asymmetric encryption, such as RSA, to encrypt an arbitrary length of plaintext?
+How were the DES S-box values determined?
+How to provide secure "vanity" bitcoin address service?
+How can a random salt for a hash function work in practice?
+What are the practical differences between 256-bit, 192-bit, and 128-bit AES encryption?
+What makes a hash function good for password hashing?
+How do I apply differential cryptanalysis to a block cipher?
+Current mathematics theory used in cryptography/coding theory
+How can SSL secure a two-way communication with only one key-pair?
+Necessity of Randomness of Salts?
+What are the main weaknesses of a Playfair cipher, if any?
+Salting when encrypting?
+With sufficient randomness, is XOR an acceptable mechanism for encrypting?
+Is it feasible to build a stream cipher from a cryptographic hash function?
+Known methods for constant time (table-free) AES implementation using 'standard' operations?
+Taking advantage of one-time pad key reuse?
+What are the details of the DES weakness of reusing the same IV in CBC mode with the same key?
+Protocol to generate Client Certificates at the start of a SSL session automatically?
+How can I generate large prime numbers for RSA?
+Should DES be avoided when developing new systems?
+advances in usability for cryptography/authentication
+Replacing the Rijndael S-Box?
+RSA with small exponents?
+Is using slow password hashing on the client side easier attackable than on the server side?
+Are there any tools for expressing the cipher operations as a system of equations?
+Sites to find crypto intermediate values
+Why did NIST remove The Lempel-Ziv Compression test from the Statistical Test Suite?
+Is key size the only barrier to the adoption of the McEliece cryptosystem, or is it considered broken/potentially vulnerable?
+Why does PBKDF2 xor the iterations of the hash function together?
+Is it possible to derive the encryption method from encrypted text?
+Can one efficiently iterate valid bcrypt hash output values?
+Encrypted text length in AES
+Reduction from signatures to encryption?
+Why is there an enormous difference between SAT solvers?
+Is it possible to create an asymmetric cryptosystem where the private keys are not easily verifiable as such?
+Should I use the first or last bits from a SHA-256 hash?
+Tactics available to help prove security of a new system?
+Are there asymmetric cryptographic algorithms that are not based on integer factorization and discrete logarithm?
+Should we MAC-then-encrypt or encrypt-then-MAC?
+Are any of the major asymmetric ciphers distinguishable (EG, RSA, ECC)?
+Should I use ECB or CBC encryption mode for my block cipher?
+How robust is discrete logarithm in $GF(2^n)$?
+Change in probability of collision when removing digits from MD5 hexadecimal hash values
+What is a white-box implementation of a cryptographic algorithm?
+Are there security issues with discrete logarithm keys not being uniformly distributed?
+Does unbalancing a feistel cipher always improve security? Does it improve security at all?
+UMAC: to what extent is it in use today?
+What exactly is the impact of the hidden subgroup problem on cryptography?
+Hermitian curves introductory references
+Design properties of the Rijndael finite field?
+XSL on serpent and rijndael - which is most affected?
+Are more complex algorithms easier to break with timing attacks?
+Unpredictability of X.509 serial numbers
+About Cryptography in a Character Language
+How can my application make sure the right symmetric key is used for decryption?
+Security of N bit HMAC
+Guarding against cryptanalytic breakthroughs: combining multiple hash functions
+Is there any open-source white-box implementation of AES or DES?
+Properties of PRNG / Hashes?
+Can an Enigma-style cipher of sufficient complexity be considered secure today?
+What alphanumeric string length can be used to guarantee no hash collisions from CRC-64?
+ID-Secret Scheme
+How does asymmetric encryption work?
+Is it okay to use a hash of a timestamp as the IV for AES?
+Cryptanalysis to reverse engineer a hash?
+Are common cryptographic hashes bijective when hashing a single block of the same size as the output?
+Is HTTPS secure if someone snoops the initial handshake?
+Mapping points between elliptic curves and the integers
+Is the logic for how the enigma machine worked documented somewhere?
+iSeries (AS/400) Database File: password encryption
+How secure is the Bitcoin protocol?
+How exactly are GPG keys (and prime numbers inside of GPG) mathematically related?
+How does the index of coincidence work in the Kasiki test?
+Where do I securely store the key for a system where the source is visible?
+Why isn't the alternating step generator used more often?
+How should I store passwords that need to be available in plain text?
+c# Correct Triple Des Block Encryption Usage
+Is the Representation Problem hard on elliptic curves?
+The use of cribs
+Is calculating a hash code for a large file in parallel less secure than doing it sequentially?
+How can I improve a password generation scheme based on a shared secret and URL?
+How should I calculate the entropy of a password?
+Which algorithms are used to factorize large integers?
+What is entropy?
+Applications of Group Ciphers
+What are the differences Between “White-Box Cryptography” and “Code Obfuscation”?
+What is the relation between RSA & Fermat's little theorem?
+What tests can I do to ensure my random number generator is working correctly?
+Why can't one implement bcrypt in Cuda?
+Where can I find useful data for cryptography/coding theory?
+Verify product without revealing multipliers
+Is the number of creatable torrents limited?
+What security do Cryptographic Sponges offer against generic quantum attacks?
+How can two different passphrases unlock the same content?
+Are these emerging threats against AES affecting your designs?
+Now that quantum computers have been out for a while, has RSA been cracked?
+Is there an algorithm to find the number of intersections of two sets?
+Proof that Alternating Step Generator and modifed ASG' have equivalent security?
+Is public-key cryptography the only option in this scenario?
+What is sent on the initial communication with Kerberos?
+How long would the 100 Year Cryptography Project have secured its data had it been started 100 years ago?
+Using an RSA private key simultanously as an AES encryption key to generate random numbers?
+Any good file format alternative to PGP for encrypting data at rest?
+Why does nobody use (or break) the Camellia Cipher?
+Are there public slow-but-strong algorithms out there that resist brute-force attacks better?
+Dictionary attack on pass-phrases on common algorithms?
+Is digest=HASH(HASH(a)+HASH(b)) equivalent to publishing two digests?
+Looking for cryptographic secure hash algorithm(s) that produces identical root hash for differently sliced hash list
+What is the post-quantum cryptography alternative to Diffie-Hellman?
+Is it safe to encrypt a public key alongside a message with AES?
+Can you create a strong blockcipher with small blocksize, given a strong blockcipher of conventional blocksize?
+Prevent double-spending with decentralized digital currencies without all transactions being public?
+How are constructs with data-dependent swaps and rotations cryptanalyzed?
+If a cryptanalytic breakthrough is made, what process should be followed?
+Authenticating data generated by a particular build of an open source program
+Does MD5 generate 128 independent bits?
+What place do prime numbers have in cryptography?
+Are there reference implementations of ECQV implicit certificates?
+How to collect, process, and transmit data securely?
+How to practically find solutions to a discrete logarithm?
+Is there a cumulative commitment scheme?
+What is the smallest plaintext/ciphertext size for an algorithm like?
+What is the signature scheme with the fastest batch verification protocol for multiple signers?
+Pairing-friendly curves in small characteristic fields
+GPG symmetric encryption and javascript
+Calculating the amount of zero bits to be appended to the message
+Types of Cryptography for a 4-8 bit microcontroller
+Alphabetic Substitution with Symbols
+How can we reason about the cryptographic capabilities of code-breaking agencies like the NSA or GCHQ?
+What is the sign bit for in Feige-Fiat-Shamir?
+Why is public-key encryption so much less efficient than secret-key encryption?
+Would RSA-encrypting a private key for itself constitute a vulnerability?
+Is modern encryption needlessly complicated?
+Time Capsule cryptography?
+KeeLoq showing that decryption is indeed the inverse of encryption?
+ANSI X9.9 Cryptography Standards
+What algorithm does PGP use to encrypt email?
+Does NTRU decrypt correctly now?
+SHA1 usage for passwords, alternatives and advantages?
+What is the most practical fully homomorphic cryptosystem?
+ElGamal signature without calculating the inverse
+ANSI X9.31: the purpose of the date/time vector in the PRNG?
+Does the generator size matter in Diffie-Hellman?
+What advantage does facebook's new encrypted access_token have?
+ElGamal signature - exploiting fallacious implementation
+Is this "layered" XOR cipher secure?
+Digital Signature Algorithm signature creation?
+Basic explanation of Elliptic Curve Cryptography?
+Mapping between subgroups and the integers
+How do I construct a 256-bit hash function from 128-bit AES?
+Is a changing public truecrypt container secure?
+How is the MJH double-block-length hash function constructed?
+Could one construct a cipher that is secure for friendly parties to use but insecure for hostile parties?
+Encrypting small values with RSA private key
+Background for modular arithmetic function
+Analysis of Repeatedly Enciphered Plaintext using Same Algorithm / Key?
+Can I select a large random prime using this procedure?
+What causes first block of AES decryption to be garbled, even with correct IV?
+Brute forcing CRC-32
+Understanding CRC
+Measuring entropy for a ciphertext only attack
+What is Identity-Based Encryption (IBE) and why is it "better"?
+How to forge Schnorr signatures if you can guess the challenge
+Converting a stream cipher into a block cipher
+What methods allow us to determine the language used in a monoalphabetic substitution cipher?
+What is the use of REAL random number generators in cryptography?
+Is Convergent Encryption really secure?
+Why use an Initialization Vector (IV)?
+Accelerating SHA-1
+Changing algorithms during encryption
+Designing a key expander out of ciphers
+How should one implement a delegated shared trust protocol?
+How to attack a classical cipher using known partial plaintext?
+How long does it take to crack DES and AES?
+New PRG from old
+Is there an effective way for public key generation in homomorphic encryption schemes?
+Webapp password storage: Salting a hash vs multiple hashes?
+Is there a simple hash function that one can compute without a computer?
+How to fairly select a random number for a game without trusting a third party?
+Can a computationally unbounded adversary break any public-key encryption scheme?
+In RSA, do I calculate d from e or e from d?
+Hashing or encrypting twice to increase security?
+Is the last step of an iterated cryptographic hash still as resistant to preimage attacks as the original hash?
+Are there any Secp256k1 ECDSA test examples available?
+How can I use Weierstrass curve operations with a=-3 for implementing operations for a=0?
+Need an introduction to SPKI (or "SPKI for dummies")
+Why isn't the IND-CCA property inherited when sending redundant ciphertext?
+A set of key pairs and one hash to secure them
+Is Diffie-Hellman mathematically the same as RSA?
+Where can I find Secp256k1 ECDSA test vectors?
+How can I prevent a message replay with RSA?
+Would the ability to efficiently find Discrete Logs have any impact on the security of RSA?
+What is the difference between a stream cipher and a one-time-pad?
+How exactly would someone attempt to analyse ciphertext produced by popular encryption products such as Truecrypt/PGP?
+How does one calculate a primitive root for Diffie-Hellman?
+Is it possible to spoof an identity cert modulus?
+Is CBC really dead?
+For Diffie-Hellman, must g be a generator?
+Why can't Diffie-Hellman be used for signing?
+How to enhance randomness of AES?
+How does HOTP keep in sync?
+Is there a secure cryptosystem that can be performed mentally?
+What is wrong with using SHA1 in digital signatures? Why is a robust hash function needed?
+How did the Koblitz/Menezes papers affect the cryptography community?
+Can ECDSA signatures be safely made "deterministic"?
+Google is using RC4, but isn't RC4 considered unsafe?
+Where can I get information on how to implement AES?
+SIM security for two messages
+How does one scale encryption strength upwards from 256-bit?
+Encryption scheme for social-network-like data sharing data via untrusted server?
+What is the "Random Oracle Model" and why is it controversial?
+If Bob steals Alice's private key, how exactly would he read her encrypted documents?
+How exactly would someone crack a private key passphrase?
+Using a mono-alphabetic substitution cipher with a different language per word
+At the current time, is SHA256 the de facto standard for strong cryptographic hashes?
+Signature scheme with two private keys, neither derivable from the other
+Can Pre-Paid Cards be cracked?
+What is the likely cause the RSA algorithm gives back plain text in this case?
+How to calculate the time it'll take to crack RSA or DH?
+Why choose an authenticated encryption mode instead of a separate MAC?
+Does anyone have a KAT for 3DES KO-2?
+Generating non-repeating N-bit IVs, which are indistinguishable from randomness
+How do other, non-RSA algorithms, compare to the PKCS #1 standard?
+How common are SEED certificates outside of Korea? When is support required?
+Is there an algorithm or hardware that can sign/verify natural time?
+When is an asymmetric scheme considered broken?
+Encrypt-then-MAC Confidentiality, Integrity and Authenticity
+How well does scrypt perform on different architectures / OSes?
+Why has the RSA factoring challenge been withdrawn?
+RIPEMD versus SHA-x, what are the main pros and cons?
+Strength of multiple hash iterations?
+Key Length & Hashing
+AES in ECB mode weakness
+How can I store confident data with OpenID?
+Does AES have any fixed-points?
+An Elliptic curve cryptography implementation which can be terminated
+uniquely identify a symmetric key
+Is there a hash function with 2048bit output?
+How can I encrypt + authenticate short strings into similar short ciphertexts?
+How can one break a monoalphbetic substitution chipher at pseudorandom text?
+Getting the encryption method and key from the encrypted data and the raw data
+Deniable Encryption from simple primitives
+Does RSA work for any message M?
+Is there a secret sharing scheme which allows delegation/re-sharing without reconstructing the original secret?
+Why doesn't preimage resistance imply the second preimage resistance?
+Is there any general description language for block ciphers?
+Is it feasible to build an index of prime factors?
+Can one generalize the Diffie-Hellman key exchange to three or more parties?
+public key cryptography and digital signature
+Endless PRNG from PRNG with specific stretch?
+Is the CBC weakness in XML Encryption a new discovery? Are other applications vulnerable?
+How to require two keyholders to decrypt a document?
+Is there a group of prime order which could fit the CT-Computational Diffie-Hellman assumption?
+How can rainbow tables be used for a dictionary attack?
+How can I encrypt more than 64 bit with the Data Encryption Standard?
+Does the XML Encryption flaw affect SSL/TLS?
+Why is $H(k\mathbin\Vert x)$ not a secure MAC construction?
+Why is it insecure to use a randomized IV for CBC-MAC instead of an all-zero IV?
+How can Cipher Block Chaining (CBC) in SSL be attacked?
+How to deduce enigma settings given a partial plaintext?
+Why would you expect to find a collision in a hash function after approximately $\sqrt{n}$ hashes?
+What is a hard-core predicate?
+If the PSK is known, is it possible to decrypt traffic from other clients in a WPA2 wlan network?
+Is Blowfish strong enough for VPN encryption?
+Decrypting DES with decrypted and encrypted data
+How does a key wrapping like RFC 3394 secure my cryptographic keys?
+Why do we need special key-wrap algorithms?
+Is there a secret sharing scheme which allows sharing of a secret (one-out-of-n)
+Threshold Secret sharing - How to create a shared secret from pre existing secret parts?
+Protocol for Randomized Oblivious Transfer?
+How does one measure the decrease in security, if any, of RC4 when mapping to a specific range of values?
+Academic papers on ECDSA security
+Can CBC ciphertext be decrypted if the key is known, but the IV not?
+How to choose constants in a cryptographic function?
+What is the purpose of four different secrets shared by client and server in SSL/TLS?
+How key materials are generated in SSL V3 from master secret
+Encrypting (CBC) identical files with same key and different iv, is it less secure?
+How much would it cost in U.S. dollars to brute force a 256 bit key in a year?
+Encrypting and obscuring data between site/user without SSL
+Is it reasonable to assure that p-1 and q-1 aren't smooth?
+How does one provide a secure and authentic communication channel?
+Avalanche effect in DES
+Linear Cryptanalysis
+Best way to reduce chance of hash collisions: Multiple hashes, or larger hash?
+What are preimage resistance and collision resistance, and how can the lack thereof be exploited?
+For public-key encryption, why does COA resistance imply CPA resistance?
+Cipher for Product Registration?
+Are there practical upper limits of RSA key lengths?
+Is H(k||length||x) a secure MAC construction?
+Why is elliptic curve cryptography not widely used, compared to RSA?
+Random Coin Flip using ElGamal and a Trusted Party
+What is the proper way to use a client nonce?
+RSA-PSS salt size
+Must the order of the groups in a bilinear map be the same?
+Advanced Access Content System (AACS) and Subset Difference techniques for Broadcast Encryption
+Encryption technique performance evaluation
+How does a chosen ciphertext attack work, with a simple example?
+Derived Shared Key vs Distinct Keys?
+What are the consequences of a MAC tag collision?
+Can you help with that definition for a CCA?
+A mathematical explanation of the DES encryption system
+Is a RSA-signature of some identifying data a safe way to implement a license key?
+Example of CHI Square test on Caesar Cipher?
+Message space in security definitions
+Does knowing common prefixes help crack blowfish?
+Security of simple xor and s-box cipher?
+Desirable S-box properties
+How can I create a fixed length output in my hash function?
+Using a Non-Random IV with modes other than CBC
+Is a book cipher provably secure?
+How does the wider cryptographic community view non-abelian group based cryptography?
+Verilog simulation of Data Encryption Standard
+ElGamal message signatures retrieving the secret value x
+How can one show that an ElGamal-like signature verification scheme is valid?
+Can one claim that AES is a perfect cipher?
+Is there any serious discussion about using blinding intermediaries in digital currency scenarios?
+Where is the proof of security of Diffie's cipher?
+Why is MixColumns omitted from the last round of AES?
+How to distribute session keys in public key cryptography?
+Are there any specific requirements for the function $F$ in a Feistel cipher?
+Software implementation of a commutative cipher?
+Hash or encryption function for challenge-response protocol?
+Is it a good idea to use bitwise XOR on a set of MD5 sums?
+How can I make my cipher show the avalanche effect?
+How to generate a list of unique random strings?
+What is the appropriate public key encryption for secure coin flipping?
+What is the property of RSA where N=e?
+Are safe primes $p=2^k \pm s$ with $s$ small less recommandable than others as a discrete log modulus?
+Is a using salt important when creating a hash data validator?
+Is HMAC-DRBG or Hash-DRBG stronger?
+How do we find the last two correspondences in an otherwise known even permutation?
+Generalizing the conversion of Diffie-Hellman to El Gamal
+How many possible input files are there who's length can be stored in 63-bits?
+Are there two-way encryption algorithms that include a work factor?
+Random oracle model proofs and programmability
+Cracking plain RSA without private key
+Does hash_df use binary or an ASCII hexadecimal representation for numbers to be passed to the hash function?
+Why are the random exponents so much bigger in the Socialist Millionaire protocol versus Diffie-Hellman key exchange?
+Is it safe to store initial counter value for AES-CTR alongside with ciphertext?
+Demonstrating the insecurity of an RSA signature encoding scheme
+What other one-way functions are used in cryptosystems?
+Why does the padding in Merkle–Damgård hash functions like MD5 contain the message length?
+Are there two known strings which have the same MD5 hash value?
+RSA-based authentication and key-agreement protocol
+What is the importance of Modular arithmetic in cryptography?
+How can I control the output of a hash function to output to specific data according to similarity?
+Definition of textbook RSA
+ElGamal: Multiplicative cyclic group and key generation
+Proof of security for RSA signatures
+How are trapdoor functions developed/found and where can I find existing ones?
+How do I solve this RSA instance for m?
+What does SSL use? RSA? El-Gamal? Elliptic curves?
+Zero Knowledge Password Proof
+How does GPG verify succesful decryption?
+Why is ElGamal considered non-deterministic?
+RSA: If n=35, show that e will equal d
+Malleability of ElGamal and Hashed ElGamal
+ElGamal Signature Scheme: Recovering the key when reusing randomness
+Cryptanalysis Affine Cipher: Brute-Force Search Vs. Meet-in-the-middle
+How do you find a cheater in Shamir Secret Sharing?
+How to choose a padding mode with AES
+How safe is it to derive MAC key from a hashed password?
+Creating a hash of XOR'd blocks
+What is the relation between Discrete Log, Computational Diffie-Hellman and Decisional Diffie-Hellman?
+Is EKE attackable by a brute-force password search?
+How is de-synchronisation of HOTP solved?
+Can I determine if a user has the wrong symmetric encryption key?
+Verifying the integrity of ciphertext using the cleartext hash?
+Why is AES resistant to known-plaintext attacks?
+How is the password sent across for verification?
+How close is homomorphic encryption to handling regular expressions?
+Does this block cipher mode allow for decryption?
+Does an attacker gain an advantage if they have the initialisation vector?
+How does one design a traffic analysis resistant protocol?
+Families of public/private keys in elliptic curve cryptography
+Including a "purpose" designation in a digital signature
+Inverses in Truncated Polynomial Rings
+AESManaged Trade Compliance Issue in United States
+In storing passwords in a database should I use a per-application salt in addition to a per-secret salt?
+Related-key attacks on AES
+Obtaining the key length of a columnar transposition, given a known plaintext word
+Why not use an algorithm's code rather than data itself for one time pads?
+How can I break REDSHIRT / REDSHIRT2 encryption?
+Counter mode secure hash algorithm
+Why programming languages don't provide simple encryption methods?
+Does AES-CTR require an IV for any purpose other than distinguishing identical inputs?
+Cycle attack on RSA
+Is it possible to create an easy to use encryption/decryption method that will never be comprimised?
+DES Crack simulation
+suggestions for cryptography projects for an ece 3rd year student
+two public keys with same passphrase insecure? | can two hashes be compared?
+Is it possible to validate a Public Key in RSA?
+RSA cracking: The same message is sent to two different people problem
+Feedback on rolling my own entropy gatherer
+Would it be secure to use random numbers from random.org in a cryptographic solution?
+Is ISAAC considered secure as a cryptographic random number generator?
+Does the position of the salt improve its effectiveness when hashing?
+Two untrusted party want to exchange data: how to ensure each one gets the data it needs?
+Compressing EC private keys
+Two mutually untrusted parties want to exchange data: how to ensure each one gets the data it needs?
+Is it possible to distinguish a securely-encrypted ciphertext from random noise?
+What is the most secure hand cipher?
+Is SHA-256 secure as a CTR block cipher?
+How can one securely generate an asymmetric key pair from a short passphrase?
+Can I safely replace XOR with ADD in a stream cipher?
+Key space size when either of two public keys are valid for authentication?
+When to use RSA and when ElGamal asymmetric encryption
+Information leakage from the ecryptfs filesystem
+Known Plaintext attack against XTEA?
+OCB - brute force against unknown IV
+How much can we compress RSA public keys?
+Is it possible to figure out the public key from encrypted text?
+A simple block cipher based on the SHA-256 hash function
+Is the AES Key Schedule weak?
+How to construct encrypted functions (with either public or private data)?
+Calculating private keys in the RSA cryptosystem
+Use of salt to hash a password
+Store user passwords in database using Java Application
+Helper data authentication in PUFs
+Why does the PKCS1 RSA private key structure contain more than just exponent and modulus?
+How can I avoid calculating with huge numbers when implementing the RSA algorithm
+Can nesting different ciphers with different keys ever decrease security?
+Stretching a random seed to maximize entropy
+How can I repeatedly prove I have data another has seen without sending the data and without the other storing the data?
+Provable Encryption
+What is the best way to send two floating point numbers to a server on the internet from a small device such as an arduino?
+Differential cryptanalysis - breaking the last round of FEAL4?
+RS Erasure Coding and Shamir's Secret Sharing
+Can I construct a zero-knowledge proof that I solved a Project Euler problem?
+Proving knowledge of a preimage of a hash without disclosing it?
+Can you help me understand ECC Cryptography and it's algorithm?
+Salts, how does the script know what the salt is?
+Can you help me understand what a cryptographic "salt" is?
+How do I correctly derive a Key and IV?
+Encryption/ciphers/codes in Chinese
+Why is RSA encryption key based on modulo $\varphi(n)$ rather than modulo $n$?
+Is RSA of a random nonce with no padding safe?
+Can md5 be used for encrypting data?
+How can I convert a DER ECDSA signature to ASN.1?
+Does RSA padding have to be unpredictable if the payload is?
+What type of hash functions provides non-malleability of hash digests?
+What is the key strength reduction encrypting only 160 bits of data using RSA1024 for signatures?
+Can one implement AES on 4-bit microcontroller?
+How to better generate large primes: sieving and then random picking or random picking and then checking?
+How to account for moore's law in estimating time-to-crack?
+How are timestamps verified?
+Anonymous trust/reputation system
+Why do we need asymmetric algorithms for key exchange?
+Best choice of finite field for AES on a 4-bit microcontroller?
+Is Common Name encoded in the certificate?
+Secure way to transfer data over NFC?
+How does PBKDF1 work?
+How to attack a general polyalphabetic cipher?
+Undecrypt using the OpenSSL EVP API?
+(Why) should I avoid using a randomized IV for CTR mode?
+Is there a known vulnerability when using identical key and salt with PBKDF2?
+Threshold Signatures for RSA and DSA
+Passwords with same SALT. What does this mean?
+Is there some way to generate a non-predictable random number in a decentralised network?
+How can I calculate the SHA-256 "midstate"?
+Is there a way to provide proof of batch RSA security?
+What is the 'Version Incompatibility" Problem in TLS 1.1/1.2 and 1.0?
+Any techniques for evading frequency based crypt analysis without encrypting?
+How does the MOV attack work?
+What are the advantages of a static ECDH key?
+Realize a MAC using a Pseudo-random function?
+Which one of the Block Cipher modes is the best?
+Rijndael vs. Serpent vs. Twofish: General comparison
+Exposing RSA private-key data... bad?
+Can one group the SHA-256 outputs depending on partial inputs?
+Standardized parameters for elliptic curve cryptography
+Combating traffic analysis over request-response protocols
+Are derived hashes weakening the root?
+How can one share information using the 'host-proof' paradigm?
+Can I secure my key by XORing it with a hashed password?
+How do public key rings work in cryptographic applications?
+How can I store a combination of multiple pass phrases?
+How can I generate a one-time password?
+secure multiparty computation for multiplication
+Why was ISO10126 Padding Withdrawn?
+What is an efficient random number generation algorithm
+Sending KCV (key check value) with cipher text
+What is the best way to put a backdoor in an encryption system?
+synchronization of counters in HOTP
+Can we use elliptic curve cryptography in wireless sensors?
+How to construct a zero-knowledge proof of a number of the form $n=p^a q^b$
+Finding CRC collisions for specific divisor
+Offline anonymous electronic money systems and their cryptographical base
+Is the $\ell$-Diffie Hellman Inversion easy when g is known?
+Is the new preprint "An Algorithm For Factoring Integers" by Yingpu Deng and Yanbin Pan worth reading?
+Can PBKDF2 be used to create an XOR cipher key to encrypt random plaintext?
+Signing a GCM MAC
+How large should a Diffie-Hellman p be?
+Cost of attacking Mobile OTP with a fake server
+How are primes generated for RSA?
+Alternatives to FHE for secure function evaluation
+In a lattice, how can one define a good basis and a bad basis?
+What should be the size of a Diffie-Hellman private key?
+How big an RSA key is considered secure today?
+Security analysis of a "one-time pad" type hill cipher
+What is the flaw in this model for homomorphic encryption?
+What is the computational cost of a public key certificate signature verification?
+What is “Implicit Authentication”?
+RSA security assumptions - does breaking the DLP also break RSA?
+How to take SHA-1 safely for my particular case?
+Is it safer to generate your own Diffie-Hellman primes or to use those defined in RFC 3526?
+Is the SILC protocol still used?
+How does the energy consumption of the SHA-3 finalists compare?
+Seeking special-use fingerprinting/hashing algorithm
+X.509 CSR: Why does CA remove signature?
+HASH Algorithm for 8 bits MCU
+Computational feasible to reverse MD5SUM?
+Security analysis of a matrix multiplication protocol
+RSA-OAEP versus RSA with Fujisaki-Okamoto construction
+Does security under ROM imply exactly what?
+Does a public key absolutely need to be used to initiate an encrypted session?
+Shannon entropy calculation: is $H(A|R·A) = H(A)$?
+Do parts of a hash carry the properties of the entire hash?
+Difference between "Signature Algorithm" and "Signature Hash Algorithm" in X.509
+Why do we use encrypt-decrypt-encrypt (EDE) in 3DES, rather than encrypting three times?
+Are there any authoritative definitions of "key stretching"?
+Complexity of arithmetic in a finite field?
+are CFB and OFB really meant for streaming?
+RSA-OAEP Input Parameters
+Permutations of pseudorandom data
+Division in paillier cryptosystem
+CBC - a canonical mode, even though there are streaming modes
+How to generate successive stream-cipher keys?
+Predicting values from a Linear Congruential Generator
+If you had to implement the BGN Cryptosystem, how would you do it?
+How does a "Tiger Tree Hash" handle data whose size isn't a power of two?
+Why do all hash functions use big-endian data?
+Is the following scheme secure for different cipher
+What is the purpose of using different hash functions for the leaves and internals of a hash tree?
+Why does RSA give better security on longer messages?
+Is this fixed length MAC unforgeable?
+How is BCrypt secure when it uses a static dataset for blowfish hashing?
+Are there any signature schemes that protect against collusion by multiple parties?
+Is SHA1 secure with such many inputs Z that Z = constant secret X + variable public Y?
+S-box Cryptanalytic Resistance
+McEliece for streaming data
+RSA encryption with private key and decryption with a public key
+What are the methods to construct a primitive binary nonlinear feedback shift register (NLFSR)?
+How should I check the received ephemeral Diffie-Hellman public keys?
+128 bit hash with least chance of collision?
+If plaintext is random, how does it affect my choice of encryption algorithm?
+Is it generally possible to employ brute force methods when the encryption scheme is not known? Why or why not?
+Block ordering and security in a MAC?
+john the ripper, usages
+Does the SHA hash function always generate a fixed length hash?
+Order Preserving Encryption for Numeric Data Values
+Secure Remote Protocol - Are these 2 equations equivalent?
+Unit testing a library RNG and its seeding for practical security
+How realistic is a dictionary attack on a secure remote password protocol (SRP) verifier?
+Checking a key before actually using it
+Is a subset of a random set still random?
+Factoring a polynomial over a GF
+How to calculate an IV when I have a shared private key?
+BigInteger in Java and Randomness
+Is compressing data prior to encryption necessary to reduce plaintext redundancy?
+What is the PRG period of stream ciphers such as RC4 or Salsa20?
+Which encodings have |encoding key| >> |decoding key|?
+ZKIP for Paillier public key correctness
+Is RSA padding needed for single recipient, one-time, unique random message?
+How to authenticate over open channel?
+Making ECDSA public keys one bit shorter
+Openssl implementation of improved sha1 hashing
+Can a user of a password-protected Wi-Fi sniff on other user's communication?
+Rapidly changing passwords?
+Are there any Implementations of Secure Indexes?
+Can you make a hash out of a stream cipher?
+Does AES with whitening mode have the following property?
+What are the advantages of TOTP over HOTP?
+RC4 : Keystream reconstruction?
+Does AES specify error messages when using the wrong password to decrypt?
+Do Rabin Fingerprints have any advantages over CRC?
+What challenge should I use in a challenge-response proof-of-work?
+Cryptographic security of PHP mt_rand() function using Mersenne Twister algo
+Implementing Paillier Signature Scheme in Delphi
+How does one attack a two-time pad (i.e. one time pad with key reuse)?
+How secure is AES-256?
+Cryptographically strong pseudo-random seq. generators
+Trouble with diffie-hellman groups
+Can the premaster secret generated by SRP be used as a secure private key?
+ECC algorithm pollard's $\rho$ complexity
+Can I use a one time pad key twice with random plaintext?
+Symmetric vs. Asymmetric cryptographic approaches to data security
+Encryption algorithm that produces dummy output on incorrect passwords
+Is there any known malleability of scrypt outputs?
+Why is the IV passed in the clear when it can be easily encrypted?
+Crypto-Compression Algorithms?
+Efficient and stateless anti-forgery method
+Predicting PRNG given some of its previous output
+RSA finding the inverse of the public exponent
+Twofish key length
+Can I use guids / uuids as counters for key derivation?
+My custom handshake
+In RSA, rationale for prime $p$ with $p-1$ having prime factor $u$ with $u-1$ having large prime factor?
+CPA distinguisher for matrix multiplication in GF(256) with randomized padding
+What is the difference between CBC and GCM mode?
+Is AES restricted to only 64 characters for the key/password?
+Does encrypting twice using the same block cipher produce a security weakness?
+Diffie hellman key exchange on elliptic curve over an extension field
+What is the largest performed/possible bruteforce attack to date?
+Is there a hash algorithm that is slow to calculate but relatively fast to check?
+How does a chosen plaintext attack on RSA work?
+Why does a broken hash function undermine an HMAC?
+Brute forcing Cardan grille
+What "Tag Length" should be used for the EAX MAC?
+Verilog simulation & synthesis of Diffie-Hellman key exchange
+Different inner and outer hash functions for NIST-recommended HMAC?
+One-way function and factoring
+Big-O Notation: Encryption Algorithms
+Security of stream cipher based on Matrix multiplication GF(256) with randomized padding
+Correctly generating cryptographically secure pseudorandom numbers (in C)?
+X9.62 Multiplying an elliptic curve point by a number
+What are advantages of using a HMAC over RSA with SHA-1 hashes?
+Blind signature with openssl
+Useful pairings for cryptography
+Is it possible to build an unfair noisy channel from 1 out of 2 oblivious transfer
+Simple xor cipher extension
+Can RSA encryption produce collisions?
+Can one reduce the size of ECDSA-like signatures?
+Deterministic nonces in CTR mode
+Most frequently used digital signature schemes in the recent years
+Security equivalence proofs for breaking RSA
+How much bigger does a precomputed lookup table get when salt is added?
+How can one sign with NTRU?
+Tips on conceiving safe software messaging platform
+How can I do a brute force (ciphertext only) attack on an CBC-encrypted message?
+How to solve MixColumns
+How are the primes used to generate RSA keys?
+Proving item association without revealing one of the associated items
+Can a digital money system exist, that's secure, anonymous and allows offline transactions?
+Distributed knowledge problem
+Finding the LFSR and connection polynomial for binary sequence.
+Is this authenticated one-way communication protocol secure?
+How to use RCON In Key Expansion of 128 Bit Advanced Encryption Standard
+Does the Biclique attack on AES pose a credible risk to its security?
+How secure is the Vigenère cipher in file encryption if you encrypt the password first?
+How to perform file encryption using 128-Bit AES?
+Which blind signature schemes exist, and how do they compare?
+Elgamal test vectors
+Can a proof be constructed to show there is no distinguisher?
+Existing dictionaries of popular words to help solve a random substitution cipher?
+Question about hash collisions
+Are asymptotic lower bounds relevant to cryptography?
+cipher text only attack - how to know when to stop when brute-force attack?
+Elliptic curve cryptography related key attacks
+Questions about Key Derivation Functions
+How to sign a message using RSA?
+Can you help me understand the Common Modulus Attack in a Lucas Group?
+Is a random length-extension worth the effort?
+In which situations is a length-extension attack a problem?
+Duration for attacking Two-Key Triple-DES Encryption using all RAM ever built?
+CBC key lifetime, or, "how big is too big?"
+Are there any MGF1 and OS2IP functions available in C?
+Why hash or salt when signing?
+Cipher Feedback Mode
+How strong is the ECDSA algorithm?
+How was the complexity of the Biclique Attack calculated?
+Elliptic curves for ECDSA
+How does the key schedule of Rijndael looks for keysizes other than 128 bit?
+How does Output Feedback mode use the initialization vector?
+Advanced Encryption Standard Algorithm Secret Key
+Comparison: complexity measures vs. security
+A fair peer-based coin-flipping protocol?
+Digital signature for an expiring password
+Has there been any cryptanalysis of RC4-52?
+One-way hash on encrypted data, result hidden from hasher
+Practical necessity of semantic security under chosen plain text attack (CPA) in CBC mode
+Can I encrypt user input in a way I can't decrypt it for a certain period of time?
+Can two different pairs of RSA key have the same modulus?
+Creating an encryption key from several other keys and using hash functions
+Complexity of ECB and OFB
+Which attacks can be avoided by the use of OFB instead of ECB?
+Generating Random Primes
+Is my HMAC secure if I have a complete series of HMAC'd prefix strings
+OTP from Sony BIOS password recover
+Do public/private pairs work both ways?
+Is Wiener's attack on RSA extendable to larger keys with low hamming weight?
+Public Key Encryption with forward secrecy
+How do I demonstrate that a PRNG not designed for cryptography is not suitable for generating passwords?
+Order of hashing concatenation
+Recovering the key in an ElGamal Signature Scheme variant
+How many RSA keys before a collision?
+Is it possible take a piece of data in secret?
+RSA re-encryption scheme
+How can disk encryption systems (like Truecrypt) resist frequency analysis when they allow random access?
+How does one implement the Inverse of AES' MixColumns
+How can we find Public key have only 8 or 16bits? How many messages does Eve need to know the Public key in RSA?
+Chinese Remainder Theorem and RSA
+Encryption with "constant" initialization vector considered harmful
+Is it fair to assume that SHA1 collisions won't occur on a set of <100k strings
+Why can’t DSA be used for encryption?
+How were the AES key and block length subsets of Rijndael selected?
+Initialization vector length insufficient in AES
+Is XOR in a CBC-like mode secure?
+Can A PRNG Be Used To Generate Multiple Private Keys for ECDSA?
+Why Addition Mod 32?
+Assistance Cracking Classical Cipher
+Determine complexity of a SAT problem
+Difficulty of breaking RSA for a given key size
+DGK Cryptosystem Encryption Speedup
+NTRUEncrypt - Choose the initial random polynomial
+Real life collision when only using truncated hash
+Algorithm Design for only Mutual Information Sharing
+What does the $\|$ operation mean in cryptographic notation?
+Lamport signature: How many signatures are needed to forge a signature?
+Why do new versions of TLS use an explicit IV for CBC suites?
+How do I generate a session key using the Diffie Hellman algorithm?
+Finding a solution to a (sort of) discrete logarithm by asking questions
+XSLT tranform in xmlsignature form, a part of xmldocument?
+How were the number of rounds for different key sizes of AES selected?
+DGK Cryptosystem Key Generation and Decryption Issues
+Order of cascaded ciphers
+Safe generator for ElGamal signature
+Is my pseudo-random initialization vector secure?
+Encrypting documents through a proxy key
+What is the time complexity of the RC4 encryption & decryption algorithms?
+Hash decrypts key, key decrypts cipher... why?
+Is it secure to use the hash of key as the IV in AES encryption?
+Attacks of the MAC construction $\mathcal{H}(m\mathbin\|k)$ for common hashes $\mathcal{H}$?
+Is every output of a hash function possible?
+Is the "Signed on date" of a PGP Signature Verified?
+ECDSA - point order criterion
+How can encryption involve randomness?
+After implementing a novel encryption algorithm, how would one go about analyzing its security or get help from others in doing so?
+Memory-hard operations in work-factor hash functions
+Galois fields in cryptography
+Linear Feedback Shift Register Taps
+Standard symbol / notation for "x knows y", or the inverse
+What is the harm if I publish an encrypted RSA private key publicly?
+Does the MixColumns step come before or after AddRoundKey in AES decryption?
+In which order are the round keys used during AES decryption?
+Do Cryptographic Hashing Algorithms operate only on Integers?
+Is quantum key distribution safe against MITM attacks too?
+Brute force a ciphered message?
+Algorithm to securely exchange identities
+Which MACs can be converted into a secure unkeyed hash function?
+RSA/DSA: Wouldn't it make sense to sign using decoding the data hash?
+OpenPGP Signature Packet hashed data
+Applying multiple hash functions to improve security?
+Why are MACs in general deterministic, whereas digital signature constructions are randomized?
+Safely use CryptSignAndEncryptMessage?
+One-time token to decrypt a local file
+Does omitting the first two lines of RC4's pseudo-random generation algorithm weaken the cipher?
+When to prefer exchanging cryptographic certificates over exchanging only public keys?
+In the SHA hash algorithm, why is the message always padded?
+How to properly add ECDSA private keys?
+How to get the keyword from a keyword cipher?
+LFSR dynamic mutation
+Replay attack prevention under strict conditions
+"Signing" with public key
+Is this streamable combination of encryption and MAC secure?
+Using compression to test encryption
+Are there any simple and yet secure encryption algorithms?
+K out of N encryption
+Is RSA in a ECB-like-mode safe for bulk encryption?
+How can I protect against the failure of a block or symmetric cipher?
+Proof of work scheme with one and only one correct answer
+Do these 2 KSA shortcuts weaken RC4?
+Removing Padded Value in Decrypted Message
+How can 3DES encryption use decryption in the middle step?
+SHA-512 hash collisions
+File Encryption/Decryption in ECB mode
+How does DJB's nistp224 manage to fit compressed points into 224 bits?
+In S/MIME, are the same certificates always used to sign and encrypt messages?
+How secure is my OTP program?
+Attack vectors introduced by compilers
+Why do block ciphers need a non-linear component (like an S-box)?
+Idea for secure password hash-likes, is this feasible/usable/workable?
+How hard is to find the operators of an addition knowing the sum of them?
+What's the reason for applying the hash twice when hashing with salt?
+Does a hash function in chaining mode or in counter mode make a better pseudo-random number generator?
+Padding for the TEA
+How did LinkedIn "salt" all their passwords?
+Okay to use OpenSSL to encrypt then sign a message?
+Transparent cipher
+What is the difference between known-plaintext attack and chosen-plaintext attack?
+Hash function in PBKDF2
+Encryption vs. decryption of same plaintext
+Addition step in MD5 implementation
+Does ShaCrypt have the properties which make BCrypt slow on GPUs?
+What algorithm would give the shortest ciphertext for very short plaintexts?
+Why does CBC decryption with a wrong IV still give readable results?
+How to represent a 32-byte SHA2 hash in the shortest possible string?
+What's the fundamental difference between Diffie-Hellman and RSA?
+Looking for cipher that uses one ciphertext
+Incorporating known ciphertext into new message
+Separate Read and Write Keys in TLS Key Material
+Why would anyone use an elliptic curve with a cofactor > 1?
+RSA Proof of Correctness
+Difference between encrypting something and hashing something
+Where can i find relative software for differential cryptanalysis?
+How do digital certificates work, and why is it not possible to reverse engineer one from a signed file?
+How does one verify a GPG/PGP key revocation?
+Tunnels used in md5
+How can the Schmidt–Samoa cryptosystem uniquely decrypt large messages?
+Why is ciphertext from low entropy plaintext not compressible?
+How can I find two strings $m_1$ and $m_2$, knowing that I know $m_1 \oplus m_2$?
+Is it possible to use the RSA algorithm, or a variant, for software licensing?
+Regarding matsui's Paper on Linear Cryptanalysis of DES
+HMAC vs MAC functions
+Toy cipher -- does it have a name?
+OpenPGP Public-Key Encrypted Session Key Packet Key ID generation
+Is this password migration strategy secure?
+Are there any differences between PIR, oblivious transfer and differential privacy?
+Is symmetric encryption vulnerable to plain-text-attacks?
+Goldreich-Goldwasser-Micali Construction
+Digital Signatures, Standard Hash Functions and MACs
+Does Identity-Based Encryption actually solve any problem?
+Can you distinguish encryption methods from the output?
+Is ECB mode secure if plaintexts are guaranteed to be unique?
+Why are there $ signs in my passwd file?
+Can I pre-define the points in Shamir's Secret Sharing algorithm
+Are there standards for transport layer security using only symmetric keys?
+RSA Signature - Multiple Use Weakness
+Partial collisions for md5
+How can I solve the discrete logarithm modulo 2q+1 if I can solve it in the subgroup of order q?
+Why must IV/key-pairs not be reused in CTR mode?
+What is the recommended replacement for MD5?
+Chaum undeniable signature - justification for probability of misleading the verifier?
+Do I have to recompute all hashes if I change the work factor in bcrypt?
+What do the magic numbers 0x5c and 0x36 in the opad/ipad calc in HMAC do?
+Use of nonces in Kerberos and Needham–Schroeder protocols
+bcrypt - collision-resistance against chosen salt and work factor?
+Is there a way to compare the 923 bit pairing based key with RSA or AES, etc
+What is the difference between these AES encryption methods
+Byte location of plaintext vs ciphertext when using a block cipher or stream cipher
+Getting started
+Does it make sense to use slow hashes in digital signatures?
+Expectation Value of the Index of Coincidence
+How much computing resource is required to brute-force RSA?
+Are there any known collisions for the SHA (1 & 2) family of hash functions?
+Are Stream Ciphers Less Secure?
+How does the cyclic attack on RSA work?
+Capacity of Advanced Encryption Standard in terms of File Encryption
+Is it possible to make time-locked encrytion algorithm?
+What is the advantage of an attacker over breaking a 4 digits PIN?
+Abstracting primitives and modes of operation
+Asymmetric algorithm to generate compact unique messages that can be validated
+How can I validate a hashed password if all I have is another hash?
+Length of data to hash for PGP
+Why does it matter for a signature scheme to be without random oracles?
+Generating a strong unique Initialization Vector
+Using bad generator in ElGamal Encryption
+Multiple Hash Functions that work in either nesting
+How are state wiretaps obtaining plaintext from encrypted transmissions?
+Setting protocol parameters to achieve concrete security
+Proof of work for standard computers
+Deciphering a key from XOR encrypted cypher using boolean logic
+Impacts of not using RSA exponent of 65537
+What is the correct value for "certainty" in RSA key pair generation?
+How to decrypt this RSA-like cipher
+Replay attack in ECB mode
+Probability of Repeated Encrypted Block In Output Feedback (OFB) Mode
+Does a high exponent compensate for a low degree of certainty?
+Vulnerabilities of encrypting data with known regularities
+Stream ciphers based on discrete logs
+RC4 Keylength Limits
+Poor man's SSL - is this method as safe as SSL/TLS?
+Idea for user/pass hashing to prevent rainbow tables, would it work?
+Is the Blum Blum Shub PRNG suitable to create initialization vectors?
+Using a derived key for CMAC
+128-bit Pseudorandom number Generator
+How many bits can be safely extracted from the BBS generator at each step?
+"SHA-256" vs "any 256 bits of SHA-512", which is more secure?
+Is this design of client side encryption secure?
+Multi layer encryption with ECB mode
+Why do we need Diffie Hellman?
+Is SSL getting faster because it's getting less secure?
+Proper formatting of symmetric algorithm secret key
+Do Quantum Key Distribution and Physical Unclonable Functions combine, and how?
+RSA algorithm's license free or paid?
+Encryption with private key?
+Format of NONCE in Initialization Vector (IV)
+Can we trust digital signatures?
+Entropy of system data - use all and hash, or trim least significant bits?
+KDF with low-entropy salts
+Untraceable communication protocol
+What differentiates a password hash from a cryptographic hash besides speed?
+Which of these 3 AES 128 symmetric encrypt/decrypt routines is most secure?
+Hash function from narrower block cipher operated in CBC-encryption mode?
+Counter Mode in Advanced Encryption Standard(AES) Algorithm
+Padding methods for block ciphers - PKCS7 vs ANSI X.923
+Combatting traffic shape analysis with spurious packets
+Signing 14 bytes of data
+Am I understanding AES GCM implementation correctly?
+Signatures: RSA compared to ECDSA
+Different implementations of SHA1, which one is correct?
+How to communicate authentication tag for GCM?
+Is the encryption of a hash a good MAC?
+AES-CMAC passes every test except two
+RC4 S-Box and Keystream
+S-box design criteria and random sboxes
+Is this a correctly formatted PGP session key packet?
+Is it possible to ensure security with zero pre-shared information?
+Using "Additional Authenticated Data" as a secondary key
+Conforming Randomness To An Alphabet
+Is MAC better than digital signature?
+Is bcrypt better than GnuPG's iterated+salted hashing method?
+PRNG taking advantage of very large seed
+Other than brute force, are there any attacks on Threefish-512 using only a single known plaintext block?
+Using same keypair for Diffie-Hellman and signing
+What kind of multiparty computation is this?
+Are there any papers explaining how to port textbook RSA to realworld RSA?
+Uncompress password protected WinRar file without password
+Why should the RSA private exponent have the same size as the modulus?
+How to securely use Elgamal encryption in libgcrypt?
+Is there any recent cryptographic algorithm especially designed for low-level processors?
+Is there difference between Algebraic Homomorphic Encryption and Fully Homomorphic Encryption Schemes?
+How to properly format a PGP Message Block?
+Relation between Threshold Cryptosystem and Secure Multiparty Computation ?
+Is truncating a hashed private key with SHA-1 safe to use as the symmetric key for AES for data at rest?
+Several questions about Paillier cryptosystem
+Signature and Timestamp for Long Term Document Archival Question
+Deniability of OTR messaging
+Why is a MAC needed with CBC?
+How does a birthday attack on a hashing algorithm work?
+Is there a standard for OpenSSL-interoperable AES encryption?
+Can I jettison MAC if I already have SHA1(M)?
+Is this a secure implementation of password reset email?
+Can a "pattern" in a series of passwords be detected from their hashes (and maybe a single raw password)?
+Recovering state of modified RC4 key scheduling algorithm
+Additive ElGamal cryptosystem using a finite field
+Trying to find an algorithm to share portions of a key with multiple people
+Generating a cryptographically secure, many-time use, symmetric encryption key
+Can I build a secure tweakable block cipher from a normal one by adding key and tweak?
+Is there a way to break this encryption?
+Pseudo preimage for a hash made from a cipher
+Cryptographical formalization of computational privacy
+Are mouse movement coordinates useful as a seed for a RNG?
+Purpose of outer key in HMAC
+Adaptive Hash Functions: How to tell how many iterations were used?
+Is just a bit of random, "fully random"?
+AES GCM symmetric encryption of data at rest in c#, ciphertext much longer than plaintext
+Should I use md5 for my new application?
+Why does ROT13 provide no cryptographic security?
+How do I calculate CRC32 mathematically?
+What would be the most effective way to brute force a 16 char AES key?
+Are there any multiparty homomorphic encryption schemes?
+What is the name of this kind of protocol
+Why do we need extra hashing if we could use simpler scheme?
+SSTP MSCHAP-V2 Authentication before SSL or after SSL Session
+Encrypt array of int for individual retrieval
+How many different keystreams can I produce with AES in Counter Mode?
+Why x00 is usually avoided in salt?
+Why does .NET's ECB mode implementation append a constant block to my ciphertext?
+Practical implementations of Multiparty computations
+Does TLS use RC4-drop[n]?
+Relative security of a Vigenère cipher
+Stream cipher malleability
+Can I use a key-derivation-function as the hash function H in SRP?
+What are the dangers of predictable (repeated) plaintext structures?
+How to jusify {e,n} is a valid RSA public key?
+MISTY1 Implementation error
+Is a second preimage attack on MD5 feasible?
+Aes encryption -The relevance of static matrix in mixcolumns operation
+Is it possible to match encrypted documents using user-defined search terms?
+Random decomposition of symmetric key
+Is RC4 a problem for password-based authentication?
+Blum Blum Shub vs. AES-CTR or other CSPRNGs
+Polynomial for secure communication
+How is the EAX-mode used in EAP-PSK (RFC 4764)?
+Existing works on pre-computing ElGamal ephermal keys
+How long does it take to extract a key from a FIPS-140 Level 2 device?
+inverse of 985 mod(φ60131)
+How to turn adversary against encryption of zeroes into adversary against random bits?
+Why is 2 the inverse of 10?
+Approach towards anonymous e-voting
+Secure private key storage
+PBKDF2 and salt
+Do MD5's weaknesses affect Oplop?
+Is stretching hash several times basically the same as bcrypt?
+Design question for a service that signs messages on behalf of a user
+Cryptographic GUID?
+Why can't the IV be predictable when its said it doesn't need to be a secret?
+Which block cipher modes of operation allow a predictable IV?
+What is the length of an RSA signature?
+Why does SRP-6a use k = H(N, g) instead of the k = 3 in SRP-6?
+homomorphic encryption special case of multi party computation?
+Is using a predictable IV with CFB mode safe or not?
+MD5 pre-fixing with an unkown postfix
+AES CCM vs CCMP
+Is a continuous stream of encrypted data embedded in garbage more or less secure than only encrypting the data?
+Digital Certificate Chain Verification
+Is any decent RNG acceptable as a stream cipher?
+The security of data traffic over both SSTP & SSL
+What is the actual difference between security through obscurity and true encryption?
+Common modulus attack on RSA when the 2 public exponents differ by a single bit
+Homomorphic cryptosystems in RSA
+Are there hash algorithms with variable length output?
+Using chi square for distinguishing between compressed and random data
+Recommended Books for Cryptography : Theory and Implementation
+How do I store encrypted files on a web server and decrypt them locally?
+Can I use PBKDF2 for authentication and decryption?
+How do I calculate the maximum plain text length allowable for a certain cipher text length?
+data structure of random / compressed data
+Cryptanalysing Affine cipher
+Zero Knowledge auth schemes with weak secret
+RSA 1024bit decryption performance
+Is it possible to pick your Ed25519 public key?
+Why can't Homomorphic encryption schemes support algorithms with conditions/branching?
+Difference in one time key and one time pad and many time key
+Blowfish Encryptions in Bcrypt hashing algorithm
+Security considerations for partially shared password databases
+Why is padding used for RSA encryption given that it is not a block cipher?
+HRNG for One Time Pad
+What is the effect of the different AES key lengths?
+How do ciphers change plaintext into numeric digits for computing?
+Detect tampering of data
+Can I make a cipher (ex: Vigenère) harder to break?
+Can Elgamal be made additively homomorphic and how could it be used for E-voting?
+Self-expiring symmetric keys, or: cryptography in absence of secure deletion
+Is it OK to use a data-encryption key for key wrapping, too?
+How to submit a new method of encryption?
+Is there a way to make RC4 (ARCFOUR) secure, or is it completely broken?
+How is CipherCloud doing homomorphic encryption?
+Is there another resource for Carter-Wegman-style message authentication?
+Malleability attacks against encryption without authentication
+How is block cipher padding verified for consistancy?
+Storage of Private Keys
+Can iterated key expansion in Blowfish slow down bruteforce attacks on small key sizes?
+What are the safe ways to derive HMAC key using block cipher?
+Secure Hash Function based on AES
+Why pairing based crypto is suitable for some particular cryptographic primitives?
+Is this a good way to encrypt a file?
+Can you help me with this Random Number Generator function?
+Why not encrypt salt?
+How can the Diffie-Hellman key exchange be extended to three parties?
+Do I have to have a different salt for each password?
+Why is SHA-1 considered broken?
+verify contents, but not order
+How to encrypt data and know it will be secure for at least a few decades?
+How will Cryptography be changed by Quantum Computing?
+Is TOTP or a timestamp encryption a better timestamp-based authentication token system?
+Proof that lottery does not know outcome of draw
+implications of SSH server key compromission when authenticating users against a public key
+Is Porticor's "homomorphic" key encryption something that can really be done or is it just marketing hype?
+How does a padding oracle attack work?
+Why RC4 used constant 24bits for initial vector
+Randomized stream cipher using multivariant quadratic equations
+Why is the salt used only once in PBKDF2, while the password is used often?
+Bitcoin Research
+Timestamping services authorities, utilizing Linked, hybrid and other than PKI schemes
+find solutions that solve the equations
+Are picture files "random enough" to be usable as a one-time pad?
+What is the best-practice for encrypting small files?
+Can I combine two of SHA-3 candidates cryptography hash functions and obtain more secure Algorithm?
+Is it safe to use file's hash as IV?
+Calculating the inverse modularity of the determinant for Hill cipher
+Which is more secure, using just bcrypt or SRP?
+How to decrypt AES in CBC
+modulus condition
+What is a "rewinding argument"?
+How practical are side-channel attacks and how much of a concern are they?
+Is there a method to break an EC curve for all key-pairs (Q,d) such that (Q=d*G) faster than breaking every single key-pair?
+ABC Conjecture's Impact on RSA Encryption
+How many keys does the Playfair Cipher have?
+fixing WEP by treating all messages as one long stream
+Implementing AES encryption for firmware distribution system
+Structure of encrypted office files
+What is safer: ZipCrypto or AES-256?
+Why RSA can't handle numbers above 76?
+BouncyCastle Elliptic Curve implementation
+Encryption scheme with equivalent keys?
+Dimension of Encryption of a linearly dependent set of plaintexts
+How does order-preserving encryption work?
+Simulation-based security?
+Why do public keys need to be validated?
+Is the mod_auth_tkt scheme secure?
+Possible ways to crack simple hand ciphers?
+md5: is reverse length-extension attack possible?
+Data-validating protocol
+Shortcuts / practicality of brute forcing block cipher (AES) + ECB with known plaintext
+Discrete log problem, when we have many examples
+Finding where I am in a linear recurrence relation
+A discrete-log-like problem, with matrices: given $A^k x$, find $k$
+Which is more secure using a CSPRNG for a One-time pad, or AES?
+Design criteria for AES
+Is RSASSA-PKCS1-v1_5 a good signature scheme for new systems?
+How to plot the distribution of a ciphertext?
+SHA-256 and AES-128
+FIPS 140-2 Compliant Algorithms
+Is it considered insecure in an HOTP implementation to publicly provide the next counter?
+Why is there a strong distinction between stream and block ciphers?
+What is difference between PRG, PRF, and PRP
+Safety of a pre-keyed DH-Key Exchange
+Stream Cipher : Never use stream cipher key more than once
+Constructing secure key exchange protocol
+When do we need composite order groups for bilinear maps and when prime order?
+Figuring out key in hill cipher (chosen-plaintext attack)
+Why is CBC with predictable IV considered insecure against chosen-plaintext attack?
+Can we construct fully homomorphic encryption scheme based on non-circuit approach?
+why $e(g,g)^N=1$ in bilinear pairings holds?
+WebcryptoAPI - secure or not
+Tree hash and multithreading for parallelism
+Simply put, what does “perfect secrecy” mean?
+How to test distribution of a hash function?
+How does one calculate the scalar multiplication on elliptic curves?
+is this RSA private key valid?
+Exact mathematical definition of simulation based security?
+How to avoid a chicken and egg scenario with encrypting passwords?
+How could block encryption in counter mode be secure from viewpoint of entropy?
+What algorithm could/should be used to encrypt files for storage on untrusted servers?
+What is the strength of unpadded RSA?
+When is each key used when encrypting an email using OpenPGP?
+Is 512-bit RSA still safe for signature generation?
+In layman's terms, how does Shor's algorithm work?
+Could the Enigma algorithm be classified as a Feistel network?
+Calculating cycles per byte
+Using SHA-256 with different initial hash value
+How does one calculate the cryptoperiod?
+Proving correctness of pseudorandom generator construction given existing pseudorandom generator
+Is it possible to obtain AES-128 key from a known ciphertext-plaintext pair?
+server side Javascript security
+Correct method to encrypt data so that it can be decrypted only by Alice and Bob
+Besides key and ciphertext sizes what are other advantages of elliptic curve versions of various protocols?
+Cryptanalysis of S-DES - Equations
+What is the main difference between a key, an IV and a nonce?
+RSA encryption input range - plaintexts that map to ciphertexts?
+Why are elliptic curve variants of RSA "chiefly of academic interest"?
+What is the theoretical and practical status of mental poker?
+How to hide bit frequency of the inter-packet delays covert channel?
+Why does Skein use an output transform, but other similar hashes don't?
+Hash collision resistance requirements for Lamport signatures
+Understanding the length extension attack
+How can Alice and Bob safeguard their message exchanges against replay attacks?
+How to encrypt a short string and keep the length secret
+One-time pad and zero key
+How is it possible to parallelize a hashing function to crack an iteratively hashed password?
+One time pad key exchange
+Perfect security definitions
+Avalanche noise RNG for one-time pad use
+What's the main difference between Pohlig-Hellman and RSA?
+Quantum key distribution and the one-time pad
+AES encryption for images
+RSA keys finding when messages are known
+Using pairings to verify an extended euclidean relation without leaking the values?
+Encryption algorithm which produces comparable results for substrings
+Is there a public key semantically secure cryptosystem for which one can prove in zero knowledge the equivalence of two plaintexts?
+What's the difference between a Key Derivation Function and a Password-Hash?
+What happens to the entropy of a password when you hash it?
+How do I encrypt with the private key?
+Is it safe to hold key file's hash in application
+Is my password entropy calculation correct?
+Can I save space for short messages by using encryption with private key instead of a signature?
+Increase number of rounds for SPN and Feistel ciphers
+Ways to protect flash player against MITM diffie hellman
+Traditional DES scheme in Unix crypt function
+Are there secure stream ciphers that cannot be parallelized?
+Key Scheduling of International Data Encryption Algorithm (IDEA)
+Hill Cipher known plaintext attack
+Is there a symmetric-key cryptography based on key establishment techniques?
+How to construct a variable length IND-CPA cipher from a fixed length one?
+How can I implement the "Multiplication Modulo" and "Addition Modulo" operations in IDEA?
+The meaning of "scheme"
+Conditional entropy
+Is secure remote snap possible?
+Is AES in CBC mode secure if a known and/or fixed IV is used?
+Shamir Secret Sharing - Threshold decryption implementation
+What exactly is addition modulo $2^{32}$ in cryptography?
+Key derivation from a random seed
+What authentication techniques can be used by QKD Systems?
+How to multiply a matrix of bits with another?
+Is frequency analysis a useful tool against encryption by multiplication?
+Is AES-256 weaker than 192 and 128 bit versions?
+Impact of algorithms for factoring using elliptic curves over $\mathbb{Q}$
+How weak/strong is this hand cipher? (updated)
+Because the algorithm is known, it is no longer a trade secret
+Why is a non fixed-length encryption scheme worse than a fixed-length one?
+Seed a PRNG with random data and a password
+How secure will this be against brute-force attacks?
+Would this simple encrypted chat program be feasible using One Time Pads?
+Subgroups generators with respect to group generators of composite order
+Recovering SHA1 knowing 2/3 of the hash generated
+Does chaining random number generators lead to loss of randomness?
+What is the complexity of the Square attack against the reduced 4-rounds 128-bit Rijndael variant?
+decrypt AES without whole key
+Why do we need in RSA the modulus to be product of 2 primes?
+Is there an algorithm for factoring N, which is just as simple as this one, but faster?
+Messages of different lengths and one-time computationally-secret
+Modifications of CBC-MAC
+Why is an Encrypt-and-MAC scheme with deterministic MAC not IND-CPA secure?
+Why, or when, to use an Initialization Vector?
+Real world use cases of Multi-Party Computation
+"Padless" One-time-Pad encryption
+Optimising Pollard's Rho algorithm for large semi-primes
+Crack SHA1 hash code
+Can ElGamal encryption and ElGamal signatures be used together sharing the same key-pairs?
+Is an RSA variant with public exponent $e=f+(p-1)\cdot(q-1)$ safe (for $f$ random in some small interval)?
+How can I prove in zero knowldege that an ElGamal shuffle is correct for a special setting?
+Distinguish messages
+Initialization value (IV) bit error
+Computer appliance protocol
+Is there a practical zero-knowledge proof for this special discrete log equation?
+IND-CPA security scheme
+Proving that a scheme is not IND-CPA-secure
+Can you use the same key to provide a signature and a MAC?
+Does gpg's symmetric encryption keep information about the filename?
+Why does HOTP use such a complex truncate function?
+CPA Secure Chosen plaintext scheme
+How can I break a Vigenère cipher with partial plain text?
+Explanation of the Decision Diffie Hellman (DDH) problem.
+RSA and prime difference
+ECM Implementation is really slow
+Finding partial pre-image of MD5 hash
+Why doesn't CTR mode require blocking?
+Crack cryptographic hash functions using Toffoli gates?
+Is there a security analysis of CryptDB?
+Carmichael number factoring
+Pseudo-random Number generation for Passwords
+Advantage of AES(Rijndael) over Twofish and Serpent
+Slow hash algorithm that does not require salt?
+Randomized algorithms and the one time pad
+Cryptanalysis of Linear Feedback Shift Registers
+Blowfish: hex digits of pi used for s-boxes?
+How can I use eulers totient and the chinese remainder theorem for modular exponentiation?
+Constructing a block-cipher from a hash function
+Is it possible to crack a blowfish 256 bits encrypted file?
+Can there be two hash functions without common collisions?
+On the fly key generation for cloud storage objects
+Why do we need Hash by key?
+How does a client verify a server certificate?
+Difference between stream cipher and block cipher
+Why are these specific values used to initialise the hash buffer in SHA-512?
+Montgomery Exponentiation - selecting input value R for a given BigInteger
+Breaking RSA, given a special kind of oracle that decrypts related ciphertexts for us
+Quadratic Sieve Bottleneck, Multiple Polynomials an option?
+What is a trapdoor permutation?
+Which risks are associated with deriving multiple keys from the same DH secret Z?
+Efficient setup for a Montgomery multiplication
+What does Maj and Ch mean in SHA-256 algorithm?
+How to prove that the concatenation of two secure PRG is secure?
+How do unkeyed hash functions (for MDCs) provide security?
+Word-based stream ciphers vs "regular" stream ciphers?
+Is it safer to encrypt twice with RSA?
+Why does OAEP have 2 rounds with 2 random oracles?
+Ring Signature - paper/code difference in trying to solve inverse trap door function?
+Am I understanding AES key padding correctly?
+Implementing AES in C++: 4x4 Array of unint8_t, or 4x1 array of uint32_t?
+iterated discrete log problem
+Secure MAC implies that probability of same tags on different messages is negligible
+Proof that a function constructed from a PRP is, or is not a PRF?
+Relative merits of AES ECB and CBC modes for securing data at rest
+Decrypt digital signature using RSA public key with openssl
+Is this how padding can work?
+Are there any standards of multi-prime RSA key generation?
+Is there an authenticated encryption scheme where the recipient can attribute the message to a single sender?
+Using CBC with a fixed IV and a random first plaintext block
+Will varying plaintext compensate for a fixed initialisation vector?
+Does a break in a collision resistance property of a hash function by definition implies an attack at the first pre-image attack?
+Is this a valid real-time authentication scheme?
+detecting ROT13/base64 encryption
+NIST Standard for Advanced Encryption Standard Algorithm
+What can a master password also be called?
+Can I use my random IV (for AES) as a salt for PBKDF2?
+Is storing the hash of a key together with ciphertext encrypted with that key secure?
+How to construct a good PRF from a block cipher?
+Questions about William's p+1
+Does Keccak have an eTCR mode?
+Does a trace of SSL packets provide a proof of data authenticity?
+Cracking the Beaufort cipher
+Should we sign-then-encrypt, or encrypt-then-sign?
+Encrypting with private key in Public Key InfraStructure
+Cracking WWII-era codes - code found on a pigeon's leg in Surrey
+Pseudorandom generator and AE-secure encryption
+Proofs of collision resistance by reduction
+Learning cryptography using a FPGA
+Is there an advantage to storing keys split between several hashes?
+Is the AES encryption scheme CPA secure?
+Brute force attack on DES + property of DES
+Safety of DSA key parameters sharing
+How to prove membership of a list without disclosing the list members?
+Necessity for finite field arithmetic and the prime number p in Shamir's Secret Sharing Scheme
+Why does Schnorr's Digital Signature scheme necessitate two prime numbers?
+The security proof for Key Policy Attribute Based Encryption
+What cipher mode is suitable for independantly decryptable short messages?
+Message authentication codes construction
+Does a playlist of songs or movies mixed together contain enough random enough for OTP key material?
+Constructing RSA private key, given public key
+Can someone tell if my Hand Cipher is secure?
+AES timing attacks
+Exhausting the entropy of a hash function
+Stopping timing attacks on AES: Why is it important to prevent the OS from interrupting the AES computation?
+What is an oracle adversary?
+What's a good P to use in ElGamal key generation?
+Security implications of using constant string to verify AES key?
+Weakness in using only one RSA key pair for two-way communication?
+Webcam random number generator
+Ensuring integrity of a client side script
+SSL Key Exchange
+Bent Combining Functions
+Is there any research on the problem of making a number more memorable to humans?
+AES Secure key generation and storage
+What is an easy method of proving that a cryptographic oracle attack is possible?
+Transforming simplest protocol into a Sigma-protocol
+AES encrypting multiple files
+Sigma-protocol for 3SAT problem
+In RSA encryption, does the value of e need to be random?
+Does RSA-OEAP have integrity and authenticity properties?
+Two step encryption
+Comparing plaintext to contents of ciphertext
+How can I add more rounds to AES?
+Non-Interactive Zero-Knowledge-Proof for discret Logarithm?
+Get RSA PlainText without Knowing Private Key
+What is the advantage of XTS over CBC mode (with diffuser)?
+Speeding up partially known plaintext preimage recovery attack on MD5
+AES key expansion vs. a hash
+RSA Without Padding?
+On-the-fly computation of AES Round Keys for decryption?
+Why are protocols often proven secure under the random oracle model instead of a hash assumption?
+Deterministic key generation
+using Post-quantum asymmetric ciphers instead of RSA
+Diffie-Hellman is Post-quantum secured?
+Factorize RSA knowing several N and E
+RSA 4096 bit key benchmark
+Public key cryptography - public key encrypts and cannot decrypt?
+Are really, really long passwords any more secure than short ones?
+Information leakage in real-time voice encryption
+RSA blind signatures in practice
+RSA Key generation Public exponent too big
+Deriving Keys for Symmetric Encryption and Authentication
+inverse element in Paillier cryptosystem
+Why is OCB-AES mode not becoming a standard for authenticated encryption?
+Attacks on the RSA Cryptosystem
+What are the differences between a digital signature, a MAC and a hash?
+Can I use PGP to sign a message without providing cryptographic non-repudation?
+RC4 encryption -> AES encryption = more or less secure than RC4 or AES alone?
+How much extra information is in an RSA public key?
+What are the cryptographic assumptions in the Dolev Yao model?
+Need for Twin Elgamal encryption
+Contruct a protocol to determine if three secret keys are different, without revealing any of them?
+Can a shift cipher attain perfect secrecy?
+Differential Cryptanalysis of FEAL-4
+S-box with differential uniformity = 2
+Why doesn't this replay attack work on ECDSA?
+What are the benefits of lattice based cryptography?
+Polynomials and efficient computability
+Can one have an authentic, but repudiable, message without a previously shared secret?
+Number of states in a LFSR
+Is there any semantic difference between predicate encryption and functional encryption?
+Probability that an attacker wins the discrete logarithm game when exponents are drawn from a subset
+A single password manager vs password generator/hash
+Public keys and their protocols
+Is there a field guide to ECC for the IT Security layman?
+ANSI X9.31 standards for generating random numbers
+Is this attack for RSA possible?
+Did Merkle invent cryptographic hashing?
+security of Felix cipher
+Creating a small number from a random octet string
+How to generate a random integer in interval $[1, 2^n-1]$ from random integer in interval $[0, 2^n-1]$?
+Is there a big RSA Data Set
+phi(P*Q) = (P-1) * (Q-1)
+Why is h(m||k) insecure?
+A question regarding relevance of vulnerability of MD5 when linking multiple records together
+use the same pad reversed
+Can the encryption exponent e be greater than ϕ(N)?
+AES Key Length vs Block Length
+Individual bits of Textbook RSA
+Good enough deterministic PRNG based on hashes
+FIPS 140 compliance for encrypted files
+Double Encrypting with two different keys
+Tweaking textbook RSA to make the encryption a Pseudorandom function
+Generating Polynomials for the MPQS
+How to generate a public key from a private ECDSA key?
+Can one build a one-way function from AES?
+construct an election protocol for the following election problem..?
+tower of extension field
+AES key length greater than 256 bits - is it dangerous to do an implementation outside of the standard?
+AES vs Blowfish taking key-length into account
+A situation where security by obscurity might be the best solution - or am I wrong?
+Choosing good parameter for Lenstra's elliptic curve factorization
+P-Complete hashes, hashing to a larger set
+How many bits of hash are realistically needed for key verification?
+Why is asymmetric cryptography bad for huge data?
+Efficient Symmetric Mutual Entity Authentication Protocol
+Why is it important that phi(n) is kept a secret, in RSA?
+Does zero-padding the secret in Shamir's sharing scheme increase security?
+Reason(s) for using a KDF for encryption keys
+Why the following attack in common modulus RSA works?
+AES 128bit round level recommendation
+Security model for privacy-preserving aggregation scheme.
+AES-GCM and its IV/nonce value
+What would the Internet be like without public-key cryptography?
+True 128bit secured password length?
+Blind quantum computing and fully homomorphic encryption
+Why does Fortuna (RNG) require entropy sources to specify accumulator pool?
+Can a nested block cipher avoid the meet in the middle attack by using a secret initialization vector for the inner encryption?
+A proof-of-work random number generation system for Pokémon
+What is the progress on the MIT LCS35 Time Capsule Crypto-Puzzle?
+What exactly is a negligible (and non-negligible) function?
+Tools for modelling and analysis of cryptographic protocols
+Can Add and Multiply On Cipher Text achieve all operations?
+Future-Proof Versioning and Validation
+efficient authentication with broadcast encryption?
+What do $0^n$ and $1^n$ mean in cryptography?
+What are monotonic and non monotonic access structures in ABE ?
+Difference between symmetric and asymmetric hash function?
+Benefit of combining classical substitution ciphers with modern cryptography
+Searching over encrypted data
+Should I salt an AES password at each encryption?
+Determining the algorithm used to generate a digital signature
+Hill cipher, unknown letter value
+Needing to encrypt plain sight information
+DES key expansion: why are these two descriptions different?
+What's the strategy for future directions in cryptography? Bigger numbers/faster searching, or new methods, say, of factoring?
+Odds of false error detection in a randomness test using the chi-squared test?
+Calculating RSA private exponent when given public exponent and the modulus factors using extended euclid
+Do known-plaintext attacks exist for public key encryption?
+Does the elliptic curve (EC) cryptosystem outperform RSA and DL cryptosystems?
+HMAC for short messages
+Example Rainbow Table Generation
+Does Grover's algorithm effect block size or only key size?
+Will length-extension work if secret is not prefixed but appended to the data?
+Properties of Ideal Straight P-Boxes
+High Power Computing for Crypto Research
+Why can't I break ElGamal encryption by brute-forcing the secret exponent?
+Why xor the message into the state for sponge hashes?
+Break double encryption
+Simple homomorphic crypto for 32-bit integers
+How and why can a decryption program tell me that a key is incorrect?
+Ideal passphrase length: old diceware method (5 words) vs. your Bitcoin wallet.dat passphrase lenght (8 words) and doubling passwords?
+Why does WPA-PSK not use Diffie-Hellman key exchange?
+Crypto USB Devices - where is the PIN/Password stored?
+Where can I learn basic cryptography to know more about passwords and Bitcoin?
+Why not use CBC, not send IV, and assume first plaintext block is garbage?
+What happens if an RSA key pair has identical public and private exponents?
+Why do all SSH-RSA Keys begin with "AAAAB3NzaC1yc"?
+Why is RSA usually limited to messages up to 1 block
+What is "Blinding" used for in cryptography?
+Examples of applications that use the Schnorr digital signature?
+How can we determine if two discrete logarithms are equal?
+How secure is the knapsack?
+How to construct a yes/no election protocol, such that only the result is revealed?
+Is it possible to break a hash-based block cipher?
+Are hash trees an alternative, quantum-resistant signature scheme which can replace RSA?
+Is the One Time Pad (OTP) considered a cryptographic hash function?
+How to salt PBKDF2, when generating both an AES key and a HMAC key for Encrypt then MAC?
+Kryptos : K1. What is the origin of the "palimpsest" keyword?
+How do single use passwords work for an encrypted message
+Mental Poker with untrusted server (i.e. no peer to peer)
+What does a "cycle" mean in cryptography benchmarks?
+Two way encryption with random IV
+Why is proof-by-reduction needed (for Elgamal proof of security, for example)?
+LFSR for small numbers with large periods
+Streaming API to authenticated encryption
+What does modular inversion mean?
+Difference between Rijndael 128 / 256 blocksize implementations? (and impact of block size in general)
+elgamal based decryption mixnet
+How to attack a "many-time pad" based on what happens when an ASCII space is XORed with a letter?
+estimate of time required to crack sha512crypt password with JtR + OpenCL
+Is it safe to use RSA as a proof-of-work system?
+Which categories of cipher are semantically secure under a chosen-plaintext attack?
+AES CBC mode or AES CTR mode recommended?
+CBC with fixed IV but changing data
+Finding a collision for a hash function
+How does using salt reduce rainbow table attack?
+How does this Caesar cipher work?
+How can I calculate the time complexity of modular arithmetic?
+Any implication of a Yale result to security of quantum cryptology?
+How to break an arbitrary XOR and Rotation based encryption?
+How compared encryption algorithm in terms of efficiency
+Why work in a subgroup QR(n) of an RSA group $Z^*_n$?
+Modulus for elliptic curve point multiplication
+Security for IV in AES-GCM mode
+Any efficient text-based steganographic schemes?
+Two files encrypted with related data versus one file
+Discrete logs on elliptic curve with embedding degree 3 with the 'MOV' attack
+Does it take brute force to find a pair of plaintext and ciphertext that each follow a certain condition, given an AES encryption key?
+Non-cryptographic hash function as MAC for stream ciphers
+Encrypting or HMACing password digests
+Is Encrypt+HMAC stronger than AEAD?
+Understanding padding oracles - is an attack plausible in my scenario?
+How to generate a key using any $m$ passwords out of total $n$?
+RSA private key format for Mega
+In the Paillier cryptosystem, is there a method to judge whether an encrypted number is less than 0 (without the private key)
+Initialize a PRNG with a password
+Hashing a password with the password?
+Why does Rijndael with a 256-bit block require the bottom two rows to be shifted one more space than usual?
+Is there a length-preserving encryption scheme?
+What is a block cipher?
+Secure communication between multiple peers on a public channel
+Cryptographic Primitive Method
+What is the most paranoid way to exchange messages?
+What is the most secure way to let Alice "input" her private key, transfer it to the server and decrypt the message?
+How to find an element of high-order in an RSA group?
+GGM PRG construction: Why do we need to change keys all the time with underlying PRG
+Generating non-supersingular elliptic curves for symmetric pairings
+How much do we trust KEA1 Assumption?
+Hashing passwords with a salt - why use different salt for everyone?
+How can encryption software accept password lengths which are not one of the AES key lengths?
+Discrete log analog of ECM factoring algorithm?
+Theoretical pi-based stream cipher
+Using UMAC with stream cypher
+Cryptographic Symmetric Stream Cipher
+What is a smart card?
+Creating colliding x509 certificates: Crafting RSA moduli step
+What are the differences between proofs based on simulation and proofs based on games?
+Do practical key-less cryptosystems exist?
+RSA and One Time Password (OTP) service
+School exercise on untrusted channel comunication
+Questions on rank-attacks in Multivariate Cryptography
+How is the x coordinate of a "point at infinity" encoded in a Secp256k1 signature?
+Using Chi-Square for Vigenère Cipher
+How do I derive the time complexity of encryption and decryption based on modular arithmetic?
+Question about use of IV in this cipher
+Decryption a chunk of file with AES
+Why is feed-forward mechanism used in hash functions?
+Kryptos : K2. What is the origin of the “abscissa” keyword?
+How to best obtain bit sequences from throwing normal dice?
+Prevent/minimize replay attacks in public message board
+What is a tweakable block cipher?
+Visualization of cryptography
+Why would this method of discrete logarithm finding not work?
+How do you construct a practical full-domain hash function?
+Commutativity of keyed hashes
+ECDH VS. DH benchmarking in JAVA
+Store hashed email and compare hash values
+Trapdoor implementation
+What are some different cryptography methods?
+Security of .net AES implementation and security of a hash MAC
+AES CBC with fixed or predictable IV, what are the risks?
+Zero-knowledge identification of the majority commitment
+Crypto puzzle as proof of randomness?
+Why do the elliptic curves recommended by NIST use 521 bits rather than 512?
+Entropy in natural language texts
+Generate random number which should depend on key
+What are some approaches to attack an triple key polyalphabetic cipher when the IV key and PT key are known?
+Is there a problem with constructing a CSPRNG using MD5 or SHA1?
+Source for examples with broken cryptography
+Padding in PMAC
+Why does the recommended key size between symmetric and asymmetric encryption differ greatly?
+What is RSA key normalization?
+How to check the strength of an encryption algorithm?
+Is such a crypto-system available?
+What are alternatives to the random oracle model for modelling hash functions?
+RSA primes vs. largest known primes
+Tell me about non-MD5/SHA1 key fingerprints
+AES-CTR vulnerability to cryptographic oracle
+Obtaining a key that's using ice algorithm
+What is 'security margin'?
+Hashing a password with SHA256 on the client then bcrypt on the server
+AES implementation in java that allows key of 320-bit length
+Secure way to compare two secret numbers without disclosing them?
+Request for 1024-bit primes $p$ , subgroup $q$ and subgroup generator $g$
+What are rounds in the context of ciphers?
+How to bring little changes in DES algorithm
+Name for identical operations for encryption and decryption
+brute force attack on KDF vs KEY
+ElGamal signature: Forging a signature of a specific form
+Can we replace the XOR operation in DES with some other operation?
+Can the hash of one message be used to make it easier to find the hash of a very similar message?
+Attack XOR encryption of binary data compressed by zlib with known key length (very short key)
+Why is Diffie-Hellman considered in the context of public key cryptography?
+Any historical accounts of cryptanalysis of Jefferson's wheel cipher?
+Is AES reducible to an NP-complete problem?
+Is semantic security important in a hybrid cryptosystem?
+MD5 implementation
+PBKDF2 for key diversification
+Why does the SRP-6 calculation of B include a multiplier k = 3?
+Measuring Shannon's diffusion
+ASCII Message in TV show?
+Is signing a hash instead of the full data considered secure?
+Selective format-compliant JPEG encryption?
+Use of CBC-AES-256 to encrypt usernames
+Changing SRP-6a message order
+How to break AES CBC with PKCS#5 padding?
+Why is triple-DES using three different keys vulnerable to a meet-in-the-middle-attack?
+Extract private RSA key from USB cryptographic token using Bardou et al. attack (variant of "million message attack")
+Low complexity implementation of a small blocksize cipher (< 64 bit)
+Encrypting a key with the same key using AES
+Scrypt as a KDF with one-time high-entropy input
+AES encryption with shared IV
+Is sharing the modulus for multiple RSA key pairs secure?
+Is it possible to generate an RSA SHA1 signature only from a public key?
+How can an S-Box be reversed?
+what kind of hash function can provide a short hash and be collision resistant?
+Implementations of Ntru TLS
+Berlekamp-Massey algorithm: case when sequence length is less than double the length of the LFSR
+Why is RSA encryption significantly faster than decryption?
+What are unified addition and differential addition in elliptic curve point arithmetic?
+How can I validate generated session keys in SRP-6a protocol
+Master keys for decrypting?
+File encryption with one keypair?
+AES key/ciphertext space sizes
+Could use an explanation of the notation for an oracle adversary
+Why is Blum-Goldwasser not IND-CCA-2 secure?
+RSA Certificate Owner and Issuer line meanings?
+Implementing PKCS#7 Padding on a Stream of Unknown Length?
+Is storing original file size in an encrypted file header a bad idea?
+Why are RSA keys encoded with ASN.1 for TLS?
+From hash to Cryptographic hash
+Is there a way to analyse xxHash and tell, either by human analysis, or with an automated tool, that this hash function is or is not cryptographic?
+Validating successful decryption in AES
+Why do we assume un-security of communication channel on every cryptography system
+Computational indistinguishability and example of non polynomial algorithm
+Is Guillou-Quisquater existentially unforgeable against adaptive message attack under a random oracle model?
+Symmetric encryption mode where ciphertext size is plain text size
+Security of pairing-based cryptography over binary fields regarding new attacks
+Digital signatures in SSL/TLS-like protocols
+Algorithm/Technique for Steganography
+Why nobody considers counter re-keying as a standard Block Cipher Mode?
+Is the following key stretching algorithm as memory hard as I think it is?
+How hard is a known prefix hash preimage attack on SHA-2?
+Fastest multiplication algorithm for efficient exponentiation in C++?
+Why are the constants so simple in Keccak?
+Bad/Crackable Encryption Example?
+How to generate a random polynomial of degree $m$?
+How hard are discrete logarithms problems in $\mathbb Z^{*}_{n}$ and $\mathbb Z^{*}_{n^2}$, where $n$ is the RSA $n=pq$
+Deriving HMAC key and cipher key from passphrase?
+Strong RSA problem in $\mathbb Z^*_{n^2}$
+Which one is fastest? Karatsuba or Montgomery multiplication?
+Nonce role on stream ciphers
+How to represent point-at-infinity in affine coordinate
+How many oracle calls to break an affine cipher in a chosen plaintext attack?
+Questions about proof of correct encryption in the Paillier cryptosystem
+Turning a cipher into a hashing function
+What information to include when calculating the HMAC of ciphertext
+Padding always the same, problem or not?
+Generate an insecure public / private key pair
+Is TrueCrypt's multiple/cascading encryption safe?
+Why do we need to hash both the message and the $h$ value in ElGamal signature?
+Can I find two specific words with the same md5 hash?
+What is the difference between a HMAC and a hash of data?
+Are there any practical implementation of a homomorphic hashing or signature scheme?
+When do ECC patents end?
+How to efficiently generate a stream of independent, but biased random bits?
+Is SHA-1 still practically secure under specific scenarios?
+Question about why RSA is hard to attack
+While generating a random Elliptic curve what are the conditions i have to considerd?
+Are RSA signatures deterministic?
+Is SHA-1 collision free on data up to 20 bytes long?
+Finding roots in $\mathbb{Z}_p$
+Can SRP be used with Elliptic Curves?
+What is the difference between MAC and HMAC?
+Simple example for CP-ABE (Ciphertext policy attribute-based encryption)
+Is there a practical security difference between XXX-bit encryption?
+Why is CAMELLIA suddenly so widely used?
+Can I combine two PRNGs to make use of more seed data?
+Unique GCM/CCM initial counters without recipient side message counters
+Is it possible to create a Bilinear Function with Already Assigned "Multiplicative" Input Groups?
+How to solve the reverse of an equation that uses MOD?
+Timing attack on modular exponentiation
+Is it safe for the ChaCha8 nonce to be deterministic?
+Is solving a modular linear equation a hard problem when the coefficient is not an invertible element?
+In RSA, how to make sure that $p-1$ and $q-1$ are still hard to factorize?
+What information to include is the 'info' input for HKDF?
+Security of Pohlig-Hellman exponentation cipher?
+What goals is homomorphic encryption aiming to solve?
+Why is Bcrypt called a Key Derivation Function?
+Simple RC4 key generation scheme
+Are there any secure commutative ciphers?
+How to secure a mental poker protocol?
+Zero-Knowledge Challenge-Responce Protocol
+Security relevance of random factor in Paillier
+Is AES secure for java application licensing?
+GPG vs PGP vs OpenSSH and management of them
+Possibility of factorisation of rsa modulus due to vulnerability in java implementation code
+What should I be aware of when implementing algorithms myself?
+What data is saved in RSA private key?
+One-time pad and perfect secrecy properties
+Can you help me understand how RC4-52 is done using pen-and-paper?
+How are Elliptic Curve Cryptography and Pairing Based Cryptography related?
+Should the secret key of Shamir's secret-sharing algorithm be interpreted byte by byte?
+Is this encryption algorithm build from MD5 secure?
+Exponentiation In PBC library
+Use curve25519 for ElGamal crypto
+XOR cipher for encrypting compiled C code
+ChaCha cipher + Poly1305
+Equivalents to a physical hat+shaking?
+Is a known plaintext, ciphertext, and public-key a viable attack on RSA?
+What changed in PKCS#1 v2.2, and why?
+Is there a way to use Shamir Secret Sharing with updatable data?
+How difficult is it to check if a group element is in a sub group?
+Is it possible to determine the group order by knowing the "public" and "private" key exponents in an RSA group?
+What is the usual block cipher mode that goes with CTS
+Understanding Feldman's VSS with a simple example
+Zero-knowledge proof that a group element is a quadratic residue?
+Is this method for exchanging private key using RSA sound?
+Can one detect if two pairs of elements in Zp have the same exponential relation?
+Current Status of mixnets for voting
+Where to store the private key and the public key in a communication protocol
+computing inverses in truncated polynomial rings manually for NTRU encryption
+Is there an efficient way to hide the encrypted plaintext length with a block cipher?
+Diffie-Hellman key agreement with both Server Authentication and Perfect Forward Secrecy
+Method and explanation for calculating difference in speed between DES and RSA
+Isn't the structure of a potential plaintext of a ciphertext generated by a one-time pad dispositive, cryptanalysis-wise?
+Would a "Triple AES" (in the sense of how Triple Des works) serve for a dramatic increase in safety?
+Encrypting many small messages (log-lines)
+How to obtain a one-value share in Shamir's secret sharing
+What crypto system allows for 3 parties: Party 1 who makes an assertion, Party 2 mutates the assertion, Party 3 validates it
+Partial decryption of large file in AES-GCM (or other modes)?
+Security of tokenization of plain text conversations - cryptanalysis
+What is the significance of i^Q mod P = 1 and are there any special properties to be aware of?
+Can a LIRA system work with cjdns or other decentralized meshnets?
+DLP based crypto systems with multiple independent generators
+Key collision in scrypt and hkdf
+How to perform Multiplicative Inverse Modulo in IDEA
+BCrypt vs Key Stretching MD5
+When confusion is applied during encryption?
+Anonymity in end-to-end encryption
+What are the constraints for an IV using AES in CBC mode?
+Strong encryption done by hand
+Proof of the standard pseudorandom generator + XOR encryption scheme in Goldreich
+How to use GCM mode and associated-data properly
+Is AES-256 a post-quantum secure cipher or not?
+Low Public Exponent Attack for RSA
+Does Linear Cramer-Shoup have pseudo-random ciphertexts?
+Understanding a Blowfish cryptanalysis
+How comparable is OFB to a one-time pad?
+Export from US of crypto software with key-size > 56 bits still needs permission?
+What is total key space in transposition algorithms
+Solving congruences using PARI
+How large should a Diffie-Hellman p be if the messages are encrypted?
+How to verify a number encrypted with an unknown key
+Efficient algorithm for remainder calculation over prime field for ECC implementation?
+Key Exchange and anonymity issue
+Selecting a large NUMS Safe prime
+Encryption with Deduplication
+Brute forcing an HMAC
+How would one crack a weak but unknown encryption protocol?
+Security of Deterministic Encryption Scheme
+Even passwords are vulnerable to hash collision attacks?
+Sensible usecase for restricting special characters in passwords?
+How does the rand() function in C work?
+Encrypting and Decrypting a 19-digits long BigInteger
+Cracking an RSA with no padding and very small e
+Could a very long password theoretically eliminate the need for a slow hash?
+How to calculate y value from ((y*y) mod prime) efficiently
+How to compute the dot product on encrypted values?
+What is the difference between a hash and a permutation?
+State of the art in zero knowledge proof compilers?
+Commitment scheme using hash functions
+In which disciplinary category can cryptography be put?
+reduces the coefficients of a modulo 3 on NTRU
+Secure modulus length for Diffie-Hellman
+Where can I begin to study the math behind modern cryptography?
+Solving hard problems in $\mathbb Z_{p}^{*}$ when $\mathbb p$ is close to $\mathbb 2^{n}$
+which asymmetric cipher provide highest performance?
+How to use HMAC for large ciphertexts over TLS
+What is the probability of breaking the AES algorithm?
+AES encryption algorithm
+Is this hand cipher any more secure than the Vigenère cipher?
+Is it feasible to break Diffie-Hellman key exchange when the implementation uses a poor-quality PRNG?
+Asymmetric password encryption - Viable? Which algorithm?
+Alice trusts Bob only when Bob trusts Alice
+Is SpookyHash vulnerable to HashDoS?
+How to design a practical and secure MAC scheme?
+Potential vulnerability in DH key selection - am I understanding this right?
+How to choose between AES-CCM and AES-GCM for storage volume encryption
+How do I unpack the x and y values from the BITSTRING in a DER ECDSA public key?
+How can two UProve token holders prove to a 3rd party that they aren't the same user?
+one-time pad key related attack
+Why are RSA key sizes almost always a power of two?
+What does the expression $1^n$ mean as a function argument?
+It is reasonably safe to leave a SSH private key with a 30+ character passphrase public?
+Can two rc4 encoded messages be XORed and decrypted if encrypted with the same key?
+Which MAC scheme is quantum resistant?
+Single-purpose symmetric encryption scheme for single files
+Using encryption schemes for identification
+Client and server using same SSL certificate - any issues?
+How to make a message into a polynomial on NTRU encryption?
+Predicate Encryption supporting disjunctions
+What's the difference between Trapdoor Functions and Encryption Functions?
+Voice Call Safety
+RSA digital signature vs authenticated cipher
+"Weaknesses" in SHA-256d?
+What's the difference between "HashX-512" and "HashX-1024"?
+How can mega store my login details and still be secure?
+Understanding one-way hash functions construction
+Attack on DSA with signatures made with k, k+1, k+2
+DSA signatures with related k and unknown payloads
+Efficient decoding of irreducible binary Goppa codes and the role of matrix P in McEliece cryptosystem
+Chosen ciphertext insecurity in an ElGamal variant
+How is ElGamal not secure under chosen ciphertext attack, but semantically secure in some cases?
+Why constrain the message lengths in indistinguishability in the presence of an eavesdropper?
+How fast can a wrong decryption key be detected using ECC?
+Case insensitive verification of HMAC / Base64 signature
+Is there a preferred way/standard on how to transmit an initialization vector for AES encryption
+Do I need to know the "mode of operation" to decrypt a message encrypted with a block cipher?
+Question about the definition of a secure PRF
+PBKDF2 when dkLen and hLen have the same size
+How do I generate decryption keys for the IDEA algorithm from the 128 bit key?
+Does the IV need to be known by AES (CBC mode)?
+May the problem with DES using OFB mode be generalized for all feistel ciphers
+Given a certain entrophy per character, how long should a passphrase be to guarantee key strength?
+Known-plaintext attack on Blowfish in ECB mode
+Are there any signature schemes for underpowered devices (8-bit microcontroller)?
+Ciphers in CBC mode reveal place of change in plaintext
+Using salted hash as password for easy memorization without reuse?
+AES+CTR+HMAC Encryption and Authentication on an Arduino
+What's the state of the attack to get the first pre-image on MD4?
+Any point in waiting for the SHA-3 standard?
+ECKS-PS algorithm: searching in encrypted data; bilinear maps
+AES Message Authentication Vulnerability
+EC equivalent for RSA-OAEP
+What does "adaptively secure" mean?
+Relaxed trust criterion for mental poker server?
+Why unit vectors should be encrypted bit per bit in that case?
+Proper uses for CTR and CBC AES block cipher modes
+Pseudo Random Generator (PRG) from Rabin function
+Is there an existing AEAD scheme with minimal IV requirements?
+ElGamal: Generation of "g" value?
+How to use salt if I am sending hashed password?
+Comprehension question on a signature protocol based on the RSA assumption
+How can I prove that this encryption scheme from a random oracle is secure?
+decryption many time pad
+Correct way to truncate data to a range
+Correct way to map random number to defined range?
+Perfect secrecy and change of plaintext probability distributions
+Does key authentication in SSH protect from MitM?
+Is it safe to assume Salsa20 to be a PRP?
+Ciphertext-only attack on Simplified DES
+Why exactly is Blowfish faster than AES?
+What's the probable usage of Interlock Protocol
+Keys required for cryptography
+In textbook RSA with low public exponent, how big does a random message needs to be?
+Why is $h(H, m) = E(m, H) \oplus m$ insecure?
+Why are the Davies-Meyer and Miyaguchi-Preneel constructions secure?
+How secure is passing a MAC to Python's random.seed before using random.choice to generate a MAC?
+How can scrypt be improved to counter GPU mining
+GPG and PAR2 error correction data from the plain archive, will it compromise security?
+PKC McEliece + $S$ + $P$
+Can prepending "junk" be equivalent to an IV when encrypting using CBC?
+What is the best way to store sensitive information on the client?
+AES AddRoundKey
+How to learn the first bit of m in padded RSA
+Is encrypting a single 128 bit block with AES ECB "safe"
+Chain several RSA encryptions without increasing the message size
+A lower bound on the insecurity of CipherCloud?
+Triple-DES Brute Force
+Addition with Shamir secret sharing?
+Prove that textbook RSA is susceptible to a chosen ciphertext attack
+Requiring a "supervisor" key pair and a "user" key pair to decrypt multiple-recipient messages
+Connections between Instance Hiding and Fully Homomorphic Encryption
+The utility of elliptic curve cryptography
+LT codes with Homomorphic hashing
+Is it possible to work out the hash algorithm from a list of known message-hash pairs?
+Using the same secret key for encryption and authentication in a Encrypt-then-MAC scheme
+Quality of randomness on a Linux system with haveged
+SHA256 HMAC brute force with chosen plaintext attacks
+Using the output of a stream cipher, how to guarantee the integrity of 4 bytes of data?
+Attacking historical ciphers methodology
+Are cryptographic hash functions perfect hash functions?
+What happen if a asymmetric crypto-system deals with only one key
+Tamper-proofing log files
+Is it possible to determine a PGP public key from encrypted data?
+Combining AEAD with RSA
+What does "securely realize" mean?
+Is this scheme a provably fair random number generation?
+repeating-key xor and hamming distance
+Password verification
+AES plaintext is smaller than 128 bits - how to expand?
+Algorithm digipass-like
+How can a key pair be derived from an arbitrary hash?
+implementing long term archive encryption
+Is OAEP reversible?
+Secure encrypt-then-sign with RSA
+RSA - Ecrypting the same data with the same public key = same ciphertext?
+Question about proof of knowledge definition
+Adding and multiplication in jacobian coordinates
+standard way to authenticate parties with public keys without certificates
+Counter Mode: static IV but different keys
+risk of attacker decrypting RSA ciphertext without public or private key
+Certificate == signed public key
+What is the difference between Scrypt and PBKDF2?
+Secure order preserving hash function
+Custom crypto library in C
+Toy hash algorithm that can be broken
+Sematically Secure McEliece
+Why does key generation take an input $1^k$, and how do I represent it in practice?
+Adversary Two Stages
+Proof that padded RSA is CPA-secure
+chaining rsa with ecies
+Padding of Original Message in MD5
+How to compare two datasets „anonymously”?
+Is it worth applying a MAC on data in a HSM?
+Knowing a valid salted hash for an unknown secret, is it possible to compute another valid hash?
+Book Didactic Security Notions
+Have I understood pedersen commitment correctly?
+Encrypt a single file, chunk-by-chunk, each chunk using different key (AES)
+encrypt message with one digest 0-9 instead of 01-26
+CBC-MAC , fixed length, all blocks returned
+What length should the padding be when encrypting or signing with RSA?
+Elliptic Curve is DH function or PKI?
+Is AES really used for Top Secret stuff?
+How to derive two keys from one password
+Indistinguishability attack example
+What's the difference between AES and earlier block ciphers?
+Is there any strong enough pen-and-paper or mind cipher?
+Implementing secret reconstruction in Shamir's Secret Sharing
+how much is secure to encrypt a password using itself (as encryption key) for storing it on an insecure media?
+Why is SRP not widely used?
+RSA leak bits to factor N
+Solving a discrete logarithm using GDlog
+Are digital signatures secure for signing lots of small messages?
+Attacking AES/CCM with random IV
+Injecting salt into PyCrypto KDF - useful?
+How to hash a structure that needs to include that hash's outcome?
+What does $(\mathbb{Z}_n^*)^2$ mean?
+Weak One Way Function
+Many consecutive hashes to slow down brute force attack?
+How to derive formulas for addition and multiplication in Jacobian coordinates
+Increased CRC collision probability when adding bits to input message
+Recommended way of adding a pepper/secret key to password before hashing?
+Winzip AES256 vs PGP
+What kind of adversary is the cloud?
+Does knowledge of original file size provide a cryptographic weakness?
+Trying to better understand the failure of the Index Calculus for ECDLP
+Security of Salsa20 with some known plaintext?
+Cryptography based upon neural networks
+Finding hash almost-collisions
+Is the DES algorithm in OPENSSL random?
+random number generator 10-side dice alternative
+Does SRP reduce to DH key exchange when shared password is not secret?
+How to do a literature search
+Combining LFSRs for Stream Ciphers: Why do we need high non-linearity?
+Constructing a custom protocol using well-vetted algorithms?
+Is there a way to do fair exchange between two parties who don't trust each other?
+Why is the following RSA PRNG cryptographically secure?
+Why is the discrete log problem easy when the exponent comes from a binomial distribution?
+CSPRNG in JavaScript using Audio and Video
+Using an MD5 hash as a password
+Encrypting a broadcast channel
+What is a fair exchange scheme?
+PKCS#11: Which CKK_types are supported by CKM_PKCS5_PBKD2?
+Generating IV in TLS 1.2
+True random numbers generated by sensors
+SHA-1:Is there any mathematical result that gives us the minimum number of 1's in a 160-bit SHA-1 hash output?
+calculating beta for elgamal elliptic curves
+Is Functional Encryption about Access Control over encrypted data alone?
+Help me describe/identify this challenge-response protocol/algorithm?
+Hill-cipher, disordered alphabet
+Generate fixed length cipher text from arbitrary length plaintext
+Is this a sensible cryptographic protocol intending to reduce the impact of compromised security?
+How does OAEP improve the security of RSA?
+Polynomial multiplication and division in $2^{128}$
+When truncating an AES MAC value by "w" , how do I justify that "w" is still negligible?
+What are the potential security impacts of using CRAM-MD5 for Emails, when not using an SSL connection?
+Is Base64(SHA1(GUID)) still unique like the original GUID?
+Alternatives to HMAC + CBC?
+Why this k parameter is in unary in adversary PPT algorithm?
+How to calculate cycles per byte
+Are there any hand ciphers not obsoleted by computer cryptanalysis?
+Physical Level Encryption
+Is this algorithm secure?
+Perfect Secrecy, two Definitions
+How random are commercial TRNGS
+What key length is required to keep simple keyed "hash" secure?
+Is Wikipedia's table about SHA-2 collisions correct?
+Do I need to keep a 64-bit version number secret?
+How much data can I encrypt with AES before I need to change the key in CBC mode?
+How does the birthday attack work in AUTH and UF-CMA games?
+What is the fastest elliptic curve operation f(P) in affine coordinates such that f^n(P)=P only if n is large?
+Recommended skills for a job in cryptology
+Proper Way to Encrypt Data with Two Keys?
+What security authorities and standards reject $e=3$ in RSA, when, and with what rationale?
+Key sizes for discrete logarithm based methods
+Linkable ring signature scheme
+what actually the function for e(g,g)^xy
+Which keys are necessary to decrypt Application data in a SSL connection?
+Why RSA uses {d,n} as private key instead of {e,n}?
+Why is verification using DSA slower than verification with RSA?
+Size of Parameters in Polynomial Key-Splitting Algorithm
+Conditions for proving that a signcryption scheme is secure
+How to verify a shared secret using only AES?
+University for Crypto grad study
+Encrypt user email but be able to find user by email
+Do recent announcements about solving the DLP in $GF(2^{6120})$ apply to schemes proposed for cryptographic use?
+AES encryption with multiple keys
+Pen-and-paper one-way function for externally-anonymous survey
+Difference entity authentication and implicit key authentication
+How well analyzed are giant block length ciphers?
+The exact difference between a permutation and a substitution
+RSA vs El Gamal digital signature. Which is more secure?
+Could quantum computers "break" symmetric crypto-systems (e.g. AES)?
+What are the requirements of a nonce?
+Reversing SHA1 (don't know the correct term)
+The security of the AES secret itself
+With HMAC, can an attacker recover the key, given many known plaintext/tag pairs?
+Proving HMAC collision probability bounds?
+How to test if a number is a primitive root?
+Why crypto hash functions must be collision resistant and how to find resistant?
+Encrypt a file once with 50 characters password or twice with 25 characters?
+What do recent announcements about solving the DLP in $GF(2^{6120})$ mean for RSA
+Acceptable assumptions when proving security
+More technical details on the ongoing (alleged) Chinese cyberattacks
+Complex Numbers on Elliptic Curves & Usage in Tate Pairing
+Why are bitwise rotations used in cryptography?
+Can i modify data "protected" by a CRC16?
+How insecure in practice?
+Can somebody explain the major contributions of the tenants of the Gödel Prize 2013?
+Is entropy affected by time?
+A substitution based on a matrix vector product

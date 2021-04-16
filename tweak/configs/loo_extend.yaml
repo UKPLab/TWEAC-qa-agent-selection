@@ -1,0 +1,98 @@
+---
+out_dir: "PATH_TO/results/loo_extend"
+cache_dir: "PATH_TO/data/cache/training_data"
+transformer_cache_dir: "PATH_TO/data/cache/transformer"
+base_model: "PATH_TO/results/loo_finetune"
+all_agents: # !!! Order here defines order of classifier !!!
+  [cqa, kbqa, claim, explain, bool_rc, multihop_rc, reason_rc, span_rc, intent_weather, intent_movie]
+agents_extended: 1
+base_model_exclude_old_agents: False
+model:
+  version: v2
+  max_length: 80
+  model: albert #albert #electra #bert
+  model_name: albert-base-v2 #albert-base-v2 #google/electra-small-discriminator #bert-base-uncased
+  classification_dim: 256
+do_train: True
+train:
+  freeze_extend: False
+  freeze_bert: False
+  batch_size: 32
+  gradient_accumulation_steps: 1
+  epochs: 10
+  learning_rate: 0.0001
+  warmup_fraction: 0.1
+  max_grad_norm: 1.0
+  weight_decay: 0.0
+  base_path: 
+    - PATH_TO/data/stackexchange/train
+    - PATH_TO/data/kbqa/train
+    - PATH_TO/data/bool-rc/train
+    - PATH_TO/data/claim/train
+    - PATH_TO/data/explanative/train
+    - PATH_TO/data/intents/train
+    - PATH_TO/data/multihop-rc/train
+    - PATH_TO/data/reasoning-rc/train
+    - PATH_TO/data/span-rc/train
+  truncate: 1024
+  extend_truncate: 1024
+  agents:
+    cqa: [stackoverflow.com.txt, superuser.com.txt, gaming.stackexchange.com.txt, english.stackexchange.com.txt, stats.stackexchange.com.txt, math.stackexchange.com.txt, cooking.stackexchange.com.txt, photo.stackexchange.com.txt, writers.stackexchange.com.txt, workplace.stackexchange.com.txt]
+    kbqa: [qald-7.txt, webqsp.txt]
+    claim: [snopes.txt]
+    explain: [wikipassageqa.txt]
+    bool_rc: [boolq.txt]
+    multihop_rc: [hotpot.txt]
+    reason_rc: [drop.txt]
+    span_rc: [squad.txt]
+    intent_weather: [weather.txt]
+    intent_movie: [movie_schedule.txt]
+dev:
+  batch_size: 64
+  truncate: 512
+  base_path:
+    - PATH_TO/data/stackexchange/dev
+    - PATH_TO/data/kbqa/dev
+    - PATH_TO/data/bool-rc/dev
+    - PATH_TO/data/claim/dev
+    - PATH_TO/data/explanative/dev
+    - PATH_TO/data/intents/dev
+    - PATH_TO/data/multihop-rc/dev
+    - PATH_TO/data/reasoning-rc/dev
+    - PATH_TO/data/span-rc/dev
+  agents:
+    cqa: [stackoverflow.com.txt, superuser.com.txt, gaming.stackexchange.com.txt, english.stackexchange.com.txt, stats.stackexchange.com.txt, math.stackexchange.com.txt, cooking.stackexchange.com.txt, photo.stackexchange.com.txt, writers.stackexchange.com.txt, workplace.stackexchange.com.txt]
+    kbqa: [qald-7.txt, webqsp.txt]
+    claim: [snopes.txt]
+    explain: [wikipassageqa.txt]
+    bool_rc: [boolq.txt]
+    multihop_rc: [hotpot.txt]
+    reason_rc: [drop.txt]
+    span_rc: [squad.txt]
+    intent_weather: [weather.txt]
+    intent_movie: [movie_schedule.txt]
+do_test: True
+test:
+  batch_size: 64
+  truncate: 512
+  base_path:
+    - PATH_TO/data/stackexchange/test
+    - PATH_TO/data/kbqa/test
+    - PATH_TO/data/bool-rc/test
+    - PATH_TO/data/claim/test
+    - PATH_TO/data/explanative/test
+    - PATH_TO/data/intents/test
+    - PATH_TO/data/multihop-rc/test
+    - PATH_TO/data/reasoning-rc/test
+    - PATH_TO/data/span-rc/test
+  agents:
+    cqa: [stackoverflow.com.txt, superuser.com.txt, gaming.stackexchange.com.txt, english.stackexchange.com.txt, stats.stackexchange.com.txt, math.stackexchange.com.txt, cooking.stackexchange.com.txt, photo.stackexchange.com.txt, writers.stackexchange.com.txt, workplace.stackexchange.com.txt]
+    kbqa: [qald-7.txt, webqsp.txt]
+    claim: [snopes.txt]
+    explain: [wikipassageqa.txt]
+    bool_rc: [boolq.txt]
+    multihop_rc: [hotpot.txt]
+    reason_rc: [drop.txt]
+    span_rc: [squad.txt]
+    intent_weather: [weather.txt]
+    intent_movie: [movie_schedule.txt]

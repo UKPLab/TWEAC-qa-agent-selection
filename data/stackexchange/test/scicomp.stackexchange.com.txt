@@ -1,0 +1,1195 @@
+What is the difference between Coupled Cluster SD and SD(T)?
+Is Hartree-Fock always a good approximation for molecular geometries and no bond breaking ?
+What is counterpoise correction?
+How to choose a basis set for ab-initio evaluations ?
+What does it mean for a basis set to be "correlation consistent" ?
+Differences between Gaussian and Slater functions on the quality of the results?
+Desktop software with HPC resources for back end number crunching
+Parsing protein structure data in C
+Complexity of MD simulations
+How can I tell VASP 5.2 is compiled with FFTW3?
+How is B3LYP implemented in Gaussin 0*, GAMESS-US, Molpro, ... etc?
+Alternative to Bron-Kerbosch algorithm for enumerating maximal cliques in inverse interval graphs
+Uses of power series maps
+What are some good ICA packages for physiological data, like MEG?
+Is there an efficient algorithm for matrix-valued continued fractions?
+Why is Newton's method not converging?
+Polynomials that are orthogonal over curves in the complex plane
+How can I estimate the condition number of a large sparse matrix using PETSc?
+How can I choose a good Riemann solver when numerically solving a system of hyperbolic PDEs?
+When is a high order method useful for computational fluid dynamics simulations?
+When should implicit methods be used in the integration of hyperbolic PDEs?
+Does there exist an arbitrary-precision convex optimization solver?
+What is a scalable preconditioner for high-frequency Helmholtz?
+Why is local conservation important when solving PDEs?
+What spatial discretizations work for incompressible flow with anisotropic boundary meshes?
+Which methods can ensure that physical quantities remain positive throughout a PDE simulation?
+Where can one obtain good data sets/test problems for testing algorithms/routines?
+Is there an open source set of ODE solvers for C that use the native C99 complex type?
+What is the most accurate interpolation method for a 3D-flowfield on a structured grid?
+What's the state-of-the-art in highly oscillatory integral computation?
+How to construct well-balanced finite volume and discontinuous Galerkin methods for hyperbolic PDEs with source terms?
+Is there a multigrid algorithm that solves Neumann problems and has a convergence rate independent of the number of levels?
+Which tool/metric do you recommend to evaluate the quality and validity of a Large Eddy Simulation?
+Are there operator splitting approaches for multiphysics PDEs that achieve high order convergence?
+Symbolic software packages for Matrix expressions?
+When is automatic differentiation cheap?
+What guidelines should I follow when choosing a sparse linear system solver?
+Is there a high quality nonlinear programming solver for Python?
+Coupling FEM DG methods to Riemann solvers
+Libraries for solving sparse linear systems
+Prolonging PBS job
+Is algorithmic analysis by flop-counting obsolete?
+Can heat distribution in an optical element irradiated by laser be oscillating?
+Efficient tridiagonal matrix algorithm implementation
+Benchmarking performance in CFD: how to compare machines and codes?
+Is multigrid useful for finding all eigenvalues and eigenvectors of a differential equation, or only the lowest eigenvalues?
+How does one determine the point group of a molecule?
+How can the gravitational n-body problem be solved in parallel?
+How do I know which low-discrepancy sequence to use?
+What programming paradigms should I be investing in if I want my code to run on petascale machines in the future?
+Is it common not to use libraries for standard numerical algorithms, and why?
+Is Fortuna or Mersenne Twister preferable as an algorithmic RNG?
+Looking for an understandable discussion of creating Maximum Entropy classifiers
+What are the best practices for algorithms and implementation of multi-physics simulations?
+How to determine if a numerical solution to a PDE is converging to a continuum solution?
+Pauli repulsion contribution in electronic structure computations
+Discretization of Classical Density Functional Theory (CDFT) problems
+Why is my parallel solver slower than my sequential solver?
+Why is division so much more complex than other arithmetic operations?
+What programming strategies can I take for easily modifying algorithm parameters?
+Parallel I/O options, in particular parallel HDF5
+What makes Fortran fast?
+Is it worthwhile to write unit tests for scientific research codes?
+Profiling numeric libraries
+How can I compute the Schur complement in PETSc?
+Enumerating hexahedral cell vertices and faces in arbitrary dimension
+Performance differences between ATLAS and MKL?
+Linear regression via SVD not producing best fit with escalating polynomial degree
+Quickly finding rough lines in sets of points
+Artificial RNA 3D folding
+Optimal way to find stationary solutions of the PDE
+Best practices for describing agent-based models
+Is there a numerical algorithm for finding an asymptotic slope?
+Where can I find a database of simple chemical structures in XYZ format?
+Global optimal sequence alignment algorithms
+Intel Fortran Compiler: tips on optimization at compilation
+COMSOL on Ubuntu (10.04 LTS and 11.04)
+Approximate a distribution function from a finite sample
+Sampling from posterior predictive distribution
+How should I study creating and programming HPC systems?
+Assembled human ESTs for annotation
+How to deal with too much data?
+What are possible methods to solve compressible Euler equations
+How to work with function pointers in Fortran in scientific programs
+Introductions to hp-FEM
+What are criteria to choose between finite-differences and finite-elements
+In what application cases are additive preconditioning schemes superior to multiplicative ones?
+C++ vs Fortran for HPC
+Applying same feature selection to multiple data sets with Weka
+An efficient 'drizzle' algorithm?
+(How) do you take into account memory fragmentation?
+Evaluating $\binom{100}{i}a^i(1-a)^{(100-i)}$ in GMP-GNU
+What are good ways to document scientific software?
+Is there one general approach to build a projection methods for different problems?
+Python implementations of Gillespie's direct method
+What attributes make a figure "professional-quality"?
+What should be the criteria for accepting/rejecting singular values?
+Recommendations for a usable, fast C++ matrix library?
+Estimation of condition numbers for very large matrices
+Future of OpenCL?
+Is it possible to dynamically resize a sparse matrix in the Petsc library?
+Mathematical Libraries for OpenCL?
+Looking for C/C++ implementations of sampling from multinomial and Dirichlet distributions
+Nested dissection on regular grid
+numerical integration with possible division by 'zero'
+Which time-integration methods should we use for hyperbolic PDEs?
+Recommendations and experiences on which license to choose for software?
+What open source tools are available to visualize molecular vibrations?
+Richardson extrapolation for strong rate of convergence of SDE
+What software is good to use for parallel debugging?
+Vegas, Monte Carlo multi integration, QCD
+How does each process in bag of visual words image classification work?
+Is there a good, easy-to-use, high quality open source CFD solver out there?
+Performance of Lustre filesystems
+Convergence rate of Monte-Carlo variance estimate
+best way to optimize a function with linear/non-linear parameters
+Which libraries have good high-level support for multigrid?
+Representing charges in computer programming
+What numerical quadrature to choose to integrate a function with singularities?
+PDEs in Many Dimensions
+How can I tell which options PETSc was compiled with?
+What does the priority of a PBS job really mean?
+What are the main differences between PETSc and Trilinos?
+Scientific Programming on Mac using Objective-C/Cocoa for MATLAB Users
+What is a good way to understand the overall structure of a code base?
+Applicability of combinatorial and support preconditioner
+How can I numerically differentiate an unevenly sampled function?
+C++ or Python for a development of CFD library
+PETSc's makefile system can't find MKL
+finite volume method: unstructured mesh vs octree adaptation + cell cutting
+Can diagonal plus fixed symmetric linear systems be solved in quadratic time after precomputation?
+BFGS vs. Conjugate Gradient Method
+Why is my iterative linear solver not converging?
+Looking for a library or algorithms to perfom clipping 3D unstructured meshes by a set of surfaces
+Looking for a mathematical proof of stability in floating point arithmetic of CG - any reference?
+Is there software that can autogenerate numerically-accurate floating point C routines from symbolic formulae?
+Unstructured quad mesh-generation?
+Limitations of Density Functional Theory as a computational method?
+What is the advantage of multigrid over domain decomposition preconditioners, and vice versa?
+Software package for constrained optimization?
+Where can I find a good reference for the stability properties of several methods of solving parabolic PDEs?
+Solution oscillations with a small timestep in backward Euler
+Implementing Euler's method for initial value ODEs
+State of the Mac OS in Scientific Computing and HPC
+Are 8 Gauss points required for second order hexahedral finite elements?
+Is there a Moore's law for floating-point precision, and what would it imply?
+Testing a simple polygon for monotonicity in linear time question
+3d Ising model simulation - what critical exponents should I be looking for and how do I find them?
+How to do FEM in sector elements?
+Stopping criteria for iterative linear solvers applied to nearly singular systems
+Surface Mesh Library
+Quadrature rules, methodologies, and references
+List of data munging libraries
+What is a good stop criterion when using an iterative method to find eigenvalues?
+How do I take the FFT of unevenly spaced data?
+What are the possible numerical schemes for a diffusion equation with a nonlinear reaction term?
+Krylov Subspace Methods for Dense Systems
+Is it preferable to concentrate on studying math or computation?
+Kolmogorov–Smirnov test for multivariate data
+Multi-objective optimization problem - Euclidean space
+Iterative methods for indefinite systems without block structure
+Computational Complexity of Image Segmentation algorithms
+Testing for stability of a simulated dynamical system
+Probabilistic algorithms for matrix approximation
+Efficient solution of mixed integer linear programs
+Fitting a grid to an STM image
+What guidelines should I use when choosing a scalable linear solver?
+Venues for publishing papers that emphasize software
+How to link code to publications
+How do I compile a program that contains both MPI and OPENMP
+How to derive the Weak Formulation of a Partial Differential Equation for Finite Element Method?
+Finite differences on domains with irregular boundaries
+How to fill a 2D set over a cartesian lattice with as few rectangles as possible?
+Scalability of Fast Fourier Transform (FFT)
+Which is computed faster, $a^b$, $\log_a c$ or $\sqrt[b]{c}$?
+Up-/downdating methods for a series of normal equations
+Which libraries have good implementations of Basis splines?
+When analyzing a parallel algorithm, how do you take communication costs into account?
+What is the best way to do reproducible research if you need proprietary libraries?
+Replacing Mathematica's QuasiMonteCarlo integration in C++
+Reference implementation of Nédélec-Elements
+Complex numerical analysis
+What are the current obstacles to reaching exascale computing?
+What efficient algorithms are there to generate arbitrary dimensional meshes of simplices?
+How are the Voronoi Tesselation and Delaunay triangulation problems duals of each other?
+What are the advantages/disadvantages of interior point methods over simplex method for linear optimization?
+Is there a standard rating system for scientific journal publications?
+How to implement a dynamic programming solution to the 2D bitonic euclidean traveling salesman problem?
+How can I reduce the communication bottleneck of a parallel explicit finite difference scheme?
+Minimizing the Sum of Absolute Deviation ($ {L}_{1} $ Distance)
+How to obtain an implicit finite difference scheme for the wave equation?
+How can one parallelize a multigrid method for solving a linear system of equations?
+How to construct a prolongation and restriction operator for an algebraic multigrid solver?
+creating a flat surface in python
+How do you install a binary R package?
+Can a Krylov subspace method be used as a smoother for multigrid?
+Library for Fourier transform on triangle lattice
+Are there any heuristics for optimizing the successive over-relaxation (SOR) method?
+How to efficiently determine the intersection of a vertical cutting plane with a mesh
+Is there a general-purpose library for structured grid adaptive mesh refinement?
+How to parallelize a banded direct solver?
+How to reorder variables to produce a banded matrix of minimum bandwidth?
+How to find conditional Lyapunov exponents
+Finding the fixed point of an operator
+What heuristics can be used to minimize the asymptotic matrix bandwidth of a 5-point Laplacian discretization?
+Solving a non-symmetric non-diagonally dominant sparse system the best way
+Which fourier series is needed to solve a 2D poisson problem with mixed boundary conditions using Fast Fourier Transform?
+How to solve a problem with structure similar to a finite difference discretization of the 2D Poisson equation, but with non-symetric coefficients?
+What is the naming convention used in ScaLAPACK?
+Schrodinger equation with periodic boundary conditions
+Constraint solving over modular domains
+The definition of stiff ODE system
+Lanczos solver implementations in MATLAB/C++ give different results
+How to run a PETSc example?
+How do I create an animation from a 2D model or dataset?
+Low performance on sge cluster
+How to print out a network in peersim?
+Compiling and running a "hello world" program in PETSc
+precision vs matrix condition number
+How to set double precision values in Fortran
+Which Sparse Matrix Solver Libraries can I run on Android?
+What simple methods are there for adaptively sampling a 2D function?
+Shape regularity in higher dimensions
+Is it possible to use Octave to learn MATLAB programming?
+Automatic generation of integration points and weights for triangles and tetrahedra
+Databases of results for numerical codes
+Filtering a dataset to get a more uniform distribution for neural network training
+What kinds of problems lend themselves well to GPU computing?
+Laplacian eigenmodes on a semi-circular region with finite-difference method
+What is the probabilistic model behind sudoku grids?
+Linear programming feasibility problem with strict positivity constraints
+Approximately "solving" a linear system of equations without a feasible solution
+Texture analysis methods modern survey paper
+FLOP counting for library functions
+Enumeration of graphs deriving from Delaunay tessellations in 3D
+Problems running a PETSc  example in parallel
+How does the MATLAB backslash operator solve $Ax=b$ for square matrices?
+Analyzing Numerical Error in C++ Function
+What are some applications which require interval arithmetic?
+How effective is the 'tendrils of knowledge' approach to Comp. Sci?
+How to measure the overall performance of a PETSc program using the -log_summary flag?
+How can wavelets be applied to PDE?
+When do orthogonal transformations outperform Gaussian elimination?
+Can BFGS be used to minimise several functions at once?
+Drawing samples from a finite mixture of normal distributions?
+What's the most efficient way to compute the eigenvector of a dense matrix corresponding to the eigenvalue of largest magnitude?
+Which linear algebra texts should I read before learning numerical linear algebra?
+Working with multi-dimensional functions
+How do I compute the parallel overhead of a parallel code run on a single processor when no sequential code is available?
+What is the principle behind the convergence of Krylov subspace methods for solving linear systems of equations?
+Sufficient conditions to ensure convergence of the conjugate gradient method
+How can I set different axes for different plots in gnuplot?
+Two-chordless cycle extraction from a failed comparability graph recognition
+Starting multiple processes from a single PBS job and distributing them on the free cluster nodes
+Is there any open-source or easy-to-access software that can simplify algebraic expressions like $x^{2}+2x+3, x=\sqrt{2}t-1$?
+Outputting a distributed vector in PETSc
+Seemingly non-unique Cholesky factor via QR rectangularisation
+How can I generate half-normal variates in MATLAB?
+Where do dense matrices occur?
+How can I compute a basis for a matrix Lie algebra given a finite set of generators?
+Is a checkerboard block decomposition of a matrix useful when solving a linear system with a parallel conjugate gradient method?
+Which journals should I read to keep up on advances in solving PDEs numerically?
+How to add large exponential terms reliably without overflow errors?
+What guidelines should I use when searching for good preconditioning methods for a specific problem?
+Can I use an explicit time stepping scheme to determine numerically whether an ODE is stiff?
+How does Gaussian 09 handle 'Frozen Core Approximations' and how does it compare to CFour handling?
+How can I plot piece-wise defined function in some easily-accessed open-source tool?
+What core skills should every computational scientist have?
+Red(-Green)-Refinement vs. Newest-Vertex-Bisection
+One-sided non-linear least squares with linear constraints
+What is the difference between ECPs and ADF frozen cores?
+Is it possible to use BLAS if I have a function rather than a matrix?
+Diffusion kernel "guide"
+Implementing a fair scheduling policy on Maui/Torque
+How useful is PETSc for Dense Matrices?
+Adaptive mesh refinement with perfectly matched layers?
+Can quantum methods be applied to the protein-ligand docking problem?
+Are open-source codes available to study protein folding?
+Power series approximation for any function such as $-e^{x^{2}}$ in some easily-accessed open-source software?
+Conjugate Gradient with Hierarchical Basis Functions: How can the hierarchical base be decomposed?
+How much better are Fortran compilers really?
+Are there any open source inverse-based multilevel ILU implementations?
+What mapping strategy should I use when solving many large linear systems of equations?
+On Finding Open Source Projects To Contribute To
+How does one handle the source term in the Shallow Water Equations when using the discontinuous galerkin method?
+Can the solution of a linear system of equations be approximated for only the first few variables?
+Using an approximation algorithm to adapt parameter values of a given algorithm
+LP infeasibility
+Successive over-relaxation formation of heat equation?
+Matrix exponential of a skew-Hermitian matrix with fortran 95 and LAPACK
+Open-access journals in Computational Science
+complexity constants in median computations same as that of general quantiles?
+How much should scientific software be optimized?
+High Order derivatives of splines using SciPy
+Where to find data sets for testing minimum vertex cover algorithm for bipartite graphs?
+Can't understand a simple wave equation matlab code
+Suggestions for numerical integral over Pólya Distribution
+How can I seed a parallel linear congruential pseudo-random number generator for maximal period?
+Sparse hermitian eigensystems: are there better techniques than Arpack or TRLan?
+How do I read a binary file into PETSc as a matrix?
+How to assemble and solve a matrix system in parallel from values generated in different processors?
+Adding deliberate imperfection to RNG output - toolkits?
+Does ADI/Split-operator change the stability properties of the Crank-Nicholson method?
+Why does iteratively solving the Hartree-Fock equations result in convergence?
+Algebraic Multigrid Code
+Algorithm to compute the intersection of meshlines with a boundary
+Matrix exponential of a real asymmetric matrix with Fortran 95 and LAPACK
+How to obtain finite difference, which is continuous
+Heuristic for Gibbs sampler annealing schedule
+Is it possible to prove that the off-diagonal blocks of the Cauchy matrix have numerical rank $O(\log n)$?
+Wavelets frame for $L^2[0,\infty)$
+Does a tiny determinant imply ill-conditioning of a matrix?
+Is there any 2D shape repository?
+Unimodular Matrix calculation
+Tools/solutions for visualization of molecular simulation trajectories?
+C++ library for graphs with maximum common subgraph solver
+Understanding OpenCL performance
+How to incorporate the boundary conditions with the Galerkin method?
+Given values on a mesh, what algorithm can I use to construct efficiently level set contours?
+How to establish that an iterative method for large linear systems is convergent in practice?
+Error calculation in trapezoidal rule
+Computing standard errors for linear regression problems without calculating inverse
+Selection of linear solver for GPGPU computation (OpenCL)
+External hardware resources for running long and computationally intensive simulations
+Constraints involving $\max$ in a linear program?
+Will MPI continue to be a popular basis writing scalable massively parallel solvers on future many-core CPUs?
+Are there any famous problems/algorithms in scientific computing that cannot be sped up by parallelisation
+Efficiently computing a few localized eigenvectors
+Runge-Kutta and Reusing Datapoints
+What's the right way to compare vectors in floating-point?
+Overlapping communication and computation in PETSc and/or Trilinos?
+Computing a rolling quantile
+Question about the smoothing operators in multigrid methods for nonlinear PDEs
+Octave: calculate distance between two matrices of vectors
+How to impose boundary conditions in finite difference methods
+Dictionaries in pseudocode
+Easily accessible scientific code that uses LAPACK
+Tools for visualizing large 3D volumes
+Petsc not compiling c++ files
+finite difference methods and global error
+Modern resources for learning FEM
+Profiling CFD code with Callgrind
+Why do we have to rerun the CFD solver for higher Reynolds number?
+Using unconventional programming languages for scientific computation
+How can one mathematically describe the "cartoon" type of representation of proteins?
+Recommendation for a good article/book for frontal methods?
+How is geometric programming different from convex programming?
+Sort a cloud of points with respect to an unstructured mesh of hexahedral cells
+Jacobi iteration to reduce the quadratic function
+Reducing degeneracy in constrained (convex) optimization problem
+Fast algorithms to find the eigenvalues of some matrix on intervals of interest
+Which iterative linear solvers converge for positive semidefinite matrices?
+Determining the algorithmic complexity
+On Vanilla Preconditioners for solving dense $Ax=b$ iteratively
+Compability conditions in domain decomposition methods
+Standard format for finite element meshes
+Is there a tool out there that can generate interval extensions of Fortran (or C) functions by parsing Fortran (or C) code?
+What is a good introduction to graph theory / algorithm
+Safe application of iterative methods on diagonally dominant matrices
+Non-differentiable global optimization problem
+Why is my lower convex hull extraction algorithm not working?
+How can I determine the period of my pseudo-random number generator?
+Numerically stable algorithms for computing remainder of polynomials
+Initial guesses for perturbed linear systems
+Condition number of A'A and AA' formulations
+The Remez Algorithm
+How does LAPACK solve tridiagonal systems and why?
+What is the difference between O(n) and o(n)?
+Trace An Isoline of an Expensive 2D Function
+How can we evaluate performance of students in computational science courses?
+How do I plot a transparent cylinder in matlab?
+Some good reading on polygon algorithms
+2D Jacobi line maintenance?
+An efficient way to numerically compute Stirling numbers of the second kind?
+Is there an MPI All Gather operation for matrices?
+What numerical methods are recommendable for simulating two phase immiscible fluid flow through a pipe with high capillary pressure?
+Computing the characteristic polynomial of real sparse matrix
+Solve log equations problem [SageMath]
+changing from global to local coordinate structure
+float128 in linear algebra
+Condition number of (A + cI) matrix
+IPOPT solver auto-converts my binary variables to continuous
+Space Time tradeoff
+Modern Computer Efficiency vs Modern Nervous Systems
+What does PetscBagSetFromOptions() do?
+Will upgrading to a 64 bit OS help me any?
+How can I reduce the error of the sample average?
+Scientific workflow management system
+Polynomial Regression using Semidefinite Programming
+Parallel computing programming paradigms/models not based on a master/slave concept?
+Can PetscBags be used with 64 bit versions of petsc?
+weighted SVD problem?
+When should I use C++ expression templates in computational science, and when should I *not* use them?
+Adjoint method for optimization problem
+Which software and workflow is recommend for publication of scientific data and graphs?
+High-resolution finite volume schemes for two phase flow (fields with jumps) literature sources
+Implementing simple atom model using density functional theory (DFT)
+Can a numerical scheme be used to determine the well-posedness of an initial or boundary value problem?
+Define custom probability density function in Python
+What should a PetscBag be used for?
+How does matrix scaling influence linear solvers?
+Inverse compression for space-time trade off
+Compressing floating point data
+What does Static, Dynamic and Single Dynamic linking mean?
+Algorithm for generating all cartesian products, without rotations
+What's the current state of the art regarding algorithms for the singular value decomposition?
+What is the fastest way to calculate the largest eigenvalue of a general matrix?
+How do I use ScaLapack/PBLAS for Matrix-Vector Multiplication?
+What are all of the different methods for parameterizing an amino acid (or other small molecule)?
+Can gnuplot's PNG terminal use superscripts and subscipts?
+Symbolic solution of a system of 7 nonlinear equations
+Time-stable spectral decomposition algorithm
+Reference Request for Profiling High Performance Computing Codes
+Spectral decomposition with eigenvalue shift
+How can I kill parallel processes running in the background?
+Time-stable SO(n) matrix synthesis algorithm
+Why can't I compile a function using the CHKERRQ macro in PETSc?
+Numerical integration of compactly supported function on a triangle
+Parallel algorithm for eigensystem of a tridiagonal matrix
+Why isn't my Matrix-Vector Multiplication Scaling?
+What modern OOP features should a computational scientist use?
+A Comparison between GMRES, QMR and LU for Dense Matrices
+Multidimensional Minimization: GNU GSL C++ error code 27 for - iteration is not making progress towards solution
+To what extent is generic and meta-programming using C++ templates useful in computational science?
+Nonlinear least squares with box constraints
+Unique coordinates (solutions) in a single Gauss-Seidel iteration
+Fast algorithms to solve Markov Decision Processes
+Linear regression with quadratic constraints
+How do I write dimensionally agnostic code?
+reverse-lookup Digital Object Identifier given table of citations?
+What is the corresponding LAPACK function behind Matlab [Q,R,E]=qr(A)?
+How does the computational cost of an mpi_allgather operation compare with a gather/scatter operation?
+solving coupled ODEs with initial-value and final-value constraints
+Mesh domain decompositions / mesh partitioning
+Convert ODE into discrete probabilistic model
+Gradient descent to stationary, or accumulation point
+Generating Symmetric Positive Definite Matrices using indices
+Using algebraically smallest eigenvalues to find smallest in magnitude eigenvalues
+Gershgorin Circle Theorem to estimate the eigenvalues
+Drawing isocontour data of 3d discrete volume with mayavi2
+Numerics: How do I renormalize the following ODE
+Largest eigenvalue of FD discrete Laplacian
+Online resources for reviewing graphics cards for GPGPU
+How does a Sparse Direct Solver know about dimensionality of a problem being solved?
+How many Fourier magnitudes do I have to calculate before an FFT becomes more efficient than a DFT?
+Contiguous prime numbers with MPI (Want more ideas for an efficient algorithm)
+Proof continuation for rigid transformation on PCA solution
+Matlab: Solving $u_t = f(u) u_{xx} + g(u) u_x + h(u) u$
+Is it possible to ignore/discard part of a matrix when finding eigenvalues?
+How can I obtain a one dimensional finite difference formula for $U_{xx}$ with unevenly spaced nodes?
+How can I determine the initial values of pseudo-random number generator if the sequence is given?
+How can I compute the sensitivity index of an expression with a modulus operator in it?
+How to create a random 3D domain representing a plant's root structure?
+What about this simple error estimate for linear PDE?
+Understanding how Numpy does SVD
+Understanding how Numpy does SVD
+Why can't Householder reflections diagonalize a matrix?
+Perron-Frobenius theorem on general real symmetric matrices
+I/O Strategies for computational problems with large data sets?
+Optimal use of Strang splitting (for reaction diffusion equation)
+Adaptive h for gradient estimation
+What material should I include with a journal article (or post online) in order to make my computational research reproducible?
+Finding the square root of a Laplacian matrix
+Finite-difference discretization for a convective term
+What does symmetrize mean? (imposing multifreedom constraints to stiffness matrix)
+Implicitly casting PetscReal to the real part of PetscComplex
+How to find the interior eigenvalues by krylov subspace method?
+Converting from planar polynomial domain to planar polygon
+Is there an easy way to read a PetscBag into a python dict?
+FEM: singularity of the stiffness matrix
+Error message when trying to get PETSc to draw to an X terminal by passing -mat_view_draw
+Potential Reduction and Primal Path following methods
+Is there a generalization of the Sylvester Inertia Law for the symmetric generalized eigenvalue problem?
+Quality Measures for Various Pseudo-Random Number Generators
+What are the best Python packages/interfaces to sparse direct solvers?
+Are DAXPY, DCOPY, DSCAL overkills?
+Estimating time for running serial/parallel codes
+Depth of a Binary Search Tree
+Tools for computing an electric field based on location of charges?
+Constructing the origin position by transforming distance information
+Proving convergence of 5 point scheme for the Poisson equation
+Given large $x \in \mathbb{R}$, How to determine if $2^x$ is an integer?
+How to use a web-embedded model in a computational workflow?
+Estimate Norm of a black-box functional
+Molecular dynamics simulation of water vapor?
+Recover curves from noisy collection of points
+A good finite difference for the continuity equation
+Generating a tuple in Maple
+Comparing algorithms for tridiagonal linear systems solution
+Reporting curve-fit results in a scientific paper
+How to find QR decomposition of a rectangular matrix in overdetermined linear system solution?
+Are there any open standards for data exchange between components of a spatial model?
+MatMatMult and KSPSolve for MATMPIDENSE matrices
+Problems that can be reduced to the Traveling Salesman Problem
+The region of allowed values ​​for solving the equation in Mathematica
+Compute smallest eigenvectors of a matrix
+Forced viscous damping in elastodynamics
+Why does std::complex<> initialize its value to 0 upon default construction?
+Why would a computational scientist need to implement their own version of std::complex?
+How to establish that an iterative method can be applied to large matrices whose size may reach 10^3?
+scipy.optimize.fmin_bfgs: "Desired error not necessarily achieved due to precision loss"
+Where do the laws of quantum mechanics break down in simulations?
+Construction of $C^1$/$H^2$-conforming finite element basis for triangular or tetrahedral mesh
+Higher-order numerical integration on a triangle/tetrahedron/simplex
+Whats wrong with my running time calculation?
+Gauss-Seidel iterations node spacing
+Efficient principal pivots
+Fastest Delaunay triangulation libraries for sets of 3D points
+Rank structure in the Schur complement
+Portable multicore/NUMA memory allocation/initialization best practices
+Are there any QM macromolecule simulation methods that can use an electron density map as input?
+What does MatGetOwnershipRange() do for sequential matrices?
+SciComp Modeling Jobs
+How to get all intersections between two simple polygons in O(n+k)
+Book reference for Numerical Analysis
+Recommended Route for Mastering Inverse PDE Problems
+How to detect the multiplicity for the eigenvalues?
+How to parallelize the computation of eigenvalues of a sparse symmetric matrix in MATLAB?
+Solving sparse matrix systems which can be reordered to block diagonal form
+Exit_status=15 , what does it mean?
+Can MPI messages be prioritized?
+Projecting out the null-space of $A$ from $b$ in $Ax=b$
+How do the properties of a matrix affect the linear system solving
+Eigenspace basis continuously depending on parameters
+Matching Similar Items from a Set
+Generalized least squares gradient of a vector field
+Making a Molecular editor/visualizer: Object oriented programming, data structures, and molecules
+Simplifying some operations on Gram matrices
+What is the best way to find discontinuities of a black-box function?
+Practical efficacy of parallel back substitution
+How do you change the desired accuracy of a TS object in PETSc?
+Calculating Lagrange coefficients for SVM in Python
+Algorithms for a many-to-many generalized assignment problem
+System Speed - Refactoring
+Is lattice Boltzmann suitable for simulation of incompressible Stokes flow?
+How to generate neighbors in hill climbing algorithm?
+Is it possible to run a Solver Foundation solver against a model containing linear and non-linear elements?
+Implicit finite difference schemes for advection equation
+Meaning of search methods and optimization methods
+Meaning of (meta)heuristic methods
+Blaze linear algebra library?
+Permissive Math Library for Parameter Statistics in C++
+Hill climbing and coordinate descent/ascent
+Decomposition methods for solving large optimization problems
+How do I vectorize this 4-D matrix operation in Matlab?
+Efficiency of using petsc4py vs. c/c++/fortran
+Solving PSD matrix in Newton's method
+When is building a cluster in the cloud cheaper than building one in my lab for MD simulations?
+What is the deterministic counterpart of Robbins-Monro algorithm?
+What is a good way to run parameter studies in C++
+3D to 2D projections, a generalization
+How to estimate the maximum argument of eigenvalues?
+Optimal transport warping implementation in Matlab
+What is the difference between MATSEQMAIJ and MATSEQAIJ in PETSc?
+What is the computational cost of $\sqrt{x}$ in standard libraries?
+What are some good strategies for improving the serial performance of my code?
+How to solve a nonlinear differential equation of this type
+Usage of DifferentiableMultivariateFunction and NonLinearConjugateGradientOptimizer
+Do I need KSPSetOperators after PCSetOperators?
+What are the advantages and disadvantages of the particle decomposition and domain decomposition parallelization algorithms?
+What is the best high performance computing platform for engineering simulations?
+Is C slower than Fortran on the spectral norm shootout (using gcc, intel and other compilers)?
+In Octave, how do I specify that the solution to a matrix equation should be over integers?
+MATLAB matrix multiplication (the best computational approach)
+Generating lattice clusters/graphs in parallel
+How to implement efficient indexing function for two particle integrals <ij|kl>?
+Computing the PDF of a quadratic function of two random variables
+How should I build a 2D 5-point stencil Laplacian matrix in parallel?
+What is the overhead in sparse matrix multiplication
+Complexity of direct solvers?
+When is MatGetArray/VecGetArray useful?
+How can I precondition a non-linear problem before linearization?
+Solving $(G^TA^{-1}G)x = b$ without inverting $A$
+Recommendation for Finite Difference Method in Scientific Python
+Finding a global minimum of a smooth, bounded, non-convex 2D function that is costly to evaluate
+Anyone knows references summarizing the history of supercomputing?
+Illustrative examples of mimetic finite difference methods
+What is a suitable algorithm for solving a large mixed-integer quadratic program?
+Efficient computation of the extension of a linear basis to completion when the basis is almost complete (ideally using LAPACK routines)
+How do I print a PetscBag to a specific file?
+Finite difference scheme for compressible nonisothermal flow in porous media
+How to get started with OpenFOAM for CFD
+is accessing an element in an array slower than accessing a variable?
+Application of an orthogonal matrix to a 3D configuration of point
+Multiply Multiple Sparse Matrices
+Universities known for computational physics
+ COMSOL - Implementing Perfectly Matched Layers (3D)
+Which package should I use to wrap Modern Fortran Code with Python?
+What is the best way to solve Ax = b (with A large, spd, sparse, banded and poorly conditioned)?
+Out-of-core matrix transpose of row compressed data
+Large-scale generalized eigenvalue problem with low rank LHS matrix
+How to interpolate multipoint data to the cell centres of an unstructured mesh?
+Minimizing a quadratic function with nonlinear constraints
+Petsc's xxxSetxxx methods: Own Pointer or Copy Values?
+How to quickly implement and test a turbulence model?
+Rigid Body Elements
+How do you improve the accuracy of a finite difference method for finding the eigensystem of a singular linear ODE
+Apply PCA on very large sparse matrix
+solving generalized eigenvalue problems with the same precondition
+Are there open-source scientific libraries which use modern Fortran with OOP?
+How to choose a good step size for stochastic gradient descent?
+Python syntax for MATLAB/Octave colon operator a:dx:b
+Memory usage within graphics cards
+application of oscillatory high-dimensional functions
+Taxonomy of ILU preconditioners
+Does PETSc ever make use of LAPACK libraries for sparse matrix math?
+32bit/64bit issue when working with Numpy and petsc4py
+Disadvantages of common discretization schemes for CFD simulations
+How can I derive a bound on the spurious oscillations in the numerical solution of the 1D advection equation?
+Sampling strategies to solve a stochastic partial differential equation
+What is a robust, iterative solver for large 3-d linear-elastic problems?
+Would anyone give some review on adjoint methods in shape optimization method <in fluid dynamics>?
+What is too big for standard linear algebra/optimization methods?
+Largest unstructured mesh problem solved till date
+Algorithms for (adaptive?) function plotting
+Any reference which summarizes decompositions?
+What does "missing-wedge corrected" mean?
+How to address numerical non-associativity for parallel reduction?
+Derive PCA with SVD
+How can I automate the process of optimizing the design of a physical object?
+$k$ nearest neighbors for $n$ points with periodic boundary conditions in R^3
+Solving shifted linear systems with LU factorization
+Estimating the maximum absolute value (magnitude) of the Laplacian for a given function?
+Solving a system with a small rank diagonal update
+The speed and memory requirement of minpack
+Entropy fix for godunov scheme
+Euler equations in 2d
+Solving non-linear singular ODE with SciPy odeint / ODEPACK
+Anisotropic cover with n-cuboids
+Numerical solution of hyperbolic PDEs with nonconvex flux
+(how to) write simulations that run faster?
+structured grid and unstructured grid
+1d shock tube problem, and the solution
+How to add back integral constraints to linear program solution
+Newton-based methods in optimization vs. solving systems of nonlinear equations
+Migdal Recursion and Mathematica
+Is the sparsity pattern of a linear system important for iterative (KSP) solvers?
+Can gsl be compiled with the intel C compiler?
+Algorithms for community detection for bipartite graphs?
+How to calculate the maximal ellipsoid in a given polyhedron
+Wanting to learn about matrix solvers
+How to build a recursive spline function in C++
+Single versus double floating-point precision
+Costs of lookups versus calculations
+How should I install a Fortran compiler on a Mac? (OS X 10.x, x >= 4)
+When fitting a Gaussian-like function, how does the amount of baseline datapoints affect the fit?
+Intersection of hyperplanes
+Memory footprint for DMDA objects in PETSc
+Parallel Scientific Computation Software Development Language?
+Line search for Newton method
+What tools or approaches are available to speed up code written in Python?
+I don't understand how to correctly calculate truncation error
+Quality open source AMR libraries
+Predict runtimes for dense linear algebra
+Defining electric current source excitations for surface integral equation formulations
+How to detect key turning points on a driven road?
+Should I include integral constraints in a integer linear program with a totally unimodular constaint matrix?
+Null-space of a rectangular dense matrix
+Computing a sequence of row interchanges that realizes a given permutation matrix?
+Where can I find coded examples of stochastic collocation applied to an elliptical PDE using smolyak sampling?
+How do I know if my code is being vectorized by the compiler?
+Specifying boundary conditions for imported mesh in OpenFOAM
+How do I make sure that the results of my simulations and the results in my paper are always in sync?
+How to handle large numbers of output data sets from a simulation/sensitivity analysis?
+How to numerically calculate residues?
+Is there an in practice limit on the number of constraints on a linear programming problem?
+Interpolate 2D data
+Get equation for a curve which intersects x at seemingly randomly distributed points?
+Different kinds of Integral Equation Methods
+efficiently solving a low rank linear parametric systems?
+What algorithm for solving a set of stiff ODEs would be easiest to port to high precision floating point arithmetic?
+Computing Permanents of $64 \times 64$ Matrices
+f2py: error f90 not supported by GnuFCompiler needed for source_file.f90
+SVD for finding the largest eigenvalue of a 50x50 matrix -- am I wasting significant amounts of time?
+eigenvalues (and determinant) of a hadamard product of matrices
+Approximate spectrum of a large matrix
+Drawbacks of Newton-Raphson approximation with approximate numerical derivative
+What are the strategies for local Adaptive Mesh Refinement (local AMR) on unstructured meshes?
+CFD for high-detailed turbulence and non-linear waves
+Best practice for storing hierarchical simulation data
+Exploring feasible points in a linearly defined space
+Proportional equality constraints
+Why isn't every linear program combinatorial?
+How to find Lyapunov exponent for coupled system
+Applications of Moore - Penrose generalized inverse of a matrix and associated projection?
+LP feasibility checking
+Finding a permutation that makes a matrix lower triangular
+What is the most efficient way to diagonalize small matrices?
+Numerically stable real solution(s) to a system of bivariate quadratics
+Finding which triangles points are in
+Libraries for solving Lyapunov's equation
+Produce equation of curve, given some coordinates
+How can I approximate an improper integral?
+Efficient interpolation method for unstructured grids?
+C library - iterative sparse complex linear equation solver?
+How to let OpenFOAM abort a simulation when values exceed a given range?
+Recommendations for a usable, fast Java matrix library?
+Monte Carlo simulation of 3D X-Y model
+Examples of PDE computations using parallelism in both space and time
+Nelder-Mead optimization Algorithm
+Is there a convenient solver for linear programming with many summations?
+Updatable SVD implementation in Python, C, or Fortran?
+objects in buckets -- assignment optimization problem
+Can similarity criterion help reducing calculations in Finite Element Analysis (FEA) problems?
+Which discretization scheme to use for elliptic PDE?
+How to set up the dynamic mesh for a piston moving through a tube of variable diameter?
+Where can I find public datasets of images mostly dominated by contour?
+Solving a least squares problem with linear constraints in Python
+How to use grid sizes that are not powers of two in Geometric Multigrid
+Largest invertible dense matrix with standard solvers such as Lapack
+problem in output solving two coupled second order differential equations in matlab
+A sufficient number of distances to recover relative positions of n points
+Is there a package for computing and discretizing Euler-Lagrange equations?
+How to create zero thickness internal walls in a given mesh in OpenFOAM?
+Why is my second order accurate method only converging at first order when the coefficients are rough?
+Guides on Python for shared-memory Parallel Programming
+How do I analyze the error for the Crank-Nicolson method on a parabolic PDE?
+Impact of irregularity at the boundary on the error analysis
+choice of the norm for the error of the numerical method
+regularity of a solution and its affect on the global error
+Integral average approximation and error bounds
+Diagonalization of Dense Ill Conditioned Matrices
+error of linear interpolation
+Why is the time dimension special?
+Efficiency of a Dynamic Mesh vs. a Static Mesh for a Propagating Shockwave
+How to choose a stable PML for pseudo-spectral method with strongly varying velocity
+Software for 3D Navier-Stokes equation
+BLAS/LAPACK subroutine to add two matrices with different offsets and leading dimensions
+Finite volume solution of electrostatics using magnetic vector potential
+eigenvalue analysis vs fourier analysis for stability and their equivalence
+Spectrum of the product of two matrices
+Is there a special algorithm for computing the convex hull ordering when the candidate points are on the hull?
+how to measure the error of a finite difference method
+What are d_nz and o_nz in PETSc's MatMPIAIJSetPreallocation function?
+What are the benefits and drawbacks inherent to using classes to encapsulate numerical algorithms?
+Sparse non-square system of linear equations in exact arithmetic
+Quickly computing inversion of a large sparse partial stochastic matrix
+What does "Counting algebraic multiplicity" mean?
+Methods to solve a double integral
+Finding dominant eigenvectors of an operator that is small but costly to evaluate
+analyze stability on a nonuniform grid
+How to solve a small least-squares problem
+Inverse of a 10X10 antisymmetric matrix
+Thrust for GPU programming
+Smoothing the diffusion coefficient to improve convergence
+Debugging Shell matrix
+What norm to choose when?
+Ordering of Eigenvalues and Eigenvectors in MATLAB
+In molecular dynamics (MD) simulations, how is particle number density computed in practice?
+For software submitted to ACM TOMS, how does the ACM software license agreement interact with other licenses?
+Linear programming boundedness
+Min-cost flow problem
+Shearing and Hartley's rectification
+Simulating the MPI_Isend/Irecv/Wait model with one-sided communication
+Properties of a Shockwave in Fluid Calculations
+What is the best way to determine the number of non zeros in sparse matrix multiplication?
+How can I detect which among N bodies with different velocities will collide?
+Finite difference coordinate transformation for spherical polar coordinates
+Alternatives to Journal of Computational Physics
+How should I report profiling/timing information about my code?
+Nonblocking version of MPI_Barrier in MPI 2
+Convex polytope volume and centroid calculation
+Solving huge dense linear system?
+Explicit Euler method too slow for reaction-diffusion problem
+Is busy waiting on both MPI_Iprobe and MPI_Testsome efficient?
+Basin of attraction for Newton's method
+Can post-processing use topoSet and createPatch without screwing up the results?
+How far is a non-symmetric discretization of an elliptic operator from the continuous operator itself?
+Is there an algorithm to find an almost-convex hull given a tolerance angle?
+When to stop Gauss-Seidel-iterations?
+Eigenvalue decomposition of the sum: A (symmetric) + D (diagonal)
+Rational LP to integer LP
+Fast Algorithms for solving sparse LP problems
+Estimating the Courant number for the Navier-Stokes Equations under differing Reynolds number regimes
+Algorithmically selecting colors that will contrast with their background
+Interpolation schemes to move data between cells and nodes
+Relation to all-pairs Euclidean distances
+Manipulating Matrices in Matlab
+Evaluation of multivariate polynomials
+How to find the number of principal components that lead to the smallest generalization error?
+Normalizing axes prior to PCA
+PDE discretization with the method of rothe and the method of lines (Modular implementation)
+How to compute the optimal ridge regression model
+Recommendations for a usable, fast GPL-compatible derivative-free numerical optimization library that can be interfaced to C++
+Binary Integer Programming Problem Subject to a Set of First-Order DEs
+Drawing 3d projection of complex surface
+Can all eigenvalues of a Hermitian Toeplitz matrix be computed in $\tilde{O}(n)$ time?
+How do I configure PETSc to run long double precision or some other precision that is greater than default?
+Handling inconsistent solutions obtained by PCA
+parametric linear programming
+Is it possible to access a GPU remotely (i.e., from another machine)?
+What is the simplest way to do a user-local install of a python package?
+Priorities for learning computational methods, when should I write my own code vs. using libraries as a beginning graduate student?
+How to assure that a number only contains a certain range of digits?
+Is the heat equation with Neumann boundary conditions well-posed?
+Termination Criterion of Golden Section Search
+Positive semi-definiteness of a (symmetric) matrix
+How to efficiently compute the total least squares with an inequality constraint
+Boost::mpi or C MPI for high performance scientific applications?
+Numerical Methods for the Schrodinger Equation
+Numerically designing a periodic 1D curve  that maximizes an integral area objective and satisfies value, derivative, and frequency constraints
+Factor a non-symmetric matrix into the product of a sparse symmetric matrix and a diagonal matrix plus a low rank correction
+Existing software/scripts for spiral graphs?
+Testing numerical optimization methods: Rosenbrock vs. real test functions
+What is a good introduction to mixed quantum-classical modelling
+MATLAB Code Evaluation for Least Squares Regression (LSR)
+Identifying the name/provenance of a technique to find the nullspace vectors of a matrix by random sampling and the conjugate residual method
+Is there a backward stable $\tilde{O}(n \log(1/\epsilon))$ algorithm to factor a complex polynomial?
+most adequate edit distance for misspellings in names?
+Boundary conditions for the advection equation discretized by a finite difference method
+How to solve numerically such system of equations
+What is the worst case complexity of the symmetric tridiagonal QR eigenvalue algorithm?
+good (free) software for producing publishable images?
+Storing a large, sparse array for R and Python
+Visualizing discontinuous Galerkin/finite element data
+Initially Bracketing Minimum for Line Search
+Dense generalized hermitian indefinite eigenvalue problem
+High-dimensional representation of arbitrary input
+How should I calculate the average repositioning distance for empty trucks given known supply and demand at the postal code level?
+Calculation of Multivariate Coherence
+function over conditional probability
+Iterative solution to a nonlinear equation
+Implementing a finite difference method in Mathematica
+derivative of linsolve
+How to intellligently attempt to rule out convexity?
+Minimum image convention for triclinic unit cell
+Where is the bug in my fourth order Runge-Kutta method implementation?
+Determine set of dividend and divisor for quotient
+Linear Programming with constraints of the form $Cx \nless d$ where $C\in R^{m\times n}$
+Root Convergence rate of Iterative Scheme 
+Is there a way to inspect the graph of a sparse matrix with PETSc?
+Numeric integration of multi-dimensional integral with known boundaries
+Higher precision floating-point arithmetic in numerical PDE
+Random placement of euclidean points with constrained inter-point distances in a fixed area
+Under what circumstances is Monte Carlo integration better than quasi-Monte Carlo?
+How to efficiently structure simulation data in memory for cells with varying degrees of freedom?
+Sudden drops in matrix multiplication performance
+Transitional flow in OpenFOAM
+Understanding wall time jitter in MATLAB computations
+Solving Poisson equation with free boundaries and adaptively refined mesh
+What is the scaling or order of molecular dynamics (MD) simulations?
+Efficiently changing basis on many diagonal matrices 
+What is the best way to get erfi with scipy?
+How to prove that my problem is np-hard
+Is it a good idea to use vector<vector<double>> to form a matrix class for high performance scientific computing code?
+Fastest way to find eigenpairs of a small nonsymmetric matrix on a GPU in shared memory
+Absolute Value in Linear Constraints
+Computational cost of numerical methods for PDEs
+Difficulty with Spectral Method using Chebyshev Polynomials
+Is it possible to represent non-linear ranking type constraints as equivalent linear constraints?
+Dealing with the inverse of a positive definite symmetric (covariance) matrix?
+In floating point arithmetic, why does numerical imprecision result from adding a small term to a difference of large terms?
+Adjusting the time step dynamically in OpenFOAM?
+a priori error analysis of cell-centered finite-volume methods
+Demonstrating that the time step size is small enough in a code with automatic step size selection
+Solution of quartic equation
+Plotting x,y coordinates and vectors with octave
+random number generation from cython
+How to estimate the impact of small scale on large scale in fluid dynamics?
+Efficient way to find max height repetitive sub-trees in an object tree
+Sensitivity of BFGS to initial Hessian approximations
+What are the fastest available implementations of BLAS/LAPACK or other linear algebra routines on GPU systems?
+Algorithms for linear system of ODEs
+Fastest PCA algorithm for high-dimensional data
+Heuristic check of numerical stability
+Solving two coupled non-linear second order differential equations numerically
+Permute a matrix in-place in numpy
+transitive floating point comparison with (absolute) tolerance
+Second order directional derivative in image processing
+Finite difference scheme for "wave equation", method of characteristics
+How do I measure the confidence of each new observation according to a decision tree learning model?
+Choosing subset of vectors to approximate a subspace
+Linearized implicit time stepping
+Ways of visualizing event data in search of performance issues
+Fourier transform for Neumann boundary condition
+Using same memory space for global and local Petsc DA Vectors
+Impose the compatibility conditions for mixed finite elements method in Stokes equation
+How to choose a method for solving linear equations
+Convergence of the gradient descent and linear vs non-linear fixed point iteration
+Adaptive Linear Algebra Libraries
+Understanding the Wolfe Conditions for an Inexact line search
+Gram-Schmidt method to identify linearly dependent vectors
+Task-based shared-memory parallel libraries in Scientific Computing
+Finding most informative feature subsets given dataset, clustering algorithm and gold standard partition
+How can you explain the following bound on the inner product?
+FEM simulation of a material being stretched
+Numerical methods for discontinuous r.s. ODEs
+neural networks: multilayer on-off perceptrons
+Numerical solution of fractional integro-diffrential equ. using collocation method?
+Appropriate space for weak solutions to an elliptical pde with mixed inhomogeneous boundary conditions
+Concave polygon 'hull' finding
+Octree cubes to tetrahedrons
+Recovering coordinates by eigendecomposition without double-centering
+Open-source, thread-safe implementation of convex optimization solvers in C/C++?
+How to add perturbation to a base state in physical grid space?
+What's a good numerical/optimization software package for solving the 2-D optimal stopping problem?
+Visualizing very large link graphs
+Parallelization of LSE solvers using CUDA
+Simultaneous maximization of two functions without available derivatives
+How to solve advection equation using semi-lagrangian method?
+Looking for parMetis visualizer?
+Dealing with non-monotonically increasing data
+How do low rank modifications affect Krylov method convergence?
+Equivalence of linear systems, solving one instead of the other
+CVXOPT VS. OpenOpt
+Convergence of fixed point iterations of a non-linear matrix system
+Fast and accurate double precision implementation of incomplete gamma function
+What other method can be used to solve differential equations except ode functions in Matlab?
+What are good examples of problems which are stiff due to very long interval of integration?
+semiboundedness of the operator and it is affect on stability
+Relative comparison of floating point numbers
+Relation and difference between combinatorial optimization, discrete optimization and integer programming
+Effects of memory speed/architecture on Pardiso scaling
+Simulated Annealing proof of convergence
+Polynomial Fitting from Chebyshev Coefficients
+Convergence of step-length in a globally-convergent newton line search method with non-degenerate Jacobian
+Newton-Raphson method for nonlinear partial differential equations
+How to move particles in a variational Monte Carlo simulation?
+Single nodes after mpmetis partitioning
+Extracting a 2D matrix from a multidimensional array in C
+Alternatives to von neumann stability analysis for finite difference methods
+Lagrangian Duality
+SQP optimization algorithm tuning advice
+Eigenvectors with the Power Iteration
+Test set non linear solver
+Best hardware solution for microsecond Molecular Dynamics
+Manipulating a generalized eigenvector problem to plain eigenvector problem
+Fast (approximate) evaluation of Chebyshev polynomial
+Open source implementation of rational approximation to a function
+Efficient preconditioner for Augmented Lagrangian
+Recommendations for a lightweight/no-install C or C++ based dense linear algebra solver
+What is the current state of polynomial preconditioners?
+Why is pinning a point to remove a null space bad?
+Side chain rotamers sampling in protein
+Estimate extreme eigenvalues with CG
+How to integrate polynomial expression over 3D 4-node element?
+multiplications of graph adjacency matrix
+Using scipy.optimize to implement a neural network with back propagation
+How to express the derivatives with respect to the initial coordinates {x,y,z} when 3D coordinate system is mapped into 2D manifold {e,n}?
+Maximizing unknown noisy function
+Scientific standards for numerical errors
+Configuration shift to change the rank of a Gram matrix
+Increasing the archival longevity of code
+Power Iteration on general matrices (with higher multiplicity of dominant eigenvalue)
+closest point to a polyhedral cone
+What would be the most helpful way to write code for a paper so that readers can clearly match the results to the code that generates them?
+Finite Volume Method vs. Finite Element Method for Eulerian and Lagrangian Reference Frames
+Where to find Leszek Demkowicz's finite element codes or alternatives?
+What are the symptoms of ill-conditioning when using direct methods?
+Ill-conditioned Gram Matrix Assembly
+Effect of boundary condition on the local error
+How are collisions detected in simulations?
+correct complexity notation
+How do you formulate the linear least-squares method for radiometric calibration?
+Fourier pseudo-spectral method and numerical dissipation
+efficient mean of solving constrained OLS problems?
+Quadratic program With Linear Constraint vs. Eigen Decomposition Time Complexity-Comparison. Which is faster?
+FEM toolbox for discretization of higher order PDEs
+Does right-hand side influence convergence rate of a Krlylov supspace method?
+Why does MATLAB's quadprog outperform MOSEK for my problem?
+Helmholtz and Biharmonic equation examples with exact solution
+Algorithms for Large Sparse Integer Matrices
+How to remove Rigid Body Motions in Linear Elasticity?
+Fastest algorithm to compute the condition number of a large matrix in Matlab/Octave
+Catastrophic cancellation in logsum
+fmincg implementation in Python
+Numerical Green functions for a nonlinear wave equation
+Estimate (non-)drift in noisy data
+How to get sparse complex matrices from my code to PETSc efficiently
+Krylov subspace iterative methods in floating point arithmetic
+code for surface advection (e.g. level set advection)
+Arbitrary Accuracy Scalable Rope Simulation
+Using algebraic multigrid for preconditioning convection-diffusion operators
+Affecting the rank of a Gram matrix by configuration shift
+What is the correct way of integrating in astronomy simulations?
+An eigenvalue algorithm to solve constrained quadratic form minimization
+Configuration shift for determination of a true dimensionality
+Expectation-Maximization and local maxima
+Large array in GMP
+Matlab Pde Toolbox: Plot solution on a line or on a submanifold
+Minimal point of a intersection of $n$ convex sets is always the minimal point of the intersection of two convex sets?
+Ray casting algorithm for multiple disjoint polygons is still valid?
+Reaction-diffusion system animation
+Computing flux of vector field numerically with regular grids
+Memory usage in fortran when using an array of derived type with pointer
+CPU benchmarks for numerical kernels
+Should the discrete $L^{\infty}$ norm error increase as the mesh refines?
+What kinds of maths to learn for understanding dynamical systems in cognitive science?
+Hosting site for a small scientific library
+Deriving the element stiffness matrix for 2D linear elasticity
+Randomly choose among N alternatives
+Piecewise polynomial interpolation: Hermite vs Lagrange
+how to test convergence of the solution vector
+What does fundamental solutions stand for in boundary element method?
+Resampling of values between body fitted and cartesian grids
+Need for quad precision in scientific computing?
+Implementing PageRank using the Power Method
+Are there Improved ways of computing $p \log(p)$?
+Reshape and Index (State) Products in Numpy
+Thermoplastic Equation solving
+Scalar vs. vector potential for magnetostatics
+Cholesky Algorithm loop-Carried
+Bounded Variation Spaces
+Numerical method for nonlinear system of algebraic equations of special type
+Representing an integral as a special function
+Partitioning of mesh with 20 noded hexahedral elements
+What is the criteria for switching between Strassen's and Regular matrix multiplication Algorithms
+In Comsol Multiphysics, is there a way to change parameter values when something happens in the solution?
+Offline (visualisation) rendering in scientific computing
+rate of convergence for the second order accurate method on two dimensional grid
+Mesh partitioner that assures non empty subdomain?
+Mixed boundary conditions Finite Element Method
+Implementing a numerical method for unconstrained optimization in Go
+Regression testing of chaotic numerical models
+What is the algorithm for computing block reflectors in xDLARFB
+Existence of a solution at a stationary equation for quadratics
+Does Computational Science involve programming?
+How to find all complex roots of an equation in a domain
+Laplace's equation problem in Polar Coordinates (Edit)
+Are matlab C library versions backwards compatible?
+Rebinning algorithm in VEGAS
+Approximating and visualizing basins of attraction
+Calculating AIC (in R or any other statistical software)
+minimization with orthogonality constraint
+Imposing invertibility on a Matrix
+Computing an orthogonal matrix subject to linear constraints
+Orthogonal vs general curvilinear coordinates
+$k$-Nearest Neighbor Search using examples
+I am looking for a parallel dynamic graph library in C++
+Poisson solver on unstructured mesh
+Numerical Integration - handling NaNs (C / Fortran)
+What are some good data-types for unstructured cell-centered FVM CFD code?
+how to approach time zero when the equation is not defined at that point
+How to design good finite difference schemes?
+Computation of Cholesky factor
+Simple substitutions using symbolic computing in MATLAB
+Hybrid spatial schemes for CFD: any downside to blending versus switching?
+Flexible Mesh Framework
+How to apply a Galerkin finite element method to a linear, one-dimensional boundary value problem
+Magma vs. Plasma
+Evaluating sine and cosine of an integer multiple of an angle
+Checking for error in conjugate gradient algorithm
+Orthonormalized Bernstein polynomials using Gram-Schmidt
+Understanding the "rate of convergence" for iterative methods
+Recommendation for a python book for data processing
+Improve optimization over 'mapping' of indices
+Heat equation (steady state) with boundary conditions at domain edges and inside the domain
+Strategies for Newton's Method when the Jacobian at the solution is singular
+Sparse Matrix Library for GPU
+How does an automaton actually "compute"?
+Creating spheres In Matlab that change surface color depending data
+Row major versus Column major layout of matrices
+Understanding Inner blocking size in lapack/plasma
+Is there a nonlinear solver similar to CGNR evaluating only $A^TAx$?
+ROOT (CERN C++ Libraries) alternatives
+PDE solvers for Drift-diffusion and related models
+Max of a convex combination over a convex hull of real variables
+Find maximum distance between elements given constraints on some
+Clustering data based on the radius of a sphere
+interpolation combined with methods of characteristics can cause oscillations for the transport equation?
+Literature references for modeling current and future energy costs of floating-point operations and data transfers
+What is the runtime complexity of MATLAB operation A*B where A and B are general sparse matrices?
+Logistic regression with Python
+Grid mapping from an unstructured triangular mesh to a regular rectangular mesh
+What are the efficient, accurate algorithms for evaluation of hypergeometric functions?
+Where do I find data to start a graph data structure to practice on?
+Restrict Voronoï diagram to a polygon
+index representation of the diamond lattice
+Computing ratio of trigonometric functions
+Neumann BCs in cylindrical geometry (FEM)
+What is the most efficient approach to interpolate values between two FEM meshes in 2D?
+On implementations of the complex QR decomposition
+How to do upwinding in finite volume schemes for nonlinear equations?
+Difference between Computational science and Computational X (X = some natural science or discipline)
+How to accurately decompose positive semidefinite matrix and use the lower triangular part in linear equations
+Conservative field mapping between two topologically disconnected surface meshes
+Efficiency of Repeated Sparse Matrix-Vector Products
+Enforcing continuity conditions in pseudospectral domain decomposition methods for time dependent PDEs
+variational formulation of linear elasticity
+Optimality criterion of PCA via recovered distances
+Is it necessary to project the initial condition onto the variational space in a fully discrete galerkin method?
+generating a non-uniform grid with Chebyshev discretization
+FEM oscillations for polynomials of degree 1
+classification machinery needed
+How to include parameters in plot title in comsol?
+Calculating determinant while solving $Ax=b$ using CG
+Solving a simple Ax=b system in parallel with PETSc
+Nonlinear wave equation - Finite element or finite difference
+Schur's Complement and Inverse of Block Matrices
+Magnetic field simulation and visualization on Mac OS X?
+Nonlinear dynamics: algorithm suggest
+Approximation of a linear function with polynomials of degree 1
+Is computational science recommended as part of the typical undergraduate curriculum every computer science department should teach?
+How to to easily reproduce published results in my own articles using my own code
+Statistical models for local memory/compute, network latency, and bandwidth jitter in HPC
+PCA performed on a configuration with scaled axes
+energy norm for transport equation
+How do I solve an ODE Two-Point Boundary Value Problem?
+Limitations of Domain Decomposition Method (DDM) in Finite Element Analysis (FEA)?
+Handling function inputs in Matlab
+Random access random permutations
+How to code in Matlab: If an argument is empty, then default to "x" value?
+C++ library for nonlinear constrained minimization
+Maximizing a convex function (minimizing a concave function) with a linear constraint
+How exactly does the *full* multigrid algorithm run?
+Hamiltonian Matrix Size in Schrodinger Equation
+computation complexity of OLS in estimating a VAR model
+uniform vs. non-uniform grid
+how to visualize lattice with periodic, helical, etc. boundary conditions?
+Extreme points from constraint expression of convex space
+Testing and visualizing large index arrays
+Why is Torque changing the name of my output files?
+Error in Maple's CellDecomposition Command
+Numeric solution of simple but possibly singular linear system
+Full Multigrid convergence is too slow. What could possibly be causing it?
+How to approximate flux (with gradient) when using finite volumes?
+What algorithm to use for parallel dense matrix inversion on at most 8 cores?
+intuition behind the different discrete norms for Crank Nicolson
+Use Butterworth and Chebychev filters
+System of non-linear ODEs and estimating unspecified initial conditions on Maple 12
+multigrid method to solve PDE
+exact area resampling
+ENO/WENO vs monotone Hermite interpolation
+LBFGS or other optimization algorithms - implementations MATLAB
+nonlinear conjugate gradient for multivariable functions
+Solving PDE or eigenvalue problems without FEM
+choice of the norm for Crank Nicolson stability estimate
+Wrong Result QR decomposition with Pivoting in LAPACK
+Compressible flow through a porous medium with a variable inlet concentration
+Find / Detect / Enumerate all Cliques or Independent Sets
+Where can I find Ansys Fluent for ubuntu?
+software request for solving acoustic wave equation
+Mesh simple 2d CAD boundry drawing
+Optimal sample size for Stochastic Steepest Descent
+nuclear reaction fluid modelling
+Fastest polynomial root finder for a given accuracy
+Backward stable projection and normalization of a vector
+Customizing Genetic Algorithm on Matlab
+How to avoid NaN in optim?
+How to solve the stiff equation in this Restricted Three Body Problem numerically?
+NVE MD simulation of inert gas: Problem maintaining equilibrium
+Finite element stabilization schemes for incompressible flow
+Levenberg optimizer halts quickly when given more variables, or fewer constraints
+Stability of forward euler method
+Not Sure How to Solve A System Of Linear Equations In MAPLE13
+How to implement Newton's method for solving the algebraic equations in the backward Euler method
+Finding the distribution (histogram) of eigenvalues for large sparse matrices
+cholesky factorization of block matrices
+Introduction for (numerical) linear algebra of random variables
+Finding two shortest path that are 'distant' in the graph
+Simple Lanczos algorithm code to obtain eigenvalues and eigenvectors of a symmetric matrix
+Diffusion-Transport problem FEM
+Pointwise convergence
+How to properly apply non-homogeneous Dirichlet boundary conditions with FEM?
+The effect of the boundary condition on the convergence of the fdm scheme
+Meaning of CFL condition on parabolic problems
+restriction and interpolation in multigrid method
+OpenFoam vs FiPy
+Solving diffusion PDE using finite differences
+Numerics for heat equation
+Approximation of partial derivative of a function of stochastic variable
+When we use Bernstein polynomials in application
+A better Fast Marching Method?
+Method for numerical integration of difficult oscillatory integral
+discrete $L^p$ norms for non-uniform grid
+Asymptotic convergence of the solution to a parabolic pde to the solution of an elliptic pde
+Decreasing spectral radius
+Diagonal update of a symmetric positive definite matrix
+Does transforming $J_0(x)\to\int\cos(x\sin\theta)$ help with numerical integration?
+Eigenvalue Decomposition of Hermitian Matrix in Scala
+Optimization method that considers varying time cost of objective function for different parameters
+Python OSS alternatives for Matlab Neural Network Toolbox. Any intercomparisons?
+amplification factor of some schemes for the transport equation
+Local and global coordinates in FEM
+Multi-objectives fitness function with hard and soft constraints
+Determining Computing Requirements
+amplification factor for the Crank Nicolson scheme for the advection equation
+Translating from SBML to Petri Net (matrix representation)
+Threaded OpenBlas benchmark slower than system blas?
+Soft Question: Where does Python fit into the picture?
+Parallel algorithm to use in place of PORTA?
+Numerical Methods for minimizing a Non-Differentiable Convex Function of Several Variables
+which numerical method for ode with mixed BCs
+How to pick a basis for the result of a non-linear function given a basis for its argument
+Is there a way to reduce aberration in computations of planets' trajectories?
+Are serendipity elements still polynomially complete when the quadrilateral is skewed?
+Do I need to learn C?
+An asynchronous version of the Covariance Matrix Adaption (CMA)?
+Robust optimization using fmincon in Matlab?
+Which language should I learn for computational science?
+Looking for an algorithm that allocates climbing hold colors to wall sectors
+Conway's FRACTRAN
+Lax equivalence theorem for integro-differential equation
+LAPACK - singular matrices - what does the positive integer info mean?
+A cost function minimisation genetic algorithm which includes a measure of search completeness?

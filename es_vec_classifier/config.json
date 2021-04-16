@@ -1,0 +1,65 @@
+{
+  "es_url": "localhost:9200",
+  "index_name": "INDEXNAME",
+  "k": 50,
+  "weighting": "score",
+  "use_cosine": true,
+  "class_weighting": true,
+  "folder_prefix": "OPTIONAL",
+  "sentence_transformer_model": "https://tfhub.dev/google/universal-sentence-encoder-qa/3",
+  "out_dir": "PATH_TO/results/es_vec_classifier",
+  "base_path": [
+    "PATH_TO/data/stackexchange/dev",
+    "PATH_TO/data/kbqa/dev",
+    "PATH_TO/data/bool-rc/dev",
+    "PATH_TO/data/claim/dev",
+    "PATH_TO/data/explanative/dev",
+    "PATH_TO/data/intents/dev",
+    "PATH_TO/data/multihop-rc/dev",
+    "PATH_TO/data/reasoning-rc/dev",
+    "PATH_TO/data/span-rc/dev"
+  ],
+  "truncate": 512,
+  "agents": {
+    "cqa": [
+      "stackoverflow.com.txt",
+      "superuser.com.txt",
+      "gaming.stackexchange.com.txt",
+      "english.stackexchange.com.txt",
+      "stats.stackexchange.com.txt",
+      "math.stackexchange.com.txt",
+      "cooking.stackexchange.com.txt",
+      "photo.stackexchange.com.txt",
+      "writers.stackexchange.com.txt",
+      "workplace.stackexchange.com.txt"
+    ],
+    "kbqa": [
+      "qald-7.txt",
+      "webqsp.txt"
+    ],
+    "claim": [
+      "snopes.txt"
+    ],
+    "explain": [
+      "wikipassageqa.txt"
+    ],
+    "bool_rc": [
+      "boolq.txt"
+    ],
+    "multihop_rc": [
+      "hotpot.txt"
+    ],
+    "reason_rc": [
+      "drop.txt"
+    ],
+    "span_rc": [
+      "squad.txt"
+    ],
+    "intent_weather": [
+      "weather.txt"
+    ],
+    "intent_movie": [
+      "movie_schedule.txt"
+    ]
+  }
+}

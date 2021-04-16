@@ -1,0 +1,1264 @@
+Are classical bits quantum?
+Possibility of a "reset" quantum gate
+Can D-Wave optimize yacht design with all possible formulas and CFD and give me thousands of designs?
+Good metaphors for n-level quantum systems
+Can we perform quantum mechanical simulations using a quantum computer?
+Incorrectly Calculating Probability Amplitudes for 3-qbit Circuit
+Can a quantum computer easily determine the mixing time of the Rubik's cube group?
+Does the quantum coherence in the FMO complex have any significance to quantum computing (on a biological substrate)?
+How do we code the matrix for a controlled operation knowing the control qubit, the target qubit and the $2\times 2$ unitary?
+Is there a tool that can give you the unitary representing a quantum circuit from just a string?
+How do you implement the Toffoli gate using only single-qubit and CNOT gates?
+Advantange of Hadamard gate over rotation about the X axis for creating superpositions
+Hilbert space to accurately represent 3x3 Rubik's Cube
+Resources for quantum biology
+Simplest algorithm for intuitively demonstrating quantum speed-up?
+Minimum number of CNOTs for Toffoli with non-adjacent controls
+Quantum Algorithm for God's Number
+Just want to confirm: Do two CNOT gates cancel each other?
+How can I calculate the inner product of two quantum registers of different sizes?
+Combining Different Qunits
+Is quantum computing mature enough for a computer scientist with no physics background?
+Minimum number of CNOTs for a 4-qubit increment on a planar grid
+Quantum Algorithms for Convolution
+What is the difference between $\vert 0 \rangle + \vert 1 \rangle$ and $\vert 0 \rangle \langle 0 \vert + \vert 1 \rangle \langle 1 \vert$?
+Is the "Quantum Volume" a fair metric for future, elaborate, high value quantum computations?
+Quantum Belief Propagation decoding
+Does the need of many quantum algorithms to be repeated several times impair the efficiency gains?
+Are quantum simulators like Microsoft Q# actually using quantum mechanics in their chips?
+What exacty is "matrix sparsity" $s$?
+What exactly is "Random Circuit Sampling"?
+Q# factorization Method Program
+How are magic states defined in the context of quantum computation?
+How to calculate the off-diagonal elements of a density matrix using the measurement result?
+What about BosonSampling can be publicly verified?
+Is there a Hamiltonian simulation technique implemented somewhere?
+Simplifying Quantum Tensor products with coefficients
+What exactly are "quantum rotors"?
+Finding the maximum number of Q# simulatable qubits
+How would a quantum computer be used to solve Partial Differential Equations?
+Significance of Clifford operations from quantum error correction perspective
+Can we process infinite matrices with a quantum computer?
+What does it mean for a quantum computer to have $X$ qubits?
+Why do we need a Classical Register for carrying out Quantum Computations?
+Classical Memory enough to store states up to 40 qubits quantum system?
+Can two states with the same entanglement be transformed into each other using local unitaries?
+What is continuous quantum register and how it relates to qubits?
+What does $||A|| = 1$ mean in the definition of QLSP?
+How to re-create the following circuit image?
+What is quantum t-design (intuitive understanding)?
+Ethics: Publishing a corrected version of a moderately cited paper having several minor errors
+Is there an intuition built on ansatz in VQE algorithm or is it more a trial and error approach?
+How to construct a multi-qubit controlled-Z from elementary gates?
+Does a Wigner function uniquely determine a quantum state?
+Physical meaning of twirling in Randomized Benchmarking
+Automatic compilation of quantum circuits
+What is the smallest quantum circuit to produce two-qubit state (a,b,b,b)?
+State of the art gate speeds and decoherence times
+Cloning classical data encoded into qubits
+What can tensor networks mean for quantum computing?
+How to calculate tensor product for the magic square
+Example of Hamiltonian Simulation solving interesting problem?
+Transmons and cooper pair box qubits: two islands or a single island and a reservoir
+How to speed up the matrix multiplication steps in multi-linear regression?
+Equation for Quantum Gyroscopes
+Prerequisites for a career in spintronics based Quantum Computing
+Why do Bloch sphere wavefunctions have half angles?
+Quantum XOR Cipher Construction
+Explicit Conversion Between Universal Gate Sets
+How is measurement modelled when using the density operator?
+What do "hyperparallel algorithm" and "hyperentangled state" mean?
+What is quantum computing vs. what is not quantum computing
+How do we derive the density operator of a subsystem?
+Difference between coherence transfer, polarization transfer and population transfer?
+How does one obtain amplitude information in Q#?
+What are Tensor Networks and which is the relationship they have with quantum computing?
+Do we really know how a universal quantum computer can be used to revolutionize the design of new drugs or materials?
+Photon Entanglement using SPDC
+Classical XOR gate in Quantum Circuit
+What is the significance of recent demonstration of a passive photon–atom qubit swap operation?
+Image of a sum of positive operators contains the images of each individual operator?
+Symmetry in Conditional Phase Shift Gates and Realizing CNOT through HCZH
+Is there a classical limit to quantum computing?
+How scalable are quantum computers when measurement operations are considered?
+What is the Helstrom measurement?
+What good references would you recommend to understand the (continuous-variable) CV model of computation?
+Are there any examples of anyone applying quantum algorithms to problems in computational biology?
+Superconducting qubit researchers: Do your TLS's move?
+Tensor product between operators
+Is there a relation between the factorisation of the joint conditional probability distribution and Bell inequality?
+Randomness from deterministic machine
+Generalization for $n$ quantum teleportations
+Which programming language is suitable for a beginner?
+How many bits do Alice and Bob needs to compare to make sure the channel is secure in BB84?
+How is Quantum Mechanics (a Physics Concept) used in computing?
+What's the physical significance of |0⟩ and |1⟩?
+Compact way of describing the set of all stabilizer groups for fixed number of physical qubits and encoded logical qubits
+Are qubits the only elements required to build a quantum computer?
+How to install qiskit in spyder editor?
+Quantum Computing Journals
+How can I get access to IBM Q 20 Tokyo and IBM Q 20 Austin?
+How to deal with -LookupError: backend "ibmqx4" is not found?
+How to calculate the number of ebits in a graph state?
+What do they mean by "qubit can't be copied"?
+How to measure in an arbitrary basis in Q#?
+Quantum Computing Research Papers, on puzzles or game theory
+Can a stored programming model be applied to a Quantum Computer?
+Decomposition of arbitrary 2 qubit operator
+How to add two integers in Q#?
+What exactly are Quantum XOR Games?
+EA-Turbo simulation package
+Quantum Fourier Transform on two qubits: Non orthogonal outputs
+How do we physically initialize qubits in a Quantum register?
+Confusion over tensor products in sympy.physics.quantum.qubit (in Python)
+Decomposition of an arbitrary 1-qubit gate into a specific gateset
+Geometry of qutrit and Gell-Mann matrices
+How to derive the CNOT matrix for a 3-qbit system where the control & target qbits are not adjacent?
+Experimental Realization of Superactivation of Quantum Capacity
+How to create a condition on only one classical bit when we have a total of 2 classic bits in the system
+Has there been any truly ground breaking advance in quantum algorithms since Grover and Shor?
+Analyzing the three-polarizing-filter experiment as a quantum circuit
+How to construct the "Inversion About the Mean" operator?
+How would one implement a quantum equivalent of a while loop in IBM QISkit?
+Where is the problem stored in a quantum computer?
+Is there a simple rule for the inverse of a Clifford circuit's stabilizer table?
+How can I get the qiskit module
+What's the current status of quantum computers?
+How can I resolve the error QISkit Error: The same provider has already been registered!
+Collective measurements: importance and realization
+Quantum computing concepts
+Entanglement state preparation by using amplitude values
+How to say "apply CNOT on q-bit 1 controlled by q-bit 2"?
+Flying qubits compared with stationary qubits
+Which QC platform is better to use on HPC cluster?
+Why is this Hamiltonian matrix diagonal?
+Qutrit Teleportation
+How do I construct a Density Matrix corresponding to a Hamiltonian?
+How can I decompose a gate into $\{\mathrm{CNOT}, \mathrm{H}, \mathrm{P}(\theta)\}$?
+In D-Wave's universal quantum computer, why does the YY term have to be driven along with the linear X term?
+What quantum gate is XNOR equivalent to?
+What's an use case of the inner product between two q-bits in a quantum algorithm?
+Qiskit Python program cannot connect to QE API
+Let $\psi$ be a two-qubit state, $U \in \mathbb{C}^{2\times2}$ be a single-qubit unitary. Measure second qubit after applying U to the first qubit?
+How many qubits does it take to break a 10 characters password?
+When would I consider using an outer product of quantum states, to describe aspects of a quantum algorithm?
+How to apply the outer product operator?
+Protocol for entaglement swapping
+Quantum Algorithm for MIMO ML detection
+Connection between stabilizer generators and parity check matrices in the Steane code
+Fault tolerant quantum measurement: how is implemented the "majority vote"
+Applying CNOT with local operations and two EPR pairs
+Rotationally invariant maximally entangled states in higher dimensions
+General construction of $W_n$-state
+Is there a general method to implement a 'greater than' quantum circuit?
+What's a Qubit on D-Wave 2000Q?
+Introductory resources for learning about quantum Hamiltonians
+Does the D-Wave 2000Q satisfy DiVincenzo's criteria?
+Depolarizing channel implementation on IBM Q
+Lattice based cryptography vs BB84
+How to make "random U3" in QASM?
+How significant are the variants of Grover's Algorithm?
+Relation between $\mathrm{QMA}$ and $\mathrm{P^{QMA}}$
+Do any educational quantum computing toys or devices exist?
+Relating min-entropy with conditional entropy
+Are the squared absolute values of the eigenvalues of a unitary matrix always 1?
+Suggest, partly based upon limited numerical results, possible “elegant” exact formulas for Bures two-qubit separability probability
+Simulating Read only QRAM (constructing an oracle)
+Many-Worlds Interpretation and GHZ States
+$R_z$ gate representations
+How can Shor's algorithm be used to crack 32 bit RSA Encryption?
+How is computation done in a 2D surface code array?
+Why does Grover's search invert about the mean?
+Can quantum computers be clustered together?
+Qiskit SDK problem
+Simulation vs Construction of Fredkin gate with Toffoli gates
+How to run algorithms on IBMQ via Qiskit-Aqua?
+Weak Fourier Sampling vs Strong Fourier Sampling?
+Calculating measurement result of quantum swap circuit
+Efficiently performing controlled rotations in HHL
+Quantum Computing Project
+Do the probability amplitudes of the superposition state produced by the QFT transform convey useful information?
+Understanding the Group Leaders Optimization Algorithm
+Quantum teleportation: second classical bit for removing entanglement?
+How to compute the tensor product in QCL?
+Why does a rotation of $\pi/2$ on $|1\rangle$ yield $i|1\rangle$?
+Why does Fourier sampling allow to efficiently recover hidden subgroups?
+Resources to keep a track on open Ph.D. positions in specific sub-fields/topics of quantum computing
+Physics World - Questioning quantum speed
+What's an example of building a circuit $U_f$ that implements a simple function $f$?
+What is the matrix for the operator that implements a function to tell the parity of its argument?
+How does the stated Pauli decomposition for $\operatorname{CP\cdot A\cdot CP}$ arise?
+Discrepancy regarding Husimi Probability distribution
+Applying Group Leaders Optimization to Quantum Belief Systems
+Solving a circuit implementing a two-level unitary operation
+What happens when I input two qubits starting at state $|00\rangle$ into a hadamard gate?
+Does entanglement correlate qubits a $100\%$ of the time?
+What's the meaning of applying $U_{\text{div}}$ to a register in superposition?
+How to construct a quantum gate producing 1 if r divides x, 0 otherwise?
+When and where was the first use of the term Chimera?
+Does the GLOA have any advantage over the Solovay-Kitaev algorithm?
+Can we use quantum machines to reduce space complexity of deterministic turing machines?
+Q# How to use a namespace in another project?
+Simple proof that $(U \otimes V)(|x\rangle \otimes |y\rangle) = U|x\rangle \otimes V|y\rangle$?
+Outcome of Hadamard transformation on a complex state
+Is there a way to express the general 4X4 Hamiltonian in some block diagonal form of 2X2 matrices that I can solve, knowing the exact solution of 2X2?
+How to simulate quantum entanglement variation in different quantum gates?
+What are Grassmann-Plucker relations?
+How do I create my own unitary matrices that I can apply to a circuit in Cirq?
+Matrix representation and CX gate
+Can quantum computing be profitable without quantum hardware?
+Imperfect Quantum Copying
+Why is there no $N$ in the time complexity of the QLSP algorithm by Childs et al.?
+Can we speed up the Grover's Algorithm by running parallel processes?
+Why are oracles Hermitian by construction?
+Quantum attack on hash functions
+Why is the $N$-qubit stabilizer group abelian?
+How can the state $\lvert0\rangle+M^{-1/2}\sum_{j=1}^M\lvert j\rangle$ be generated?
+Is the common depiction of a surface code to be taken literally as a real-space image of the actual hardware?
+How to prevent future loops using a control qubit?
+Why is the CNOT gate matrix a valid representation for two-qubit states?
+Unitary acting on standard qubit basis properties
+In which paper was the CHSH game first presented?
+The classical simulation of 2D graph state and the measurement based quantum computation
+Relation between quantum entanglement and quantum state complexity
+How can blackholes be fast information scramblers?
+BB84 attack with entangled qubits example
+Could we use varying voltage with programmable gates?
+Qubits specification on IBMQ devices
+How would I implement the quantum oracle in Deutsch's algorithm?
+Tools for creating quantum circuit diagrams
+Transformation of a Bell state
+Practical example of Grover's algorithm (in Q#)
+Maximally mixed states for more than 1 qubit
+Circuit to construct a $n$-qubit state which is a superposition of states with only a single qubit being $\lvert1\rangle$
+What is the "CP" operation in the context of anti-particles?
+Why does this error correcting code not work?
+How to test with the "Quantum Internet"?
+Clarification needed: "Simulation" of $e^{-iHt}$ and its time complexity
+Is there any tool or simulator for Topological quantum gates and circuits?
+Electronic structure calculations and the Ising model: practical?
+Deutsch Algorithm on a Quantum Turing Machine
+Mapping Algebraic Normal Form of Exclusive Sum of Products to Toffoli Network
+Why is super-dense coding called the inverse of quantum teleportation?
+What exactly is an oracle?
+What role does the non-commutativity of the tensor product play in experimental quantum computation?
+How is the Deutsch-Jozsa algorithm faster than classical for practical implementation?
+Balanced vs unbalanced superposition distinguisher
+How are Rigetti and IBM QX device parameters related to Kraus operators?
+Where do we put error correction code in quantum circuit?
+Using XOR games to benchmark quantum computers
+What limits scaling down the size of superconducting qubits?
+Is it better to use fewer gates or fewer working qubits?
+Is the computational basis for Hilbert space transfinite?
+Fastest quantum algorithm for numerical integration?
+Understanding (theoretical) computing power of quantum computers
+Is there any single-logical-qubit physical device out there as of end 2018?
+Can one ever find the elements of a superposition state?
+Are there any test examples of Octave and Quantum Entanglement?
+Intuitive role of the polar decomposition in proof of Uhlmann's theorem for fidelity
+Can we do adiabatic quantum computing with a quantum circuit model and how?
+Why do $n$ inputs to a ket give a vector of dimension $(2^n,1)$?
+Controlling high-dimensional Hilbert spaces with a single qubit
+What's the matrix representation of this 3 qubit circuit?
+Semidefinite program for conditional min-entropy
+Reversible computation without inverting the circuit
+Are correlations stronger than those allowed by quantum mechanics possible?
+Polarization and qubit information
+What is the longest quantum circuit?
+Can the Bloch sphere be generalized to two qubits?
+Bell nonlocality and conditional independence
+Shor's algorithm weaknesses & uniqueness of close rational
+Is quantum backpropagation faster than classical backpropagation?
+How to you encode a network as an adjacency-list in the quantum-gate model?
+Definition of locality in Bell experiments
+What circuit or operation corresponds to the tensor product?
+Lesser qubit computer doing the parts of Shor's against e.g., RSA-2048 sized prime
+What is the "TRIAD" graph and where can I find more information about it?
+How to transfer non maximally entangled state to maximally entangled?
+Quantum counting in Q#
+Quantum spin measurement
+Kraus operator of dephasing channel
+Are the eigenvalues of an observable always -1 and 1?
+Is it possible to create controlled gates with an exponent in Cirq?
+How to properly write the action of a quantum gate implementing an operator $U$ on the superposition of its eigenvectors?
+Resources on hybrid quantum-classical algorithms applied to combinatorial optimization problems
+Measuring the Hamiltonian in the VQE
+What is the quantum bandwidth of a planar array of noisy qubits, assuming free classical communication?
+Why is the state of multiple qubits given by their tensor product?
+Quantum Supremacy: How do we know that a better classical algorithm doesn't exist?
+Total mutual information of a quantum system
+Stabilizer for quantum error correction code
+List of known circuits and their expected output
+How to describe, or encode, the input vector x of Quantum Fourier Transform?
+Three sender quantum simultaneous decoder conjecture
+Quantum channel Holevo information additivity: proof approach
+How to obtain Y rotation with only X and Z rotations gates?
+Comprehension questions on quantum cryptography especially BB84
+Projection operators and positive operators
+Pointer to related research (paper)
+How to measure in the standard basis?
+How to encode a qubit in standard basis?
+Magic State Distillation Understanding Check
+Determining whether $P(ab|xy)$ factorizes in Bell experiments
+Convention for expressing measurement in non-standard basis
+FPGA qubit simulation
+How to analyze highly entangled quantum circuits?
+Graph state and maximally entangled state
+Is geometric algebra/calculus used in quantum computing?
+Why can't there be an error correcting code with fewer than 5 qubits?
+Notation for two entangled registers
+How to find parameters for circuit decomposition of Hamiltonian simulation of any matrix $A$?
+An algorithm with the Hadamard operator
+Unitary gate(s) from product of exponent
+Confusion on the definition of the phase-damping channel
+Implementing gate with two parameters using Qiskit in Python
+Shared entanglement to copy orthogonal states
+Photonic CHSH Games
+A quantum circuit with entanglement with Eve
+BB84 protocol over LiFi
+Quantum Zeno Machines
+Is it possible to see how CompositeGates are decomposed when simulated using XmonSimulator?
+Density matrix after measurement on density matrix
+How to set up Qconfig.py and where is the file?
+How can we be sure that for every $A$, $A^\dagger A$ has a positive square root?
+Can vectorization lead to mixed states?
+Isometric Extension of an Erasure Channel
+Would this quantum algorithm implementation work?
+Are projective measurement bases always orthonormal?
+How to prepare a superposed states of odd integers from $1$ to $\sqrt{N}$?
+Why is this implementation of the order finding algorithm not working?
+What's the notion of input size for Quantum Verification?
+Construction of ${R_n(\theta)}$ using only the Hadamard and ${\pi/8}$ gates
+Dephasing channels
+Is this the correct quantum circuit for the order-finding algorithm?
+Do these outputs seem normal for the order finding algorithm?
+Are the order finding and period finding algorithms the same thing?
+A question about notation for quantum states
+Non-layperson explanation of why a qubit is more useful than a bit?
+Why are these circuits not producing the expected output?
+How are nonlocal games used in device-independent quantum cryptography?
+Implementation of inverse QFT?
+Quantum algorithms for problems outside NP
+Why are these circuits not producing the same output?
+Measuring order ancilla qubits in surface code
+How to get all combinations of given input?
+How many Kraus operators are required to characterise a channel with different start and end dimensions?
+Eigenvalues of CPT operator
+Time-bin encoding qudits
+CNOT gate - control qubit is in superposition
+Is it possible to expand/merge different circuits?
+Speedup Prange ISD using Grover
+Proof on approximating adiabatic evolution by quantum circuit
+Multiple random coin flips
+qiskit - Is there any way to discard the results of a measurement?
+Problem with the mathematical formulation of "qubitization"
+Isomorphism between the Clifford group and the quaternions
+Expected repetitions of the quantum part of Shor's algorithm
+Proof of no-cloning
+Building a matrix corresponding to the teleportation circuit
+How to formulate the master equation for three systems?
+Measuring but not looking at the result
+Understanding why the modular function part of Shor's algorithm is unitary
+How to fix? 'E1101:Instance of 'QuantumCircuit' has no 'h' member' and 'E1101:Instance of 'QuantumCircuit' has no 'cx' member'
+Grover's algorithm with W-state
+Print circuit compiled on hardware?
+Why can't you run a teleportation circuit on an IBM Q device?
+How do I build a gate from a matrix on Qiskit?
+Shannon entropy is least when Measurement basis = Mixture basis
+Are there emulators for quantum networks?
+Depolarizing channel operator sum representation
+Partial Trace over a complicated looking state
+Multiple random coin flips without measurements
+Generalizing quantum teleportation for qudits
+Clock matrix vs matrix clock
+What does teleportation have to do w/ XOR linked lists?
+Solution enumeration algorithm?
+Module BasicAer not found
+ModuleNotFoundError: No module named qiskit.providers
+Measuring qubits in QuTiP
+Why it is hard to simulate a quantum device by a classical devices?
+Convexity and conditional von Neumann Entropy
+Building Intuition for Relative Von Neumann Entropy
+How to decompose 4 qubits Toffoli-gate into two-qubits CNOT gate?
+Shor's algorithm beginning
+Is there any (really) quantum procedure that's an algorithm and not a Las Vegas algorithm?
+Numerical quantum state tomography simulator
+Qiskit - expand and/or merge registers
+Ways in which $\frac{1}{\sqrt 2} (|00\rangle + |11\rangle)$ can be expressed as $\frac{1}{\sqrt 2} (|uu\rangle + |vv\rangle)$
+Qiskit - Authorization Required error
+Programming quantum half adder
+Problem with approximating adiabatic evolution with quantum circuit
+Classical complexity for Simon's problem
+Entanglement in VQE ansatz in Qiskit
+Partial trace over a product of matrices - one factor is in tensor product form
+How many logical qubits are needed to run Shor's algorithm efficiently on large integers ($n > 2^{1024}$)?
+Multi-photon states in photonic quantum computing?
+Quantum Nimber Maths
+Why does state preparation of 'off the shelf' qubits not follow from the Born rule (Mermin)?
+Approximating unitary matrices
+Is the set of classical-quantum states convex?
+How is postselection used in quantum tomography?
+How do I produce circuit diagrams from a Q# program?
+Programmatic access to wavefunction in Q# for tests
+How do I write functions that modify operations in Q#?
+Introspecting quantum circuit execution on Qiskit Aer simulators
+Numerical approximation to eigenstates and their differentials
+How do I name the adjoint of an operation in Q#?
+How does quantum function parallelism work?
+How do I multiply an integer and a double in Q#?
+Default input states of qubits to quantum circuits
+Shor's algorithm effectiveness
+Correspondence between the Topological model and Quantum Circuit model
+Does Q# have a bigint type?
+FANOUT with Toffoli Gate
+What is the post measurement state given an input and the outcome measurement?
+What are some examples of measuring qubits in different basis states?
+Phase shifter acting on double rail states
+Representing a real valued vector with qubits
+Proof of optimality for CHSH game classical strategy
+What are XX, YY, YZ etc. couplings?
+Evaluate the given quantum circuit
+What is the difference between a relative phase and a global phase? In particular, what is a phase?
+What is the correspondence between adiabatic phase and a topological phase?
+Result of a job for a list of circuits on QISKit
+How can noise on a device be simulated using measured noise parameters?
+Can quantum annealing be used for training convolutional neural networks?
+Can I remove gates from a QuantumCircuit?
+cirq.ControlledGate from sub-circuit generator
+Why is an entangled qubit shown at the origin of a Bloch sphere?
+Implement a circuit as a matrix in ProjectQ
+Implementing BB84 protocol with easily-obtained consumer hardware
+Status of software packages for quantum compiling
+Gate sequence for exponential of product of Pauli Z operators
+How do I get a list of control qubits from Q# operations when tracing the simulation in C#?
+TypeError: unorderable types: QuantumRegister() >= int()
+How many qubits and how many gates, are required for finding the eigenvalues of a matrix?
+Efficient implementation of the Clifford group for $n$ qubits
+Extending a square matrix to a unitary matrix
+What are the constraints on a matrix that allow it to be "extended" into a unitary?
+Plotting data in QISKit using plot_histogram
+Submitting jobs to IBM devices without Python
+Extrapolation of CRISPR
+Are there established best practices for designing Dwave embeddings?
+How to construct matrix of regular and "flipped" 2-qubit CNOT?
+Does self-induced collapse limit the size of a quantum computer?
+What are techniques are used to esimate the spectral properties of annealer embedding hamiltonians?
+What is the notational convention for the single-qubit states $\lvert0\rangle\pm i\lvert1\rangle$?
+Quantum teleportation over continuous variables?
+What do you specify when you physically apply a unitary?
+Is qubit superposition a basis-dependent concept?
+Why won't Qiskit ccx gate accept registers?
+Decomposition of a unitary two-dimensional matrix
+What happens in Deutsch algorithm if I use equal input bits?
+What is recursive Fourier sampling and how does it prove separations between BQP and NP in the black-box model?
+Defining entanglement for systems with more than two qbits
+Intuitive Proof: BQP ⊆ PP
+Why doesn't Deutsch-Jozsa Algorithm show that P ≠ BQP?
+Query lower bound for Majority function using the quantum adversary method
+How to understand Deutsch-Jozsa algorithm from an adiabatic perspective?
+How to prepare a superposed state where its terms are elements of a sequence?
+Why do we have to uncompute rather than simply set registers to zero?
+Does quantum computing relate to stochastic computing in any way?
+Resources for learning quantum computing from an undergraduate physics perspective
+Creating a time dependent custom gate in Quirk
+What's my computational basis if I want to define a unitary operator that implements a function such as $f(i) = 2^{i+1} \text{mod 21}$?
+Real-life examples of classical-quantum channels
+How to translate matrix back into Dirac notation?
+How to construct a quantum circuit (QIP system) for the graph non-isomorphism problem?
+Quantum proof for the group non-membership problem
+Grover algorithm phase shift and steps
+Path to learn Qiskit as a tool for the future
+Non-uniqueness of pure states ensemble decomposition
+Hadamard gate as a product of $R_x$, $R_z$ and a phase
+What is the difference between quantum key distribution and quantum key exchange?
+Deprecation warnings in Qiskit (circuit drawing)
+How can quantum computing win 97% of times in coin flipping experiment?
+Reversibility and irreversibility of logic gates (quantum vs classical)
+Aren't reversible logic gates a necessity for efficiently executing quantum algorithms?
+Reference that explains how to read 3d topological diagrams for surface code computations
+What happens with first phase factor in QFT?
+Measurement of a qubit and storage of the information on a bit
+Optimal strategy to a quantum state game
+Is there any company that backs and implements diamond vacancy quantum computers?
+ImportError: cannot import name 'QuantumProgram' from 'qiskit'
+Grover operator as a rotation matrix
+Does strong error reduction for PostQMA exist?
+Do weak measurements (with/without weak values) have any application in quantum computation?
+Why is correlation in the $X$ basis represented as $X\otimes X = 1$?
+Why can a point in anti-de Sitter space be modeled as a logical qutrit and how is its error correction done?
+Why can't I connect to an IBMQ device?
+Transmission of information over long distances
+Does Brassard's algorithm for calculating the mean make implicit assumptions on distribution?
+QE error: No handlers could be found for logger
+Qiskit: 'per shot' result
+Optimal sampling strategy for VQE
+Is there any method of adding two operators in a circuit?
+Grover algorithm for more than one element
+Type error creating R gate in Q#?
+Creating controlled R1 gates in Q#?
+Topological anyonic molecule statistics
+What does simultaneous measurement of a mutually commuting set of observables mean?
+D-Wave systems and IBM Q System One
+Proof that $2^n \times 2^n$ operator be decomposed in terms of $2 \times 2$ operators
+How to create the oracle matrix in Grover's algorithm?
+Ion trap qubit Hamiltonian calculation manipulation
+How to recognize if a paper is talking about quantum annealing or gate logic?
+Can "experimental data from a quantum computer" be used to test separability probability conjectures?
+Where does the Xmon simulator from Googles cirq framework its entropy from?
+Why is $P(1,2)_{\text{same}} = \frac{1}{4}$ and not $\frac{1}{2}$ in Preskill's Bell experiment?
+Spin precession using a laser
+How does a $2 \pi$ pulse in Cirac Zoller give a -1 sign to the state?
+Why is Grover's algorithm not converging monotonically? (Python implementation)
+How to read Dirac notation (without algebra)?
+In Simon's algorithm, why is $f$ one-to-one if (and only if) $s=0^n$?
+What resources are available for learning QCL?
+Simon's Algorithm - Probability that the measurement results in a string Y
+Can I call $\{|0\rangle, |1\rangle\}$ the "standard computational basis" as it is done in linear algebra?
+What is the actual mechanism behind quantum computing?
+Hamiltonian of the valence electron of Yb+ ion
+Rabi oscillations with different energy differences
+Future research in quantum computation and information
+Chronological list of improvements in number of logical qubits
+What is the complexity of the quantum phase estimation in Grover's algorithm?
+Is the $|-\rangle$ state the only one that can do the trick for Grover's algorithm?
+Who discovered the phase kickback trick?
+Better Way Of Separating Two CQ-States
+Why is quantum Fourier transform required in Shor's algorithm?
+Nielsen & Chuang Exercise 2.2 - Matrix representations in different input and output basis
+LaTeX error when drawing circuits with Qiskit
+Composing the CNOT gate as a tensor product of two level matrices
+Is it correct to say that we need controlled gates because unitary matrices are reversible?
+Possible results from Shor's algorithm in practice
+Is there a polynomial quantum algorithm for graph coloring?
+Qiskit - How do we measure the same single qubit system multiple times while also getting the counts/results after each measurement?
+Forming states of the form $\sqrt{p}\vert 0\rangle+\sqrt{1-p}\vert 1\rangle$
+Decomposition of any 2-level matrix into single qubit and CNOT gates
+Can the SWAP test only compare registers with the same number of qubits?
+Why does $x\sqrt{1-x^2}$ enhance the ability to approximate analytical functions in quantum circuit learning?
+How exactly does modular exponentiation in Shor's algorithm work?
+Current limits on Grover search space
+QISKit warrning on marshmallow
+Is there a place online where I can catch up with all the notational syntax associated with quantum computing?
+How to implement a $\frac{\theta}{2}$ rotation from $\theta$ rotation?
+Quantum teleportation with moving Alice and Bob
+Does Shor's algorithm end the search for factoring algorithms in the quantum world of computation?
+Fast way to check if two state vectors are equivalent up to Pauli operations
+Is quantum computer equivalent to Turing machine with matrix multiplication oracle?
+Do the probability amplitudes describe the probability of projective measurement?
+Constructing a circuit which performs the transformation $|x,y\rangle \to |x, x + y \bmod 4\rangle$
+If $|\psi\rangle, U|\psi\rangle$ are known, how many pairs of such qubits are required to find the operator $U$?
+Construction of optimal ensemble to show quantum steerability
+Is programming in quantum computer same as programming in quantum simulator in classical computer?
+Why does $|P_U − P_V |$ equal $\langle \psi |U^{\dagger} M U|\psi\rangle −\langle \psi |V^{\dagger} M V |\psi\rangle$?
+Is it possible to create a superposition in IBMQ QISkit which has probability amplitudes $|a|\neq |b|$?
+ProjectQ - In which part of the controlled gate object are the control bits scored
+Decompose a general two-qubit gate into general controlled-qubit gates
+Why is there a difference between the simulation results and the actual quantum computer results?
+Simulate hamiltonian evolution
+Using parametrised values and 'Symbols' in Cirq
+A two qubit state in a special form
+How to set a starting state in cirq?
+Interaction of an RF pulse with transmon qubit
+Can we teleport a human or send information faster than light using quantum teleportation?
+Equivalent unitary transformations
+Why do we use the quantum superposition for a period instead of factors in Shor's algorithm?
+Creating .gifs corresponding to Quirk simulations
+If CNOTs and single qubit gates are universal then why do we need to prove that controlled U operations can be composed by them as well?
+Consistent QISkit error: "All devices are currently unavailable"
+Can one make NV centred type qubits from analogus materials in the periodic table?
+Concurrence for a two qubit state
+Partial Transpose and Positive Operators
+How is Bell’s Inequality converted to the CHSH inequality?
+How to add control to gates in Cirq?
+Quantum machine learning after Ewin Tang
+Garbage-Free Reversible Binary-To-Unary Decoder Construction
+Qiskit gates in LaTeX representation: notation meaning
+What is the meaning of the state $|1\rangle-|1\rangle$?
+Cannot load account with Qiskit
+Is there a way to reverse the amplitudes of a quantum system?
+How to explain polarization using photon spin?
+How to study quantum machine learning?
+If a qubit is in $|1\rangle$ state, is it possible to prove that it is in $|1\rangle$ state?
+The relationship between entanglement of vector states to matrix operations
+What's the point of quantum gates being 'continuous'?
+"Wait" gate throws an error "NotImplementedError: ('No decomposition rules defined for ', 'wait')"
+Maps in bra-ket notation
+Building an N-qubit Controlled S Gate
+Convex Combination of Separable States
+How is $X^q$ equal to $RX(\pi q)$?
+Circuit construction for Hamiltonian simulation
+Creating an ansatz for variational quantum algorithms?
+Why is measurement needed in teleportation?
+What's a vector in the format of the Bloch Sphere?
+What utility is provided by the Bloch sphere visualization?
+How to apply unitary coupled cluster to a spin problem?
+Differentiate between local and global unitaries
+Which quantum computing programming language should I learn?
+The meaning of measurements in different bases
+Why is a density operator defined the way it's defined?
+Computing with qutrits
+How we can describe entanglement from measurement and resource perspectives?
+What is the general variety corresponding to the Segre embedding for $n$-qubit systems?
+For CNOT gate with control qubit set to 1, the measured state of the second qubit unexpectedly depends on the measurement
+How to prove teleportation does not violate no-cloning theorem?
+Homeomorphism or stereographic projection corresponding to the set of mixed states within the Bloch sphere
+Purity of mixed states as a function of radial distance from origin of Bloch ball
+Why isn't the circuit performing a measurement in the Bell basis?
+Clarification needed for the N&C proof that BQP ⊆ PSPACE
+What does an observable in a different basis mean physically?
+Proof that Grover's operator can be written as $D_N=-H_n R_N H_n$
+How does $x^{\frac{r}{2}} \equiv -1 \pmod {p_i^{a_i}}$ follow from "if all these powers of $2$ agree"?
+POVM three-qubit circuit for symmetric quantum states
+Confusion regarding probability of period resulting in factoring
+Why do we search for square roots of 1 in Shor's algorithm unlike the qudratic sieve?
+Computing max of 2, length n bit registries
+Quantum algorithm for linear system of equations (HHL) - Final Step: How can I find my vector of solution $|x\rangle$?
+Optimise implementation of a quantum algorithm when an input is fixed
+What do entanglement cost and distillable entanglement have to do with measuring entanglement?
+What language is more suitable for quantum machine learning algorithms?
+Q1Q2Q3 coupling in qubo file
+How do frequency-tunable microwave resonators work?
+Rewrite circuit with measurements with unitaries
+Why is it that the Pauli matrices and error correction operator act only on $|\psi\rangle\langle \psi|$ and not on state vector $|\psi\rangle$ itself?
+EPR states with permuted qubits
+What does it mean that copying a state is impossible but creating a copy of by entangling is possible?
+How much variation is there in the results between each quantum computer on the IBMQ Quantum Experience system?
+A question on Eastin-Knill theorem
+What are reasonable noise/dephasing parameters for QuEST to emulate state-of-the-art quantum computers?
+In what situation are three rounds of syndrome measurement required for fault-tolerance in the surface code?
+Finding the second smallest number. Is it achievable in QC?
+Decoherence in quantum systems always produces $\vert0\rangle$
+What role do Hecke operators and ideal classes perform in “Quantum Money from Modular Forms?”
+Where is the factor of $-i$ in rotation gates coming from?
+Rotation operator on Pauli parity gates $XX$, $YY$ and $ZZ$
+Qiskit predecessor and successor map of DAG circuits
+What noise channel that is not coming from the control can lead to XY qubit rotations?
+Why does phase flip correction error? Why could any error be written as a linear combination of I, X, Z and ZX matrices?
+Grover's algorithm and Battleship solution
+How does Steane code use the classical Hamming code for error correction?
+How to simulate a simple circuit to add two numbers in Quirk?
+What does it mean to perform a measurement in correspondence with different projections?
+In error correction code why don't we imitate the Hamming code instead of the complicated Steane code?
+Estimating the depolarizing probability of depolarizing channels
+How does the actual measurement collapsing an error to an orthogonal basis look like?
+Q1Q2Q3Q4 coupling in qubo file
+Implement Fredkin gate with square root of swap
+How to measure superposition coefficients to determine state?
+How is the Grover-Algorithm applied to a database?
+How do you implement the gates for Grover's algorithm for more than 4 elements?
+Adapting search algorithm to search the minimum in a database in $O(\sqrt{N}\log(N))$ queries
+Problems with qiskit-terra: missing members of instance QuantumCircuit
+Durr and Hoyer's: A Quantum Algorithm for Finding the Minimum
+How to implement such a gate where one input bit is zero and the other is one and the output should be one?
+Are superdense coding and teleportation just a prototype or the 'only' type?
+How can I invert the least significant bit of a certain term of a superposed state?
+What is the hidden subgroup in Simon's problem?
+Swap Test for vector difference - how are different sized inputs combined?
+Implementing an oracle
+How does quantum memory work using atoms?
+Computing von Neumann entropy of pure state in density matrix
+Import from qiskit-aqua error
+Estimation of Z in the quantum Euclidean algorithm
+How to complete this teleportation circuit? How to create a copy of $|\psi〉$?
+Quantum speedup without entanglement
+Application of improved compatibility
+How to understand the operators for watermarking schemes?
+Meaning of "diagonal to the computational basis"
+Clarifying the relationship of the probabilities of depolarizing channel and relaxation/dephasing times
+What is maximum circuit depth and size IBM Q5 and Q16 could handle?
+How are multi-qubit gates extended into larger registers?
+Deutsch–Jozsa algorithm: why is $f$ constant?
+How do I embed classical data into qubits?
+Explanation of the function of the circuit
+Summing states of two qubit registers
+Phase estimation algorithm: probability bound of obtaining $m$
+How to calculate circuit depth properly?
+Evolving a quantum circuit using a genetic algorithm
+N&C quantum circuit for Grover's algorithm
+Understanding quantum circuit diagrams: a circuit that compares two states $|YX\rangle$ and $|AB\rangle$
+How to prove that the query oracle is unitary?
+Quantum teleportation of a state, from one of two bases
+Proof of the optimality of Grover's algorithm
+In what sense do repeated applications of Grover's operator rotate the state closer to the target?
+How does an oracle function in Grover's algorithm actually work?
+What are the rules that map the second-quantized fermionic Hamiltonian into spin-form in OpenFermion?
+What is a complementary map?
+What can be a mini research project based on Grover's algorithm or the Deutsch Jozsa algorithm?
+Is there a list of accessible open problems in quantum computing from a theoretical computer science perspective?
+Implementing these $N×N$ matrices on $\log N$ qubits
+Consequences of Grover's algorithm
+How does the vectorization map relate to the Choi and Kraus representations of a channel?
+What is Stinespring Dilation?
+Is there an inherent difference in need for error correction between quantum annealing and gate based methods?
+Why can't a quantum computer strongly simulate itself?
+How many physical qubits are used when I run a program on a IBM Q computer?
+Will quantum computers be able to solve the game of chess?
+Grover's algorithm: number of searches
+Quantum Fisher information
+Implementing "Classical AND Gate" and "Classical OR Gate" with a quantum circuit
+Measuring Ising anyons: What is a fusion measurement?
+Genetic algorithm does not converge to exact solution
+Classical vs. quantum channel capacities
+How is the expression for the optimal entanglement witness derived?
+What is an example of a measurement that is LOCC but not separable?
+What is the charging energy in relation to a superconducting transmon?
+How to calculate the $r^{\text{th}}$ digit of $\sum ^{j−1}_{p=i}d^p_{\pm k}$ using PyQUBO?
+Is there a BQP algorithm for each level of the polynomial hierarchy PH?
+How to construct a quantum circuit for the following state transformation?
+Hidden shift problem as a benchmarking function
+Quantum addressing scheme
+Reason for evaluating $a^x \bmod N$ from $x = 0$ to $N^2$
+Is the quantum Singleton bound compatible with the Toric Code?
+What are applications of HHL's "simple example" to determine similar stable states of different quantum processes?
+Are X-state separability and PPT- probabilities the same for the two-qubit, qubit-qutrit, two-qutrit, etc. states?
+What are the individual probabilities after √SWAP gate?
+Using latest (GitHub) version of Qiskit as Python library
+Qiskit DAG circuit - print information about individual gate/node by number
+(name of gate) is not in the list of basis operations
+Quantum transformation equivalent to Discrete Wavelet transform
+How do I do printf debugging in Q# in a convenient way?
+Are there any other published quantum factoring algorithms that are simpler or more efficient than Shor’s?
+Exception encountered while running quantum-enhanced support vector machines
+Calculating entries of unitary transformation
+How to prove universality for a set of gates?
+Graphing the decoherence of qubits being used to perform an algorithm
+What proportions of certain sets of PPT-two-retrit states are bound entangled or separable?
+Quantum Toffoli gate equation
+How do you start a simulation with a random initial state in Cirq?
+Experiment runtime on IBMQ
+Prove that the operator $H U_{0^\perp}H$ can be expressed as $2|\psi\rangle\langle\psi|-I$
+Grover's algorithm – DES circuit as oracle?
+Notation for two qubit composite product state
+Understanding this description of teleportation
+Preparing odd integers using quantum computation
+What can be some bachelor thesis ideas in quantum random walks?
+Quantum addition and modulo operation using gates
+Burnside Decomposition in Kuperberg's Hidden Shift
+Controlled unitary from the HHL algorithm – practical implementation using Qiskit
+Identifying a matrix with the fundamental quantum logic gates
+Reversible crypto systems for use in the Grover's algorithm
+How to superpose two composite qubit states?
+Quantum teleportation with "noisy" entangled state
+Correct way of expressing a measurement in a different computational basis
+How does the probability of measurement turn out to be negative?
+What are the ranges of the four $q$ parameters in the magic simplex of Bell states formula?
+How to build a quantum circuit representing the Ising Model?
+Eigenstate of unitary operator used for Order-Finding
+Associating quantum states with decimal numbers
+What does it mean to have 2000 qubits and 6016 couplers?
+How to show a density matrix is in a pure/mixed state?
+Finding separable decompositions of bipartite X-states using the methodology of Li and Qiao
+Is the Bernstein-Vazirani algorithm dependent on the specific behavior of the oracle?
+How is it possible to implement unitary operator when its size is exponential in inputs?
+Grover's algorithm returns skewed probability distribution
+Drawing tangent vectors to the Bloch sphere with qutip
+Encoding bosonic degrees of freedom
+What is the tensorial representation of the quantum swap gate?
+Does HHL implementation require a priori eigendecomposition?
+Counting in Q#: number of solutions
+Quantum representation of cube
+What's the difference between Kraus operators and measurement operators?
+Why do we need reversibility?
+What is the difference in computational power between qubit and bit (transistor)?
+How should we interpret these quantum logic gates as physical observables?
+Is it possible to construct an equivalent quantum circuit from a CORDIC-based digital circuit?
+Amplitude Estimation Algorithm — Lambda (Q) Operator
+Error in showing $\operatorname{CPHASE}_{12}=\operatorname{CPHASE}_{21}$ in the matrix representation
+What does it mean to express a gate in Dirac notation?
+What is the meaning of writing a state in its Bloch representation?
+Square root of CNOT and spectral decomposition of the Hadamard gate
+Tips and tricks for constructing circuits to generate arbitrary quantum states
+How to draw a multiple qubit controlled NOT gate using qasm2circ?
+Writing the transformation matrix for the following in terms of Kronecker products of elementary 2-qubit gates
+Implementing a depolarizing channel for 2 qubits on IBM Q
+Why is the boundary of the set of states in the generalised Bloch representation comprised of singular matrices?
+Calculating the expectation value of a unitary operator on a quantum computer
+Making a maximally mixed 2-qubit state in the IBM Q
+Is $ |x,y,z\oplus f(x,y)\rangle$ entangled?
+What interesting properties can I measure with a 1 qubit state?
+Interpreting results from IBM's processor vs. simulator
+How to measure a Bell inequality violation in IBM Q?
+Grover's algorithm and RSA from Nielsen
+How to interpret the matrix representation of a quantum gate?
+Is there a two-qudit Choi entanglement witness $W^{(+)}$?
+Simulating quantum computers using anyon braiding
+Can an isometry leave entropy invariant?
+Large size of matrices for little outcome
+Controlled Hadamard gate in ZX-calculus
+How to implement the mixed quantum state fidelity in a quantum circuit?
+Resources for quantum computing which do not use Dirac notation
+What does "bipartite" mean?
+Complexity analysis of separability in the multipartite case
+Deutsch-Jozsa algorithm as a generalization of Bernstein-Vazirani
+Default value for a state created by QuantumRegister
+CNOT's control qubit preceded by Hadamard: Why is sqrt also applied to target qubit?
+Cost of implementing Boolean function quantumly?
+Superoperator cannot increase relative entropy
+How does the cnx gate work in Qiskit (Python)?
+Is generating usable entanglement difficult?
+Proof of joint entropy theorem
+Order of controls and targets of cnx gates in Qiskit (Python)
+Defining standard qubit gates for qutrits
+What precisely is the quantum extended Church-Turing thesis?
+Is the theory of decoherence general or specific to the physical implementation?
+What is the relevance of preservation of trace in completely postive trace preserving (CPTP) maps?
+Counting channel uses of the lossy bosonic channel or definition of channel uses
+How is the decoherence rate connected to the error rate?
+How to pick number of simulation qubits for finding eigenvalue of fermionic Hamiltonian?
+Does a 5-partite state with these entanglement properties exist?
+Minimal quantum OR circuit
+What quantum volume is needed to represent a single logical qubit?
+Method to find $r$ in the case when $r'$ returned by the continued fractions procedure is a factor of $r$
+Quantum channel cannot increase Holevo information of an ensemble
+Degradable channels and their quantum capacity
+Is HHL executed in a single run? If yes, how do they carry out controlled rotation without knowing eigenvalues?
+Transferring classical OR gate in a quantum gate
+Nielsen and Chuang's proof for 'approximating arbitrary unitary gates is generically hard'
+Are entanglement witnesses of this form optimal?
+Implementing piecewise functions on a quantum computer
+References on quantum arithmetic circuit complexity
+IBM's quantum computing capabilities — entangled 18-qubit GHZ states and high coherence times
+Explicit 16⨯16 matrix representations of two-qudit entanglement witnesses
+Proving the inequality $|\mathrm{tr}(AU)|\le \mathrm{tr}|A|$ in Uhlmann's theorem
+Implementing conditional operators in a quantum circuit
+State of a system after the second qubit of a Bell state sent through a bit flip error channel
+How are witness operators physically implemented?
+Direct derivation of the Kraus representation from the natural representation, using SVD
+How does a map being "only" positive reflect on its Choi representation?
+Are there disadvantages in using the inner product between states instead of the fidelity?
+Understanding the oracle in Deutsch's algorithm
+Grover search with single query to $f(x)$ and multiple queries to $f(x) = a$
+How to understand the Haar measure from a quantum information perspective?
+Matrix representation of multiple qubit gates (Hadamard transform on single wire)
+Trace distance of two classical-quantum states
+Implementing a controlled sum operation
+Shor 9 qubit code — how are the observables measured and eigenvalues obtained during syndrome measurement?
+How does measurement calibration work?
+Does the dilation in Naimark's theorem produce a state?
+What is the spectral decomposition of the Pauli $X$ gate?
+How to prepare a statistical mixture of $|0,0\rangle $ and $ |1,1\rangle $ in QuTiP?
+How is a physical qubit measured and how is the result interpreted?
+How do I translate a quantum circuit for computing x + y mod 8 into a program?
+Circuit construction for execution of conditional statements using least significant bit
+CTCs and information time travel — what non-trivial insights do they lead to?
+What applications does the quantum gate [(i,1),(1,i)] have?
+What exactly makes quantum computers faster than classical computers?
+IBM QISKit: creating a variational algorithm from zero
+Is there any online Bloch sphere simulator?
+Structural Physical Approximation of Partial Transpose
+Phase estimation error analysis
+Why does a quantum circuit consist of simple quantum gates which act on at most a fixed number of qubits?
+Circuit construction and Dirac notation of the following operation
+Transform matrix into a combination of simple quantum gates
+What is the HOG test and how would it help proving quantum supremacy?
+What are the main obstacles to overcome to build silicon-photonic quantum computers?
+Why do we use complex-conjugate instead of complex-conjugate-transpose when calculating the concurrence?
+How to encode MNIST data set on a quantum circuit to study supervised learning with QNN?
+Permutation of initialized states
+Which is the correct depiction of a qubit before it collapses?
+What are the basics needed to learn quantum computing?
+How do the credit points work in IBM quantum experience?
+How to quickly calculate the custom U3 gate parameters $\theta, \phi$ and $\lambda$ for any unitary?
+Success probability in Grover's algorithm where there are multiple targets
+Most efficient way for general state generation
+Can someone walk us through Nielsen's proof on a circuit for quantum teleportation?
+Grover diffusion operator different gates
+Kronecker notation of an operator
+IBM Q devices' hardware/resource constraints
+Reinforcement learning with a quantum agent
+Implement a Hamiltonian in O(n) - exercise question
+Twirling Quantum Channels: Pauli and Clifford Twirling
+Writing the notation when gates act on non successive registers
+Quantum contextuality and commuting observables
+Physical qubit of optical quantum computer
+Are these notations for the CCNOT gate with different controls correct?
+Quantum operation involving permutation
+What happens when an operator is applied only to some bits of a mixed state?
+What property ensures that von Neumann entropy is conserved?
+How to construct a CCY gate in Qiskit
+Simultaneous eigenstate of commuting observables and their tensor product
+How to plot decision boundary with support vectors when running quantum SVM algorithm?
+How do physical implementations of Z gate selectively affect $\lvert1\rangle $ basis vector?
+How to interpret $-\rvert1\rangle \otimes \rvert1\rangle = -\rvert11\rangle$?
+How to determine the minimum number of experiments needed to compute m-many k-local Pauli expectations?
+Observing that some action has happened in an entanglement scenario
+Best query and memory complexity for iterated function
+Where (in the algorithm) is the logical qubit encoded in Q.E.C?
+How to run quantum SVM algorithm from Qiskit in real IBM Quantum Computer using IBMQ?
+Quantum operation in blocks
+Why is the application of an oracle function not a measurement?
+Implementing Deutsch's problem on IBM Q composer
+Tensorial notation for this quantum XOR circuit
+What "states" can a qubit have if it doesn't have values?
+Defining qubit operator from scratch
+What are nontrivial examples of $n$-sharable bipartite states?
+How to calculate the distance of stabilizer code?
+How to define custom controlled unitaries in OPENQASM 2.0?
+How to decompose a controlled unitary $C(U)$ operation where $U$ is a 2-qubit gate?
+IBM Q devices scheduling of gates with different durations
+2-qubit QFT in IBMQ: controlled phase rotation
+Which journals and conferences would be most appropriate for new number-theoretic quantum algorithms?
+Restoring an initial state after computation
+Grover algorithm for a database search: where is the quantum advantage?
+How to calculate the fidelity of a certain gate of a IBMQ device in Qiskit using randomized benchmarking/tomography?
+How to see the QASM code corresponding to compiled Q# function?
+Converting a Qubits state to a binary value in Q#
+Can entangled qubits be disentangled without using code or software?
+How are orthogonal sets of pure states arranged in state space?
+How to implement the XY Heisenberg interaction using IBMQ and Qiskit?
+Understanding a quantum algorithm to estimate inner products
+Expressing CNOT in the eigenbasis of $X$ (Preskill lecture notes eq. 7.6)
+How can I express controlled unitary operation in QPE of this implementation of HHL?
+How much power do quantum computers use based on the number of qubits being allocated?
+Results from looped experiments on IBM Q different than individual experiments
+Clarification of a procedure to compute the product of the exponential of two matrices
+Can't draw figures with Qiskit in Visual Studio
+Measurement inconsistency in Qiskit
+About the Qiskit draw function
+Implementation of Grover's Algorithm (minimum spanning tree)
+Complex number in the representation of a qubit
+What is the definition of Bell state on a n-qubit system?
+Error syndromes and recovery procedure in bit flip code
+Question on state distinguishability
+Summation of amplitudes
+Primer for learning about quantum circuits simulating systems
+Controlled controlled adder gates involved
+Grover's diffusion on subset of input space
+Why should we use inverse QFT instead of QFT in Shor's algorithm?
+Is there a general method of expressing optimization problem as a Hamiltonian?
+How to tell if the ground states of two Hamiltonians are solutions of the same optimization problem?
+How can I write the maximally mixed state on m qubits as a linear combination of basis vectors?
+Visualizer error in IBM Q Experience Beta
+Weeding out qubit states with leftmost qubit as 1
+Quantum gate teleportation T gate
+Quantum Fourier Transform without SWAPs
+Back End for Reset Gate
+Measuring first qubit of Bell state
+Deriving a state vector from a stabilizer state's generators
+Quantum state where phase information is unknown
+Sequential circuit using quantum gates
+Can anybody explain or suggest a good reference on how to make a modular exponentiation circuit for N=15 with any coprime base?
+How do I write a tensor product of conditional gates in matrix form?
+Clarification of the "Calculations" section of the (HHL09) paper
+What does "an $n$-qubit array can represent $2^n$ possible array elements" mean?
+Plotting Bloch sphere in QuTiP
+Obtaining phases of all basis states
+Grover search for basis states with complex coefficents and multiple marked states
+What is Landauer’s principle?
+Amplitude suppression
+Quantum secret Sharing using GHZ state paper
+Quantum Computing Project Inquiry
+Perform quantum gate operations using state vectors and matrices
+Quantum channel representation of projective measurement
+How to program a controlled Hadamard-Hadamard gate?
+Quantum fidelity simplified formula while both of the density matrices are single qubit states
+Simulating a 3-local Hamiltonian Term
+What is the motivation for Weyl matrices in quantum information theory?
+Experiments stuck on VALIDATING ibmq_16_melbourne
+Eliminating a term of a superposition state
+Is swap gate equivalent to just exchanging the wire of the two qubits?
+Get result measurement into a circuit with Qiskit
+How to find a common eigenstate of commuting operators?
+Equivalent determinant condition for Peres-Horodecki criteria
+GHZ - measuring particles
+Implementing a complex circuit for a Szegedy quantum walk in qiskit
+CX gate with Hadamard
+Is the quantum Fourier transform efficient if only one control-phase is allowed in the gate set
+How to prove the following bosonic entanglement expression?
+How to compute the inverse of an operation in Q#?
+Superdense coding projects
+IBM Slack links broken
+Construction of Phase Shift Operation used in Quantum Search
+Understanding the classification of quantum states based on partial transposition: representations of the bipartite density matrix
+$n$ qubit vs. a $d=2^n$ qudit states and measurements
+Calculating power of a quantum computer --- RSA
+Using the HHL algorithm to compute $A |b \rangle$ instead of $A^{-1} |b \rangle$
+How many two-qubit gates required for general N-qubit unitary?
+Bell State 11 not working for parity curve
+Motivation for the definition of k-distillability
+Geometric interpretation of 1-distillability
+2 ways to do the three qubits bit-flip code
+Bug in IBM backend?
+Controlled Z gate acting on 3 qubits in matrix form
+Understanding CNOT gate for indirect measurement
+How to represent $|+\rangle$ in Python?
+How to add states on the Bloch sphere from a master equation?
+Does an oracle use only the eigenstates of the quantum register?
+What are the two qubits in the state $a\lvert 00\rangle+b\lvert11\rangle$?
+Does the Choi-Jamiolkowski isomorphism really establish a connection between kinematics and dynamics?
+The possibility of recovering the matrix $A+B$ from $e^{i(A+B)t}$ for Hermitian $A,B$
+Bug report bug report?
+Non-linear sign shift gate
+Getting started with quantum computing from a computer science perspective
+Kronecker product and multiplication operation on qubit states
+Physical realization of qubits with superconducting Josephson junctions
+Projecting $\lvert ++ \rangle$ on Bell Basis
+Cloning quantum states with a device that distinguishes between two non-orthogonal quantum states
+Could quantum computing improve chess engines?
+Illustrating limitations of quantum computing
+Having trouble communicating with the IBM Q Experience REST API
+How do you implement a negative controlled gate using the regular controlled gate?
+Which state describes carrier transport through channel? A mixed state or a pure state?
+What about this metaphor for quantum computing?
+Quantum Codes and Plasma Codes for Simulation Applications
+N-Toffoli on Cirq
+Comparing CPU to QPU In terms of processing power
+States of a qubit in a DC-SQUID
+Measuring the expected energy of a quantum circuit
+Are there any Quantum Computing degrees in Germany, Quebec, or The USA?
+Hamiltonian simulation in quantum computation
+How to implement NM Algorithm for Variational Quantum Eigensolver?
+How to perform quantum logic gates on plasmons?
+Can decoherence account for suppression of interference in all basis?
+GridQubit in Cirq vs LineQubit
+What does it mean to get 403 error when running a code on Qiskit?
+Does entanglement allow communication of user specified information or not?
+Why is the second register needed to define bit flip quantum oracles in a way that distinguishes between complementary oracles?
+There seems to be a problem with the implementation of identity gates on Qiskit as compared to the circuit composer
+What is the intuition of using Hadamard gate in quantum fourier transform?
+How to do randomised benchmarking for non-Clifford gates on Qiskit?
+How to derive a circuit from given equations?
+Coding an oracle for Simon's algorithm
+How to calculate the quantum Volume?
+Minimum Spanning Tree on D Wave Processor
+How to get samples in "bins" from D-Wave's dimod?
+Can we amplify BPP algorithms with a random quantum circuit?
+What is the probability that measurement finds it in the $|0\rangle$ state?
+Using Quantum Fourier Transform in adding two 2-bit numbers
+How can I build a controlled gate for this matrix in qiskit?
+How to create an $n$-qubit normally controlled gate?
+What does a quantum circuit look like after qiskit.compile() has been applied?
+Taking the two qubit reduced density matrix on a 5 qubit system
+Showing that Matrix Inversion is BPQ Complete - HHL Algorithm
+Implementing the one-bit Deutsch Oracle algorithm using phase
+Quantum Optimization via Quantum Label Classification in Quantum Circuits
+Approximating unitary matrices -- restricted gateset
+Measuring Coherence Length for T1 and T2 values with IBMQ Experience
+Calculate the square root of Euler angles
+Angular Error associated with Quantum Search Algorithm
+Can a quantum computer run classical algorithms?
+Sampling random circuits vs Solovay-Kitaev compiler
+Classical and quantum limits to classical copying?
+Synchronous Interactions Between Quantum and Macroscopic Systems
+Why can't a fanout be made with a CNOT gate?
+Is a ccH, ccX and ccH equivalent to a cH, ccX and cH sequence?
+Is my background sufficient to start Quantum Computing
+Modifying GRAPE for open quantum systems
+When can a fanout be used without violating the no-cloning theorem?
+What is the difference between entangled and separable states or electron spin-singlets?
+How can a CNOT gate change the control qbit (e.g. in the Deutsch Oracle problem)?
+I thought we had already passed this error and qubit threshold?
+import error :No module named 'qiskit_aqua'
+Qiskit Aqua cannot import 'QasmQobj'
+What does a zero state combined state vector for 2 qubits mean?
+Entangling marked qubit with part of the register in Grover's search
+How to upload .py file to new online Qiskit Notebook
+Hamiltonian for Single-photon, Single-atom QED Cavity
+What implementation changes should be done in maxcut code using VQE?
+Number of Shots always 1024/or nothing (IBM q experience)
+Separating NP from BQP relative to an oracle
+Quantum State Sanitizing
+CRZ and CRY Gates
+What is the need of Operator module from qiskit.aqua?
+How does ControlledOnInt in Qsharp make it's Grovers Oracle?
+Efficient implementation of exponential of projector
+How do I get out 2 measurements from the same execution on Qiskit?
+About a Qiskit Function
+How do I check my remaining IBM Q credits?
+Creating and running parallel circuits in Qiskit
+Problem with initial_layout on Qiskit/IBMQ: 'Not enough qubits in CouplingGraph'
+Ansatz Techniques to Multi-Body Physics Problems
+control gate with 3 inputs, two control and rotation gate
+Encoding Binary Data into Quantum Basis
+What is the need of convolution here?
+Different values of similar functions
+Second reflection in the Grover's algorithm
+Is the analytical solution right?
+Charge Qubit vs Transmon
+Quantum based protein folding, prototype
+Is it possible to change the oracle in Grover's search to ponderate probabilities in multiple values search?
+Anti-symmetrization on the lattice
+IBM Quantum experience
+Draw "Initialize" circuit as sequence of single gates
+Measuring a quantum wire at t > 0
+Find probability of a single qubit's measurement results from a 5 qubit state
+What is intuition for the trace distance between quantum states?
+The meaning of the city plot in Qiskit
+What does fidelity mean?
+Quantum Computing Qiskit - How to read data from classical registers
+What is the purpose of the last bits in the 2-qubit-operation Toffoli implementation?
+Estimate run time of Cirq circuit on forthcoming Google quantum computer
+How to use the input gates in Quirk
+given an EPR pair, how do I calculate expectation value?
+How to decompose the Quantum Fourier Inverse matrix into elementary quantum gates?
+Controlled-Initialize instruction
+How is inner product addition performed?
+edit a program on IBM Q experience
+Hamming with prefix oracle
+What is $\mathbb{Z}_2$ symmetry?
+How to reset classical register on QISKit
+Is it possible to simulate any classical algorithm with the same efficiency on quantum computer?
+Operation Elements in Operator-sum Representation
+Minimum Multi-Degree Polynomials representing Boolean Functions
+The most important quantum question , how to force a superposition qubit to collapses to an exact value?
+How to create an Ising coupling gate with Qiskit
+How call from IBM Q Experience (Jupyter Notebook) cplex
+QAOA and symmetry effects on the angles
+Definition of the Pauli group and the Clifford group
+What's the probability of measuring outcomes give measurement observable $M$ and state $\rho$ when $\mathrm{Tr}\!\:(\!\!\;M\rho)$ is a complex value?
+Measuring the effect of energy relaxation with IBMQ Experience
+A quantum computer that doesn't use entangled qubits has the same computational power as a classical one?
+Maximum number of "almost orthogonal" vectors one can embed in Hilbert space
+Quantum comparator with one fixed input
+Quantum Metropolis Algotithm: why is Quantum Simulated Annealing necessary?
+Apply the conditional Hamiltonian evolution (HHL)
+Finding a global phase that transform the Hadamard gate to an element of $SU(2)$ and propose an evoultion operator which implents the operation
+Which representation describes the composite Hilbert space?
+Operation Elements for Amplitude Damping Channel
+complexity of classical counting algorithm
+How does the fact that the output of a quantum circuit cannot be efficiently simulated classically help for optimisation?
+ERROR_RUNNING_JOB with 32 qubit circuit running on ibmq_qasm_simulator backend
+What would be an ideal fidelity measure to determine the closeness between two non unitary matrices?
+Amplitude Damping of a Harmonic Oscillator
+Loading the finite precision representation of the norm of a vector into a computational register using CNOT gates
+Qiskit No backend matches the criteria
+How to integrate Simulaqron on ProjectQ
+How to create quantum circuits from scratch
+Measurements in Qiskit
+How to represent an ensemble of pure quantum states in qiskit?
+How to initialize classical register in Qiskit?
+Is there a simple, formulaic way to construct a modular exponentiation circuit?
+Please help: get_statevector gives wrong result in qiskit
+Change entangled far Qbit state without mesaure it
+OpenPulse: Modifying pulse sequence for basic gates
+The merit of quantum error correction codes
+Derive one equation from the other
+Estimating errors in Hamiltonian Simulation paper
+How to implement controlled u3 gate from Qiskit using simpler gates?
+How would I construct an Ising Hamiltonian for binary linear programming?
+Density Evolution to Optimize QLDPC code design
+What's an easy way to determine a local density matrix?
+Hybrid classical-quantum linear solver based on the Neumann-Ulam method
+Clarification of a portion of the paper Quantum Amplitude Amplification and Estimation
+Is the intuition of quantum parallelism always correct?
+How is it possible to perform a c-not on 4 qubits using the same control qubits on IBM Q computers?
+No-cloning theorem does not seem precise
+How is CNOT gate physically implemented in IBM Q?
+(Nielsen & Chuang) derive phase damping quantum operation
+Hidden subgroup problem
+How to understand a phase operation between 2 Hadamard gates?
+Decomposition of a matrix in the Pauli basis
+All unitary errors are correctable
+Chose how to map virtual qubits to physical qubits
+Understanding the filter functions in the HHL algorithm
+Is phase factor negligible in fidelity of quantum states?
+Basics on CSS codes: manipulation of the ancillas to detect error
+quantum circuit with feasible gates for state preparation
+Going from a circuit to the quantum state output of the circuit
+Identity Gate Timing Discrepancy
+Knill-Laflamme condition and requirements for error correction
+Why isn't there a contradiction between the existence of CNOT gate/entanglement and the no-cloning theorem?
+Why doesn't the Gottesman-Knill theorem render quantum computing almost useless?
+Are CPTP operators and unitary operators the same thing?
+A basic question on circuits and matrix representation
+Trace preserving condition in Choi's thorem
+What is the unitary operator realizing a given CPTP operator
+In what ways can qubits be used for applications that do not require entanglement?
+How to amplify a specific part of the quantum state
+If I have a state $a|0000\rangle+b|0011\rangle$, how do you change it to make $b>a$?
+Gate error in IBM-Q simulator vs real backend
+Implementing noise model in Quantum simulator
+Why is the resource theory approach used in quantum information processing?
+Questions about theorem and proof: "Quantum error correction condition", Thm 10.1 Nielsen & Chuang
+Sketch the quantum logic gates correctly and give a proof for the identity
+Clarifying Mosca's Inquality Theorem - parallel vs additive
+Intuition about Knill-Laflamme QEC conditions
+Matrix Inversion is BQP-complete proof in HHL and the probability of measuring $T+1 \leq t \leq 2T$
+How to calculate an Expected Value of some operator acting on qubits?
+Can there be multiple energy eigenstates corresponding to the same eigenvalue of a Hamiltonian (Pauli-X)?
+Explain matrix multiplication math operations of a Hadamard gate after a phase gate
+Prove that a C2(U) gate (for any single qubit unitary U) can be constructed using at most eight one-qubit gates, and six controlled- NOTs
+Implementation of filter operation
+Why does Qiskit swap gate accept registers, but cswap doesn't?
+Can the Kraus decomposition always be chosen to be a statistical mixture of unitary evolutions?
+Excitation of a superconducting circuit
+Supercoducting qubit frequencies
+Reversible Circuit Simulation (for classical tests of quantum subroutines)
+Holevo quantity and mutual information
+How to make a time rotation in Qsharp like in Quirk spinning gates?
+How do I interpret the readout error for a quantum computer?
+Circuit for controlled rotations conditioned on a $d$ bit precision estimate of $\theta$ for $O(d)$ gates
+How to do a $C-PH$ gate in google cirq
+Do the Kraus operators of a CPTP channel need to be orthogonal?
+The correct set of measurement operators on a mutiple qubit system
+Are there many practical problems for which Grover's algorithm beats the best heuristic classical algorithm?
+If Alice and Bob share a Bell state, can Alice send her individual qubit to a third party?
+Do the eigenvalues of the Choi matrix have any direct physical interpretation?
+What are examples of non-oracular versions of famous oracular problems?
+Non maximally entangled states for QKD
+Number of Qubits Required for Simulation of Caffeine and Penicillin Molecules
+Job execution issue while using IBMQ Experience
+Deutsch-Jozsa on non-balanced oracles
+Q#: How to setup a project correctly (on Linux, command line)?
+Why can any LOCC operation be written as $\sum_k (A_k\otimes B_k)\rho(A_k^\dagger\otimes B_k^\dagger)$?
+Bounding advantage of a 'no cloning theorem' counterfeiter
+Bloch Sphere - Rotation Matrix
+Confusion about the relation between POVMs and projective measurements
+Performing a measurement in the standard computational basis of a three qubit system on two qubits
+Q#: dynamically assigning (or updating) multidimensional Qubit arrays
+What is the IBM Q credits?
+Help with understanding Unitary Operator of Quantum Optical Fredkin Gate
+Why is $Z_1Z_2$ spanned by this set ? Surely it's too small?
+What is the average value of $|c_i\bar c_j|$ for a random state $|\psi\rangle=\sum_i c_i|i\rangle$?
+The control phase gate in Quantum fourier transform and the question it brings up regarding control gates in general
+Understanding how control gates are written in tensor notation
+Is there any meaning for a density operator if we omit the j-th row and column in quantum mechanics?
+Are there any quantum algorithms to compute the norm of a vector, better than the classical version (O(d), where d is dimension)
+How to do subplots when plot_histogram etc. closes the figure
+What are the Main Classes of Quantum Error-Correcting Codes?
+Oracle for welded tree walk
+Grover's algorithm in a nutshell
+How to derive the way a controlled $U$ gate acts on an input state?
+Does the general form of a unitary operator define strict signs for the second column?
+How do 2 Hadamard gates act on a single qubit?
+Is the diamond norm subadditive under composition?
+Grover's algorithm for game tree
+Software for Quantum Computing
+Why does my code run a long time?
+Simulating depth-2 circuits
+Expected value of a product of the Pauli matrices in different bases
+Distance calcluation between two vectors
+qiskit - measure only 1 of the register out of n registers
+Strong vs weak simulations and the polynomial hierarchy collapse
+Using Qiskit with Blender
+Find the local unitary that takes the bell state to a state phi that has an extractable bell state
+How is the Controlled Z Gate implemented?
+(Quantum Computing/Machine Learning) Estimate of the absolute value of the probability amplitude of |0⟩ in the superposition?
+Representing a Bell measurement on non adjacent qubits
+Looking for papers that are pessimistic about the feasibility of a quantum computer
+How to reduce circuit elements of a decomposed $C^2(U)$ operation?
+Can we reduce the $C^1(U)$ operation from $AXBXC$ to $AXBX$?
+What is the difference between a cooper pair box and a transmon qubit?
+Error ERROR_TRANSPILING_JOB when trying to simulate the circuit
+Why don't qubits continuously rotate in the $z$ direction due to free time evolution?
+Is $M = a \mathbb{I} - ib \sigma_Z$ a valid representation in terms of logic gates?
+Loading Qiskit account in the Jupyter notebook gives RequestsApiError error
+Find the reduced density matrix for a four-qubit system
+Determining the quantum secret
+QUBO's and how to optimize
+Unitary operator confusion
+Can one operator commute with four other operators?
+Exercice 10.34 of Nielsen and Chuang : $-I$ not element of stabilizer group iff $g_j^2=I$ and $g_j \neq I$ where $g_j$ generators
+Quantum Teleportation expression in bell basis
+Error message for Classical Probability coding in Python
+Access results from an experiment without having to run the script again
+Given $n-k$ stabiliser generators, how can we find an additional $k$ commuting generators?
+Is it possible to have entanglement with different sized parties or with more than 2 parties?
+Qiskit - Renormalize the qubit after measurement
+Why qiskit changed the order of gated applied to a circuit
+The importance of length-4 cycles in Quantum LDPC codes
+How to obtain qubit's amplitude in qiskit
+Intuitive meaning of the eigenvalues and eigenvectors of a reduced density matrix
+Stabilizer error correction condition
+Qiskit plot_histogram and count not working
+Grover's Algorithm - oracle function

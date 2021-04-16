@@ -1,0 +1,1129 @@
+How can I add line numbers to Vim?
+How can I show relative line numbers?
+How can I change the default indentation based on filetype?
+How can I use the undofile?
+Can I script Vim using Python?
+How can I generate a list of sequential numbers, one per line?
+Does any solution exist to use vim from touch screen?
+Can I use some file-tree selector which exists on graphical IDEs?
+How can I search for a string between certain line numbers?
+Why can ci" be outside of quoted area and ci( only works inside parentheses?
+How do I reload my vimrc without leaving Vim?
+How can I add syntax highlighting to vim as I can do in gedit?
+How do I visually select the block of text I just pasted in Vim?
+What is Neovim? How is it different from Vim? And why should I care?
+Is there a way to display folded parts as a tree?
+Is it possible to have vim auto-complete function names, variables, etc. when using it to program?
+How do I center the current line in the screen?
+Treat string literals as a different language
+How do I make Vim adapt to the current indenting style of the file I'm editing?
+How can I prevent Vim from leaving too many files (like swap, backup, undo)?
+Setting up ++ft according to the file extension
+How can a complete beginner learn Vim using just Vim itself?
+Is it possible to split Vim window to view multiple files at once?
+Autocorrect spelling mistakes
+Is it possible to make Vim auto-save files?
+Can I open a new vim split from an existing buffer?
+Applying settings to a directory tree only
+How can I move the cursor to the top or bottom of the screen?
+How to get intelligent C++ auto-completion
+How can I copy text to the system clipboard from Vim?
+What is an effective way to learn vimscript?
+How do I deal with very long lines in text (500+ characters)?
+Is there a way to count the number of occurrences of a word in a file?
+Undo a single iab abbreviation expansion
+Show partially hidden wrapped lines
+How can I see the full path of the current file?
+How can I restore the cursor position when opening a file?
+Overwrite current line with register?
+Are there any precautionary measures I can take for a beginner?
+After pressing qq, the status line says "recording". How do I get out of this mode?
+How can I use Vim's spellcheck with ‘smart quotes’
+How can I run a function or macro across a folder of files?
+How do I move vertically until reaching a non-whitespace character?
+Performing certain operations without clearing register
+Is it possible to use vim's clientserver functionality to keep settings synchronized?
+Using % in languages without curly braces
+How can I safely undo changes that I may or may not have made?
+How to comment out a set of lines which are selected in visual mode?
+What can happen if I accidentally paste into command mode? What should I do if I do this?
+How do I edit crontab files with Vim (I get the error: 'temp file must be edited in place')
+Restricting operations to a section of code
+How can I open very large files with good performance?
+How can I get correct autocompletion for ambiguous file extensions?
+How do you save the file that you're working on as a new file?
+How do you use changes tree in vim
+How can text be moved from one register to an arbitrary number of registers?
+What is the purpose of swap files?
+keyboard shortcuts and MacVim 7.4
+Cut vim load time
+Custom syntax file for FIX data doesn't work
+How can I clear word highlighting in the current document (e.g. such as after searching for a word)?
+ex mode choice of shell for external commands
+How can I go into a directory in filename completion?
+How to make regex matchers non-greedy?
+Make panes resize when host window is resized
+Scroll the screen, not the cursor, when using scrollwheel
+How do I search for a line that contains a pattern at column n
+What is the '[Command Line]' that sometimes comes up when I try to quit, and how can I quickly exit it?
+Created a formatted list of percentages efficiently
+Open .md files as Markdown
+How can I modify Vim to work with a different keyboard layout?
+How can I automatically indent on new lines?
+Re-indenting badly indented code
+Tmux is changing part of the background in vim
+How do I make Vim use a default filename when not given any filenames?
+Undo Only Window
+Jumping to a file in vimscript
+Automatically load Vi into insert mode
+How do I run a command on creation of a new file?
+Remove eqnarray from Vim LaTeX
+Creating tags between markdown files similar to :h
+Working with English sentences
+How to find what slows down Vim?
+Figure out which plugin is responsible for a key binding
+How can I find out what <Leader> is set to? And is it possible to remap <Leader>?
+What makes a plugin Vundle compatible and are other plugin managers interchangeable?
+How to cache file editing history in Vim, that it would not disappear after switching the file?
+How to save window, split, and buffer layout?
+Tab behaviour between :o and :cd
+Disable syntax highlighting depending on file size and type
+Other ways to exit Insert mode besides Escape
+How can I rename the file I'm editing?
+Regex that prefers shorter matches within a match? (This is more involved than non-greedy)
+How do I make opening new tabs the default?
+Can I open a file in an existing Vim instance from an external command?
+How to use an external command in Vim to modify selected words and lines?
+Autocommand groups syntax and usage
+What types of buffers are there?
+Set the paste option, but for one insertion only
+How can I comment code with a command in Vim
+Define custom commands for the * and + registers
+Does Vim have any hidden "easter eggs" or jokes? If so, which?
+How can I use my trackpad for horizontal scrolling?
+What is the relation between vi, nvi and vim?
+Multiple buffers, same file, different settings
+How to edit binary files with Vim?
+Incorrectly indents JavaScript chain calls
+How can I set up a ruler at a specific column?
+How to "full screen" browse Vim help?
+How is command history resolved between multiple instances of Vim?
+How can I easily create and maintain tables?
+How secure is encrypting files with blowfish?
+Is it possible to use two different color backgrounds in a single vim buffer?
+How do I detect I've entered a wrong password when using cryptmethod (and make Vim ask for it again)?
+Can I do an interactive :substitute (search & replace)?
+Can vim automatically turn off Capslock when returning to normal mode?
+Is there a <C-w> for WORDs?
+What is the difference between the vim plugin managers?
+Altering HTML templates in vimwiki
+Can vim syntax regions be made to touch/overlap?
+Resources for scripting vim with python
+How to underline titles? (reStructuredText, Markdown, asciidoc style)
+What are the Control-key combinations/chords?
+Can Escape be disabled in insert mode?
+Terminal borked after invoking Vim with xargs
+UI to personalize a vimrc without writing one from scratch
+Adding 80-column wide comment header block with centered text
+Displaying tabs as characters
+Expand a visual selection in the other direction
+Prevent Vim from clearing the terminal after exit
+Get name of nearest tag to the cursor
+Shadowed terms in help
+How to join lines without producing a space?
+How to paste and remove current line
+How do I reload the current file?
+What's the simplest way to strip trailing whitespace from all lines in a file?
+Does Ex mode have any practical use?
+How can I reload all buffers at once?
+Can I open a group of buffers at once?
+Renumbering buffer list
+How can I clear a register/multiple registers completely?
+How do I get rid of <filename>.project.vim files?
+Why do I need both a vimrc and a gvimrc?
+Making a box in vim via python
+How to save a file for which I have no write permissions?
+Running cleanup commands only for edited lines possible?
+How do you fold functions automatically?
+Correct all spelling mistakes in the document
+Automatically creating functions out of function prototypes from header files
+Can Vim interpret terminal color escape codes?
+How do I break a file into two?
+Why aren't Vimballs commonly used?
+How do I install a .vimball Plugin?
+How to replace tabs with spaces?
+More detailed comparison within a line
+Navigating multiple files
+Return to previous buffer without going through every jumplist entry
+How can I easily get the length of a piece of text?
+Can I justify text in Vim?
+Can I issue an interactive shell in Vim window?
+How do I change the current split's width and height?
+Can I force parentheses matching to show up across multiple windows?
+Can the command-line window be entered without interrupting macro recording?
+Move vertically to a specific character on a different line
+Is there any way to add to the help system without developing a plugin
+Folding fails: vim can't find any fold
+Creating & maintaining flowcharts in Vim
+GitHub for .vimrc and plugins
+Run shell commands on current file based on file extension
+Is it possible to easily work with .odt, .doc, .docx, .rtf, and other non-plain-text formats in Vim?
+See the Unicode code point of the current character
+Raise window holding swap file
+Map a sequence of letters in insert mode
+Prevent Vim from breaking up links mid-tag in markdown
+What is the correct capitalization of 'vim'?
+How can I make the "gn" motion wrap to the beginning of the file?
+Can I see the history of key presses in normal mode?
+How much money has been raised for needy children in Uganda from Vim?
+Can I use Vi or Vim with screen readers and/or Braille devices?
+Keeping lines to less than 80 characters
+Sharing vimrc options in different computers
+equalprg to use for Python
+How to define a custom popup / menu in vimrc
+Does vim have a learning mode to help me get used to more advanced operations?
+Adding emmet plugin to Vim in Windows
+Can I use a non-monospaced font in either Vim or gVim?
+How to left-align two columns of text?
+Faster way to move a block of text
+Bidirectional tag stack movement with cscope in vim
+Swap function arguments
+How do I install a plugin in Vim/vi?
+How can I specify a command-line command with options as an equalprg?
+What is a Vim plugin?
+How does one perform a multi-line copy and paste between two sessions in Vim?
+How do I use vim as a diff tool?
+How can I change Vim's start or intro screen?
+Make :edit {file} use current directory during :Explore
+Why does Vim force programming indentation when in "gitcommit" filetype?
+Set an option dependent on the filetype
+Bash-like partial tab-complete for filenames in Vim
+vimdiff and merge conflicts
+Zsh-like tab completion of partial paths
+Quickly switch between fonts at runtime
+Programming-oriented word swap using transwrd.vim
+How to add indentation guides/lines
+How to make movements respect camelCase or snake_case?
+How do I save a file in a directory that does not yet exist?
+How do I make Vim highlight a margin?
+How to make auto-indent XML in vim?
+How can I check spelling in HTML attributes?
+How to add permanent line numbers to a file?
+How can I stop Vim from writing a file without throwing an error?
+Deleting groups of autoindents in Insert mode
+diffoff on all buffers
+Insert tabs in INSERT mode when expandtab is set
+Can I paste a yanked line even if I delete a line?
+Prevent NERDTree from switching tabs when opening a file node?
+How to replace more than one character without entering insert mode
+How to differentiate visually the white spaces in vim?
+How can I copy/paste new text without auto-indentation at every new line?
+How to open multiple files in split mode?
+How to exit vim from split mode?
+How to edit content from the standard input?
+Showing command history with showcmd
+Tab to complete filenames with :find at an arbitrary depth
+Can I pass a custom string to the 'gx' command?
+Motion for moving to non-top-level Python function definition
+How can I treat LaTeX quotes as a text object?
+How can I add a prefix to a few lines?
+How can I redefine plugin key mappings?
+How to convert all windows into horizontal, vertical or tab splits?
+How can I view and edit my recording (i.e. recorded macro)?
+How to split a line into multiple lines efficiently?
+Automatically delete closing pair without causing unbalanced pairs
+How to select and copy lines to clipboard which are selected by mouse without linenumbers and gutter?
+Can visual select mode be integrated with the Unix selection clipboard?
+How can I suppress the "press enter" prompt when opening files in diff mode?
+How do I change the default size of plugin window (NerdTree, Taglist, etc)?
+do a command without altering the register
+How to diff and merge two directories?
+How do I get Vim to be able to run both python and python3 on a Linux system in the same session?
+How to jump between matching HTML/XML tags?
+How to edit files non-interactively (e.g. in pipeline)?
+How to convert a source code file into HTML?
+How to dump output from external command into editor?
+How to write whole buffer to standard output from the command line?
+How can I have (g)vim start in insert mode by default (when opening a .txt file)?
+Using marks with dead keys
+Can the path include negative entries (exceptions to a wildcard)?
+How to generate random numbers?
+How to convert lines to numbered list?
+Does Vim autosave?
+Quickfix window not displaying stderr messages?
+Prevent Vim from recording events for certain filetypes
+How can I make the spellcheck selection window allow me to type my own correction?
+What is <Leader>?
+How can I remove additional whitespace in the middle of line?
+How can I reformat a multi-line string in vim when using the Python filetype?
+How can I start vim and then execute a particular command that includes a \, from the command line?
+How to render html file?
+How to execute python statement for each line?
+:read after cursor instead of after line
+How to make `C-x C-k` dictionary completion respect case?
+Ins-completion of WORDs
+Why does the cursor move to the start of the line after <Esc>?
+How can I get my windows back into a grid formation?
+Vim Windows creating temporary files
+How can I convert words to camelCase in a macro?
+Vim -p: Caught deadly signal SEGV?
+Why does the order of :set bg=dark and :set bg=light matter?
+How to display invoked keystrokes and commands in normal mode?
+How do I automatically size a window?
+Subtract 1 from column number on statusbar in insert mode
+Selecting block with a mouse when line numbering is enabled
+Vim's syntax highlighting considers a lambda (->) in Java an error
+Spell-check blacklisting word sequences
+How can I remove the red highlighting of ejs code braces?
+How can I get syntax highlighting to support multiline JavaScript strings?
+How do I delete a large block of text without counting the lines?
+How does :g/^$/,/./-j (reduce multiple blank lines to a single blank) work in vim?
+How to replace only within visual selection?
+Can relative number be changed so that current line is 1?
+How do I get gvim to start maximised in Windows?
+How to execute shell commands silently?
+Can I replace Vim's syntax highlighting with my own script?
+Is it possible to have the output of a :! command in a split rather than the whole window?
+Close all split files, except the one currently focused?
+Can I jump to a function declaration or definition in a multiple C++ source files project?
+Most efficient way to replace the entire buffer?
+How can I get vim to stop putting comments in front of new lines?
+How can I get vim to not auto-wrap pasted text?
+Automatically add a closing " or ' when inserting one, but only if the cursor isn't inside a string already
+Regex to search double quoted strings on multiple lines
+How do I jump to the location of my last edit?
+How do I debug my vimrc file?
+Apply normal mode command to regex matches
+Is there a way to alias `:w'` to `:w`, to avoid creating files named '?
+How do I make vim look in a set of directories for a file, if it doesn't exist in the current directory?
+Colorscheme's background not correct in terminal
+How can I automatically execute normal mode keystrokes with a terminal command when opening Vim?
+How do I parse URL's from the text
+How do I copy and paste between two vim instances - shared clipboard?
+How can I work around the inability to save macros in ViEmu?
+How to change all numbers in file into float format
+How to block replace code in visual mode?
+Can I undo multiple times in nvi and/or the original vi?
+How can I integrate gdb with Vim?
+What are the differences between LaTeX plugins?
+Switching to the local directory after loading a file?
+How do I get +clipboard support in Fedora 20?
+Different autocmd behavior when using --remote-tab-silent?
+Including dictionary terms with spaces
+How can I copy the current file and start editing the copy instead of the current file?
+What's the difference between let and set?
+How to replace URL resource path with regex?
+How to escape a whole string in a : command?
+Is there a way to hook ctag changes to git branch checkouts and pulls?
+How to access recently used files by choosing from a list?
+What are the differences between the map, noremap, abbrev and noreabbrev commands?
+Using folding with plain text?
+How to make vimrc settings applicable for a directory tree only
+How do I switch around 2 pieces of text?
+How to change last occurrence of the string in the line?
+How to reverse the order of lines?
+How can I open multiple tabs at once?
+Can I be notified when I'm undoing changes from the undofile?
+Is cpo&vim a special syntax?
+Can I make Vim's spell check not syntax-aware, and check everything?
+How do I have buffers listed in a quickfix window in Vim?
+Fastest way to switch to a buffer in vim?
+Perl folding with perl_fold_blocks
+Can I add an end-of-line string when Vim wraps a line due to textwidth?
+How do I navigate to topics in Vim's documentation?
+Is there a way to write out the results of ":ls" to a file?
+How do I open a file to view in a new tab?
+Put a process started with ! in the background
+Collapse vim folds to a single line, similar to Atom or Sublime Text
+Why doesn't the backspace key work in insert mode?
+Folding by regex search pattern
+Command to create \begin{} \end{} environment in LaTeX
+Why I am losing syntax highlighting when folding code within a <script> tag?
+How to write a fold-expr?
+Why doesn't `nmap <tab> v>` work?
+inspect filter output in minibuffer or a new buffer
+Translating Keymaps to Ex Commands
+Automatically close oldest buffers?
+Why don't I get syntax highlighting when I open a file in an autocmd?
+Following a tag in a VimScript
+What is the easiest way to insert en dash in Vim?
+In Vimdiff, how do I switch the left and right panes?
+What bad things can happen if I use :bwipeout?
+Vim `cpp` Syntax highlighter prematurely ends macros mid-word
+Search all versions of a file in the undo tree
+Auto Highlighting identical lines text
+How to tell vim not to try to unzip a file
+Quickest navigation within a buffer
+How can I use Vim as a hex editor?
+How do I move to the last character in a sentence?
+How can I make Vim position the cursor at the start of a tab character instead of the end?
+Strange behaviour of abbreviations triggered with shift+enter in gvim+vim-latex
+How to create syntax folding for pascal
+How do I make dictionary completion look in a different file if triggered after the @ sign?
+What is the easiest way to insert Unicode characters into a document?
+How can I create a pseudo insert mode with a different keymap?
+Can I get vim to fold comments when using foldmethod=indent
+Duplicating line content by substitution
+How can I get both splits to scroll left or right at the same time?
+Are Vim's regex magics compatible with well-known regex classes?
+Why are ^ and $ still magic in nomagic mode?
+Are there any platforms whose native `vi` is not vim, nvi, or original vi?
+What does :open do in vim?
+How to write vertically?
+Show only matching lines?
+Entering search pattern with syntax highlighting?
+What does `<Bar>` mean?
+Transfer file-related settings over to a new, derived file?
+I can't get 256 colours to work with Vim in iTerm2 on MacOS X
+How to translate Unicode escape sequences to the Unicode character?
+How does the "d3fg" command work?
+HTML syntax folding in VIM?
+How to scroll through a really long line?
+How to work with command-line mode the vi way?
+Digraph for the "bullet" (8226 hex 2022)
+Undo multiple changes in Cygwin's vim
+Is there a text object for the entire buffer?
+How can I store a series of regular expression search and replace commands and run them later?
+Indenting VHDL as other programming languages
+Fold with markers, but disable nesting?
+Is there a way to set an option to the value of another option?
+Quickfix with makeprg running in a different directory
+Linespace in Vim using iTerm2
+How do I change the colour of the statusline of the currently focused window?
+Is there something similar to g8 but shows the values according to the file encoding
+How can I search and replace within multiple files?
+Disable tar.vim plugin from command line?
+How do I automatically add a character at end of line?
+How to map Alt key?
+How can I lookup LaTeX symbols in Vim?
+How can I get ‘n’ to go forward even if I started searching with ‘?’ or ‘#’?
+How can I jump to the next "paragraph"?
+Vimwiki: can't fold list items
+j and k keys not working like they should
+Why is the c.vim plugin not working?
+How to change undo granularity in Vim?
+How to use sensitive data in .vimrc?
+How to map CMD+Alt alone to the command?
+hi StatusLine cterm=none displays whitespace characters
+Change formating of `\im' command in c.vim
+`E575: viminfo: Illegal starting char in line: ...` on startup
+How to associate gvim with extensionless files on Windows
+c:\Program is not recognized error while running vimdiff
+How do I shift the line indent to a specific value?
+Add plugin directory
+Vim Code Completion for Python 3
+function to call shell script with arguments
+Vimscript save file
+How to make a vimscript function with optional arguments?
+How can I append after a code block?
+How to search the help docs from a command prompt
+Mapping Ctrl+s does not work
+Prevent vim from running a built-in function?
+How do I exclude certain file extensions from completion?
+How can I make ctrlp do better filename matching?
+How do I get the name and extension of the current file?
+Can :Explore be started from the terminal?
+How can I print from vim using the native KDE print dialogue?
+Why does the same color scheme look better in gvim than Cygwin?
+How do I use relative line numbers in command line mode?
+Is the current behavior of `ge` in Operator-pending mode a bug?
+Editing rich text document (.rtf)
+How to increase the 2nd number on a line
+What additional features do gVim and/or MacVim offer compared to Vim inside a terminal emulator?
+How to set my terminal to use solarized palette?
+How do I move the cursor to the center of current line?
+Why vim-jsbeautify cannot find module?
+How do I know the patch version of my vim?
+How do I enable profile in vim?
+Changing Multiple Instances of a Local Variable at the Same Time
+Did Vim ever use a different versioning scheme?
+Scroll buffer-window whilst Ex-log open
+Absolute script-file line-numbers in Vim-function errors
+remap not working; <NL> in appears in other binding
+`echon` for `echomsg`
+How can I make text formatting ignore concealed characters?
+Can I make Vim also save "small deletions" into register "1?
+Ternjs plugin is not working as expected
+Prevent 'Press ENTER' when pathogen loads but keep for other scripts
+How can I count instances of character "x"?
+Where to find the time interval for a key combination to work?
+YouCompleteMe in non-code files yields -- User defined completion (^U^N^P) Pattern not found
+Is it possible to use registers in Operator-pending mode? If not, why?
+How to remap “ctrl+w+shift+f” to “gf” in vim to go to line of file under cursor in split window?
+Warning when opening commit message with Neovim
+How do I extract the parameters from a URL in Vim?
+Don't show tab characters as ^I or <09> in the output of :registers
+Keep cursor from moving when yanking upwards
+How to delete content backwards until "=" at the previous line?
+How do I display any marks that are set on the current line?
+How does Vim know how to syntax-highlight some files with strange extension or without extension at all?
+regex: how to replace "\["?
+Recognize bash variable as distinct word
+Current filename not visible in airline
+How can I map d[count]d?
+How to manage fugitive commit with a git pre-commit hook?
+How can I run an autocmd when starting Vim with no file, a non-existing file, or a blank file (but not when starting with an existing file)?
+Is there a way to set an abbreviation in a modeline so it is always available local to one file buffer?
+How can I get a window to close automatically when all other windows have closed?
+Efficient way to find & open files deep in a project tree?
+What's the best way to arrange subwords navigation?
+How to view javascript tags in vim using tagbar + jsctags + tern_for_vim + ctags_exuberant?
+How can I make a down movement at the last line go to the end of the line?
+How to display Font Awesome in Vim?
+How do I check the value of a Vim option in Vimscript?
+Open quickfix in vertical split
+Detect OS in Vimscript
+Delete all lines which contain any word not used anywhere else in the buffer
+Keep Cursor In Current Position After Find-Replace
+Move back the cursor after a "cw" command
+Using a variable in a regex pattern
+Highlight or underline the current selection in the wildmode list
+How to copy the current line(s) out to a new file?
+What can I do with more tabs than fit in one (airline) tab-line?
+Searchable list of custom commands for Vim?
+Is it possible to create custom "set" commands in my rc file and call them from a modeline?
+Is it possible to wrap characters around text every time you paste something from the system clipboard?
+What does number+enter do in Explore?
+How do I cut a single large file into manageable chunks by regex?
+How to open multiple files matching a wildcard expression?
+Cycle between keyword & user defined completion with C-N
+Why does this <Esc> normal mode mapping affect startup?
+Is it possible to include coding style vim modelines e.g. psr-2 or drupal?
+One pop up menu with keyword and user defined completion
+I have a something in my vimrc to match text over 80 characters as an error. It only works in the right most split. Any ideas?
+Can't change directory to network drive
+How to add a string to cursor point of gvim through a shell script
+How to set up tags for Ruby, SASS, Slim and Coffescript?
+When using bash or another shell from a buffer, how do I modify text?
+Navigation with Tagbar
+Writing modified buffer to a temporary file
+write a key command for a markdown comment
+How to build vim from sources with GUI support?
+Do VimScript functions have to start with a capital letter and if so, why?
+Filetype that LaTeX should be
+Embed showcmd in airline
+How can I bind :Set to work exactly like :set
+Run an external script from within Vim to compile (not C++)
+How can I change the colour of the line highlighted with the 'cursorline' option?
+How can I easily move a line?
+How do I copy the error message I get from YCM
+Make Command-line mode type <Esc> and Ctrl commands
+Do large numbers make vim run slowly?
+Backward motions in Operator-pending mode move cursor
+Is there a way to have sidescrolloff behave differently depending if I am end of a line?
+What is the difference between Ex mode and improved Ex mode?
+What does [count]% do?
+How to repeat register on assignment to another register?
+How can I make Vim autoread a file while it doesn't have focus?
+How to use substitution on register?
+Create mappings that only apply to diff mode
+How can I have vim automatically notify me when a file that I am editing changes?
+How can I surround the lines inside the html tag object?
+Is there a simple way to require clean syntax before saving?
+Vim Powerline is at top of window instead of bottom
+Macvim - CJK-specific font settings?
+How to add multiple git projects to Ctrl-P search path
+How to force quit if input was stdin?
+How do you get which "side" of the visual mode selection the cursor is on in vimscript?
+What does [count]<leader> mean?
+How to write condition with regular expression?
+Prevent cursor movement when clicking "../" in netrw
+Substitute pattern between braces
+Vertically rotate visual block
+Triggering UltiSnips with enter
+How to partially replace text in a selected text-block?
+Set cursor colour different when on a highlighted word
+Send text from one split window to another
+How can I edit a regular expression search string as if it were a file?
+How do you open a new buffer in the current window?
+How do I open a file that starts with an exclamation mark using filename completion
+Disable vim-surround in a netrw buffer
+Gvim doesn't remember cursor position within line if previous session ended on line 1
+Vim search replace all files in current (project) folder
+How to change the value of timeout for one key command?
+How can I limit number of suggestions when using YouCompleteMe?
+How can I create my own colorscheme?
+How to stop gVim wrapping text at column 80
+Strange interaction of set hidden, shortmess and the status line
+Vim, lua and ctags
+How to design a command in a plugin that can be called from vimrc
+Is there a way to share vim command history?
+How to achieve selection different length of texts on different lines?
+How can I make gx recognise full URLs in vim?
+Vim printing strange characters when hit "home", "end" stc
+How to resume previous multiple cursors?
+How to extends php.snippets to html in Ultisnips?
+Problem using LaTex .bib file with UltiSnips completion
+:silent makes my vim go blank
+Vertical equivalent of "control+w n"?
+y<C-G> not yanking commit SHA in fugitive?
+How to prevent Vim from scrolling buffers when I open split
+Using the % command on a line without a bracket
+Using the % command in c++
+How to make a movement function work with delete, yank, etc
+Pipe shell command into buffer in real-time
+How can I clear normal mode command count in mappings?
+How to substitute text across line breaks?
+Vim is displaying some info and "Press ENTER ..." when I open a file
+MacVim Text rendering problem when scroll up and down
+Highlight longest common subsequence between two files? line by line
+searching duplicate words
+CtrlP searches entire machine
+How to find every occurrence of a word and append some text to it?
+How to automatically set wrapping for quickfix window?
+How to display file size in netrw in a human readable way?
+How to set up Vim to work with one sentence per line?
+Where is my viminfo file on Windows?
+Tips for quickly formatting a single line of XML?
+How to set the opening file as the tags in vim?
+Highlight XML errors based on this XML file's XML Schema
+Vim keep last line at bottom of buffer
+Navigating code projects without using external commands
+Prevent CtrlP from indexing parent directories
+Indentation of preprocessor directives
+How do you “chomp” a string in Vim?
+Vim slows down over time with syntax on
+How can I run javascript directly and show the output?
+How to jump to the end of quoted string, considering escaped delimiters
+spf13-vim - Error with neosnippet plugin when editing a file
+How to disable horizontal scrolling?
+User-defined sorting precedence
+What is wrong with this mapping expression in my .vimrc?
+How to jump to the location which [I points to?
+"x" overwrites clipboard, I am not able to finish the copy-pase action
+netrw: have the cursor placed on previous cwd name when going up dir
+How to show search results for all open buffers
+How can I fix the auto indentation in LaTeX?
+Like Ctrl-A and Ctrl-X but modify only the first digit
+Why is MacVim starting differently every other invocation?
+Modify vimdiff highlighting
+How to further increase cmdline history size?
+How to programmatically visually select a text block?
+Don't touch file upon write if the file was not changed
+How to execute a command in an inactive window
+How to split window directly from command line?
+What's the point of :promptfind after all
+How to output highlighted source code into a file to use outside vim
+Can the split separator in vim be less than a full column wide?
+Can I load different tags per project?
+Keeping cscope db updated
+Bash not recognizing aliases when run from Vim
+Folding via foldexpr
+How do I disable syntastic for python files?
+How can I move windows from a vertical split to a horizontal split?
+Can I force python-mode's (or syntastic's) error flags over the line number columns?
+PDF viewer syncing
+Set path to location of tags file
+Configuring include-search for PHP
+How to set up NERDTree to CD to current folder when opening it for the first time via :NERDTreeFind
+Elastic Tabstops in Vim?
+Vim Diffing a pair of Unicode little endian without BOM text files in a readable format?
+Setting a vim option from the command line?
+How to set both files to the encoding in vim diff from command line?
+Run macro over a visual selection with line movements
+How can I delete a function call, leaving its inner content intact?
+How to replace patterns after line k
+Can I search in the list of available completions on commandline?
+Several lines instructions
+List valid color schemes?
+Why vim cannot expand wildcards from the external command?
+Remove the insert delay after entering insert in a read-only file
+How to use a UTF8 character as part of the iskeyword setting?
+Jumping to a byte offset, and displaying position as byte offset
+Why substitute doesn't work in silent mode?
+Manipulate chars with their ascii code
+Buffers comand to show full path and filename
+`gq` with left whitespace intact
+Vim forgets cursor column when I move over a line that ends with a brace in insert mode
+Inline English grammar checker for vim-latex?
+How to search for a matching pattern only in the first line across multiple files?
+Search and replace, but ignore text in quotes
+How to Get Netrw to exclude certain files?
+How do I get filename completion to ignore a leading `=`?
+Is lookaround possible in vim's regex system?
+Is there any way to prevent a line from wrapping around while in visual mode?
+What is an exhaustive list of "all the things" in vim?
+How to jump only in currently open file?
+How can I use a line number to copy a line to where my cursor is?
+Override highlight group settings with default values
+Suppress output from a vim autocomand
+Close and unload a buffer without exiting Vim
+How to make 'spellfile' work for multiple languages?
+How do I define a range from the current position to the end of the file in an ex command?
+How can I bind Ctrl-Space to be Esc when not in insert mode, and to switch to insert mode otherwise?
+How do I use the system clipboard with Vim in Arch Linux?
+Check if value matches any regex in a list
+Clipboard sharing broke under MacOS X
+Complete multiple lines
+Unite file_rec search misses a file
+How can I change the font size in gVim?
+Indentation with "#." start of paragraph
+When making a colorscheme, what is the label for the ~ area of the screen below EOF?
+Create project specific mappings and abbreviations
+Can I delete an entire line, except the line break?
+Insert an incrementing number to each line in either a selection or a match
+Find and replace using regular expressions
+Mapping control-H in insert mode doesn't work; it always works like backspace
+Highlight word, depending on its prior use in the file
+Fold selected lines
+How to map Enter to custom command EXCEPT in quick fix?
+Is there a way to disable the foldexpr during autocomplete?
+Run a python script without closing buffer
+Override a mapping with leader key
+Cursor moves one character backwards on exiting insert mode
+Vim-SyntaxHighlight: Custom Syntax Highlighting With Vim
+Using the Ag plugin, how to not automatically open the first result?
+What is the functional difference between :nohlsearch and :set nohlsearch?
+How to format xml or html's attributes into multiple lines instead of lining up on one line?
+<C-z> on gvim (windows) hides the window instead of decrementing the number on cursor
+What does it mean to replace slashes (/) by exclamation marks (!) in a substitute command?
+How to setup AG (the silver searcher) in vim?
+Is it possible switch buffers in order of accessing but not opening?
+Edit different words simultaneously, one the same line like in Sublime Text with multiplie selections
+Use only some features (ref/cite completion) of vim-latex
+Problem: Moving lines vertically closes folds
+How to use Ctrl-P to interactively search file contents for all files in a project?
+Use single ftplugin for more than one filetype
+Special control keys in windows 7 don't work with the 'extended english keyboard (UK)' layout
+Run a cmap only when searching
+Is it possible to make a numerically-prefixed hotkey run a function that many times?
+Syntax highlightning with custom runtime path
+Execute content of buffer as vimscript
+infinite loop when compiling vim from source code
+How to get git diff in vim when writing a commit message?
+syntastic C++14 support
+How do I switch between the command-line history and file panes?
+Put current mappings into a buffer
+Why does <Leader>l open my folds?
+Contents of _vimrc file depend on how it is opened
+How to check if file is binary?
+How to make vim to uncompress archive formats?
+How to delete part of a line that does not match a pattern?
+How do I prevent ctrlp plugin from changing the default spell location?
+How can I have vim sound the terminal bell when I misspell a word?
+Disable <Esc> but keep <C-[>
+What's the difference between "quit" and "abort"?
+How to prevent vim-jsx from mangling my indentation?
+How to yank a line with a certain line number?
+How to check whether Vim is built as a 32-bit or 64-bit application?
+Showing colors in vim's quickfix window from Dispatch tasks
+vimrc Line Placing me In Replace Mode
+How to add an item to Vim context menu?
+Different gutter colours for each code function
+Speed bump on <Esc>O (Insert to Normal to Insert new line above cursor)
+How to replace specific lines with regex?
+I am unable to install emmet plugin on windows
+Is there a way to make preprocessor definitions in vimrc?
+How do you open a session in an existing server?
+How to search in Ex mode and place the cursor on the matched pattern?
+Vim to edit and submit to [Hackerrank]
+Arithmetic in Regular Expression?
+How can I get the syntax ID of a named group?
+Quickest way to change a certain number of characters in INSERT mode?
+Override cursorline background color by syntax highlighting
+Search for continuation line
+How do I search for line containing an unclosed parenthesis?
+Count the number of whitespace in the beginning of a line
+How to make vim automatically add a newline to the end of a file?
+How to remove inner content of html tag conditionally?
+Why won't gvim start after reinstall?
+Benefits of 'set foldmethod=marker', but stop 'zf' from adding markers
+Can I use "gf" (or similar) to open a file and jump to a search term?
+Go to last non-whitespace character of previous/next line?
+Change '\r' to '\n' for search and replace?
+Short buffer name
+Why can't vim see the tags file, despite being in the same directory?
+Insert a text selected via visual block
+Visual Differences between vim on virtualbox Ubuntu guest (through putty) OR gVim on Windows host
+Improve performance of syntax highlighting in Vim
+How to replace a word with a yanked word in normal mode
+How to make many definitions available as some kind of mode
+Colorizing plain text
+Keeping quickfix jumps in the jump list
+Why is the cursorline always showing after the cursor moves over a line?
+Compiling vim from source just enabling clipboard
+Using vim and Caffeine on the same machine
+Search for lines starting with given string in vim?
+Append to register inside a global command
+Is it possible to change the message display location?
+Why do custom highlights in my vimrc get cleared or reset to default?
+`filetype plugin on` and square brackets
+Pop up auto-complete suggestion automatically?
+How do I fix the status bar symbols in the Airline plugin?
+Exit when only one empty window remains
+Open filename under cursor like gf, but in a new tab (or split)?
+Move cursor among lines inside the same paragraph?
+Sort based on comma separated words
+How do I setnumber and relativenumber for :Explore in .vimrc
+How to define a custom user defined command to filter a range?
+Relative number on old vim versions
+Refresh files in NERDTree?
+Cursor shape under vim + tmux
+What is the use of the black hole register ("_)?
+Avoid Redraw When Running External Command
+Move existing window to existing tab
+Call a Vim function silently
+Detect most resource hungry plugin
+Define color with customized name
+How do I conditionally set :colorscheme?
+Using vim when press both opening and closing parenthesis/brackets/etc
+Context sensitive insert mode mapping or abbreviation
+I get the error "./en_US.UTF-8: No such file or directory" when starting nvi
+Deleting a range of n lines before and after a matched line?
+vim doesn't find jedi, even though it's right there!
+Explore command causing errors
+Can I run :make without moving the cursor?
+How do you substitute on previous matches?
+How do you convert between non-literal strings and literal strings?
+Moving a visual range to a new tabpage?
+Don't add new line at the end of a file
+Enter in Quickfix window gives "E73: tag stack empty" error
+Auto-indenting copied text
+Blocking changes to read only file
+Save current file and open another for editing
+delete surrounding eruby tag in rails
+Using single quotes blows up syntax formatting in .js
+This file looks fine with the more command. Why do I see all of these extra characters in vim?
+Can I use the mouse for folding/unfolding in Gvim?
+Call PDF viewer on the compiled tex file
+Force (visual-only) wrap at specific column regardless window size in gVim
+Populate ex command line
+vimL sleep within a function
+Disable swap file for large files
+What is the best way to embed external python modules to vim plugin?
+NERDTree How to open a file and automatically close the explorer buffer
+How to write a file automatically after every change?
+How to set vim theme in Vagrant?
+Bring up the current file name for edition in the command line
+Persist autocmd per file (not per filetype) without vimrc
+Argument completion for python
+Get the offset/position of the current window in the layout
+How to fold comments?
+How do I trigger an autocommand when user enters/leaves command mode
+Current line number aligned to the left with number and relativenumber
+Randomly select a documentation article
+How to show the path to the current opened file?
+To Return a True Value if Pattern Match is Found Else Return a False Value
+Searching For a String Stored in a Register From Within a Function
+Understanding Vimscripts Through an Easy Example
+yanking a certain amount of bytes
+Copying a String to a Variable or a Register from Within a Function
+Highlight double space in markdown
+Make % jump between identical delimiters
+Highlighting Date in Vim
+MacVim thinks I have unmatching parentheses, until I place cursor over each parenthesis
+Navigate to first diff in diff mode on startup?
+delete lines that match a pattern from a given line to the end of the file
+Can I search for a Unicode combining character in Vim?
+imap beginning with <C-o> interferes with omnicomplete
+Settings and plugins when root (`sudo vim`)?
+Clear a line faster than [0][d][$]
+Match by syntax highlighting instead of expressions
+How to use the value of a register in a key mapping?
+Trouble Using Color Scheme in NeoVim
+making vim autoclose {} tags adds a space
+How do I tell if Vi or Vim is installed on my Linux distribution?
+How can I prevent (or at least prompt to confirm) absurdly large numbers from being used to prefix commands?
+How to get and use the number of each matched line in a global command
+save unfolded data to separate file
+Word level diffs in vim
+Execute current file outside of working directory
+Autocomplete for make
+Easiest way to delete e.printStackTrace();
+How can I advance a page without losing my column position?
+How do I prevent Vim from unindenting empty lines?
+How to select with the same movement but on a different line
+Vimdiff does not read modeline
+How do I add autocompletion for variable names for a new language?
+How to repeat a mapping when keeping key pressed
+Highlight all files open in buffer in NERDTree
+YouCompleteMe cannot complete C function with parameters
+How to prevent "echo" output from being overwritten when leaving visual mode?
+Avoid junk in the console buffer on win32
+Why doesn't :!start work with non-commands?
+How do I get vim to auto indent block-level html elements?
+Customize vim to automatically check function name against its prototype
+How to execute <leader>pcd mapping?
+Set paste mode when at beginning of line but auto-indent mode when anywhere else on the line?
+How to substitute line break on register?
+Using an environment variable name as function argument
+How can I make a search in vimscript let n and N look for more?
+Plugin nnoremap insert <CR> instead of executing command
+Using Vim Diff To Create A Patch File?
+specifying a recovery file in nvi
+Gvim <C-]> not working with azerty keyboard
+Is it possible to write .nvimrc for NeoVim in Lua?
+How can I navigate to a class interface?
+How to enter insert mode when entering neovim terminal pane?
+Buftype=nofile when switching buffers with :Vexplore
+Auto-format: wrapping later in line when inserting text
+change working directory to current opened file
+Insert a pattern before another one
+Gvim how to open several files in different buffers from MS Windows explorer
+How to simply remove braces
+How can I interact with a SQLite or MySQL database?
+Copy the full path of current buffer to clipboard
+Is there a way to reliably go back and forth in file history
+Cannot open an url (empty buffer)
+How can I switch to filetype=txt when entering insert mode for Vim help files?
+Is there a command to enter Visual Block mode?
+Filetype changes when using :split and :Explore
+<C-v> <C-i> not working to print literal tab!
+solarized in xterm256(terminal.app) has wrong background
+How can I prevent plugins from overwriting my key mappings?
+How do I avoid exiting vim to open a new file?
+Open help windows in new buffer instead of split windows
+How to resize vim on Windows 7?
+Why do I get a missing quote error when using the following in a mapping using execute and normal?
+Is it possible to get tag navigation that works with RequireJS?
+Swap the position of two windows
+How can I make vim stop splitting my words into chunks?
+How can I work with splits in Vim without Ctrl-W?
+Environment Variable for Personal Runtime Path? (~/.vim on *nix, ~/vimfiles on win32)
+Vimscript: Help with Autoloading, Scope & <SID>
+Toggle bold highlighting for comments in term/GUI
+How do I count the words in a part of a file, without leaving vim?
+How do I open a file from another git branch?
+Terminal in Mac OS X Yosemite gets messed up after exiting vim
+How do I generate Vim documentation from Markdown notes or inline comments, or are there better ways to add documentation?
+syntax highlight for whole line
+Change cursor shape in different terminals
+Vim - Dotfiles - Vundle not recognized
+Togglebg from solarized changes to incorrect colorscheme
+How can I check if Vim is 32 bit or 64 bit? (On Linux!)
+How to safely 'override' existing syntax highlighting file?
+Can Vim add to the X11 clipboard or primary buffers without an external utility?
+How to return to netrw from a file
+Rectangular regions as text objects?
+Is there a way to add handlebars to html.vim?
+Is there a way to push existing text left while inserting (e.g., insert right-aligned text)?
+Don't close regular + help window at once, reset a variable on keypress
+Disable command bar completion list
+Open multiple files in new tabs as read only
+Disabling Automatic Latex Plugin (ATP) mappings
+Is there a motion similar to a" that never includes leading whitespace?
+Apply a command to each occurrence of a pattern in a range
+Why does the vim-jedi popup have weird line wrapping?
+Defining a custom rgb map for creating a color scheme?
+How do you run a command in VIM that outputs at cursor?
+Define word boundaries
+CursorColumn isn't a continuous line anymore when wordwrap is on
+Vimscript insert after cursor
+How to Autocomplete CSS class names that include a minus character?
+How do I reorder open tabs?
+Is there a best practice to fold a vimrc file
+How does one append to the clipboard register in vim?
+How does one change the name of the clipboard register?
+How to change the directory to save a file
+vimscript documentation header @tag reference?
+How to find non duplicate <type:keywords> of a file?
+Why doesn't vimscript provide a random number generator?
+Does Vimscript have an official name?
+When I press ctrl-p and autocomplete a word, is there a way to immediately jump into normal mode by pressing escape without canceling the selection?
+Go to X bytes from here
+Plugin for on-the-fly # => evaluation
+How to get the current byte offset in whole file
+VimDiff incorrectly showing all lines as changed
+Split: automatically load corresponding file
+Prevent refresh of screen until function completes
+Hand Placement for Vim Navigation
+Undo <CR> in insert mode
+Is there a source for pre-built patched Win32/Win64 vims?
+Delete all of a file except for certain words that contain certain letters
+Number pad not working with vi and Putty?
+How to insert a newline without leaving normal mode
+Duplicate tab with windows
+Change default syntax highlighting scheme
+How to map two commands with only one key
+Why are new lines being added automatically when I insert backticks?
+Get percentage through file of displayed window
+How to label tmux tabs with the name of the file edited in vim?
+Execute shell command in new buffer without switching to it
+How to remap <C-[> on linux
+Mvimdiff launches with vertical split on far right
+Cut line, trim it and then paste it on another line
+Forcing bracket to go under cursor
+Vim scroll window like in less pager (with single key)?
+Run bash command on writing a file with a particular extension?
+Is it possible to use a delegate or to pass a function as argument in Vimscript?
+How to create intermediate directories with :w automatically?
+Multiple search-replace operations on a selection
+column-wise f, F, t, T
+cannot install NerdTree pluging with Vundle
+How to Contribute to Vim?
+Syntastic doesn't find C header files despite Configuring
+Filename Completion for Remote Files
+Vim is polluting clipboard with netrw_dirhist stuff
+Open a file at the given line using the colon notation
+navigate within nerdtree
+Deleting In Vim and Then Pasting Without new Line
+Error characters in vimrc function
+Mapping <C-m> also creates a mapping for <CR>
+change color of section dynamically in vimscript
+timeoutlen breaks <leader> and vim-commentary
+Why don't my custom snippets under ~/.vim/snippets/ directory work?
+Understanding line reference differences through :g/^/norm and through :%norm
+Is there a way to AND events in the autocmd?
+How to trigger file type specific settings after they they have been executed in vimrc?
+Why are <tab> characters variable width?
+Can I repeat the last UI command?
+Alternatives to vimrc for Vim-LaTeX while Sourceforge is down
+Git mergetool vimdiff command
+Move cursor by percentage
+Ignore URLs and email addresses in spell file
+How can I spell check an entire buffer?
+How to make vim to automatically break lines in markdown files?
+Copy a word in macro without using a register
+jedi-vim and vim-latex buffers problems?
+Read file from vimscript variable
+Include symbols in <cword>
+Can't yank into * or + registers
+unable to compile vim with perl support on linux
+Jump to the definition in a scss file
+Why are new lines under commented lines automatically commented too?
+Old source code files display unexpected characters
+How to start vimdiff in Vertical mode?
+Undo certain modifications
+Keeping personal vimrc and syntax files etc in source control?
+Set a mark to its previous value
+why can't I map <Space> to <C>?
+Is there any point in using C-u in an nmap?
+Why does `set nocompatible` result in vim saving extra, all-numeric temporary files?
+Error while processing .vimrc in vagrant when I run `git commit -v`
+vimrc contents selectively (i.e. highlight) ignored
+Why does ':bufdo set fo=*' change window contents?
+Vim ErrorFormat question for Gradle compiler plugin
+How to search for pattern in certain syntax regions?
+Visual select single column from cursor to last line with text in column
+case-sensitive * with ignorecase on
+Is there an easy way to close a scratch buffer/preview window?
+how to map usual key in insert mode?
+Mapping to get last make command and execute it again
+How to disable Ctrl key
+Make: Nothing to be done for 'build'
+:'<,'> Vs :'>,'>, what do these range arrows in vi visual mode mean?
+Color change in the middle of #define
+Get the length of the current status line
+How to enable autocomplete for my rails functions
+Why typing `alt + 3` exits insert mode?
+How can I be sure a digraph is not defined by Vim?
+How to bind a set of buffers to a tab?
+How can I conditionally include a syntax file from another syntax file?
+No Vim, I don't want to save changes to a directory
+how to avoid highlighting when block commenting
+How to shorten the result of `ls` to get only the file name and not the whole path?
+Can't seem to syntax-highlight a pattern beginning with a tab
+Visual block - actions like in normal mode (jump to/find character)
+Learning Vim after vimtutor
+Regex in Vi: How does one use character classes inside groups? (e.g. [\s\w])
+Aditional SQLite syntax highlighting in VIM
+How to enable/disable an augroup on the fly?
+Vim 7.4 autoread no longer detects change of file permissions
+Compilation terminal output
+What happens when mapping <s-c>?
+How to create a function with persistent output in the bottom of window?
+Calculating with python and appending result to file or register
+Run global substitute for each match of a regex, with increment
+How to indent as spaces instead of tab?
+Editing files containing Devanagari script
+Can I join lines with a comma (or another character)?
+How can I use the `global` command to prepend 'document headers' to 'document lines'?
+Escape sequences from external commands cluttering output in GVim
+change meaning of "paragraph" for TeX input?
+Selecting text in more than one column without selecting both lines?
+Molokai colors off in terminal
+Grok Vim motions and simple edits
+Autocompletion Plugin for vimscript?
+matchadd makes vim slow with large files
+How to delete line above/below cursor, but not current line?
+Specify Makefile
+Difference between two end of line signs
+How do I prevent MacVim from automatically starting Terminal.app on OSX 10.10?
+Keep buffer current without manual refresh?
+To print with search results highlighted
+How do I change directory for UltiSnips snippets
+Relative Numbers sidepanel with wrapped lines
+Why can't I execute write command on all buffers with :bufdo?
+Breaks line without leaving insert mode
+Is it possible to get the height of the buffer *including* word wrap?
+How to express "There is a specified symbol in the following unknown numbers of characters" in regex?
+Using digraph mode to insert special key codes
+Is it possible to add inline comments in a multiline statement?
+Use ISO Level3/5 as modifier in vim keymap?
+Why does my colorscheme look different when I run vim with sudo?
+Highlight python raw strings as regular expression
+How to detect whether swp files contain unsaved changes?
+Original column number in a mapped function called with a count
+What is `softtabstop` used for?
+How to specify a vim flag in the vimrc
+What is the difference between j, CTRL-J, <NL> and CTRL-N in normal mode?
+Vim "gq" command doesn't recognize Haskell-style comments
+How do I prevent resizing of particular buffer?
+What determines if a key stroke is waited indefinitely or if it times out?
+How to open multiple files except some files
+How do I prevent Vim from loading plugins on older configurations?
+Opening built-in cheat sheet
+Triggering UltiSnips in command-line mode
+Calling function to insert text with inoremap
+What does it mean to buflist netrw buffer?
+Delete text after match in Ex?
+How can I prevent the default loading of ftplugin/text.vim for certain *.txt files
+How can I run a function once after the buffer has been completely loaded?
+How can I map Alt-< or Alt->
+How to replace two-line match with its first backreference pattern?
+Show only every n relative line number
+Can I map a Ctrl + upper-case letter separately from Ctrl + lower-case letter?
+Why `NERDTree` doesn't trigger the autocommand `BufEnter`?
+What does Special Comment refer to in reference to a colorscheme?
+how to map # to , when , is my leader
+Change vimtutor language
+Improve macro replay speed?
+Show listchars tab as spaces
+Is it possible to get the matched string after calling :search()
+Multiple cursors at desired location
+How to check with Vimscript whether python support is enabled?
+"set hidden" leaves many *empty* buffers. Can I automatically get rid of them?
+Why can't I tab complete after open?
+How to skip over indentation whitespace with horizontal motion?
+Can I detect whether current vim instance is launched by git?
+How can I quickly convert a Vim help tag to a vimhelp.appspot.com link?
+NetRW bug? : vim scp://host1/filepath scp://host2/otherfilepath only opens first file
+Motion key for next highlighted item?
+What's the difference between the "clipboard" and "xterm_clipboard" features?
+How to make mappings that yank text without overwriting the global registers
+How to generate patterns for comments?
+How to add '.' to autocomplete suggestions in vim-latexsuite?
+How can I yank two matches of regex group into two different registers?
+Difference between smart_close_popup() and cancel_popup() in neocomplete?
+Is it possible for a :map to insert text without fold-closing the inserted text AND leaving the other folds as they are?
+Visual block. Some right-end selections seem impossible
+Creating a Vim function mapping that takes a count
+How can I configure a three-piece comment?
+How to search forward for pattern in the current line? Like `/` and `?` but stop at end of line
+Is vim suitable for professional development inside a company?
+Can't get Ctags working
+Is there a way to tab through fields and values in a JSON file in VIM?
+Highlighted undo in Vim
+Mapping to "bh" causes cursor to be trapped in first column
+How to append a random number between a range [1,10] at the end of each line in vim
+Using Vim to syntax check some text
+Search and replace in vimscript using a range?
+What is "open mode" and why is it in Vi but not in Vim?
+Use vi/vim from shell to filter / format text
+`normal` does not seem to allow automatic indentation
+Can I do array destructuring in VimL?
+Finding out what number occurance of a matching pattern is under your cursor?
+Spacing appears in Vim Airline on right side
+Execute normal command over range
+Remove left bar in vim
+async_job patch in Kaoryia's gVim (windows)
+Filtering text out to new tab with custom command
+nnoremap is not working with `[v`]
+how to replace all space with "_" for the first quoted string
+One-handed Vim utilisation
+Reopen splits after closing them with <C-w>o
+Sorting a list in the buffer?
+Linking the vsplit views of two different buffers?
+Is it safe to do other stuff on a system while a macro runs?
+How to prevent vim from creating (and leaving) temporary files over webdav?
+How can I make Vim open help in a vertical split?

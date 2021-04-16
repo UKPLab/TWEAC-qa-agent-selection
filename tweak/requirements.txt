@@ -1,0 +1,6 @@
+tqdm>=4.32.1
+transformers>=4.1.1
+pandas>=0.24.2
+numpy>=1.19.3
+torch>=1.6.0
+PyYAML>=5.4.1

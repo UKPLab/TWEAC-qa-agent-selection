@@ -1,0 +1,2061 @@
+How do I automate deployments with Kubernetes?
+Jenkins - sending email after build with the build version as a subject
+If a piece of work requires manual testing/QA, do we need to wait until opening PR?
+Application monitoring in multiple EC2 instances
+Windows Service installation on Docker Container
+Best practices on how to erase everything in destination deployment folder and restart the app after deployment using Appveyor
+Configuration of circuit breaker on Traefik
+List encrypted RDS snapshots using CLI
+docker as slave for jenkins
+Why to overrule role vars?
+What are the signs of an understaffed DevOps team?
+API gateway and service discovery on Amazon AWS
+What is DevOps?
+docker container for running automation scripts using jenkins
+Should I use filebeat or an app-logging module with lumberjack capabilities to collect my logs
+Suspend autoscaling processes through Cloudformation template
+Real-World Validating the Integrity of a Docker Container
+Compare Strings to get Unique values in Jinja2
+Pause/Suspend guest in KVM without virsh and libvirtd
+Is it possible to run every testing.xml file with different jenkins job?
+AllowedPattern for emails in Cloudformation template
+How to set a Git repository when creating a job in Jenkins from a Groovy script?
+pre-DevOps deployment metrics challenge
+Multiple job plugin running job multiple time - Jenkins
+How to use Vagrant and Docker-for-Windows on a Hyper-V system?
+How can I pipe jq output
+Trigger a Build in VSTS
+How to add ECS attributes to an instance using terraform
+Is it possible to use a JenkinsFile in one repo to build and deploy a related repo?
+ELK - micro service and network latency monitoring
+Where is the modules folder under filebeat to configure as a slave?
+Networking between Docker containers
+How to move the "All" tab to the right in Jenkins?
+Is it possible to show a code coverage badge in bitbucket repositories?
+How do I get Kubernetes to work when I get an error "the server could not find the requested resource"?
+Meaning of metrics in Google Cloud Console
+How to run Ansible with sudo no password commands with become syntax
+Why are unnamed volumes created when `docker-compose up` is run and do these double after issuing `docker-compose down && docker-compose up`?
+Discovering extra args needed for running ansible playbooks
+Execute multiple Ansible tasks with the same list of items
+Why is environment variable mangled in docker compose environment file
+Software Security Testing in a DevSecOps Pipeline
+Configuration for reverse proxies in a local Docker/Apache/PHP environment
+Had to point localhost to remote ip for docker-compose to work. why?
+Can you replicate Active Directory from a Corporate Intranet to an AWS VPC where there is an outbound-only link?
+Custom Layer 4 Load Balancer
+Continuous Integration and Isolated Feature Testing
+How to send sms to a phone number using aws sns cli?
+how is software defined infrastructure related to devops?
+Is it possible to create AWS CloudWatch Metric Filters with dimensions?
+Creating an effective pipeline for deploying branded IOS apps
+Tool to collect developer environment parameters
+What should I use for configuration management on AWS?
+Run docker inside a VirtualBox of Windows Server 2016 (GUI) on Mac OS
+Is it better to perform delayed jobs using queues or at app level?
+How to organize infrastructure as code projects?
+Vagrant box take long time to access shared /vagrant folder
+AWS CloudWatch Logs Publisher plugin hangs on job completion
+Passing in a file with configuration
+Chef (well, Test Kitchen) hanging when using local cookbook
+Best practices for CI for embedded platforms (ESP32/Arduino)
+How should we automatically rebuild immutable infrastructure when new packages are available?
+Reflect GitLab repo changes in VSTS code
+Is icmp blocked at travis-ci?
+How to automate unit testing a UWP app?
+What is the major difference between continuous delivery and continuous deployment
+Deployment custom App in Microsoft Teams
+"DevOps Engineer is a sysadmin with more insight"?
+create resource name based on terraform.workspace
+What is difference between release and deployment?
+Ensure a line is uncommented in an XML file using ansible
+How to properly achieve dynamic parallel action with a declarative pipeline?
+What's missing from this simple recipe that creates a user?
+How can a Windows server be a slave to Jenkins running on Linux when there in an error installing the slave-agent.jnlp file?
+Apache container cant access php files mounted in /var/www/ - 403 error
+Should worker processes of web applications be placed in separate containers?
+How to automatically publish git releases/comments to the site?
+Migrate Rancher host from server to server
+Install Java 9 headless on Docker/Ubuntu - Java 8 EOL - ppa:webupd8team/java package not up to date
+Security practice for storing private keys for use by Java Applications
+How do I upload my zipped lambda code into AWS Lambda?
+What is the AWS user permission that allows attaching and detaching IAM Roles to instances?
+How to safe restart Jenkins?
+How to track (non ECS) container costs on EC2?
+Which server to set up for distribution of windows based application updates, patches and upgrades?
+Issue integrating acunetix with jenkins
+difference between packer and matchbox
+Docker on Development Workstations
+Creating ansible host_vars and group_vars files dynamically
+SaltStack Reactor fails with exception
+How to copy files recursively to a Kubernetes pod?
+How can I build & maintain a personal, cross-platform 'toolkit' of commonly used applications?
+How can integration tests for micro services be written?
+What's difference between on-premise and SaaS?
+How can secrets be distributed in a docker swarm?
+Does terraform support blue green deployments and roll backs out of the box
+Test coverage of changed code in pull requests in git-tfs
+Enabling CSRF Protection prevents editing/adding parameters to jobs - intentional or bug?
+The right way to Ansiblically deploy environments directly from Github:
+Is JS an reasonable choice for a DevOps internal tool (i.e. cloud-formation runner, scripts)?
+Is it possible to set a minimum Python version in Pygradle?
+Is it possible to define a minimum code coverage using Pygradle?
+How to install Certbot via Ansible playbook?
+What is the difference between Tasksel and CMTs like Ansible/Salt/Puppet/Chef?
+Is it possible to securely delete a file from a virtual disk in a cloud provider?
+terraform chef provisioning - cannot validate certificate for 10.90.239.223 because it doesn't contain any IP SANs
+COPY and ZIP files in Dockerfile
+Traefik configuration issue with local proxy
+Scaling replication controllers via API in Kubernetes
+What is the difference between modules and workspaces in Terraform
+Does QA in DevOps roles means CI/CD or more?
+Automated Docker swarm reinitialization and token distribution
+Time series data stores in CI context - meaning?
+From Java Developer to DevOps and will devops die?
+Can jenkins control baremetal with ipmi
+Why can I build this image from Docker for Mac but not on Docker CE for Ubuntu?
+OpenShift configuration management
+What is the best Windows Infrastructure to run Adobe After Effects like AWS Lambda?
+Is zipping a file supposed to happen in Jenkins or on Nexus?
+simulate SQL DB usage pattern of a typical cloud native web app with sysbench?
+Creating a cron job with Ansible (ERROR! 'cron' is not a valid attribute for a Play)
+Can we use Microsoft WSUS server to distribute non-Microsoft product updates?
+How to create custom AWS CloudWatch metric for i-node
+How much it will cost for AWS for deploying a inventory management application
+Compatibility of http-builder-ng Groovy module with Jenkins 2
+Do I use Filebeat, Ingest or Pipelines to get rid of Logstash in my ELK stack?
+How to connect to a docker container?
+Can Ansible alone be a complete CI-CD tool?
+Git Repository Manager conditionally deny pull request
+Validating custom Jenkinsfile
+Ansible communication medium
+Escaping curly braces in Bamboo
+Measure service unavailability during upgrade
+Strategy for deploying/hosting javascript-based static websites in containers
+Should compilers be kept in artifactory?
+Nginx reverse proxy setup issues with Docker containers
+How to get the latest Tomcat version?
+Github commit message when deploying to aws beanstalk in Jenkins
+How to run a script or a command on EC2 instance via AWS CLI?
+Is it difficult to convert grok patterns with logstash to ElasticSearch's ingest pipelines?
+How to track unused resources in AWS?
+Ansible does not create directories CentOS7
+How to populate docker volumes in a build step to be used by a different container
+Central repository hosting various binaries/applications for different platforms/architectures
+Have Jenkins trigger GitlabCI
+Where to put ansible-vault password
+Modelling economic value of risk-reduction DevOPs efforts
+How to start a VPN connection using Jenkins?
+What is the meaning of source artifacts that must be in a scripted form?
+How to list security groups for the specific instance via CLI?
+How to get instance's route table id using CLI?
+Powershell script in jenkins is hanging
+Ensure that reactor worked out and see the result of execution state in SaltStack
+Fastlane Screenshots with Authentication
+Problem with Anaconda installation
+Change Ansible module based on variable or group
+What git command could be used to check when a remote branch was created?
+How to write Apache airflow dag for file watcher
+From a security perspective, to which location should one copy an app inside a docker image?
+How to deal with docker compose's naming convention of named volumes
+Coupling docker registry and source control
+In the HashiCorp stack, where's the appropriate place to add users?
+One Checkout When Running Parallel Stages In Jenkins
+Monitoring immutable infrastructure virtual machines
+How can I easily convert logstash filters with grok to ingest pipelines?
+Terraform: Delay the MySQL Provider
+What is the biggest Docker image on Docker Hub and how to find it?
+Docker Compose V3 app container can't access couchdb container
+Installing Packages from a 3rd Party Repository with FAI
+Create multiple EC2 instances using python script (in loop iteration)
+How to determine actual cost of specific spot instance
+Actions Performed During FAI Repository Task Do Not Persist
+Why Run Concourse CI in Kubernetes
+Update production server (apache, wordpress, mysql) on docker containers, from staging server
+What are the security risks of CD in an open source project?
+Sharing mounted EFS from Linux EC2 to Windows has terrible performance
+How to avoid output being truncated when running AWS SSM command?
+How to get the latest stable version of Firefox?
+Docker image delivery lead time SLA
+PTC with Jenkins on Deployment based on the Build request which raised on PTC
+Dockerized Flask: Connection reset by peer
+Is a decentralized Docker swarm possible?
+How to avoid branchageddon with large organisations?
+Parallelising Packer with Ansible
+How to create Chef Package for Redhat. I have 2 rpms agents and 2 yaml files
+How to disable some branches in Multibranch Jenkins Builds?
+Is it possible to load balance TLS/SSL based logstash communication to elasticsearch?
+How can I get terraforms extern to execute `ssh-keygen -y -f ~/.ssh/id_rsa`?
+What is the proper term for lead time from commit to deployment?
+How to deploy with AWS CodePipeline a multicontainer docker environment without dockerfile
+Setting ECS Environment Variables per Serivce
+Ansible Remote provisioning not working in Docker container build
+Error when using 'ansible-local' provisioner with Docker container
+Personalize Jenkins job view per user
+Multiple Kafka brokers behind a single OpenShift service?
+Permission errors with non-root USER when running on Linux
+How to export EC2 snapshot into S3 bucket?
+Multi jobs over local (IntelliJ) and Jenkins
+How to access ephemeral storage of EC2 instance?
+Using Jenkins to control docker image build flow
+Trigger Jenkins job from Gitlab CI with parameters
+Does Oracle have an API that shows the latest stable JDK version?
+how to control pod termination speed in kubernetes
+Switching between blue / green services in Kubernetes using UI page
+Handle OS and Software maintenance/updates on Hardware distributed to Customers
+Does somebody have personal experience with integrating Rundeck with Active Directory and can recommend a guide that actually works?
+AWS Batch use existing ECS cluster
+Utilizing telnet with Ansible
+Automated patching of docker images
+how to integrate docker-compose or docker run command arguments into SCM and Jenkins build
+How can I clean/delete a Jenkins workspace after merge?
+In a modern IaaS microservice based system is Zookeeper still a useful tool?
+Mitigating Maven Central risks as seen from the DevSecOps perspective
+Count of currently active jenkins agents
+Docker for Windows - How to increase verbosity when doing a `docker build`
+How to define constants in Ansible?
+What are Pros and Cons of various VCS and CI/CD tools to store, change and deploy configuration snippets of more than 1000 customers in a VCS?
+Persistent data in MySQL with Docker
+How do I provision a Windows Docker container with Ansible?
+How should GCP projects be organized?
+How good are heartbeat, elasticsearch and kibana as a monitoring/alerting solution as a replacement for Nagios?
+What can explain ElasticSearch 2.4 not accepting to create watchers via curl?
+In ansible how to select specific tasks in a role according to the playbook or a more general parameter?
+Logging ansible crons in kibana
+Minikube - Is there a way to run Windows Containers?
+How to copy a file locally to remote pod before it starts?
+How to apply DRY to k8s files?
+What are Design Patterns for creating images?
+What are off-the-shelf options for creating a microservice that consults a REST interface and shows the outcome in a graph?
+Why does Helm time out on almost every action?
+trigger command on registry update
+Reference DevOps process implementation in Maven or Gradle containing working examples for acceptance testing
+What is the impact of using Helm Deployments instead of StatefulSets for Databases like MongoDB or MySQL?
+Does HA-git exist?
+How to avoid code duplication in bitbucket-pipelines?
+Microservices terminology i.e. distinguishing between "core " and "other service instances"
+Is it a common practice to include the version of an API into the rest interface itself?
+How to deploy applications to k8s using bitbucket pipelines?
+How to login to k8s proxy nowadays?
+How to pass the version to docker-compose?
+How to get the ip range of github-production-release-asset-2e65be.s3.amazonaws.com?
+How to solve `no live upstreams while connecting to upstream` when trying to rproxy jenkins using jwilder/nginx?
+Windows Docker in swarm with Linux nodes connection issue
+Launch jenkins agent from jenkins job?
+Robocopy is Running Slowly on Jenkins Server
+How to find interdependencies between pods in a Kubernetes cluster?
+What is a suitable strategy for provisioning Chef Server through code?
+What's the best way to restrict an environment to a specific CDN?
+What does applying maxSeries to a single metric mean?
+Bamboo Group Deploy Projects
+HashiCorp Vault as a Password Manager
+AWS Security group rule for certbot renewal
+Conditionally run certbot
+How to dimmension VMWare VM linux servers to run kubernetes container clusters?
+How to add shards to a Redis cluster managed by Terraform without loosing all state?
+Connect to Container over local network from iPad to Windows 10
+Creating a buildspec inside the buildproject itself
+Ansible Expect Module hung on attempting a simulated return keystroke
+Installing Ansible Controllers to build agents which best practice to use?
+How to restore default Jenkins plugins?
+How do you simulate "sudo su <user>" in Ansible?
+Understanding Docker swarm networking and ports accessibility on the host
+Does Immutable Servers imply no source code updates on the servers?
+Build Design - Docker vs Fedora's Mock
+Docker MongoDB image - How to specify credentials other than in the compose file?
+Error starting cloned VM in Vsphere Client
+How to create a docker registry secret without passing the password on the command line?
+What are trusted providers that offer wildcard certificates and associated costs to be used in an Orchestration Platform like Kubernetes?
+Unable to run AWS CLI commands from Rundeck-No module named botocore.session
+Can you use DTR and UCP with Docker EE basic?
+CloudWatch trigger for a range of GuardDuty severities
+Should I build my own pipeline or use GitLab for Kubernetes?
+Is it possible to load an image into S3 via a URL
+VPN container providing access to host's LAN?
+Expose kubernetes deployment on master's IP
+salt-stack: capture group for regex include_pat
+Continuous delivery workflow: Build script for PHP Composer (Drupal) on Docker
+Docker Swarm Service Health Check?
+Get changes of the parameterized pipeline on the fly in Jenkins
+Deploy to server after merge to master branch
+Jenkins Kubernetes Plugin - How to keep containers for n minutes in Declarative Pipeline
+Is it required to move a domain to Google DNS in order to use certbot in kubernetes on Google Cloud platform?
+saltstack: archive.extracted template jinja
+Secrets management
+When your micro service in production needs a secret, where is the secret stored and retrieved from?
+How do you change a secret that half of your production applications use right now?
+How do you know which secrets and credentials of your production services were used, and by whom/what?
+What are reasons to prefer an ingress over using `expose` in k8s?
+How set and get var with Path?
+How do I get Openshift to let Tomcat retain it's hosted site's changes
+Automating creation of new VM and pushing code to server
+Bugzilla 4.2 to 5.0.4 'Can't locate parent.pm in @INC'
+Build isolation - Docker container based builds in Bamboo 6.4.0
+Is there a way to run the Jenkinsfile from command line?
+Amazon AWS - Amazon Connect IAM policies
+Ansible Expect module times out; unable to end play or move to another module
+Docker swarm replica stays 0/1 and service stays in status new
+Azure - Connection String in Key Vault vs Application Settings
+Is it possible to keep all the DSC configurations in Version Control and make Azure Automation fetch it from there automatically?
+Multiple builds from one branch but different CSS values
+Looking for a Desired State and Configuration as Code central configuration management framework
+Ansible translation: Installing Apache + Certbot in Ubuntu
+Docker & Django - what directory does localhost point to?
+Why flask is returning a default login page instead mine, custom one
+Gateway TimeoutError from server while accessing pods logs
+Jenkins Health Check URL
+Is there a standard pattern for doing flyway migrations on a kubernetes stack?
+WinRM / WSMan - getting SSL handshake error / TCP RST when connecting with IP address, correct connection when connecting with hostname
+Ansible ping hangs after one succesful ping
+Jenkins pipeline + Docker integration
+How to deploy Envoy EDS/SDS
+Why should you do port mapping for docker containers?
+Why won't InSpec admit that port 5432 is listening inside a PostgreSQL container?
+Jenkins returns 502 gateway error and (104: Connection reset by peer)
+Can I create an Azure VM from Ansible with NICs in different resource groups?
+sshagent and jenkinsfile
+Monitoring tool to microservices on Kubernetes
+How to automate rolling upgrades for ec2 running linux behind elastic and/or application load balancer?
+aws ecs jenkins on-demand agents not terminating after use
+How to implement Auto Review Apps on GitLab with Docker Compose and Swarm
+Jenkins, Jenkins SSH Plug-In, EC2, "ubuntu" user and "www-data"
+Automated Integration Testing of an API in Azure Functions using VSTS
+How to install Certbot plugins?
+How to explain the Twelve Factors to non techy people?
+Ansible Playbook Localhost Invocation Working Directory
+docker micro-service cannot connect to bitcoin docker
+How to use Jenkins Pipeline and choose triggers for email notifications?
+Docker managers are losing quorum on AWS
+How many builds does jenkins need to run before it has estimated times?
+docker-compose fails to recognize when images are rebuilt sometimes ... often same code is OK
+What are the best logging/metrics reporting tools for use with OpenShift?
+How can I push multiple containers, created with docker-compose, to a registry
+Should Jenkins apply round robin if nodes have the same label?
+Is Windows in general always slower than linux?
+Yaml linting failling when jinja is used
+Reverse Proxy and TCP Optimization Inside the Network
+How to tag source code using gitlabCI
+Determine the URL for a SCM trigger from inside the build
+Kubernetes create multiple jobs based on template and list
+Is there a reason not to use Bamboo to run repetitive tasks instead of cron?
+Local Prometheus and Grafana Installations to Monitor a Kubernetes Cluster
+How do I run Ansible Azure playbooks while avoiding storing credentials in files?
+Github plugin triggering to push event only for changes in specific branches
+AWS REST API Query
+How to find out the used Key pair name via AWS CLI?
+When is it ethically acceptable to fork someone else github code and continue with that?
+Build Breaker plugin on SonarQube version 7.0?
+What is the proper way to install ZooKeeper on Ubuntu 16.04 for both standalone and multi-node deployment?
+Git Files Encryption for Business
+Challenges of using AWS Lambda chain
+Consul with Nginx, not using docker
+consul throwing an error
+Apache Mesos - cases pro and contra containers?
+Ultimate docker permission solution
+use of nginx server_name
+One time/set up jobs on gitlab ci?
+How do I get dict key from ansible playbook variable?
+Is there a way to run with_items loops in parallel in Ansible?
+Do you need to install MySQL on Linux separately from MariaDB?
+Is it possible to connect Jenkins Groovy Pipelines with Artifactory?
+Jenkins declarative pipeline: use branch if it exist
+How effective is ELK than other Monitoring tools?
+How can we monitor internal or external webservices?
+Which volume solutions are the most convenient when building Docker & microservices based application?
+How do I make read only mount in Docker container writable?
+Who is responsible for running and maintaining shared services in DevOps
+How to bind ports for docker container in bitbucket pipelines?
+Making thousands of microservice/dockers with different IPs
+How can I make my clients (host) use my Squid proxy inside Docker container?
+How do I autostart Jenkins agent machines?
+Logstash multiple pipelines going into same index
+How can I become a DevOps Engineer?
+Why can I not run docker daemon?
+Encrypted at rest persistent volume in kubernetes?
+Does Jenkins support cloning git submodules with "git@" (not "https") URLs?
+Running Docker images as Jenkins slave
+Passing secrets to a Docker container
+Saving time on an EC2 instance
+Other tools to provision virtual machines
+How should we organize VSTS repositories?
+Limits of, or preconditions for of Blue-Green deployment?
+Is this a robust implementation of database encryption at rest?
+Open source microservice visualization
+Git Workflow with User Acceptance and Staging Environments
+Whitelist Travis CI to Google Cloud SQL
+How to implement DTAP in k8s?
+Do you use existing automation code (cookbooks/playbooks/dockerfiles/etc) or you write your own from scratch?
+What integration test framework has the best docker support?
+Linking VSTS build with jenkins artifacts
+How to handle item not in list in ansible variable?
+AWS CodePipeline staged deployments
+Jenkins Pipeline - input only if branch matches
+How to add rules to Kubernetes NGINX Ingress controller from different yml definitions?
+How to make fast JSON responses (or equivalent) between server app and front-end apps all running on OpenShift?
+Running additional commands on Docker image startup
+Does the Chef bash resource create history entries?
+Trigger jenkins pipeline job with Bitbucket hook
+Tool preferences for rapidly spinning up and spinning down k8s clusters
+Configuration of AWS CodePipeline for Android CI/CD
+How to avoid the flakyness that comes with "gpg --recv-key"?
+Apply resilience-testing in a company (to promote DevOps)? If true, why, how and what effect does it have on the Engineers? If false, why not?
+What are fetching DevOps analogies?
+What does "Does not have minimum availability" in k8s mean?
+Deploy two independently hosted services in production at once without any downtime
+Storage gateway reset cache
+Issues with COPY when using multistage Dockerfile builds -- no such file or directory
+How Can I Easily View Build Artifacts From AWS CodePipeline / CodeBuild?
+Terraform: ignore_changes conditionally? (temporary EC2 instance public IP address)
+What is the preferred method of using feature flags in Flask?
+Best way to isolate programming projects?
+Deploying a SaaS solution which is custom for every customer
+Does Docker on MacOS support tmpfs?
+How to pull a docker image from a private docker registry using Helm?
+How do I replicate a Jenkins setup via automation?
+Understanding DevOps opponents on stakeholder level beyond typical examples
+What topics should at least be included in a Java for DevOps course?
+How to move disk image in the command line?
+GitLab Runner is using its Docker host's hostname as Git server FQDN/hostname
+Container to Obfuscate
+How to set an existing IAM role to a new instance while spinning in terraform?
+Trigger downstream pipeline job via generated variable in upstream freestyle job
+Why screen folder in /var/run disappears in Docker container after running Ansible playbook?
+Enabling Github webhooks for multibranch jobs?
+What do you need for a monorepo for a large codebase?
+Can not find save handler 'redis' - session startup failed - for PHP
+Rancher & gitlab-runner - is there a way to get the gitlab-runner to tell Rancher to start the CI test environment instead?
+Is this an appropriate architecture, or can improvements be made?
+Cannot Change Docker Size on Ubuntu 16.04
+How to notate ipv6 addresses in inventory file?
+Managing Security in an S3 Data Lake
+Bintray returns empty list as result of attribute search
+Is there a common name for describing "spans" of versions?
+Kubectl: the server doesn't have a resource type "cronjobs"
+does boto3 have a way to get resource limits from a region?
+docker-compose local variable declare and use
+What is the term for a deployment designed to make a future cutover seamless (not blue/green)?
+Is it possible to set up Microsoft Sql Server in a scalable way?
+Teamcity web-interface does not work
+Pros and cons of different deploy strategies
+Error while trying to run docker redis image on Alpine Linux 3.7.0
+Issue with parametrized pipelines during deployment by seed job
+CI/CD free for hobby side projects. Jenkins on Heroku as alternative, with ephemeral dyno
+Cannot connect to server running on host from Dockerfile / image build
+Docker swarm custom scheduler
+How to change Xmx settings for sonar runner?
+How to avoid running on the same docker swarm node when healthcheck fails x times
+Did somebody manage to activate IAP for k8s successfully?
+What are best practices for securing connections between CI and artifact managers in the cloud?
+jenkins - gitparam jobdsl - branchFilter
+Specify default arguments for Ansible playbook
+after automatic update jenkins fails with `InvalidBuildsDir: .../${ITEM_FULL_NAME}/builds does not resolve to an absolute path`
+Continuous integration azure slow or fails
+Azure Equivalent for CodeDeploy
+Infrastructure Stability Report
+Any tools available for rollout planning / checklist
+Scanning fs in a Docker container is (much) slower than on host?
+Ansible Jinja template if statement
+Jenkins Artifactory Integration - Custom Maven plugin creating dynamic version/build
+How do I achieve Continuous Integration and Continuous Delivery (Ci-Cd) via JMeter?
+Cross Region Copy of Aurora Snapshots
+problems running Ansible with become on domain-connected Windows Server
+Dependency vulnerability scanner for Conda?
+Docker Swarm join-token not working
+Join a Linux Docker swarm with a local Windows Docker for test purposes
+Java ReST service running on docker but not accessible
+Run JMeter Test in Jenkins with Parameters
+Jenkin - Monorepository build only changed folder
+How can I convert a production Linux server into a docker Image or container?
+DevOps SOX Compliance
+What Golang function could be used to enforce a minimum code coverage and return an Exit1 if false?
+How can I restrict puppet to run in particular time slot
+Customizing deploy key and ssh wrapper path for git cloning through application_git cookbook
+Where should we keep application properties file while doing build promotion using Jenkins?
+Change owner of files created inside a Docker container without changing the Dockerfile
+Install Kubernetes using kops.I'm not able to connect to master api server
+Ansible playbook to ensure Ruby gems are installed
+Connect LAN Network to VPN with PiVPN
+Database choice suggestion
+Amazon Web Service (AWS): Spot request active followed by cancelled terminating
+Docker container is losing network connectivity regularly
+what do you think of making fast decisions?
+What are best practices for sharing Docker compose files with ops team to use in Docker stack
+Jenkins Github Organization Metrics
+Halt execution of Bamboo build or deploy, without throwing an exception
+Single Page Apps and DevOps Pipeline?
+ansible tower_project module, always getting "ansible-tower-cli required for this module"
+Way to Connect to all ec2-instances one by one
+How to test whether a variable exists in the declarative pipeline
+What's a good devops approach for a single developer writing python web applications?
+Help! No development infrastructure in company! I've been tasked to implement it!
+JenkinsX first installation with Google Cloud
+Adding a persistent volume to a Kubernetes deployment from Gitlab Auto Dev-ops
+Integration Kubernetes with rancher?
+Options to assign a static ip to a service running in docker swarm
+Docker Swarm loop
+Email notifications to Business approvers
+Pod object and Pod’s health
+How to deal with authority bias?
+CI environment being annoyed by DNS system
+How to Remove a Kubernetes (GKE) Cluster node-pool without down-time
+Code coverage versus functional coverage
+Automated Install of PADS (Mentor Graphics) with Software Center
+What are the expected effects of the acquisition of GitHub by Microsoft?
+Health monitoring of web pages without using GET check
+How to properly automate CM based on log events?
+Copying a file with special character & spaces
+Jenkins: make a credential available to all users
+Ansible not able to connect to Ubuntu server/container (Error: Permission denied)
+Terraform: apply only one tf file
+How not to break Jenkins Pipeline when adding new parameters (declarative pipeline)
+kubernetes cluster node with 4cpu can't hold two pods with 2cpu
+Terraform Issue - Can't find Data Source in Sub Module?
+Tools for provisioning windows testing environment on Hyper-V
+How does jenkins publish over ssh store passphrases?
+Heroku Slack integration without using Github
+Is there an idiomatic way to create reusable Packer templates?
+How can I simulate failure of an AWS Availability Zone?
+Jenkins fails to start after a restart with "hudson.util.HudsonFailedToLoad: org.jvnet.hudson.reactor.ReactorException"
+Terraform AWS AZ error - manually specify AZ?
+Chef username/passwords best practice for multiple nodes
+Does building a Docker image require the Docker daemon to be running?
+What is a good storage for storing performance results and visualizing in grafana
+Trigger a job and get the job log on the same page in Jenkins
+Monitor Jenkins node/slave health
+Ansible service module running state utility
+Cheapest and easiest way to run a periodic Docker process
+How to revert the Jenkins setup if plugin/Jenkins updates went wrong.
+Original Helm chart gone - how can I find / get it from the cluster?
+What methods are available for connecting many-to-many containers?
+This server's certificate chain is incomplete
+Jenkins in Docker: How to manage project dependencies in an immutable server pattern implementation
+Saving core dumps when AWS restarts a docker container
+Triggering specific pipeline builds for monorepos in Jenkins
+Is there any relationship between "production engineering" and DevOps?
+Jenkins "internal" pipeline script producing errors when running sh steps
+Python Dictionary
+Ansible - Handler not found on first attempt
+Using docker-compose, what's the recommended way to handle different sets of containers for dev and prod?
+Diagnosing large delay in file sync to Docker for Mac
+Jenkins shows "No changes in any of the builds."
+Chefspec preventing cookbook upload syntax error with %w()
+Git repo setup for multiple dot net project
+Alternating VC branches to build deployment artifacts for different environments
+Trade offs of putting an international master database in us-west-2
+Passing a jenkins credential (global) to a python script
+Mysql with Kubernetes
+Problem Restore EF Core 2.1.1 in VSTS, Hosted VS2017
+Force Jenkins to reschedule parallel pipeline step as soon as node goes offline
+What package managers are supported on Microsoft hosted agents with CMake enabled?
+What tools should I deploy to support AWS for a Managed Services company?
+How to update frontend servers behind a load balancer
+Should I run CI on merge state or HEAD of branch in a PR?
+Make instance with newuser by terraform
+Preventing an IAM user from overriding launch template parameters on RunInstance
+What percentage of microservice architectures employ polyglot programming models?
+Stuck! using docker cloud from jenkins running on local osx docker
+Set user in aws
+docker volumes on cifs share cause permission disaster
+How do I run the InSpec using a wrapper profile?
+ChaosMonkey for k8s?
+Provisioning times for Redis in cloud taking too long, how can we shorten it?
+Planning a backup system using postgress, chef and vault
+Applying ansible playbook to a docker container on a remote host
+Handling request based on source ip with traefik in k8s
+Is artifact promotion in this pipeline correct?
+Teamcity - Conditional OctopusDeploy Create Release
+How to patch AssemblyInfo in TeamCity for .net core 2.1 projects?
+Docker tags for multi-stage builds for series of Docker images out of one Dockerfile
+Possibility of container breakout compared to VM (virtual machines)
+Hashicorp vault not writing out KV
+Dockerfile base image
+What's the best complete DevOps setup?
+Preparation Failed Error on Centos
+Helm/ YAML indentation issue
+Using IPTable to restrict traffic to a Docker container
+Processing message queues quickly without wasting money on AWS Lambda
+Kubernetes Continuous deployment stage in Gitlab Online fails
+cannot validate certificate for 127.0.0.1 because it doesn't contain any IP SANs | Vault
+Re-initialize etcd-cluster completely (on coreos)
+Merging Git Database Commits from One Branch to Another without Cherrypicking
+Advice needed - automate everything or only new/current projects
+jenkins fatal: ambiguous argument, unknown revision or path not in the working tree
+Jenkins hangs on Windows CMD build that has GUI
+How add Dependencies without DEP?
+Bad practice having a single SSH gateway with access to all environments?
+How to access report data from Sonarcloud.io aka SonarQube API, or functionality no more available?
+certbot renewal fails over ipv6
+Access vault secret from bash script
+404 Not Found when obtaining new certificates for nginx
+tomcat service fail to start due to length line limit
+Why unable to find the exact path for grains storage in master?
+Terraform resource definition for Azure App Service Environment
+Running a powershell script via Jenkins on a Linux host
+Internal network between container Docker Compose with outgoing connection
+How to create AWS application load balancer using saltstack
+Enabling Docker containers to connect to Internet from laptop while running only on WiFi
+Aggregating JUnit test results from multiple projects
+Using test kitchen from above directory
+ACM SSL certificate with Elastic Beanstalk
+How to change the owner of VOLUME directory in Dockerfile?
+How to debug a docker on web app for containers in Azure which does not start
+Why does amazon charge for free tier usage?
+AWS: Application vs Classic Load Balancer
+Jenkins Pipeline job - remember previous values
+VSTS deployment variable
+What is the most secure way to initially enter data into Hashicorp Vault?
+I have an custom AMI and want to run certain config commands at initial boot, depending on the autoscale instance that starts it. How do I do this?
+Jenkins Node Image at Kubernetes Plugin
+Multi platform test on Travis-CI using Docker
+Kubernetes Plugin on Jenkins - Is there a way to set the number of slave pods to maintain?
+Can a cross platform app be run as a container on both Linux and windows hosts?
+KATA vs NABLA Containers Isolation
+Is Azure's B-2 app service plan better than a S-1 for production environments?
+How to pass a /dev/disk device on macOS into Linux Docker?
+DevOps vs SRE vs Production Support Engineers
+How to deploy multiple dependent micro services
+DirectAdmin 2 users same folder
+Is Docker compose installation required everytime I start a new session on docker CLI
+Is running load balanced autoscale apps cheaper on AWS Kubernetes than just using EC2 resources?
+Docker hostnames are not resolved in a custom network
+In a Database Per Service model - should i include the database in the service container?
+How do I configure an AWS network load balancer with an A record in Cloudflare
+Should we name names in a blameless post-mortem/retrospective?
+Directory structure - how do I upload it as-is to an artifactory?
+Jenkins Job vs Jenkins Pipeline
+obtaining token to register a gitlab runner
+Amazon EKS from local kubectl does not cache MFA token/session
+AWS Security Group Creation Using AWS CLI
+Chef - Setting Unique Node Attributes
+pod to pod can not be reached through service clusterIP running in the same minion
+Git - Everyone Pushing to Same Branch in Different Files
+Are Route 53 DNS records aliasing ELBs guaranteed for their lifetime?
+Initialize database with data
+How to avoid an avalanche of images in Openshift when security patches keep coming in?
+Kubernets docker registry behind nginx-ingress
+MFA for Artifactory Cloud
+How to implement the Load Balancing in Openshift ?
+Where are dunder dictionaries stored in salt?
+Best Practices for a multi environment deployment using Jenkins
+Why don't the instances in the auto-scaling group get assigned public ip addresses unless it's a default vpc?
+How to update pods if version hasn't changed?
+What are the correct volume maps for zabbix running on Docker?
+What is the recommended way to monitor differences between multiple Kubernetes namespaces/clusters?
+Jenkins UUIDs ... oh the humanity
+Dedicated physical network interface to containers in an isolated way?
+CD (Continuous Deployment) best practices for managing configuration
+What is a virtual repository in JFrog Artifactory / Artifact Repository Manager?
+How to access Wordpress and AngularJs code in one url?
+Python API requests with OAuth_requests lib behind a corporate proxy
+How to optimize blue/green AWS deployments?
+How to write logs for certain tasks only?
+What is the Maven versioning strategy for Continuous Delivery or Deployment?
+Docker: strategy-advise for a rookie
+Continuous Deployment best practices for managing application configuration
+After deployment, one Rancher load balanced RESTful app instance returns 404 while other returns results
+Docker build not picking up built jar?
+Jenkins Pipeline Kubernetes Agent shared Volumes
+Software/devops engineer's personal dashboard recomendations
+Set container registry auth key via command line/env variable
+In Jenkins, how can parameters that contain spaces be referenced?
+Jenkins slave not able to find dotnet
+Modify sudoers file with ansible playbook template
+DNS hosting choices - how to programmatically update DNS settings
+Jenkins Pipeline GitLab API Credentials Management
+Docker won't create a bridge network without being given an explicit subnet
+How to use Jenkins to manage a repository from Github with a submodule from Bitbucket?
+Docker exec environment different to container shell
+AWS or Azure with usage auto shutdown occasional usage
+why can't map local path to docker's inside?
+System monitoring and reporting with Jenkins
+Jenkins Pipeline "Build when a change is pushed to GitLab"
+What is a glob in salt-stack?
+Configure AWS cli inside chef cookbook
+Error running Team City build step in Docker image: "ENOENT: no such file or directory, lstat 'C:\ContainerMappedDirectories'
+When to get rid of '-SNAPSHOT'
+Converting s3 URL to the desired one
+Why HashiCorp vault returning null?
+Is it ok to logout after calling docker stack deploy?
+when does currentBuild.changeSets in Jenkins gets filled?
+How to allow access Apaches from internet?
+Ansible YAML inventory - Groups that are allways members of other groups
+Different download speeds from AWS S3 CLI vs Console/Websites
+How to detect exception occured in a Pod in Kubernetes?
+Vagrant will not install a box
+How to take a backup of Ansible tower?
+How to prevent group from deploy to environment but allow same to redeploy?
+Docker - which cache is used to build image
+Executing a command in running docker swarm service
+How to monitor ELK Stack Load?
+Terraform Project Organization with AWS VPC Peering Connections
+Persist Changes to New Docker Image - neo4j
+JIRA plugin on jenkins not set the JIRA_ISSUES variable
+Docker ADD always invalidates cache
+Restart agent for each build
+Does anyone have resources, tools, ideas, for automating database create, update, modify, delete
+py2neo AddressError When Connecting to neo4j in Docker
+Regarding Use On Docker
+AWS ECS/EKS: EC2 vs Fargate mode
+Can't access jenkins in AWS EC2 server
+How to skip play in ansible-playbook?
+Kubernetes Deployments & Rollbacks
+How to properly assess the behavior of a site in n requests from n users?
+AWS: Fargate charging model
+How to calculate server capacity?
+How to access environment variable in post-build access for jira plugin
+What is ansible-runner about?
+How to filter out system-generated calls in monitoring of Azure Webapps?
+tools to gather variant information from thousands of servers and update into database
+docker compose & azure key vault - passing secrets to a container on startup
+Getting data from crashed docker container
+Jenkins input pipeline step - Give submitter as a group
+Why use EXPOSE in Dockerfile -- since you can bind to all ports anyways
+Managing Cloud Formation Templates in SCM and S3 Buckets
+Backing up an ephemeral Elasticsearch installation
+Terraform plan -var-file="myvars.vars" does not run
+Best alternative to deploy/update docker using Jenkins for CI/CD
+Chef git private repo using username/password
+what environment does a build "RUN" run in?
+Using Google IAM for GKE service web access
+Dockerfile COPY command with three input parameters
+Control order of container termination in a single pod in Kubernetes
+How do you handle the huge number of possible permutations of Dockerfiles / Teraform files?
+Bamboo equivalent to Jenkins color
+Use Traefik with Jenkins don't work
+Scheduling a Docker Container or Installing Scheduler in Container
+Stolon vs CrunchyData for HA Postgresql
+lc_collate values for database "postgres" do not match: old "C.UTF-8", new "en_US.UTF-8"
+How to safely change the config and restart a persistent ELK cluster with helm - GlusterFS Heketi
+How to keep configuration files automatically during apt-get upgrade or install?
+What's the practice to perform a releasing with Git?
+Creating a task for a backlog item automated in the release pipeline of VSTS
+Pattern for OpenShift config management?
+How to install a private managed Kubernetes on-premise?
+how to setup authentication for kubernetes dashboard ?
+How to FTP Directly from 3rdPartyHostingServer to ClountStack like GitLab, GitHub, AWS,etc?
+There seems to be a postmaster servicing the old cluster. | Upgrade from postgres 9.3
+In Jenkins when to use SSH site and when to use a node?
+Is jenkins-x the successor of jenkins?
+Which password database system work with ansible?
+How to assign static ip in docker for Windows for linux container?
+Prevent new jenkins job scheduling builds for previous branches
+Kubernetes - Internal only API Endpoints
+Preinstall packages for a nodejs Docker Image according to package.json
+How to use remote Ivy artefacts in Maven jobs with different binary repository managers?
+How to configure a pull request quorum making an organizational constraint?
+Placing an AWS Lambda in a public subnet
+Chef vault not working
+Dealing with ambiguity of the terms publish vs. deploy
+Do not show all docker containers to a particular user
+AWS ElasticBeanstalk Clone Prod to a temporary environment to debug
+2 IP addresses for one machine, which would allow to expose 2 services on the same port, but on different ip
+Jenkins executes Selenium test in headless mode while use `Jenkins as Service`
+How to setup artifact filters to differentiate for deployment
+Dynamically grep with less/tail
+Chef resource to register gitlab runner automatically
+Automated tag versioning on unchanged docker images
+Is it possible to change disk size of box after initial creation with vagrant?
+Vagrant package --output box how to set the version?
+Separate Bamboo plans to run selected vs all JUnit tests
+Multiple Ingress controllers in Kubernetes
+What are the measures of size and complexity of IT infrastructure
+Chef syntax with "do" statement
+Built codebase doesnt appear after deploying
+Blue/green deployment with micro services and DNS
+Windows Server migration checklist
+Jenkins pipelines vs matrix vs multiple jobs for multiple branches across multiple platforms
+Do AWS backups of large empty volumes take longer than small ones?
+How to intercept and redirect network communication inside docker containers?
+DevOps tools and automation of manual processes
+Trigger a cross project GitLab trigger
+Universal CICD Pipeline?
+Powershell connect to Internet via Proxy Server
+Error during setup of clairctl for container scanning with clair
+Failover for Azure Function Timer Trigger
+NuGet package installed form Artifacts is missing files
+What are the two project layouts offered by Rancher on installation?
+Staging - Test multiple microservice versions together
+Datapoints motivating introduction of SRE in organisation
+Not able to install Docker CE 17.x or 18.x on RHEL Linux
+Pass parameters to jenkins job with the help of userContent
+Can I restart a container within an ECS task group without restarting the entire task?
+Can ping service by its DNS x.x.svc.cluster.local but failed pinging by IP
+Can't install MongoDB docker on raspberry
+Inspec tests conditional on OS version
+WinNMP (Nginx) returning "Directory access is forbidden."
+AWS CLI --profile with duration > 1h
+How to mask the credential file secured
+Configuring Gitlab SMTP for QQ exmail
+Autoscaling with Kubernetes daemonset
+Are there any truly simple artifact repositories?
+Tips for separating DevOps Git repos?
+Should I use systemd or docker-compose to replace Upstart for keeping Docker containers running on my systems?
+Always execute post statement in a jenkins pipeline when a conditional statement is met
+Where do you start with hosting the infrastructure for your infrastructure?
+How do I get the find module to work in Ansible?
+How the use Docker exec to update code into a running container
+Best way to launch 100 identical Docker machines on AWS?
+Can the Angular CLI be used to build and deploy on a remote server via ssh?
+Docker security risks passing secrets over environment variables
+Is there an alternative to the Jenkins dir() to change to a directory on a Docker container?
+Parallel stages running on same agent in Jenkins declarative pipeline
+Kubernetes - unable to login to Dashboard
+How to "inject" AWS Lambda code into a CloudFormation?
+How to communicate between two manged nodes without control nodes in Ansible?
+What is the purpose of AssumeRolePolicyDocument in IAM?
+When exactly and what for should VOLUME in a Dockerfile be used?
+How can I use a local file for a nested Cloudformation stack?
+What happens when a PAT expires
+How granular in purpose should FaaS functions be?
+Manage Docker images and their child images in a pipeline
+How can I get the first part of the API Deployment URL from inside cloud formation template?
+Docker for Windows 7 with Visual Studio 2017 Integration
+What are reasons for not not using Bitbucket-server for storing artifacts?
+Angular Environments and Build Once - Deploy Anywhere
+How to monitor AWS S3 cross-region replication process?
+Identifying a benchmark to compare overall performance of VM virtualization vs hardware
+What are some clear benefits of running master/agent configuration management?
+Preserving ownership of a folder after mounting it
+Where to state CFT dependencies
+dotnet not found on travis for an F# project
+Comparative analysis on when to run the smoke test (and if it should be blocking the build)
+How do I prevent service A from being placed in the same node as service B in Docker Swarm?
+How do I fix a "heartbeat failure" in Docker Swarm?
+SSL error when deploying from gitlab runner (GitLab-CI) to remote docker host
+Open source private cloud VM provisioning for container workload
+ECS ELB Health Check Fails
+Browser Based Programmable Workflow Engine
+Fully enabled End to End CI/CD Solution
+How can I get gs_secret_key and gs_access_key to use gc_storage module in Ansible
+What is the behavior if docker compose fails?
+Login to docker registry using chef
+Jenkins vs Azure DevOps Pipelines
+Jenkinsfile equivalent in Azure repos
+What are some good Kubernetes training courses?
+How important is it to configure a CA for a Kubernetes cluster?
+How do I handle multiple AWS accounts in Terraform?
+Mocking CloudStack API
+Managing IAM policies with Terraform to implement CRUD of AWS resources
+How does someone share a drive to be available for my containers?
+How to retrigger a Jenkins build after failure using declarative syntax?
+How can I force Docker Compose to rebuild containers when dockerfile changes?
+What is warm(ing) up?
+openshift persistance volume pod not ready
+Pull request in TeamCity (bitbucket)
+Environment variable names, when my development environment has multiple projects
+Deploying lambda conceiving sensitive variables using serverless
+How to filter GitLab jobs by runner?
+Understanding and tweaking AWS policies for job functions
+How to install docker in Raspbian Virtual Machine
+Using Composer when php-fpm and Nginx is in separate Docker containers
+Availability/Reproducibility of Ubuntu Minimal as Docker image
+Tomcat deploy war with Ant - error writing to server
+vagrant box tests in gitlab-ci
+Passing variables between scripts in a Jenkins pipeline
+post jenkins build console output to slack
+Puppet directory sync does not delete absent files
+Pushing Docker application logs to Logentries
+Amazon EKS: using spot instances for worker nodes
+Why am I unable to push docker image in gce (gcr.io)?
+DigitalOcean Floating IPs - So near and yet so far!
+Force tokens on just consul de-register
+Jenkins Kubernetes Rancher, how to do a CI with these tools
+ansible AWX is connecting through ssh as root instead of user defined in credential
+Zero Downtime Deployment with Database Backward Compatibility
+Cannot pull ansible docker image
+Choice for scheduled task in AWS
+What do you tell someone new to going oncall or PagerDutyl?
+Using Red Hat Docker image as base image
+How to pull all alternative tags of a Docker image?
+jenkins pipeline nested parallel
+Change variable inside of project. Jenkins, docker, kubernetes
+Route webhook to all replicas
+Docker compose curl healthcheck on official nginx image not working
+Jenkins-Ansible: executing ansible playbook using jenkins pipeline script
+Jenkins VCS Plug in Snapshot
+Extra none:none images after docker build
+Hostname from nodeexporter in Docker Swarm
+Communication between VPCs and a transit VPC hosting VPN Server without Masking source IP
+How to redirect tomcat logs TO console?
+Dynamically change config files in c# Application based on environments(dev,QA,Prod) through Bamboo
+nodes in a kubernetes cluster in azure unable to communicate with one another
+How to make the Jenkins agent build then start the server?
+Kibana only showing up via 1 consul service
+How can I use Docker Hub in Terraform?
+How do I reproduce existing S3 lifecycle rules in Terraform?
+Script to enable/disable maintenance mode for Pager Duty using Riemann
+How to make Jenkinsfile credential visible to many stages
+Is there an established metric to describe optimal/needed ressources for a specific computational task?
+DNS server with api access
+How to create high availability databases?
+Jmeter simulating traffic and avoiding 429
+Jenkins Pipeline project can't when on branch
+How to annotate ingresses for traefik to generate Let's Encrypt certificates?
+How to enable CORS in Geoserver on Docker?
+How to make one branch public while the others remain private on GitLab?
+Docker windows server core images not available
+How to implement GitLab Flow branching model for microservices?
+Open source private cloud metadata service repository
+Cross region replication of Redis Docker container data
+How can I configure logstash-input-s3 in Dockerfile
+Undeploy or deactivate an AWS Lambda
+trigger a build on a specific branch when a branch is deleted?
+Terraform error 403
+Billing my clients for CDN usage
+Pod & pod's health
+Where can I find a Dockerfile + required files to create a Flask/MySQL forum/webapp with users?
+The Phoenix Project and Military service
+How to run Dockerized graphical applications on a headless server with packages required for display remotely on clients as part of a separate image?
+Rancher, Load Balancing and own domain
+Ansible Find Module
+How do I resolve this error when using chef-solo from packer?
+Multi-container server of PHP apps with reverse proxy?
+How to use Jenkins github user credentials to access github api in my script?
+Error while following Docker get-started part 3
+Trying to register a check with consul using curl, check not showing up | Missing check name
+How to clean up disk space for Azure Kubernetes Node?
+Jenkins Groovy to parse console output and mark build failure
+Consul assuming all checks are TTL checks
+AutomatedTest selenium chromedriver not running after update chrome
+How to monitor a REST call response?
+Where is the git submodule revision actually stored?
+Appropriate use cases for git submodule and braid
+How can I diagnose php cli command execution time inside a docker container
+What is a "mesh"?
+How should I run a multicontainer app/platform with nginx behind traefik
+Jenkins poll scm issue- Multiple jobs configured in single repo
+Storing my Lambda Functions on GitHub
+Running consul in the background using Chef
+How do I return just the full path of a file found with the find module in Ansible?
+How do I automate population of known_hosts and authorized_keys?
+How to manage Pull request or branch environment databases?
+Consul not accepting checks being registered via the API | Assumes all are TTL checks
+How to exclude a certain linenumber of an Ansible playbook when testing it using Molecule?
+Tfs octopus migration to k8s and docker
+Digital Ocean vs AWS EC2 for Laravel based application
+How to test an ansible playbook using molecule inside docker locally?
+Consul reporting file missing but file exists
+Configure Jenkins to take Artifact and Deploy Server Information
+zip: command not found after installing zip on NODE docker image, even after installing p7zip?
+Kubernetes auto scaling in cloud environment
+Consul accepting check registration but no showing checks
+Is there a way to use Python library, pyjulia and Julia library PyCall (which inter-operate with each-other) using two containers rather than one?
+Pass Variable in pipeline script
+How does Vagrant differ from Ansible and Docker?
+Jenkins pipeline pass upstream build number to downstream job using Pipeline script
+Browser viewport too small when starting Selenium Standalone through Windows Task Scheduler
+Jenkins Code Coverage (Cobertura) overview display
+Docker for Win10 + Linux Containers + tmpfs
+How to make a Jenkins API call when using "Log in with Google" as security?
+packge.json not found while executing on Jenkins
+How to change a statefulset in OpenShift?
+Is it possible to specify an IP address to connect to the Azure Queue service?
+Push specific changes (defect fix) and not feature changes
+How to trigger Jenkins job by deploying git pipline using webhook?
+Deprecation errors using run to test an nginx container in Kubernetes v1.3.6
+Maximally-self-managed hosting-platforms and OS-and-above containerizators (like Vagrant)
+Tooling to get AWS STS credentials with an MFA device and a SAML identity provider
+Docker Hub automated builds and Travis CI
+Reg uploading additional files in docker hub
+Deploy war/ear to a container' marked build as failure
+Should we build our application inside a docker container, or copy it in?
+What are vertical scalability limits of JFrog Artifactory Pro?
+How to spawn on-demand cloud batches with GitLab similar to Jenkins EC2 plugin?
+Zabbix on docker containers
+curl: (6) Could not resolve host error from Gitlab Runner
+Docker Deployment strategy for microservices project
+Automating the creation of an Apache virtual-host file specifically
+VAD (Vagrant-Ansible-Docker) stack for Ubuntu and Apache
+Create clean/blank MacOS fs on MacOS or Linux
+Kubernetes cluster on top of etcd cluster
+Groovy script to show only selected item
+Why do `docker info` and `docker df` show different amounts?
+phpMyAdmin using dockerised database
+Is there a php (or composer) command to change upload_max_filesize && post_max_size from terminal?
+How to filter the ingress traffic to a docker container by changing IPtables in docker host machine
+Consul can't register anything error 403
+Nuget target framework for both net452 and netcore2.0
+Can you restrict usage of a tag to certain users in VSTS
+Background process not running after executing shell script
+Retaining temporary job side containers with GitLab runner
+AWS: Using CloudFront as CDN for non-AWS hosted content
+Execute shell with multiple arguments using saltstack
+AWS Cloudformation: Callback only for CREATE_COMPLETE or CREATE_FAILED of entire stack
+What's the difference between "Ops Dev" and "DevOps"?
+Keep getting permissions error gcloud.container.clusters.get-credentials
+Consulting DevOps from the Ops side
+Can a 5 US $ VPSE support VAD stack with 2 relatively-small CMSs?
+Access database deployed in kubernetes
+How to generate an include tree for an application configs
+Remote Hyper-V server with Vagrant
+How to confugure proxy for Python Apache Cloud Stack client?
+Are there dialects of YAML or just differences in parsing it?
+How to deploy large web app in container minimal data transfer?
+Openshift EFK stack for custom application logging
+How to report Code Coverage metrics across git repositories?
+How fast does Prometheus data grow?
+Is it possible to consolidate notification handlers when they are very similar?
+What is the best way to put on a repository for a docker image with multiple tags?
+How to handle large deployments using tools like gitlab and docker
+Terraform: Cannot specify duplicate termination policy - [OldestInstance]
+Docker: subnet clients can't ping other subnet
+ECS auto deploy with ECR
+SSH tunneling to hosts deployed behind firewalls
+How to specify a filter for Kubectl -o flag=custom-column
+Add a rule to a work item type with formula in Azure DevOps boards
+ansible task -easy_install with requirements.txt file
+What do we know about how open source software becomes eligible for the Docker Hub library?
+How to successfully exit after deleting a VM sitting in the VM
+Should I run several applications in Docker in a single server?
+azure blob storage host spa/ code change without downtime
+Import tarball as next revision
+A cloud technology with automatic upgrades of my OS-release and web server release?
+skaffold: does not update image tags if tags are specified already (for local development)
+Run scripts which are stored in GitLab from Jenkins
+Cookbook get and set dynamic URL
+What Ansible does in cases there's a conflict between OS version and some software Ansible manages?
+Is it true to say that both a "shared server environment " and a "VPS environment" can be either IaaS or PaaS?
+Is Vagrant an operating system by itself?
+Why are IaaS hosting services are usually fixed-priced and PaaS are usually dynamically-priced?
+K8s pod hangs when starts with volume
+Proper way to showcase multi-container web app to customers
+How to integrate CI with federated AWS IAM roles?
+Is there ERP software with DevOps data integration?
+How to know where a docker image come from?
+SaltStack states pattern and replace for multiple files under directory and for multiple line matches
+How to explicitly kill the process with PID 1 from inside a container?
+Why does AAD not Sync with Organisation users?
+How to read array and loop server selection and deployment
+How to allow traffic only from cloudflare to AWS ALB?
+Context of DevOps in ISO 27001 security audits
+Jenkins Pipeline steps that run before Jenkinsfile
+AWS EKS CronJob resource not found
+Is there a 5$-30$ IaaS that supports some rolling-release distro?
+What is the common term for Apache virtual hosts or Nginx block systems?
+How frequently do PaaS:VPS agencies upgrade OS_release in comparison to PaaS:shared-webserver?
+Using chef go not found but manually exists
+Quest for a missing release of Apache Cloud Stack 4.7.1.3
+Are all virtualization (OS/above-OS) utilities DevOps utilities?
+Creating agent policy consul
+How does Vagrant differ from VirtualBox and similar software, if at all?
+Tools used in enterprise level to transfer build artifacts from CI server to live server
+Is there a book only about Ansible (without touching Vagrant, VirtualBox, Docker and virtualization stuff)?
+Jenkins | How to trim (or preferably customise) the console output content that is sent as email content post execution of a build?
+How do you instruct AWS FARGATE to provision a t2.small via ECS CLI instead of the default micro?
+multicloud connect over VPN?
+Ansible: Difference between the apt module and command: apt-get -y install X (module)
+Accessing container by domain name
+Should local Ansible playbooks be loaded each day/week with cron?
+What is the difference between continuous deployment to continuous delivery?
+Is it possible to have multiple gitlab-ci files in a single repo?
+How to find the image name corresponding to a layer digest?
+Will Docker Swarm work if masters are spread over 3 continents?
+Is there a system which automates everything (OS release, and above) to host websites on?
+Strategies to work around 30 sec timeout
+How to pass language_in to Apache Ant build task
+GitHub merge access
+How to exclude a receipt from a role?
+How can CaaS, PaaS, and FaaS users know if the operating system of their server environment is of the newest release?
+Azure DevOps Pipeline Conditional Flow with Manual Intervention
+How to get exposed ports from inside of container?
+Install minimal dependencies with apt
+Is it useful to track dev time with CI/CD?
+how to stop and start kubernetes cluster
+How can container user and host user both have access to same files in volume?
+How do I get Jenkins to work in a Docker container without modifying a directory on the Docker host?
+Permission issue with Persistent volume in postgres in Kubernetes
+How do you deploy Kubernetes to AWS with conjure-up (and not EKS)?
+Release based on restricted timeline with CI/CD
+How/where are programs installed in Docker containers?
+One time database update process as part of applying a patch
+After pushing to registry Jenkin's settings are reset
+What are FaaS "applications" as presented in the hosting models chart by AMIDO?
+How can you pass private environment variables to FARGATE tasks specified from a Docker Compose config
+Cannot run bitnami images on AWS Fargate with mounted volume?
+What is the best way to achieve DevOps in any environment, or it is always environment dependent?
+Understanding contents and workwise of a Terraform plan
+Best practice for Postgres setup with docker-compose
+What are the security loopholes closed by introducing Istio
+How to ensure testing execution order with GitLab CI?
+Keep Azure Batch Service applications up to date with Azure Devops
+Move artifacts files and folders to a one (release) folder
+Kafka from client to server vs. "router" in the DC
+Access S3 files from Datacenter over VPN to VPC
+How do I deploy an applications to Kubernetes with Minikube?
+Developing a progress meter for uploading and processing a file
+Take automatic screenshots of a website and send it to WhatsApp or Facebook Messenger
+Containers Orchestations and some docker functions
+What is the best method to start and stop an application?
+Is this okay to use double proxy-server setup (on host and in container) on one machine?
+Access service in remote Kubernetes cluster using ingress
+Giving a meaningful name to Dockerfile's VOLUME
+How to exclude storage.bucket.list permission on public gcp storage bucket
+Splunk indexing
+./mvnw -Pprod package command fails to download Maven
+Multi configuration deployment for product based company with 100+ clients using Azure DevOps/VSTS
+Use Google OAuth and AWS Cognito to send Jenkins api calls as auth'd user?
+RDS IOPS utilizing fully
+docker swarm init made docker go corrupted
+Where would DevOps Engineers mostly look for their next opportunity and what would it be?
+What does mapping in yml file means?
+running httpd and nginx in the same pod kubernetes
+Docker service host is not available inside container
+Consul Helm chart: Connect Injector service not working
+How do you create and implement a customized IAM Policy in AWS using LandingZone(Control Tower)
+While deploying with MCollective and Puppi, what are the possible reasons for hosts to be not responding?
+Push Jenkins Build status to Github and Trigger Jenkins build from Github Webhook
+call container B inside container A using docker networks
+What are tools that lend themselves for backup and recovery in a CI/CD environment?
+How do I install Terraform libvrit_cloudinit?
+AWS Log Insights
+How to setup external service (keycloak) to protect an app in kubernetes?
+Why can the certificate not be found by the Ingress Controller, while the certificate has been issued?
+SQS Displaying only "data" of logs
+Jenkins CLI from Jenkinsfile
+Connecting jaeger with elasticsearch backend storage on kubernetes cluster
+How to create a preemptable docker container?
+Gitworkflow and testing short lived feature branches in Openshift/Kubernetes
+Docker Persisting Data During Build
+How to solve "E405: Remote package tasks should have a retry" in Ansible?
+How to get all log files on kubernetes master node?
+OOM when running Bitbucket pipelines
+How to match a pattern and replace all files in a directory using salt states?
+all volumes are geting deleted when one EC2 is being deleted via terraform
+How to add LinkedIn's Burrow to a Docker Compose?
+How to enable Google Maps and generate an API key using Terraform?
+all volumes are geting deleted when one EC2 is being deleted via terraform
+Configuring Zookeeper from Ansible
+How do configuration management tools deal with someone messing up configuration files manually?
+How to see when an AWS IAM role was last used?
+When is it not appropriate to use serverless technology such as AWS Lambda?
+How to convert a docker-compose file to kubernetes file(s)?
+Nginx modsecurity fails to compile
+Automate creation of branch + pull-request
+How to add multiple jvm options in a saltstack jinja?
+What is the concurrent operation exception in Cloud Stack?
+Cannot add a new user in Azure DevOps
+jenkins pipeline code to build docker images
+Is there any latest technology which will replace Docker, Kubernetes in future?
+Mesos-slave not picking up attributes
+Jenkins in private subnet
+Nexus2: How can I get a list of all artifacts from a specific repository via REST API?
+Issue with custom domain SSL certification
+Easiest way to manage an elasticsearch cluster in GCP?
+What AWS resources are applicable to each action?
+Multiple Logstash Pipelines outputting into same index
+How to monitor a micro-service oriented solution?
+PiHole on LXC, forwarding port 53
+How to update nodejs on Jenkins master node
+Trying to execute an appcmd command via Ansible
+How to get kubernetes pod network CIDR
+Is openstack public cloud like Google drive, aws where we can store data?? Or something else?
+OpenVPN - routing public domain over tunnel?
+I trying on Windows 10, Trying to connect / login to work interactively on container but I'm getting this kind of error
+AWS CloudFormation Fn::If parameter equals
+Entering to docker container of my elasticsearch google kubernetes pod - CONTAINER ID is changing
+Terraform | AWS | vpc_id causing apply to fail
+How to access URL in virtual machine from browser in host
+What are the tools you recommend for deploying / automating / organizing vm in the private cloud
+Recommended JFrog Artifactory Layout setup for Maven Projects
+How does Django deployments happen on Servers?
+What is the future of DevOps in the age of serverless?
+Ansible how to know what return value is provided by a specific module
+VSTS Azure for DevOps: Unit test checking mechanism on pull request
+Docker DNSRR and windows ping
+Ansible How to use plugin parameter
+Is there any way to get New Relic or PagerDuty to not alert during nightly maintenance?
+Multiple Application in single SSL 443 server NGINX
+No Checkbox to" Restart Jenkins when installation is complete".Unable to restart Jenkins post plugin download
+AWS API gateway call to multiple lambda functions possible?
+container on same network with host
+Should developer wait for CI pipeline to complete or start next task after pushing
+In Azure Devops and TFS, is it possible to create a build artifact and release definition in a different collection than the original code repository?
+Transfer files and execute commands from jenkins scripted pipeline to AWS instance
+Deploy helm chart from Jenkins to Kubernetes
+Automatic Kubernetes deployments per Github pull-request
+Chef remote_file set maximum number of re-directions to zero
+How to automatically remove k8s namespaces every week?
+Pod's state "pod has unbound immediate PersistentVolumeClaims" when deploy Jenkins with Helm chart
+Jenkins plugin recomendation
+How to automate a work-flow in the cloud?
+Dockerfile: How can I input an enter when in interactive .sh installer?
+Can I change the mount path and port number of a built container?
+Nginx will not compile after openssl upgrade to 1.1.1
+echo colon to file in cloud-init
+Bash Tokenization Errors on Jenkins JNLP Slave
+ucp-reconcile container exited with status code:
+Github Branch Remote Tracking Issue
+How to keep original and new repositories in sync during a migration? (including the commit history)
+How do I set up a Prometheus rule to routinely scrape an HTTP endpoint?
+How to get list of env variables from the root folder to jenkins job?
+Need help with massaging data from ansible modules
+Azure DevOps/Pipelines seed job equivalent?
+Terraform functions
+How much I will pay for AWS spot: my bid or current spot price?
+Jenkins - IBM UrbanCode - AWS & Azure cloud
+Additional push event syncing between Artifactory instances
+Archiving artifacts after build stage
+How do we create credentials for Docker Hub?
+How to deploy to Appengine standard from gitlab CI?
+Terraform - aws_security_group_rule doesn't support import
+gcloud Kubernetes API - Can't scale over 25 RPS, or how to find a bottleneck
+Jenkins: What is a build?
+In Docker, is there any advantage or disadvantage in using 'CMD cmd1 && cmd2' versus 'CMD cmd1 && exec cmd2'?
+Specifying branch name for jenkins job through AnyStatus
+Can I check whether ansible is on last batch of rolling update (serial: 25%)?
+Trying to make job working AWS MediaConvert (ERROR 1040)
+Artefacts, pipeline operation and SAP
+Failing at multi-command ReadinessProbe that I feel should work
+Define views in Jenkins Multibranch pipeline jobs
+Harbor registry installation/upgrade
+Is there a way to find out every resource that calls a lambda?
+How to deal with untested features in the develop branch before deployment?
+Can Ansible use a local repository?
+Understanding AWS GuardDuty NetworkPortUnusual findings
+Do I need UCP layer 7 routing or can I configure this with nginx?
+What is Amazon's Borg?
+In a Dockerfile, is there a way to avoid copying files to make them accessible to the RUN command?
+How to setup multiple build environments in Azure DevOps/TFS2018?
+M2 Repo contents is not available in artifactory server
+How can we get the jenkins console output in a text file?
+How to set ping response of AWS ec2 instance?
+How to Allow AWS S3 Access From only Specific IPs
+How to split traffic in Google AppEngine for specific IP addresses
+declaratively mount a service account secret in OpenShift
+azure activity log, how to find releases
+Read webhook payload in Gitlab CI
+How to Block Traffic From a Single IP in AWS
+Flow for Confluent Plugins on Kubernetes
+How to handle Webhook Endpoint that is behind an OAuth Redirect?
+Saltstack Jinja template pillar merge
+How can I eliminate the need for an Ansible control machine?
+If we are using containers do we still need to worry about configuration management at an infrastructure level?
+How to securely distribute and use Nexus credentials?
+What does implementing Hashicorp Vault mean in practice?
+Is there somebody who has deployed Hashicorp Vault and what are your experiences?
+elastic on k8s. What do you suggest?
+What are equivalents to NPM's license-checker in Java?
+Docker machine connection with https
+PHP-FPM with Nginx in different containers (share init.d response between)
+Is there a good standard to follow when choosing a service mesh for your microservice application?
+If we are using Kubernetes do we need to implement HA on both the infrastructure and application level?
+How to define variable in Jenkins scripted pipeline
+How to build docker image from git repository with root context and Dockerfile inside a subdirectory
+How to define global variables in groovy file, which I want to load and consume?
+Jenkins Dockerfile declarative pipelines: getting the built image tag
+Install MDB2 in docker container while PEAR is down
+How to ingest and iterate Network ACLs in Terraform
+Golang, Jenkins and Kuberentes | Readiness probe failed on health check
+Deploy to GKE from CI server outside of cluster
+Chef14 Load a provider in a recipe Chef::Provider::DeployKeyGithub
+Simulating keep-alive between HA-Proxy instances with interrupted connection
+How to create a MariaDB/MySQL image using utf8 instead of the default latin1 charset?
+How to kill all Docker containers based on a given image?
+Docker Containers fails to DNS resolve on subnet 10.0.2.0/24
+Chef - assign a value to variable in execution or converge phase
+Does AWS Amazon Certificate Manager Generate Client certificates for Customer (3rd Party Clients)
+Does AWS Cognito support Mutual certificate-based TLS to third-parties
+Jenkins: mercurial scm: clean=false is not working as expected
+How to make Terraform Modules wait for resources to be created in place of using computed values
+Hygieia - How to change port value in UI
+In simple terms, what is the advantage of a Virtual Kubelet?
+Pack and move kubernetes to a different host
+Build solution via cmake with VS2017 c++ 141 and tool set SDK 8.1
+Kubernetes: How to tell on which node a local storage PV has been created on
+Provisioning & Configuring VM on Azure
+How to filter ELB logs by today's date?
+Can I use the Jenkins Rest API with user input?
+Docker stack deploy doesn't pull images
+How to list the containers attached to a given user-defined network?
+Is containerized deployment of jenkins on ECS better than running jenkins inside EC2 instance to secure pipeline information?
+What are the benefits of spreading the various services of a multi-tiers application over several user-define bridges?
+How to tar a specific folder from git repo using Jenkins pipeline?
+How to restrict only one parameter in jenkins pipeline
+Selective Deployment Strategy for Salesforce Project
+Impact on policy after deleting IAM user
+Blackbox testing vs openbox testing applications in a containerized environment
+How to attach two (or more) networks to a container so they are available when the container starts?
+Has `docker-compose` to be phased out in favor of `docker stack`?
+Why `docker stack` needs Docker to run in swarm mode? What are the implications when working on a single node?
+Github rest api post label gives error for array input
+etcd cluster is unavailable or misconfigured (kubernetes multi-master)
+What are the differences between application virtualization, emulation layer, and container virtualization?
+CIS Benchmark for Docker and Docker Bench for Security: why, how and when?
+AWS golang SDK get configuration variables
+Access denied when pulling private registry image using helm with gitlab runner helm chart and ci job
+Very slow network when serve container content via Nginx after published Docker port
+Should development tools be installed on the host or in an environment standardized at project level?
+How to raise awareness about the security risk involved with running Docker?
+How to override the user for ECS task via CLI?
+How to structure a IaC for production, and development?
+Troubles with mapping ports on a very simple Docker container
+Using volumes on AWS fargate
+kitchen verify hangs on centOS, but not Debian
+Coding conventions for docker-compose files?
+How to create replicas in docker-compose when `scale` is deprecated?
+Dockerfile parse error line 5: unknown instruction: -ESSENTIAL
+What is the duration for the App Engine task queue tombstones?
+Any suggestion for a provider to deploy a first Dockerized application?
+How do I use docker command's "--format" option?
+Does Prometheus expose the Horizontal Pod Autoscaler's "Current CPU Utilization" as shown in the Kubernetes dashboard?
+Scaling services but varying the individual container configuration
+When would I use docker-compose's "--service-ports" flag?
+Access resources on local network from within K8s pod
+How to configure Dedicated IPs for specific SES domain?
+Dockerized MySql slower in Wifi than ethernet
+Does Jenkins job create Jenkinsfile? On execution
+What setting to use for jenkins tunnel?
+How can I issue a Let's Encrypt certificate with Ansible when 'challenge_data' cannot be found?
+Practical reasons for 200 limit of AWS resources in CF templates
+Exclude sub .vcxproj from .sln when using Azure pipelines CI tool
+How to re-enable RDP on AWS-EC2 instance
+How to deploy a ZIP or WAR equivalent (built locally via npm)?
+How to setup Azure DevOps Pipelines and Releases with multiple apps
+Tomcat Restart from jenkins
+On which interface/ip should docker containers communicate?
+Connecting GitHub to Jenkins running on docker toolbox
+Maven dependencies that are downloaded not available in JFrog Artifactory server
+How to define a salt variable with two or more inputs from Jenkins parameter?
+Docker image two-steps build
+Is there an elegant way to use a Dockerfile argument to tag an image?
+Azure Pipelines with Bitbucket "unresolved user"
+Keeping graphs of terminated Kubernetes pods in Prometheus/Grafana
+branch restrictions in bitbucket
+Application monitoring on cloud foundry
+docker-compose.yml - make network name configurable via environment variable
+Auto-scaling, how to securely get code from private repo
+Jenkins is running as a docker image in a kubernetes cluster and won't come up due to plugin version incompatibility
+Recommended SVN branching strategy for DevOps
+Need to list out scenarios in which roll back is required on PROD server
+node js deployment on production server
+Can we talk about "reproducible builds" when working with interpreted languages?
+How to pass HashiCorp Vault secrets(k/v passwords) to Terraform EC2 instance
+Is there a way to know which files have changed in a docker container compared to its base image?
+Listing filesystem differences between a Docker image and one of its ancestors
+Is there an alternative to setting up the whole project workspace in a Jenkinsfile
+ansible aws windows ec2 - Internal Error: this connection module does not support running commands via sudo
+Is K8S dashboard recommended for production ready server?
+Is there any motivation to achieve SixSigma or similar in DevOps?
+Next "big thing" in the virtual infrustucture?
+How to run multiple containers with port expose
+How to move a containerized application to a different host?
+Nginx ingress controller failed to run
+GuardDuty Default severities are they static values
+Jenkins can't run Ansible playbook
+Jenkins: Gradle daemon closes unexpectedly
+How can I achieve better load balancing of different systems on a Jenkins?
+Rollup status from task to story to feature in Azure Devops?
+Understand GitLab CI/CD better
+Puppet Razor broker installation is failing post to OS installation
+Maintaining Jenkins configuration with docker
+Chef vs Ansible: will configuration be applied if connection is lost during configuration pulling/pushing?
+Can someone explain what a “system engineer practicing DevOps” means?
+How to add LDAP group for ssh access by ansible playbook?
+Is "running several Linux distributions on the same host" a good justification for container adoption?
+Best practice for installing new jenkins server
+Do I need an orchestration tool to autoscale/scale on demand my web service?
+How to have Ansible move a microservice?
+Where do I save docker-compose files of a swarm?
+Why is build size such a concern?
+How to stop jenkins trigger the build by pushing code to repo
+How do you limit access to the production environment in the company you work for?
+How can I check for an installed packaged version on multiple linux hosts?
+jenkins-x with "jx" installer: enforce https instead of http
+Code splitting practice using CDN
+How to build windows image on azure dev ops hosted agent
+Cancel sibling snapshot dependency on failure
+Looking for Ansible equivalent method to yml Anchors, Aliases, when using include file
+Change Jenkins' port to 80
+How to stop a container dying at the end of an execution?
+With containers & ECS -> do I need tools like puppet?
+Are AWS Boto3 calls asynchronous?
+How to execute an external command in Cloud Custodian (c7n)?
+TravisCI did not run after adding more configuration to .travis.yml file
+How to securely pass sensitive data to EC2 Spot instances?
+Process auditing in containers
+Which libraries generate observability metrics for applications in the cluster to prometheus?
+How to install a chart's dependency using terraform?
+Build an iPhone app created with React Native
+How do you monitor status of multiple docker containers?
+Multipatch review: How to integrate reviews on different repository in one jenkins job
+Are microservices "cloud-ish medium-lived services"?
+Jenkins parameters default to env variable?
+Microsoft DevOps: build triggering vs release
+Utilise AWS IoT on non-supported hardware
+Interface from systemd-machined.service to container and VM managers
+Regarding changing IP address configured in xml files of JENKINS_HOME directory based on container IP address
+kubernetes - load balancing where ressources are available
+Why `docker diff` does not see some file changes?
+Helm install or upgrade release failed on Kubernetes cluster: the server could not find the requested resource or UPGRADE FAILED: no deployed releases
+Looping through found files in Ansible
+Where is it said I can safely the same local volume to multiple docker containers?
+Prometheus alert CPUThrottlingHigh raised but monitoring does not show it
+Ingress or LoadBalancer on AKS
+How to make Load balancer to wait for custom program to finish running?
+What is the difference between Container Engine Software and Container Management Software
+How to create AWS shared logging with SAML federated identities?
+Is it necessary to specify resource in S3 Bucket Policies?
+Which S3 buckets is Lambda allowed to read code from?
+What is the cheapest way to get CI for a Qt project?
+Seeking help configuring Jenkins MSBuild plugin
+Kubernetes on k3s can't resolve domains from custom dns server (fritz.box with dnsmasq)
+Working with ConfigSets in AWS::CloudFormation::Init
+Secure Jenkins X on kubernetes
+Send logs to logstash from another swarm stack
+How to use ecs service dicovery
+Can Terraform S3 remote state be kept in a different AWS account?
+Jenkins - Scripted Pipeline - Input String
+unable to save register value even if the play is skipped!
+How can I test native macOS UI software in a container before deployment?
+Every jenkins build shows error: ln builds/lastSuccessfulBuild /root/.jenkins/jobs/Build/lastSuccessful failed
+Organizing the build steps on AzureDevOps
+How to completely replace master with another branch in TFS Azure Devops
+How to avoiding the clone of jobs such that existing configuration can be reused for new releases and bringing in optimal usage of Jenkins?
+KeyCloak, PrivacyIdea and Email Gateway
+How do i specify the path of a Dockerfile using Blue Ocean
+How to assign saltstack pillar values from Jenkins comma separated input parameters?
+Installing Helm charts using Terraform
+WorkItem Tracking error when performing clone operation in Azure Devops
+What is the difference between dockerd and com.docker.service in Docker for Windows?
+What are some effective questions to ask someone who is considering me as their DevOps person?
+What are your companies policies for S3 data durability?
+How to run a Windows container inside Windows Subsystem for Linux (WSL)?
+Terraform: Provide credentials for docker hub registry
+How should CI/CD deploy to production environment - copy artifacts or git pull from the server?
+Nginx routing setup within Docker container, request timing out with 502
+What options are available to report the build status of Jenkins Multi Pipeline's first branch build on k8s to bitbucket-cloud?
+In jenkins, how to re-run old builds of a job?
+Jenkins SSH connection on remote server immediately closes after login
+One Jenkinsfile or multiple?
+Terraform - referencing existing security group
+Terraform get variable from Vault
+Multiple levels of parallel stages in a Jenkins declarative pipeline
+What is a secure way for storing AWS IAM credentials?
+Docker disk space required using over 100 gigs
+How to to access one cluster from the other one in the kubernetes on the google cloud?
+What are the best practices of merging dev to master?
+git - develop base and extended feature - commits in base should reflect in extended in pull
+shell script to pass values properties file in java
+Google Cloud Registry and multiple projects
+How to use shared runner (dind) for build stage and runner with shell executor on my server for deploy stage?
+How to avoid build scripts duplication
+Can anyone explain what is happening in an Azure Devops build and release in more detail?
+How to differentiate logs on the Error Reporting in the GCloud?
+compiled opencv copy to another host
+What strategies exist to transition DB Migrations with Stored Procedures to Continuous Delivery?
+replacing values in shell script using sed
+Accessing External REST api From Wthin Kubernetes Cluster
+TravisCI build continues to fail even after changing alpine version
+How to manage 10+ team environments with Helm and Kubernetes?
+Remote Maven build server
+Can't reach by REST API one site from another which are both on the same docker container
+How to run mongoconnetor in kubernetes
+How can I change Docker Image Repo Path in Docker Registry?
+running a phpUnit test within a docker container
+Running a rollback pipeline on abort in Jenkins?
+Which option do I select for Security Group Source?
+How to track number of connections of a Meteor app in Datadog
+Copy multiple files using * wildcard from kubernetes container
+Can't access docker container from outside
+Programmatically scrape the latest version of Tomcat for an installation script
+How can I access the console of a booting EC2 instance in AWS?
+Using application config file kubernetes configmap for mongodb failed when pod is deployed
+How do you write an SLO for a service when higher reliability is needed only during special events?
+Trigger SaaS CI Build (i.e. CircleCI, AppVeyor or Travis) based upon a GitHub Release of a 3ʳᵈ Party Repository
+Docker Hub to VPS
+Azure Devops: Filter Test Projects in Nuget Build Pipeline
+SRE Role at Google
+How can I convince someone that 100% reliability is not the right target for anything?
+error validating data: ValidationError(Deployment): unknown field "spec" in
+How to segment Pods in firewall zones in bare metal Kubernetes?
+Automate Helm's tiller installation with Terraform
+How is Continuous Integration different from using git to integrate external code?
+Ansible cloudformation vs cloudformation
+Get parameters for all currently running builds of a jenkins job
+ElasticSearch Regex Query
+Best practice for Jenkins docker to deploy to other container
+External access to internet from Kubernetes Pods
+Is it allowed to remove mounted directory from inside Docker container?
+CodeDeploy with blue-green, an ASG, AND more than one TG?
+DevOps in research and science projects?
+How react server will contact node server through private IP
+How to use same Helm dependency in many charts?
+How do you hide sensitive information held in variables on a docker-compose file
+Manage private cloud resources via configuration files, what tools to use
+App engine Flexible environment - Readiness check not working properly
+Unable to validate certificate chain: cert.pem in Zimbra mail server
+Create MariaDB/MySQL HA Cluster on Kubernetes using master-master replication
+Cleanest way to prematurely exit a jenkins pipeline from inside a withEnv
+Config S3 in Halyard
+Kubernetes ServiceAccount token rotation
+Assign bug from different repo when creating a pull request
+How to secure persistent user data with docker on client location?
+How to use port 5433 with Azure managed postgres
+Structuring Ansible playbooks for low volume, purpose-built images
+How to I get a TFS CI Build to Bastion Host?
+What is DOCKER_CONTENT_TRUST flag?
+Getting rid of redundant Ansible roles
+POST larger than 400 Kilobytes payload to a container in Kubernetes fails
+Issues creating Lambda functions and stepfunctions
+GoCD build on VSTS pull request to develop
+No space left on device when running job on photon-os
+How trigger a build by a commit in a branch prefix?
+Override Ansible task parameters from role
+How to connect to host during a Docker build?
+Cross account access from ec2 to other accounts
+Ansible authorized copy from remote source to remote destination
+Elastic Beanstalk give error Root Object doesn't exist in Jenkins
+Is FaaS required to have an official "Cloud"?
+Lambda function not being invoked by SNS topic | Step Functions
+Vagrantfile order of execution problem
+Jenkins Shared lib not working properly
+How to choose appropriate number of replica sets for kubernetes
+How does an &&, || work with jenkins pipeline groovy?
+Is there a [ci skip] option in GitLab CI?
+Get vars in Jenkins Pipeline
+Possible to preferably route incoming traffic to local task(s)/container(s) on worker in a swarm cluster?
+How do I create a Docker container which just waits to be shelled into?
+Can GitHub Enterprise listen to JIRA Webhooks?
+How should I deploy my projects using Docker, Git and VPS?
+Will google cloud take money from me in this situation?
+jenkins pipeline parameters grouping
+Python Script in Jenkins
+AWS instance store volume - Create volume when instance is stopped/started thru SystemD(centos)
+TeamCity HTTP Request in the context of Kotlin DSL
+Terraform Elastic Beanstalk managing provisioned EC2 resources
+Docker image labels in fargate are not applied to containers
+Load Balancing of Jenkins Nodes without Load Balancing Plugin?
+How do I automate the process of pulling the latest code and restarting a service on git push?
+Ansible: Copying different files to different guests for use with the same role
+TFS Back-up Notifications
+ansible does not play roles and tasks
+Can I configure a swarm node to automatically pull latest images and restart containers?
+Trying to install MySQL on Docker
+Is there an exporter that monitors traffic for virtual hosts in Prometheus?
+In Azure Devops, is it possible to pass an argument that is variable on the source environment?
+Docker - Mount a volume from a container to an other (equivalent volumes_from) in docker-compose 3
+Can I contact another service during the build phase of docker-compose?
+Building ASP.NET core app with dockerfile in Jenkins
+Best Practice Authenticating Jenkins to Bitbucket to Access Team Repository
+Virtual Switching Sanity Check - BGP
+Cloudwatch alert for any new resource provisionin
+How to include releases of some repo in another GitHub repo?
+what is better between Jenkins & AWS CodeDeploy for CI/CD
+Packer and compressed ISO images
+How to shrink k8s node pool (GKE) and underlying stateful set in an orderly way
+How to deploy my Express/React app to server with docker-compose and Dockerfiles
+How can I automatically tag master branch after pull request has been rebased and merge on github?
+Securing communication between cloud VMs without private networks. Any strategy besides building own VPN? Spiped?
+Why label k8s deployment?
+How to create a load balancer for a one click deployment vm instance (e.g. LAMP stack)
+How to run/deploy devilbox (Docker image) docker-compose on GCP without a Dockerfile?
+Validating release artifact provinence
+Is there an equivilent of a Kubernetes ingress for Docker Compose?
+How to deploy Node app via Jenkins to Ubuntu(18.04)?
+How to connect to a server tunneling through multiple servers using Winscp?
+Why is IF failing with satl state file from Jenkins?
+How to install Jenkins X platform on Kubernetes
+Kubernetes multi cloud
+Is OpenStack the same type of software as Azure, AWS, etc.?
+Jenkins fails to start after restart because of google login plugin had an exception
+Get Ansible to print lines for include_role(s)
+Can Load Shared Libraries in Jenkins But Not Able to Create New Objects
+Lambda Billed Duration is taking more time
+Overview of Gitlab CI/CD process for multi-project SOA application. Releasing and Versioning
+Code review with GitLab?
+compute a default value with helm
+Where to get the --generic-ssh-key for the docker-machine create --driver generic command?
+Serverless framework: how to specify a c++ lambda function with provided deployment package
+What does the RAILS_ENV environment variable do in Ruby on Rails?
+Error with declaring volumes in Docker-compose, 'no such file or directory, open '/app/package.json'
+i have questions about docker-compose
+Using HTTPs in application vs reverse proxy
+AWS lambda: works locally but fails in deplyment
+Find appropriate AWS policy
+TFS Service hook should not fire when work item is updated via REST API
+DevOps Newbie - How to automate windows infrastructure deployment?
+Unable to run playbooks using Ansible best practices layout
+AWS Automation Document Run Steps Against Different Servers Targeted By Tag
+Create a Cronjob in Spinnaker
+How to do CD when developing a CMS with multiple installations
+Gitlab - Is there any reason not to default enable 'Allow Users to Request Access' for Projects?
+Why does Docker fail to start on AWS ECS instances. ECS stateful instance fails initialization. ECS stateful instance doesn't join the ECS cluster
+How to add customer headers to Openshift Web Console HTTP responses?
+Docker not exposing port on mojave mac
+Installing azcopy in Gitlab Runner (Alpine Linux)
+Can I keep a container started with --rm option?
+passing args to shell module in Ansible adhoc command
+Environment variables inside the container during use "exec"
+File not uploading properly in Azure using Postman
+Web dashboard with customizable actions (handles, levers, actionable buttons)
+How do I make NFS volumes reliable in Docker?
+Understanding Vagrant virtual machine import
+Update ECS task definition with new image from ECR
+Optimally handling async requests
+Is it possible to locate the temp keypair generated by Packer?
+Configuration Management Tools and Rollbacks / Approaching Immutable Infrastructure
+Container unable to connect to external Oracle DB only on specific host!
+How do you monitor status and view logs for multiple distributed java applications at a centralized place?
+Persisting data in docker context
+chromdriver issue docker and ruby on rails with selenium/standalone-chrome-debug
+Terraform - failing download modules in too long paths
+Using password protected ssh keys
+What are the levels of monitoring and their importance?
+Docker Hub Build triggers with POST URL
+Which system user should I use to run Postgres?
+how to install docker-php-ext-install mssql
+GitHub and Travis integration broke down for a branch
+How do I get the hosts from a specific section of an Ansible `hosts` file in a Jinja2 Template
+How to use stored certificate in Jenkins declarative pipeline?
+How does Joyent ContainerPilot stand vs Kubernetes?
+Testing R package on Travis fails because of TeXLive incompatible versions
+Travis tests for R package fail with little explanation
+AWS Offsite or cross-account RDS (mysql) backups
+How do -dev apk packages differ on Alpine for the purposes of creating docker images?
+How to query all resources of specific type in terraform?
+Connect two PCs to Azure vnet then RDP from one to the other
+Docker Node.js Error: Cannot find module
+Download Google Cloud Bucket as a file (zip)
+Is there any Selenium-like software for executables?
+use different kubectl configs in different terminal sessions
+Pre-install Jenkins plugins using Docker image
+AWS CodePipeline with Artifactory
+Transferring Azure subscription to another account
+Set environment variables then run script in Jenkins Scripted Pipeline
+how to run an Ansible command for specific number of hosts
+How to trigger Jenkins Pipeline by push in specific branch in Bitbucket?
+helm - cannot get resource "namespaces" in API group
+how to give a user privilege to run Ansible commands or just an specific tag?
+Docker NGINX issue -- unable to edit nginx.conf
+Deis Workflow Alternative
+Azure virtual machine stalls in R due to parallel package
+How to approach dynamic environments per Git feature branch workflow?
+Kubernetes scheduler trying to assign pods to node that no longer exists
+jar file is not displaying in docker container
+Jenkins constantly loses build history
+Ansible playbook fails with: no test named 'success'
+Problems mounting GlusterFS when starting up pod (in Kubernetes)
+Gitflow with pull request or pull request
+Is there a way to acquire metadata about an Amazon RDS database instance using only SQL?
+Is there a DevOps methodology aimed towards academia and students?
+Jenkins run build in docker on server (withDockerServer not working)
+Preventing accidental production deployments
+Is there a way to map ports two docker container
+What is the parent linux image of golang:1.7
+How to make PM2 as a autostart service?
+Can not run Ansible command with another user
+Jenkins pipeline lock resources
+redirect all of commands output in a file on ansible server
+How to keep previous containers on docker-compose up?
+Restart service in a docker container
+How to pull beats from logstash?
+What options are available to get a value that is associated to a key in yaml?
+Why is "service fabric mesh" the largest single cost item in my Azure subscription while I am not aware I am using that service?
+Jenkins Tool vs Slave local tool
+Automatically write new bash history to change-log file
+Scheduling Selenium Tasks
+What package manager does the gitlab docker CI image use?
+Auto Deploy after push to git
+Authentication in Azure Point-to-site VPN
+Hide a custom field from work item layout and set its default value
+Does Docker Swarm have anything comparable to StatefulSets?
+Build custom Linux distro ISOs with Docker?
+Construct kube/config for kubectl from ca.crt, namespace, serviceAccount token in the pod
+How to run a build from a specific old tag in gitlab ci?
+Ansible to check version of software on remote hosts before install/upgrade
+CI/CD pipelines Azure devops automatic merge after deploy release
+Performance test - simulate multiple users activity through RobotFramework on AWS
+How to launch a docker container from within a GitLab Shell runner?
+ElasticBeanstalk - best way to keep EC2 instances stopped at specific time frames?
+How to remove the --config ***** option on Jenkins with mercurial plugin?
+How to automate the process of patching Jenkins Slave instances in AWS
+ASP.NET Core appsettings.json secrets values transformation per environment using Gitlab
+Inspecting UDP GELF traffic with tshark
+How to write a dynamic declarative pipeline that contains sequential job inside parallel job
+How to solve 'upstream connect error or disconnect/reset before headers. reset reason: connection termination' in Istio?
+AWS Site crashes every few hours
+What are sources for configuration management best practices?
+How to have kubernetes (re)build containers on deployment similar to openshifts ImageStream
+Why can I connect to my docker socket.io server with http but not directly to the socket?
+Automated testing of machines built using Vagrant+Ansible
+Why etcd wouldn't scale down when nodes lost in the cluster
+How to use in Chef different attributes values for different nodes
+connect_write timeout - Fluentbit (Processor), Fluentd (Aggregator) and Elasticsearch in Kubernetes
+Why is Prometheus not a good choice for data with high cardinality?
+Docker-compose for tomcat, nginx and node webapp does not connect to backend
+How do you monitor and alert on thrashing containers?
+Terraform aws_ecr_repository resource always attempts to destroy
+Install and configure libreoffice online docker image on ubuntu 16
+Ansible, use restrictive file perms if vault secrets in file
+How do i configure my docker services to communicate with one another in a swarm?
+Ansible - stop when host is success, exit with IP
+What is the lowest meaningful boundary for time required for Ubuntu network installation?
+Unable to create container after installing mysql and phpmyadmin | Ubuntu
+How to access VSTS (Azure DevOps) Service Endpoint through PowerShell?
+Why many companies prefer Jenkins than Aws CodePipeline?
+How to send Rocket.Chat notifications when Concourse jobs fail
+run ansible command as another user using their ssh key
+Artifacts mentioned in secondary-artifacts section not getting uploaded to s3 bucket
+How to add status flags or manual steps to CI/CD process with GitLab Pipelines
+Spot block vs reserved instances
+Jenkins plugin site to ignore certificates
+Host a docker registry native
+Increase Kubernetes Nginx Ingress limits for large images in Docker registry
+Failed to start Container after reboot
+Interacting with a Trident container (NetApp) via CLI within a Openshift/Kubernetes cluster?
+Azure DevOps extract unique visitors
+What does 1 vcpu mean precisely/exactly?
+Is there any way of getting code coverage with molecule?
+What artifact managers are available in GCP?
+How to keep polling GitHub repository and get commits by it's messages on a regular interval using Jenkins?
+Make container start if docker daemon or host system is restarted
+How to perform low-level inspecting of a Docker network traffic?
+How to override default aws region credentials for Terraform?
+Kubernetes metric or command to show liveness delay time (app startup time)
+Reset time vs alerting window size in alerting strategies for SLOs
+LAMP in docker must be multiple containers or one?
+How can I expose port 3389 using a secure approach
+Using the terraform github provider on an existing github organization
+Scanning CoreOS for CVEs
+Add mapping ip and host into /etc/hosts with docker
+limit prometheus alert to kubernetes nodes of a specific label
+How to integrate firebase functions into devops pipeline
+Jenkins Pipeline milestone unexpected behavior
+How to download a VM image from GCP?
+GCE metadata not defined on Travis CI
+Google Cloud search resources in organizations
+What is the difference between RUN and CMD in a Dockerfile?
+Why isn't my S3 Cross Region Replication working for some files?
+GitHub Payload in Jenkins
+Deploying Anchore to Kubernetes Cluster using Helm
+Building a CI/CD pipeline on GCP
+How to get dependency from file share in Azure DevOps pipeline
+What is the optimal size of a Jenkins Pipeline Stage?
+How to downgrade Jinja for Ansible?
+WebPack 4 command hangs when deploying to GAE (Google App Engine Flexible)
+Update Service Hooks in TFS2015 through Jenkins Job
+Mounting ssh keys on ephemeral container from a Windows host
+Kubeadm ignores podSubnet from configfile
+No swap limit support - docker engine
+git deploy to specific Azure app service slot
+Certbot installation fails inside Docker
+Set global repository access to GitLab via GitLab connections and Gitlab OAuth
+How to cache node_modules folder when using Jenkins Multibranch Pipeline
+Can't get P3 spot instance on AWS
+Can we reuse Variables across variable groups in Azure DevOps?
+Deploying a pod per REST request?
+How to get Github username variable in Azure DevOps build pipeline?
+AWS IAM policy and reduce access to only the latest services used
+Jenkins Webhook Management
+Ansible equivalent of below sed command
+Azure DevOps Service Connecion does not exist or has not been authorized for use
+How to scale the control plane of a service mesh?
+Block binaries from Git
+Deploy desktop application in Azure DevOps
+GitLab CI/CD job without pulling LFS files?
+Does K8s ClusterIP service supports custom timeout?
+Docker fails to mount volume inside Jenkins scripted pipeline
+Equivalent of GitLab's "before_script" for Jenkins?
+How to manage the database in an environment per branch, creating a new instance per branch is the best approach?
+Using the builded binary of a docker image in another docker image
+Terraform: Route53, LB and CDN interdependencies
+Terraform | The "count" object can be used only in "resource" and "data" blocks,
+How do I specify a database name for a SQL DB Deploy task?
+Accessing Azure Cosmos from P2S VPN into Azure
+Issues trying to run multiple php-fpm containers for different environments for the same application behind a traefik proxy
+Why is docker container recreated
+Task to delete users without mount points in /home (using register and when)
+Harbor replication to docker.io
+What is the advantage of using Prometheus over ingesting metrics using logs?
+How to build asp core 2.2 linux image on Hosted Windows 2019 with VS2019?
+kubernetes - custom downscale stabilization delay per Horizontal Pod Autoscaler
+Running Protractor tests in docker through teamcity
+Giitea Webhook x509: certificate signed by unknown authority
+Why Docker cant launch container?
+Jenkins Kubernetes agent: multiple containers on dynamic agent pod - jnlp connection refused
+What is the most common server permission policy for web application deployment?
+Video Wall Benefits and Considerations
+View logrotated log continuously
+Commit messages from Submodules to Jenkins Change Log
+How to forcibly remove the resource created by the broken module?
+How can we automatically transition Epic Jiras based on the transitions of underlying Jiras?
+How to manage volumes correctly with CI/CD workflow with nginx and laravel
+How to trim spaces for parameter value in jenkins pipeline?
+Unable to parse YAML: mapping values are not allowed here
+kubernetes service's dns not resolved inside cluster
+How can I install Jenkins on Azure?
+Jfrog Xray API - dependency graph
+Google Container Registry giving 'Access Denied' when trying to push Docker container
+Resource Group Deployment never ends
+Using Amazon VPC provided DNS trough AWS Site-to-Site VPN
+CI platforms versus simple git hooks
+What options are available to encrypt the content of git repositories?
+CloudWatch Math queue size diff (processed count) 5 min average
+Build one time, deploy multiple times. How does this apply to configuration?
+How to enable "Detect Drift" feature in AWS Cloudformation through the Cloudformation Templates or other Automation process?
+Jenkins: Managing Multiple Environment Configuration and Deployments
+How to get into an App Container Manually with Garden-RunC Backend
+Docker COPY symlinks on windows replaces slashes to backslashes
+Docker ps shows a container that doesn't exist anymore
+How to configure Helm Feed on octopus deploy
+What are best practices for setting SLOs for a new service?
+Jenkins won't substitute variables when trying to check out from perforce
+Store named volumes on another drive
+Purchased AWS reserved instance in wrong region
+Hook execution failed Net::ReadTimeout when trying to clone a repository
+Jenkins pipeline: do "Declarative: Checkout SCM" step only
+Ruby and Rest service in Docker
+kubernetes statefulset - communicate addresses of other pods when pod launches?
+Facing issue while using “Publish Over CIFS Plugin” jenkins plugin?
+Amazon S3 bucket does not redirect folder URLs to index.html
+Distributed git directory shared between directories, but with different branch on each directory
+Managing Custom Maven Dependencies in JFrog
+Iterating through multiple list variables within a dynamic block in Terraform .12
+Ansible nested playbooks with variables
+Ansible: Exclude a parameter if variable is not set
+Install docker on Windows Server 2016 fails due to SHA256
+Accessing TPM from inside a Docker Container
+Load Balancers with different droplets
+Azure SQL Server Configuration Management
+Service account permissions error when provisioning instance group from template
+Remove members from Google bucket policy
+How can I 'aws s3 sync' two buckets, which are located in different accounts
+Python Azure Function using docker stopped working displaying error
+How to determine mappings between Azure VMs and Azure storage accounts
+What is the performance different running docker on Windows versus Linux?
+"Error: forwarding ports: Upgrade request required" Error in helm of a kubernetes cluster
+"NetworkPlugin cni failed to set up pod" error when deploying Pod, while Deployment work
+How to configure bitbucket pipeline and deploy to alibaba clouds
+Performance testing as part of Behat browser testing for Drupal in Drone CI
+Docker instance of Gitlab EE Initial Configuration will not start
+docker mysql container not running suddenly
+Problem with build jenkins on Dokcer Container with Ubuntu
+Jenkinsfile for monorepo & monobranch
+Azure DevOps Server deleted builds don't free up space
+Azure Security Center with Ubuntu 19
+npm not found but installed from the shell script file in Dockerfile
+Why do many pods fail to communicate with the master
+Cloudfront for ELB, automatic redirection
+Unit Test AWS Glue job in CodePipeline
+packer vsphere-template error uploading virtual machine
+How to view statistics on code churn per developer and commit data using Power BI?
+Proper way to setup multiple Apache web-servers behind a load-balancer?
+How to get GitLab on the cloud to run command with alias specified in the Dockerfile?
+Why does logstash not output to the correct elasticsearch index with date?
+Volumes Not Mounting with Docker-Compose
+Permission denied connecting to Docker daemon socket under Jenkins with Kubernetes Plugin
+Limit on Jenkins for 1. Builds per hour OR 2. Number of uploads per hour on Nexus from Jenkins
+docker-letsencrypt-nginx-proxy-companion certs for non-docker servers
+How to fail stack when EC2 spot is refused?
+Kanban Board: customising number of fields displayed on the board items for individual user preference
+How Build Retention Policy Works in VSTS/Azure DevOps Server 2019 using Build Definitions
+Can "When" like keyword be used in scripted pipeline?
+Jenkins Rerun Old Build with Specific Commit
+Azure monitor and deployment slots
+Traverse nested dictionary with keeping the keys in ansible
+Docker container is running but when using curl not accessible
+Alerts for instance replacement by EC2
+What is the need of plugins in Jenkins (Sonarqube)
+What is a reliable process for continuous load testing?
+Gitlab + Kubernetes on GCE + DIND - how to get access to docker subsystem in the cluster?
+Is a ReplicaSet pulling a fresh image at every spin up?
+Are using TestContainers safe for integration tests?
+Trigger a GitlabCI pipeline after it detects a change via a curl callback
+How to pass Gitlab env var with sensitive characters to bash script?
+Trigger cicd pipeline after merge request accept on master, Gitlab
+Self-hosted alternatives to SonarQube?
+Is it possible to mount an s3 bucket as a point in a docker container?
+Azure ARM template limits - what is a template expression
+Run Docker Containers without having a logged in User on Windows
+Building .Net apps outside Docker?
+Maintaining constant VM number over multiple datacenters
+Artifactory - Open Source License Question
+How to handle different credentials in continuous integration?
+How can Bitbucket webhooks be invoked after they are deleted?
+Which Users Should I Create With Terraform And Which With Ansible?
+copy contents of file on ansible server to another file on remote servers
+Unable to import pyodbc in an Azure function
+How to resolve the host operating system 'localhost' address from within a container?
+Conditionally stopping SQL replication during deployment
+Running services on different ports in development environment and production environment
+Azure DevOps and private Docker registry
+TeamCity web interface not accessible on Chrome
+kube-controller-manager unable to communicate with etcd
+Where do I start learning DevOps?
+Custom metric for a Windows process on a Windows ec2 instance
+Kubernetes UDP Ingress options
+run docker-compose in context of other directory (docker-compose.yml is in other directory)
+How do I configure Jenkins to trigger on a pull request based on the Git branch's name?
+Puppet cannot find epp template
+How to make sure the storage of an AWS isn't accessible without a private ssh key?
+Acquiring the names of docker containers when microservices register to the Eureka server
+Automated docker builds with private bitbucket server
+What networking tool can help me install windows on all linux machines simultaneously?
+Docker on Windows: Write directly to host's EventLog?
+GIT Monorepo with enterprise Jenkins
+Get available CIDRs from existing VPC
+Command returns 0.0.0.0 for IP but only for leader
+When setting up HashiCorp Vault in HA mode, is it normal that you have to unseal each Vault node?
+What are some reasons for using an Ansible role for Certbot vs. Ansible's native `acme_certificate` module?
+Git-based CI/CD Pipeline for Monorepo
+Sending Exceptions to Elastic Stack via REST
+reboot server during Ansible tasks
+What is the correct regulair expression to only show master builds on a Jenkins multibranch monitor?
+Confluent: Schema registry terminated ( logs inside )
+Git Remote Access in Azure Pipelines, possible?
+Expanding recipes via the Chef REST API
+Migrating from TFVS to GIT using GIT-TFS
+s3 static hosting not redirecting my request
+Rancher Pipeline: How to pass environment variables from one stage to another
+How to use comments to trigger rebuilds of Bitbucket pull-requests on Jenkins multi-branch pipeline
+Mobile CI: Versioning and Tracking Builds in JIRA
+Installing Composer Fails in Azure
+using copy module with wildcards
+DeamonSet pods priority
+What considerations should be taken into account for a good log file format?
+Kubernetes local-path-provisioner with better readable paths instead of random ids on PVs
+Persistent storageClass for GitLab on Kubernetes
+Ansible fetch all vars files from a directory to generate a combined vars file
+Prevent misspelled variables passed to Ansible roles
+Is scrum or kanban really useful for SRE teams?
+Should developers and SREs use the same monitoring set up?
+How do I trigger a job on rolling update in kubernetes
+Can't connect to Nexus Docker repos with HTTPS connectors
+Storing Code Signing Certificate
+AWS API Gateway not transforming a path sent to Lambda
+multiple projects per EC2 with Load Balancers
+Aws autoscaling group in private subnet, private communication?
+Debug Docker caching issues
+Ansible on Ubuntu Core
+How to manage Hashicorp Vault patching in AWS?
+What is alert fatigue?
+docker-compose environment variable which is not used is giving null(str) instead of None
+How to list containers that are using redis/ubuntu image in Docker
+Google cloud container running 40x slower then on aws
+Restrict user logon in Jenkins
+AWS Cloudformation GitHub to S3 Bucket Pipeline
+Which AMI was my EC2 instance created from?
+Not possible to ping or reach a container under its local IP
+Dockerfile "ADD" equivalent for Packer
+Container runtime Vs orchestrator
+Docker Compose for Multicontainer WordPress
+How to get Memory Usage from Windows Server 2012 R2 in OpenStack
+Packer : write output per builder into separate log files
+How to automatically update Docker containers in development?
+Terraform destroys and creates new AWS resources
+Infinite builds in Jenkins
+Gitlab CI/CD fails to build docker image
+CICD using jenkins which is installed in other machine
+AWS beanstalk deployment policy
+Problem with logging in docker when using fluentd for logging of three flask apps running in a docker network behind an nginx
+High-level initialization/deployment options
+how to probe all running aws ec2 instances and their sec groups, etc to generate templates
+Multiple VPC with overlapping CIDR
+Can a server used for GitLab runners be used as a deployment server?
+How to add my own columns to Jenkin's Dashboard
+cannot import OpenCV in a Docker container in Raspberry Pi
+How to get the AWS Access key of an already created Access ID
+How to clean up old images in docker registry with jenkins
+Does Tomcat Realm + Redis support Cluster Environment?
+Ansible - when statement task always return false value
+Running COM object from Jenkins as a Windows service
+Fluentd log shipment. Index assigning
+Azure Service SLA Violation Report
+Securely saving AZURE_STORAGE_KEY and storage account name in Linux systems
+aws - Connect two private subnets?
+Hacking attempts to our server - what does this code do?
+Gitlab CI\CD Error: Failed to create container volume for /builds/root Unable to load image
+Docker, binded volume track/log synching
+Reducing number of lines in log file
+Alternative to puppet "if defined(...)" that does not depend on evaluation order
+Why does chown not work in RUN command in Docker?
+xwiki (docker) installation on synology with 500 – Internal Server Error
+How do I run a SonarQube Google Cloud integration?
+API Gateway - How Deploy API works?
+How to parse command output (docker log) through goaccess?
+Pushing code changes from Pipeline back to repo/branch, using Git!
+Jira Server 8.3 + PagerDuty
+Why docker define invalid IP address of service?
+Passing arguments to the same container that admits two different arguments in jar file to docker-compose.yml
+Pushing to bitbucket from within container using ssh in Jenkins declarative pipeline
+Jenkins Email notification for multiple builds
+How do multi-cloud organizations handle DNS public zones?
+Scale number of pods in OpenShift from oc command line
+Prevent replay of old builds
+Execute a step after an approval step, using "Promoted Builds Plugin"
+How to make an AWS S3 bucket accessible over HTTP?
+IOS_Command Module - Delayed Prompt Issue (Cisco 3850 - IOS XE)
+Azure Standard Load Balancer HTTP Probe timeout
+How do I get more control over the NodePorts my Service assigns to my Deployment?
+Ansible ec2_vpc_net and ec2_vpc_subnet - where to set subnet default public ip
+Migrating from TFS 2015 to DevOps Server 2019
+How to calculate burn rate for SLOs
+Route53 Routing Policies - Best Policy for US-based Ecommerce?
+Is it possible to pass environment variables to multibranch pipeline job in a time of generating it via DSL?
+Why access is denied by GitHub when docker-compose is run to start docker containers?
+CI pipelines, concurrency and build results possibly overwriting each-other
+How to avoid a high number of requests for avoiding Amazon AWS EC2 instance AutoScalin?
+GitLab test reports are failing on xml parsing
+Kernel random numbers generator fails on VMWare in a Debian VM - "Cannot find a hardware RNG device to use"
+Restore Github organization account
+Waiting for privilege escalation prompt
+Can/should I use Jenkins to monitor whether a website is up and send out an email if it's down?
+Terraform | Upgrade to 0.12 error Reference to "count" in non-counted context
+Travis CI R CMD check error: could not find function "stde"
+What software ihandles shipping to ElasticSearch the standard output of a .NET Core web application running in a container?
+CORS and subdomains - do subdomains matter?
+What's are the advantages of using CloudBees Core over Jenkins?
+Add Artifactory License Property for Closed Source software
+initContainer with huge size software like magento2
+Recommended resource configuration for Rails on Kubernetes
+MSSQL and AD in a Docker Container
+Microservices Deployment Manager
+Jenkins pipeline running using containers on an orchestration platform
+Is there a way to set build parameters outside of the pipeline directive?
+How to execute a Jenkins job until the build is green
+Understanding why Docker container would lose access to a host through VPN activation
+Git Release branching strategy for Continuous integration and deployment
+Is it safe to run "Repair - Reconcile component database from blob store job" in Nexus 3
+Use cURL with Kerberos to auth on Keycloak
+Problem with Vagrant : Nothing happens on vagrant up command
+DNS name creation with VPC and Route 53 DNS name difference?
+Terraform | After upgrading to 0.12 receive a lots of error "unsupported value for "%s" at 0: string required."
+How to create ALB that can handle traffic on 2 ports
+Pooled Build Server and Multibranch development to stabilize the trunk?
+ERR_SSL_PROTOCOL_ERROR signin.aws.amazon.com
+DataDog API - Get Docker Container Stats
+How to run WSGI Python server without Apache or NGINX
+Triggering a SNS notification when an object is accessed (downloaded) in AWS S3
+GKE ingress multipath not working
+How to manage services inside the container
+Error passing arguments to ansible playbook
+How to build chef-server package from source code
+Docker compose volume syntax valid for Windows and Linux
+How to get started with CloudFormation?
+What is the ideal composition of a devops team?
+How can I find the cost of an already removed resource on Azure?
+Install phpredis version 5.0.2 on Elastic Beanstalk doesn't work to me, what the reason?
+Deploy Vm Vmware with simple Ansible playbook
+ansible error 'first argument must be string or compiled pattern'
+Per machine credentials for privileges escalation using AWX
+Looking for good books on Immutable Infrastructure
+How to build Java project on existing virtual machine in Azure?
+Obtaining a list of diffed files in Jenkins multibranch pipeline
+Cross-Platform Deployment Tasks in Bamboo
+Kubernetes - How to show all service accounts
+Multi-branch release pipeline in Azure Devops for multiple artifact triggers
+Using serverless, how can I deploy multiple stages with different api keys for each stage on a single AWS account?
+How to mitigate "[DEPRECATION NOTICE] registry v2 schema1 support will be removed in an upcoming release" in quay.io?
+How do I access the web UI for Kubernetes clustered that were created via EKS?
+Should I use release branch to push my changes?
+How do I install kubeadm on RHEL 8.x?
+How to SSH from Jenkins node to Jenkins node safely?
+Create multiple S3 buckets at once
+Ad-hoc processing on immutable instances
+Manage build dependencies in GitLab but not through triggers
+Helm - Installing stable/elastic-stack with version 7.3.0
+What should we look for in a time tracking solution?
+Terraform | Error "transport is closing" when "terraform apply" after upgrading to 0.12
+Why does docker not restart on a stack trace?
+Jenkins multi branch pipeline configuration for bitbucket
+Deploying Jupyterlab Helm with no Exernal IP in load balancer
